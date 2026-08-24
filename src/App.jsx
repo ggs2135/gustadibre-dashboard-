@@ -1,9 +1,9 @@
-import React, { useState, useEffect, useCallback } from "react";
+import React, { useState, useEffect, useCallback, useMemo } from "react";
 
 // ── Design tokens ─────────────────────────────────────────────
 // Minimal, calm palette. One accent (turtle teal) carries the brand;
 // category colors are softened variants of the same family so nothing shouts.
-const C = {
+const DARK = {
   bg: "#10161A",
   panel: "#161E22",
   panelEdge: "#212B30",
@@ -14,11 +14,22 @@ const C = {
   line: "#232E33",
 };
 
+const LIGHT = {
+  bg: "#FAFAF7",
+  panel: "#FFFFFF",
+  panelEdge: "#E7E4DD",
+  ink: "#1B2426",
+  dim: "#5B6A6E",
+  faint: "#8B979A",
+  accent: "#1F8577",
+  line: "#E4E1D9",
+};
+
 const CATEGORIES = [
   { id: "all", label: "All" },
   { id: "supply", label: "Critical Minerals & Supply", color: "#E0A458" },
   { id: "funding", label: "Funding & Investment", color: "#8C7AE6" },
-  { id: "instrumentation", label: "Instrumentation & Lab Tech", color: C.accent },
+  { id: "instrumentation", label: "Instrumentation & Lab Tech" }, // falls back to accent
   { id: "economic", label: "Markets & Economics", color: "#D97757" },
   { id: "science", label: "Science & Recovery", color: "#6FBF73" },
 ];
@@ -34,6 +45,8 @@ const MINERAL_TAGS = [
 // The frontend never calls the Anthropic API directly.
 const NEWS_URL = "./news.json";
 
+const THEME_KEY = "gd-theme";
+
 function formatGeneratedAt(iso) {
   if (!iso) return "";
   try {
@@ -46,7 +59,7 @@ function formatGeneratedAt(iso) {
   }
 }
 
-function TurtleIcon({ size = 32, color = C.accent }) {
+function TurtleIcon({ size = 32, color, bg }) {
   return (
     <svg width={size} height={size} viewBox="0 0 100 72" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
       <ellipse cx="30" cy="14" rx="10" ry="7" fill={color} />
@@ -56,13 +69,52 @@ function TurtleIcon({ size = 32, color = C.accent }) {
       <path d="M96 36 L86 30 L86 42 Z" fill={color} />
       <circle cx="14" cy="36" r="12" fill={color} />
       <ellipse cx="58" cy="36" rx="34" ry="24" fill={color} />
-      <path d="M58 16 A24 20 0 0 0 58 56" stroke={C.bg} strokeWidth="2.5" fill="none" opacity="0.35" />
-      <path d="M40 20 L52 30 M76 20 L64 30 M40 52 L52 42 M76 52 L64 42" stroke={C.bg} strokeWidth="2.5" strokeLinecap="round" opacity="0.35" />
+      <path d="M58 16 A24 20 0 0 0 58 56" stroke={bg} strokeWidth="2.5" fill="none" opacity="0.35" />
+      <path d="M40 20 L52 30 M76 20 L64 30 M40 52 L52 42 M76 52 L64 42" stroke={bg} strokeWidth="2.5" strokeLinecap="round" opacity="0.35" />
     </svg>
   );
 }
 
+function SunIcon({ size = 15 }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" aria-hidden="true">
+      <circle cx="12" cy="12" r="4.5" />
+      <path d="M12 2v2.5M12 19.5V22M4.2 4.2l1.8 1.8M18 18l1.8 1.8M2 12h2.5M19.5 12H22M4.2 19.8l1.8-1.8M18 6l1.8-1.8" />
+    </svg>
+  );
+}
+
+function MoonIcon({ size = 15 }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+      <path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11Z" />
+    </svg>
+  );
+}
+
+function useTheme() {
+  const [theme, setTheme] = useState(() => {
+    try {
+      const saved = localStorage.getItem(THEME_KEY);
+      if (saved === "light" || saved === "dark") return saved;
+    } catch { /* localStorage unavailable */ }
+    if (typeof window !== "undefined" && window.matchMedia) {
+      return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    }
+    return "dark";
+  });
+
+  useEffect(() => {
+    try { localStorage.setItem(THEME_KEY, theme); } catch { /* localStorage unavailable */ }
+  }, [theme]);
+
+  return [theme, setTheme];
+}
+
 export default function GustaDibreDashboard() {
+  const [theme, setTheme] = useTheme();
+  const C = useMemo(() => (theme === "light" ? LIGHT : DARK), [theme]);
+
   const [items, setItems] = useState([]);
   const [generatedAt, setGeneratedAt] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -111,9 +163,8 @@ export default function GustaDibreDashboard() {
       <style>{`
         * { box-sizing: border-box; }
         .cm-mono { font-family: 'SF Mono','Menlo','Consolas',monospace; }
-        .cm-chip { cursor:pointer; transition: background .15s ease, color .15s ease; }
         .cm-card { transition: border-color .15s ease, transform .15s ease, box-shadow .15s ease; }
-        .cm-card:hover { border-color:${C.accent}; transform: translateY(-1px); box-shadow: 0 4px 16px rgba(0,0,0,0.25); }
+        .cm-card:hover { border-color:${C.accent}; transform: translateY(-1px); box-shadow: 0 4px 16px rgba(0,0,0,0.18); }
         .cm-btn { cursor:pointer; transition: all .15s ease; }
         .cm-btn:hover { background:${C.accent}; color:${C.bg}; border-color:${C.accent}; }
         @keyframes pulse { 0%,100%{opacity:.35} 50%{opacity:.9} }
@@ -131,7 +182,7 @@ export default function GustaDibreDashboard() {
             alignItems: "center", flexWrap: "wrap", gap: 16,
           }}>
             <div style={{ display: "flex", alignItems: "center", gap: 14 }}>
-              <TurtleIcon size={40} />
+              <TurtleIcon size={40} color={C.accent} bg={C.bg} />
               <div>
                 <h1 className="cm-title" style={{
                   margin: 0, fontSize: 28, fontWeight: 700, lineHeight: 1.15,
@@ -144,18 +195,33 @@ export default function GustaDibreDashboard() {
                 </div>
               </div>
             </div>
-            <button
-              onClick={load}
-              className="cm-btn cm-mono"
-              style={{
-                background: "transparent", color: C.dim,
-                border: `1px solid ${C.line}`, borderRadius: 6,
-                padding: "8px 14px", fontSize: 11, letterSpacing: "0.08em",
-                textTransform: "uppercase", whiteSpace: "nowrap",
-              }}
-            >
-              ↻ Refresh
-            </button>
+            <div style={{ display: "flex", gap: 8 }}>
+              <button
+                onClick={() => setTheme((t) => (t === "dark" ? "light" : "dark"))}
+                className="cm-btn"
+                aria-label={theme === "dark" ? "Switch to day mode" : "Switch to night mode"}
+                title={theme === "dark" ? "Switch to day mode" : "Switch to night mode"}
+                style={{
+                  background: "transparent", color: C.dim,
+                  border: `1px solid ${C.line}`, borderRadius: 6,
+                  width: 34, height: 34, display: "flex", alignItems: "center", justifyContent: "center",
+                }}
+              >
+                {theme === "dark" ? <SunIcon /> : <MoonIcon />}
+              </button>
+              <button
+                onClick={load}
+                className="cm-btn cm-mono"
+                style={{
+                  background: "transparent", color: C.dim,
+                  border: `1px solid ${C.line}`, borderRadius: 6,
+                  padding: "8px 14px", fontSize: 11, letterSpacing: "0.08em",
+                  textTransform: "uppercase", whiteSpace: "nowrap",
+                }}
+              >
+                ↻ Refresh
+              </button>
+            </div>
           </div>
           <div className="cm-mono" style={{ color: C.faint, fontSize: 12, marginTop: 16 }}>
             {generatedAt ? `Updated ${formatGeneratedAt(generatedAt)}` : "Awaiting first briefing"} · assembled daily
@@ -163,48 +229,39 @@ export default function GustaDibreDashboard() {
         </header>
 
         {/* Filters */}
-        <div style={{ display: "flex", gap: 8, flexWrap: "wrap", margin: "24px 0 12px" }}>
-          {CATEGORIES.map((c) => {
-            const on = active === c.id;
-            return (
-              <button
-                key={c.id}
-                onClick={() => setActive(c.id)}
-                className="cm-chip"
-                style={{
-                  background: on ? (c.color || C.accent) : C.panel,
-                  color: on ? C.bg : C.dim,
-                  border: "none", borderRadius: 20, padding: "7px 14px", fontSize: 13,
-                  fontWeight: on ? 600 : 400,
-                }}
-              >
-                {c.label}
-              </button>
-            );
-          })}
-        </div>
+        <div style={{ display: "flex", gap: 10, flexWrap: "wrap", margin: "24px 0 28px" }}>
+          <select
+            value={active}
+            onChange={(e) => setActive(e.target.value)}
+            className="cm-mono"
+            style={{
+              background: C.panel, color: active !== "all" ? C.ink : C.faint,
+              border: `1px solid ${active !== "all" ? C.accent : C.line}`,
+              borderRadius: 8, padding: "8px 12px", fontSize: 12.5,
+              letterSpacing: "0.02em", cursor: "pointer",
+            }}
+          >
+            {CATEGORIES.map((c) => (
+              <option key={c.id} value={c.id}>{c.id === "all" ? "All categories" : c.label}</option>
+            ))}
+          </select>
 
-        {/* Mineral tag row */}
-        <div style={{ display: "flex", gap: 6, flexWrap: "wrap", marginBottom: 28 }}>
-          {MINERAL_TAGS.map((t) => {
-            const on = tag === t;
-            return (
-              <button
-                key={t}
-                onClick={() => setTag(on ? null : t)}
-                className="cm-chip cm-mono"
-                style={{
-                  background: on ? C.accent : "transparent",
-                  color: on ? C.bg : C.faint,
-                  border: `1px solid ${on ? C.accent : C.line}`,
-                  borderRadius: 12, padding: "3px 9px", fontSize: 10.5,
-                  letterSpacing: "0.02em",
-                }}
-              >
-                {t}
-              </button>
-            );
-          })}
+          <select
+            value={tag || ""}
+            onChange={(e) => setTag(e.target.value || null)}
+            className="cm-mono"
+            style={{
+              background: C.panel, color: tag ? C.ink : C.faint,
+              border: `1px solid ${tag ? C.accent : C.line}`,
+              borderRadius: 8, padding: "8px 12px", fontSize: 12.5,
+              letterSpacing: "0.02em", cursor: "pointer",
+            }}
+          >
+            <option value="">All minerals & topics</option>
+            {MINERAL_TAGS.map((t) => (
+              <option key={t} value={t}>{t}</option>
+            ))}
+          </select>
         </div>
 
         {/* Body */}
@@ -321,7 +378,7 @@ export default function GustaDibreDashboard() {
         <div
           onClick={() => setAsked(null)}
           style={{
-            position: "fixed", inset: 0, background: "rgba(6,8,11,0.72)",
+            position: "fixed", inset: 0, background: "rgba(6,8,11,0.6)",
             display: "flex", justifyContent: "flex-end", zIndex: 50,
           }}
         >
@@ -330,7 +387,7 @@ export default function GustaDibreDashboard() {
             style={{
               background: C.panel, borderLeft: `1px solid ${C.line}`,
               width: "min(440px, 92vw)", height: "100%", padding: "28px 26px",
-              overflowY: "auto",
+              overflowY: "auto", color: C.ink,
             }}
           >
             <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", gap: 12 }}>
