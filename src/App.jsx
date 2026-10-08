@@ -121,7 +121,6 @@ export default function GustaDibreDashboard() {
   const [error, setError] = useState(null);
   const [active, setActive] = useState("all");
   const [tag, setTag] = useState(null);
-  const [asked, setAsked] = useState(null); // "go deeper" panel
 
   const load = useCallback(async () => {
     setLoading(true);
@@ -341,19 +340,21 @@ export default function GustaDibreDashboard() {
                     </span>
                   ))}
                 </div>
-                {it.deepDive && (
-                  <button
-                    onClick={() => setAsked(it)}
+                {it.link && (
+                  <a
+                    href={it.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="cm-btn cm-mono"
                     style={{
                       background: "transparent", color: C.accent,
                       border: `1px solid ${C.line}`, borderRadius: 6,
                       padding: "5px 11px", fontSize: 10.5, letterSpacing: "0.04em",
-                      whiteSpace: "nowrap",
+                      whiteSpace: "nowrap", textDecoration: "none",
                     }}
                   >
-                    Go deeper →
-                  </button>
+                    Read full story →
+                  </a>
                 )}
               </div>
             </article>
@@ -366,49 +367,13 @@ export default function GustaDibreDashboard() {
             color: C.faint, fontSize: 11, marginTop: 32,
             paddingTop: 18, borderTop: `1px solid ${C.line}`, lineHeight: 1.6,
           }}>
-            Briefing generated once daily by a scheduled job and published as a static
-            page. Summaries are AI-generated — verify specifics against the cited
-            publication before acting on them.
+            Headlines are pulled automatically from mining, chemistry, and funding
+            RSS feeds once daily and sorted by keyword — not AI-summarized. Category
+            and tag matching is approximate; click through to the source for the
+            full story.
           </div>
         )}
       </div>
-
-      {/* Deep-dive drawer */}
-      {asked && (
-        <div
-          onClick={() => setAsked(null)}
-          style={{
-            position: "fixed", inset: 0, background: "rgba(6,8,11,0.6)",
-            display: "flex", justifyContent: "flex-end", zIndex: 50,
-          }}
-        >
-          <div
-            onClick={(e) => e.stopPropagation()}
-            style={{
-              background: C.panel, borderLeft: `1px solid ${C.line}`,
-              width: "min(440px, 92vw)", height: "100%", padding: "28px 26px",
-              overflowY: "auto", color: C.ink,
-            }}
-          >
-            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", gap: 12 }}>
-              <span className="cm-mono" style={{
-                color: C.accent, fontSize: 10, letterSpacing: "0.1em",
-                textTransform: "uppercase",
-              }}>Deeper context</span>
-              <button onClick={() => setAsked(null)} className="cm-btn cm-mono" style={{
-                background: "transparent", color: C.dim, border: `1px solid ${C.line}`,
-                borderRadius: 6, padding: "3px 9px", fontSize: 14, lineHeight: 1,
-              }}>×</button>
-            </div>
-            <h3 style={{ fontSize: 18, fontWeight: 600, margin: "14px 0 16px", lineHeight: 1.3 }}>
-              {asked.headline}
-            </h3>
-            <p style={{ color: C.ink, fontSize: 14.5, lineHeight: 1.65, margin: 0 }}>
-              {asked.deepDive}
-            </p>
-          </div>
-        </div>
-      )}
     </div>
   );
 }

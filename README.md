@@ -1,21 +1,28 @@
-# Critical Minerals Daily Briefing
+# Gusta-dibre Critical Mineral Dashboard
 
-A daily news dashboard for critical-minerals + lab-instrumentation news, published
-as a static site on GitHub Pages.
+A daily news dashboard for critical-minerals, mining, and lab-instrumentation
+news, published as a static site on GitHub Pages. No API key, no paid service —
+it's built entirely on free public RSS feeds.
 
 ## How it works
 
-- `scripts/fetch-news.mjs` calls the Anthropic API (with the web search tool)
-  **server-side**, once a day, and writes the results to `public/news.json`.
-- `src/App.jsx` is a static React app that just reads `news.json` — it never
-  calls the Anthropic API from the browser, so the API key is never exposed.
+- `scripts/fetch-news.mjs` pulls headlines from a curated list of RSS feeds
+  (mining trade press, chemistry news, R&D/funding news), sorts each item into
+  a category and mineral/topic tag by keyword matching, and writes the result
+  to `public/news.json`.
+- `src/App.jsx` is a static React app that just reads `news.json`.
 - Two GitHub Actions do the work:
   - **Fetch News** (`.github/workflows/fetch-news.yml`) — runs on a daily cron
-    (07:00 UTC by default — edit the `cron` line to change it), calls the
+    (07:00 UTC by default — edit the `cron` line to change it), runs the
     script, and commits the updated `public/news.json`.
   - **Deploy** (`.github/workflows/deploy.yml`) — runs on every push to `main`
     (including the daily commit above), builds the site with Vite, and
     publishes it to GitHub Pages.
+
+Because this is keyword-based rather than AI-summarized, each card shows the
+feed's own headline/excerpt plus a "Read full story →" link to the source —
+there's no synthesized summary or deep-dive, and category/tag matching is
+approximate (it can occasionally misfile a story).
 
 ## One-time setup
 
@@ -29,21 +36,21 @@ as a static site on GitHub Pages.
    git remote add origin <your-repo-url>
    git push -u origin main
    ```
-3. Add your Anthropic API key as a secret: repo **Settings → Secrets and
-   variables → Actions → New repository secret**, name `ANTHROPIC_API_KEY`.
-4. Enable Pages: repo **Settings → Pages → Source: GitHub Actions**.
-5. Generate the first briefing: **Actions tab → Fetch News → Run workflow**.
+3. Enable Pages: repo **Settings → Pages → Source: GitHub Actions**.
+4. Generate the first briefing: **Actions tab → Fetch News → Run workflow**.
    Once it finishes (it commits `public/news.json`), the **Deploy** workflow
    fires automatically and publishes the site.
-6. Your dashboard link is `https://<username>.github.io/<repo-name>/` — that's
+5. Your dashboard link is `https://<username>.github.io/<repo-name>/` — that's
    the one to bookmark / set as a new-tab page.
 
 ## Customizing
 
-- Categories, colors, and quick-filter tags live at the top of `src/App.jsx`
-  (`CATEGORIES`, `MINERAL_TAGS`).
-- The search prompt and JSON schema the model must return live in
-  `scripts/fetch-news.mjs` (`PROMPT`) — edit this to shift topic focus.
+- Categories, colors, and the mineral/topic dropdown list live at the top of
+  `src/App.jsx` (`CATEGORIES`, `MINERAL_TAGS`).
+- The RSS feed list, category keyword rules, and mineral tag list live in
+  `scripts/fetch-news.mjs` (`FEEDS`, `CATEGORY_RULES`, `MINERAL_TAGS`) — add a
+  feed by appending `{ url, source }`; add `requireKeywordMatch: true` for a
+  general-interest feed that needs filtering down to on-topic stories.
 - To fetch more/less often, edit the `cron` schedule in
   `.github/workflows/fetch-news.yml`.
-- To test the fetch script locally: `ANTHROPIC_API_KEY=sk-... npm run fetch-news`.
+- To test the fetch script locally: `npm run fetch-news`.
