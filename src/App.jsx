@@ -162,14 +162,32 @@ export default function GustaDibreDashboard() {
       <style>{`
         * { box-sizing: border-box; }
         .cm-mono { font-family: 'SF Mono','Menlo','Consolas',monospace; }
+        html { -webkit-text-size-adjust: 100%; }
         .cm-card { transition: border-color .15s ease, transform .15s ease, box-shadow .15s ease; }
-        .cm-card:hover { border-color:${C.accent}; transform: translateY(-1px); box-shadow: 0 4px 16px rgba(0,0,0,0.18); }
-        .cm-btn { cursor:pointer; transition: all .15s ease; }
-        .cm-btn:hover { background:${C.accent}; color:${C.bg}; border-color:${C.accent}; }
+        .cm-card h2, .cm-card p { overflow-wrap: anywhere; }
+        .cm-btn { cursor:pointer; transition: all .15s ease; -webkit-tap-highlight-color: transparent; }
+        .cm-btn:active { background:${C.accent}; color:${C.bg}; border-color:${C.accent}; }
+        @media (hover:hover) {
+          .cm-card:hover { border-color:${C.accent}; transform: translateY(-1px); box-shadow: 0 4px 16px rgba(0,0,0,0.18); }
+          .cm-btn:hover { background:${C.accent}; color:${C.bg}; border-color:${C.accent}; }
+        }
+        .cm-select { flex: 1 1 200px; min-width: 0; max-width: 100%; }
         @keyframes pulse { 0%,100%{opacity:.35} 50%{opacity:.9} }
         .cm-pulse { animation: pulse 1.3s ease-in-out infinite; }
         :focus-visible { outline: 2px solid ${C.accent}; outline-offset: 2px; }
-        @media (max-width:640px){ .cm-wrap{padding:24px 16px !important;} .cm-title{font-size:24px !important;} }
+        @media (max-width:640px){
+          .cm-wrap{padding:20px max(16px, env(safe-area-inset-right)) calc(48px + env(safe-area-inset-bottom)) max(16px, env(safe-area-inset-left)) !important;}
+          .cm-title{font-size:22px !important;}
+          .cm-icon-btn{width:40px !important; height:40px !important;}
+          .cm-refresh{padding:0 14px !important; height:40px; display:flex; align-items:center;}
+          .cm-select{flex-basis:100%; font-size:16px !important; padding:10px 12px !important;}
+          .cm-card{padding:16px !important;}
+          .cm-card h2{font-size:17px !important;}
+          .cm-card p{font-size:15px !important;}
+          .cm-meta{flex-direction:column; align-items:flex-start !important; gap:4px !important;}
+          .cm-actions{flex-direction:column; align-items:stretch !important; gap:12px !important;}
+          .cm-read{text-align:center; padding:10px 12px !important; font-size:12px !important;}
+        }
       `}</style>
 
       <div className="cm-wrap" style={{ maxWidth: 780, margin: "0 auto", padding: "48px 28px 80px" }}>
@@ -197,7 +215,7 @@ export default function GustaDibreDashboard() {
             <div style={{ display: "flex", gap: 8 }}>
               <button
                 onClick={() => setTheme((t) => (t === "dark" ? "light" : "dark"))}
-                className="cm-btn"
+                className="cm-btn cm-icon-btn"
                 aria-label={theme === "dark" ? "Switch to day mode" : "Switch to night mode"}
                 title={theme === "dark" ? "Switch to day mode" : "Switch to night mode"}
                 style={{
@@ -210,7 +228,7 @@ export default function GustaDibreDashboard() {
               </button>
               <button
                 onClick={load}
-                className="cm-btn cm-mono"
+                className="cm-btn cm-mono cm-refresh"
                 style={{
                   background: "transparent", color: C.dim,
                   border: `1px solid ${C.line}`, borderRadius: 6,
@@ -232,7 +250,7 @@ export default function GustaDibreDashboard() {
           <select
             value={active}
             onChange={(e) => setActive(e.target.value)}
-            className="cm-mono"
+            className="cm-mono cm-select"
             style={{
               background: C.panel, color: active !== "all" ? C.ink : C.faint,
               border: `1px solid ${active !== "all" ? C.accent : C.line}`,
@@ -248,7 +266,7 @@ export default function GustaDibreDashboard() {
           <select
             value={tag || ""}
             onChange={(e) => setTag(e.target.value || null)}
-            className="cm-mono"
+            className="cm-mono cm-select"
             style={{
               background: C.panel, color: tag ? C.ink : C.faint,
               border: `1px solid ${tag ? C.accent : C.line}`,
@@ -297,7 +315,7 @@ export default function GustaDibreDashboard() {
               background: C.panel, border: `1px solid ${C.panelEdge}`,
               borderRadius: 10, padding: "20px 22px", marginBottom: 12,
             }}>
-              <div style={{
+              <div className="cm-meta" style={{
                 display: "flex", justifyContent: "space-between",
                 alignItems: "center", marginBottom: 10, gap: 10,
               }}>
@@ -329,9 +347,9 @@ export default function GustaDibreDashboard() {
                 {it.summary}
               </p>
 
-              <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: 8, flexWrap: "wrap" }}>
-                <div style={{ display: "flex", gap: 5, flexWrap: "wrap" }}>
-                  {(it.minerals || []).slice(0, 5).map((m, k) => (
+              <div className="cm-actions" style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: 8, flexWrap: "wrap" }}>
+                {(it.minerals || []).length > 0 && <div style={{ display: "flex", gap: 5, flexWrap: "wrap" }}>
+                  {it.minerals.slice(0, 5).map((m, k) => (
                     <span key={k} className="cm-mono" style={{
                       color: C.faint, fontSize: 10, background: C.panelEdge,
                       borderRadius: 10, padding: "2px 8px",
@@ -339,13 +357,13 @@ export default function GustaDibreDashboard() {
                       {m}
                     </span>
                   ))}
-                </div>
+                </div>}
                 {it.link && (
                   <a
                     href={it.link}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="cm-btn cm-mono"
+                    className="cm-btn cm-mono cm-read"
                     style={{
                       background: "transparent", color: C.accent,
                       border: `1px solid ${C.line}`, borderRadius: 6,
