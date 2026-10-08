@@ -1,0 +1,60 @@
+{
+  "generatedAt": "2026-10-08T02:19:00.486Z",
+  "shows": [
+    {
+      "name": "Café da Manhã",
+      "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
+      "latestEpisode": {
+        "title": "Novo Congresso: emendas, influencers e maioria do PL",
+        "date": "2026-10-07",
+        "url": "https://open.spotify.com/episode/3LkT5nQi5MI1YnKMH0ZNsy",
+        "isNew": true
+      }
+    },
+    {
+      "name": "Posse de Bola",
+      "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
+      "latestEpisode": {
+        "title": "#707: Qual o foi o saldo da Data Fifa? A volta do Brasileirão e o título feminino do São Paulo!",
+        "date": "2026-10-05",
+        "url": "https://open.spotify.com/episode/5Vi5AL4jSEpJZWDLSNpAk4",
+        "isNew": true
+      }
+    },
+    {
+      "name": "WSJ What's News",
+      "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
+      "latestEpisode": {
+        "title": "The Tension and Turnover at Bessent’s Treasury Department",
+        "date": "2026-10-07",
+        "url": "https://open.spotify.com/episode/6H9D57Mxeumr8j5u2HSawN",
+        "isNew": true
+      }
+    },
+    {
+      "name": "Chain Reaction by ACS",
+      "showUrl": "https://open.spotify.com/show/7dSHR4UqvZjX3I9mZ4rBlu",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8af46957f9ffdf22624d5fc284",
+      "latestEpisode": {
+        "title": "Teaser: Chemistry at Its Core",
+        "date": "2026-10-01",
+        "url": "https://open.spotify.com/episode/3hDtKgtUdSBYVyGr6SZiQQ",
+        "isNew": false
+      }
+    },
+    {
+      "name": "Stereo Chemistry",
+      "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
+      "latestEpisode": {
+        "title": "Bonus: Shaping the Future of Chemistry Societies",
+        "date": "2026-09-10",
+        "url": "https://open.spotify.com/episode/4PRXahVqP2aSiaMe6rrkfY",
+        "isNew": false
+      }
+    }
+  ]
+}

@@ -7,7 +7,11 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "fetch-news": "node scripts/fetch-news.mjs"
+    "fetch-news": "node scripts/fetch-news.mjs",
+    "fetch-podcasts": "node scripts/fetch-podcasts.mjs",
+    "fetch-papers": "node scripts/fetch-papers.mjs",
+    "fetch-prices": "node scripts/fetch-prices.mjs",
+    "fetch-all": "npm run fetch-news && npm run fetch-podcasts && npm run fetch-papers && npm run fetch-prices"
   },
   "dependencies": {
     "fast-xml-parser": "^5.11.0",

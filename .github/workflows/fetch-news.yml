@@ -21,10 +21,13 @@ jobs:
 
       - run: npm ci
 
-      - run: npm run fetch-news
+      - run: npm run fetch-all
+        env:
+          NYT_API_KEY: ${{ secrets.NYT_API_KEY }}
+          METALPRICE_API_KEY: ${{ secrets.METALPRICE_API_KEY }}
 
       - name: Commit updated briefing
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update daily news briefing"
-          file_pattern: public/news.json
+          commit_message: "chore: update daily briefing (news, podcasts, papers, prices)"
+          file_pattern: "public/news.json public/podcasts.json public/papers.json public/prices.json"

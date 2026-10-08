@@ -6,8 +6,9 @@ import { writeFile } from "node:fs/promises";
 import { XMLParser } from "fast-xml-parser";
 
 const UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36";
-const MAX_AGE_DAYS = 5;
+const MAX_AGE_DAYS = 3;
 const PER_CATEGORY_CAP = 4;
+const MAX_TOTAL_ITEMS = 10;
 
 const FEEDS = [
   { url: "https://www.mining.com/category/commodities/battery-metals/feed/", source: "MINING.com — Battery Metals" },
@@ -18,10 +19,25 @@ const FEEDS = [
   { url: "https://www.rdworldonline.com/feed/", source: "R&D World", requireKeywordMatch: true },
   { url: "https://phys.org/rss-feed/chemistry-news/", source: "Phys.org Chemistry", requireKeywordMatch: true },
   { url: "https://news.crunchbase.com/feed/", source: "Crunchbase News", requireKeywordMatch: true },
+  // NPR's classic developer API was retired in July 2025 — RSS is the only
+  // free path left.
+  { url: "https://feeds.npr.org/1001/rss.xml", source: "NPR", requireKeywordMatch: true },
+  { url: "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain", source: "WSJ — Markets", requireKeywordMatch: true },
+  { url: "https://feeds.content.dowjones.io/public/rss/RSSWorldNews", source: "WSJ — World News", requireKeywordMatch: true },
+  // G1 has no public API; section RSS feeds are the free path.
+  { url: "https://g1.globo.com/rss/g1/economia/", source: "G1 — Economia", requireKeywordMatch: true },
+  { url: "https://g1.globo.com/rss/g1/ciencia-e-saude", source: "G1 — Ciência e Saúde", requireKeywordMatch: true },
 ];
 
 // category -> keywords checked against "title. summary"
 const CATEGORY_RULES = [
+  ["politics", [
+    "department of state", "state department", "white house", "congress", "senate",
+    "executive order", "sanctions", "geopolit", "national security", "export control",
+    "export ban", "trade war", "trade deal", "bilateral agreement", "diplomat",
+    "ministry of mines", "government announces", "biden", "trump administration",
+    "foreign policy", "defense production act",
+  ]],
   ["instrumentation", [
     "icp-ms", "icp-oes", "icp ms", "icp oes", "xrf", "spectrometer", "spectroscopy",
     "mass spec", "assay method", "analyzer", "analytical instrument", "laboratory equipment",
@@ -30,7 +46,7 @@ const CATEGORY_RULES = [
   ["funding", [
     "grant", "funding round", "raises $", "raised $", "series a", "series b", "series c",
     "venture capital", "vc firm", "investment round", "invests $", "ipo", "financing deal",
-    "million in funding", "backed by", "seed round", "capital raise",
+    "million in funding", "backed by", "seed round", "capital raise", "startup",
   ]],
   ["science", [
     "recycl", "recovery process", "hydrometallurg", "leaching", "extraction method",
@@ -39,7 +55,7 @@ const CATEGORY_RULES = [
   ]],
   ["economic", [
     "spot price", "futures", "commodity price", "trading at", "market outlook",
-    "price surge", "price slump", "tariff", "export ban", "trade deal", "shares rose", "shares fell",
+    "price surge", "price slump", "tariff", "shares rose", "shares fell", "valuation",
   ]],
   // "supply" has no keyword list — it's the default fallback for mining/policy/project stories.
 ];
@@ -48,14 +64,19 @@ const MINERAL_TAGS = [
   "Rare earths", "Lithium", "Cobalt", "Nickel", "Copper",
   "Graphite", "Gallium", "Germanium", "Recycling", "Tailings",
   "ICP-MS", "ICP-OES", "XRF", "Assay methods", "Grants", "Venture capital",
+  "Silver", "Rhodium", "Palladium", "Platinum", "Brazil",
 ];
 
-// Applied to feeds that aren't mining-specific (general chemistry/R&D/startup
-// news outlets) so unrelated stories don't dilute the briefing.
+// Applied to feeds that aren't mining-specific (general news/chemistry/R&D/
+// startup outlets) so unrelated stories don't dilute the briefing. Mixed
+// English/Portuguese since G1 publishes in Portuguese.
 const BROAD_FEED_KEYWORDS = [
   "mining", "mineral", "lithium", "cobalt", "nickel", "rare earth", "battery metal",
-  "critical mineral", "graphite", "recycling", "icp-ms", "icp-oes", "icp-ms", "xrf",
+  "critical mineral", "graphite", "recycling", "icp-ms", "icp-oes", "xrf",
   "geochemistry", "ore", "smelter", "tailings", "assay", "gallium", "germanium",
+  "silver", "rhodium", "palladium", "platinum",
+  "minerais críticos", "terras raras", "lítio", "cobalto", "níquel", "grafite",
+  "minério", "mineração",
 ];
 
 function decodeEntities(str) {
@@ -173,9 +194,71 @@ async function fetchFeed({ url, source, requireKeywordMatch }) {
   return out;
 }
 
+const NYT_QUERIES = [
+  '"critical minerals"',
+  '"rare earth"',
+];
+
+function ymd(date) {
+  return date.toISOString().slice(0, 10).replace(/-/g, "");
+}
+
+async function fetchNYT(query, apiKey, cutoff) {
+  const begin = ymd(new Date(cutoff));
+  const url = `https://api.nytimes.com/svc/search/v2/articlesearch.json?q=${encodeURIComponent(query)}&begin_date=${begin}&sort=newest&api-key=${apiKey}`;
+  try {
+    const res = await fetch(url, { signal: AbortSignal.timeout(15000) });
+    if (!res.ok) {
+      const detail = res.status === 429 ? " (rate limit/quota exceeded)" : "";
+      console.warn(`Skipping NYT "${query}": HTTP ${res.status}${detail}`);
+      return [];
+    }
+    const data = await res.json();
+    const docs = data?.response?.docs || [];
+    return docs.map((doc) => {
+      const pubDate = doc.pub_date ? new Date(doc.pub_date) : null;
+      const title = stripHtml(doc.headline?.main || "");
+      const summary = truncate(stripHtml(doc.abstract || doc.snippet || ""), 220) || title;
+      const combined = `${title}. ${summary}`;
+      if (!title || !doc.web_url) return null;
+      return {
+        headline: title,
+        summary,
+        category: categorize(combined),
+        minerals: matchTags(combined),
+        source: "The New York Times",
+        date: pubDate && !isNaN(pubDate) ? pubDate.toISOString().slice(0, 10) : "recent",
+        link: doc.web_url,
+        _sortDate: pubDate && !isNaN(pubDate) ? pubDate.getTime() : 0,
+      };
+    }).filter(Boolean);
+  } catch (e) {
+    console.warn(`Skipping NYT "${query}": ${e.message}`);
+    return [];
+  }
+}
+
+async function fetchAllNYT(cutoff) {
+  const apiKey = process.env.NYT_API_KEY;
+  if (!apiKey) {
+    console.warn("NYT_API_KEY not set — skipping NYT Article Search");
+    return [];
+  }
+  // NYT rate-limits to a handful of requests/sec — run sequentially with a
+  // small gap between calls.
+  const out = [];
+  for (const q of NYT_QUERIES) {
+    out.push(...await fetchNYT(q, apiKey, cutoff));
+    await new Promise((r) => setTimeout(r, 1200));
+  }
+  return out;
+}
+
 async function fetchNews() {
+  const cutoff = Date.now() - MAX_AGE_DAYS * 24 * 60 * 60 * 1000;
   const results = await Promise.all(FEEDS.map(fetchFeed));
-  const all = results.flat();
+  const nyt = await fetchAllNYT(cutoff);
+  const all = [...results.flat(), ...nyt];
 
   // Dedupe by link, keep the most recent per link.
   const byLink = new Map();
@@ -199,7 +282,7 @@ async function fetchNews() {
   }
 
   picked.sort((a, b) => b._sortDate - a._sortDate);
-  return picked.map(({ _sortDate, ...rest }) => rest);
+  return picked.slice(0, MAX_TOTAL_ITEMS).map(({ _sortDate, ...rest }) => rest);
 }
 
 const items = await fetchNews();

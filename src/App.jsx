@@ -28,6 +28,7 @@ const LIGHT = {
 const CATEGORIES = [
   { id: "all", label: "All" },
   { id: "supply", label: "Critical Minerals & Supply", color: "#E0A458" },
+  { id: "politics", label: "Politics & Policy", color: "#5B8DBF" },
   { id: "funding", label: "Funding & Investment", color: "#8C7AE6" },
   { id: "instrumentation", label: "Instrumentation & Lab Tech" }, // falls back to accent
   { id: "economic", label: "Markets & Economics", color: "#D97757" },
@@ -38,14 +39,37 @@ const MINERAL_TAGS = [
   "Rare earths", "Lithium", "Cobalt", "Nickel", "Copper",
   "Graphite", "Gallium", "Germanium", "Recycling", "Tailings",
   "ICP-MS", "ICP-OES", "XRF", "Assay methods", "Grants", "Venture capital",
+  "Silver", "Rhodium", "Palladium", "Platinum", "Brazil",
 ];
 
-// News is generated on a schedule (see scripts/fetch-news.mjs and
-// .github/workflows/fetch-news.yml) and committed as this static file.
-// The frontend never calls the Anthropic API directly.
+// All four files below are generated on a schedule (see scripts/fetch-*.mjs
+// and .github/workflows/fetch-news.yml) and committed as static files. The
+// frontend only ever reads these — no API keys are ever exposed to the browser.
 const NEWS_URL = "./news.json";
+const PODCASTS_URL = "./podcasts.json";
+const PAPERS_URL = "./papers.json";
+const PRICES_URL = "./prices.json";
+
+// Mirrors MAX_AGE_DAYS in scripts/fetch-news.mjs / fetch-papers.mjs — these
+// aren't read from the JSON files, just kept in sync by hand.
+const MAX_NEWS_AGE_DAYS = 3;
+const MAX_PAPERS_AGE_MONTHS = 6;
+
+// Default carousel sizes before "See more" expands a section into a full list.
+const NEWS_CAROUSEL_LIMIT = 10;
+const PAPERS_CAROUSEL_LIMIT = 5;
+const PODCASTS_CAROUSEL_LIMIT = 5;
 
 const THEME_KEY = "gd-theme";
+
+function formatShortDate(iso) {
+  if (!iso) return "";
+  try {
+    return new Date(iso).toLocaleDateString(undefined, { month: "short", day: "numeric" });
+  } catch {
+    return iso;
+  }
+}
 
 function formatGeneratedAt(iso) {
   if (!iso) return "";
@@ -122,6 +146,43 @@ export default function GustaDibreDashboard() {
   const [active, setActive] = useState("all");
   const [tag, setTag] = useState(null);
 
+  const [shows, setShows] = useState([]);
+  const [papers, setPapers] = useState([]);
+  const [papersGeneratedAt, setPapersGeneratedAt] = useState(null);
+  const [metals, setMetals] = useState([]);
+
+  const [newsExpanded, setNewsExpanded] = useState(false);
+  const [papersExpanded, setPapersExpanded] = useState(false);
+  const [podcastsExpanded, setPodcastsExpanded] = useState(false);
+
+  // Podcasts/papers/prices are nice-to-haves — fail silently (just don't
+  // render the section) rather than showing an error banner like the main
+  // briefing does.
+  useEffect(() => {
+    (async () => {
+      try {
+        const res = await fetch(`${PODCASTS_URL}?t=${Date.now()}`, { cache: "no-store" });
+        const data = await res.json();
+        setShows(Array.isArray(data.shows) ? data.shows : []);
+      } catch { /* section just won't render */ }
+    })();
+    (async () => {
+      try {
+        const res = await fetch(`${PAPERS_URL}?t=${Date.now()}`, { cache: "no-store" });
+        const data = await res.json();
+        setPapers(Array.isArray(data.items) ? data.items : []);
+        setPapersGeneratedAt(data.generatedAt || null);
+      } catch { /* section just won't render */ }
+    })();
+    (async () => {
+      try {
+        const res = await fetch(`${PRICES_URL}?t=${Date.now()}`, { cache: "no-store" });
+        const data = await res.json();
+        setMetals(Array.isArray(data.metals) ? data.metals : []);
+      } catch { /* section just won't render */ }
+    })();
+  }, []);
+
   const load = useCallback(async () => {
     setLoading(true);
     setError(null);
@@ -172,6 +233,19 @@ export default function GustaDibreDashboard() {
           .cm-btn:hover { background:${C.accent}; color:${C.bg}; border-color:${C.accent}; }
         }
         .cm-select { flex: 1 1 200px; min-width: 0; max-width: 100%; }
+        .cm-section-label { font-size: 12px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: ${C.dim}; }
+        .cm-carousel { display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x proximity; padding-bottom: 6px; margin: 0 -2px; }
+        .cm-carousel::-webkit-scrollbar { height: 6px; }
+        .cm-carousel::-webkit-scrollbar-thumb { background: ${C.panelEdge}; border-radius: 3px; }
+        .cm-pod-card { scroll-snap-align: start; flex: 0 0 200px; }
+        .cm-tile-card { scroll-snap-align: start; flex: 0 0 230px; }
+        .cm-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+        .cm-stat-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 10px; }
+        .cm-seemore { background: transparent; border: none; color: ${C.accent}; font-size: 11px; letter-spacing: 0.04em; padding: 10px 2px 0; display: block; text-align: right; width: 100%; }
+        @media (max-width:640px){
+          .cm-pod-card{flex-basis:168px !important;}
+          .cm-tile-card{flex-basis:200px !important;}
+        }
         @keyframes pulse { 0%,100%{opacity:.35} 50%{opacity:.9} }
         .cm-pulse { animation: pulse 1.3s ease-in-out infinite; }
         :focus-visible { outline: 2px solid ${C.accent}; outline-offset: 2px; }
@@ -245,8 +319,35 @@ export default function GustaDibreDashboard() {
           </div>
         </header>
 
-        {/* Filters */}
-        <div style={{ display: "flex", gap: 10, flexWrap: "wrap", margin: "24px 0 28px" }}>
+        {/* Metal prices */}
+        {metals.length > 0 && (
+          <div style={{ margin: "0 0 28px" }}>
+            <div className="cm-section-label" style={{ marginBottom: 12 }}>Spot Prices (USD / troy oz)</div>
+            <div className="cm-stat-row">
+              {metals.map((m) => (
+                <div key={m.symbol} style={{
+                  background: C.panel, border: `1px solid ${C.panelEdge}`,
+                  borderRadius: 10, padding: "12px 14px",
+                }}>
+                  <div className="cm-mono" style={{ fontSize: 10.5, color: C.faint, textTransform: "uppercase", letterSpacing: "0.05em" }}>
+                    {m.name}
+                  </div>
+                  <div className="cm-mono" style={{ fontSize: 18, fontWeight: 700, color: C.ink, marginTop: 4 }}>
+                    ${m.usdPerOz.toLocaleString(undefined, { maximumFractionDigits: 2 })}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* News */}
+        <div className="cm-section-label" style={{
+          marginTop: metals.length > 0 ? 8 : 28,
+        }}>
+          News <span style={{ opacity: 0.6, textTransform: "none", letterSpacing: 0 }}>· last {MAX_NEWS_AGE_DAYS} days</span>
+        </div>
+        <div style={{ display: "flex", gap: 10, flexWrap: "wrap", margin: "12px 0 28px" }}>
           <select
             value={active}
             onChange={(e) => setActive(e.target.value)}
@@ -308,7 +409,37 @@ export default function GustaDibreDashboard() {
           </div>
         )}
 
-        {!loading && !error && filtered.map((it, i) => {
+        {!loading && !error && filtered.length > 0 && !newsExpanded && (
+          <div className="cm-carousel">
+            {filtered.slice(0, NEWS_CAROUSEL_LIMIT).map((it, i) => {
+              const cm = catMeta(it.category);
+              return (
+                <a key={i} href={it.link} target="_blank" rel="noopener noreferrer"
+                  className="cm-card cm-tile-card" style={{
+                    background: C.panel, border: `1px solid ${C.panelEdge}`,
+                    borderRadius: 10, padding: 14, textDecoration: "none", color: C.ink,
+                    display: "flex", flexDirection: "column", gap: 8,
+                  }}
+                >
+                  <span style={{ display: "flex", alignItems: "center", gap: 6 }}>
+                    <span style={{ width: 6, height: 6, borderRadius: "50%", background: cm.color || C.accent, flexShrink: 0 }} />
+                    <span className="cm-mono" style={{ fontSize: 10, color: C.faint, textTransform: "uppercase", letterSpacing: "0.04em" }}>
+                      {cm.label || it.category}
+                    </span>
+                  </span>
+                  <div className="cm-clamp-3" style={{ fontSize: 13.5, fontWeight: 600, lineHeight: 1.35 }}>
+                    {it.headline}
+                  </div>
+                  <div className="cm-mono" style={{ fontSize: 10, color: C.faint, marginTop: "auto" }}>
+                    {it.source}{it.date ? ` · ${it.date}` : ""}
+                  </div>
+                </a>
+              );
+            })}
+          </div>
+        )}
+
+        {!loading && !error && filtered.length > 0 && newsExpanded && filtered.map((it, i) => {
           const cm = catMeta(it.category);
           return (
             <article key={i} className="cm-card" style={{
@@ -379,18 +510,204 @@ export default function GustaDibreDashboard() {
           );
         })}
 
-        {/* Footer */}
-        {!loading && !error && (
-          <div className="cm-mono" style={{
-            color: C.faint, fontSize: 11, marginTop: 32,
-            paddingTop: 18, borderTop: `1px solid ${C.line}`, lineHeight: 1.6,
-          }}>
-            Headlines are pulled automatically from mining, chemistry, and funding
-            RSS feeds once daily and sorted by keyword — not AI-summarized. Category
-            and tag matching is approximate; click through to the source for the
-            full story.
+        {!loading && !error && filtered.length > 0 && (
+          <button onClick={() => setNewsExpanded((e) => !e)} className="cm-btn cm-mono cm-seemore">
+            {newsExpanded ? "Show compact view ↑" : `See all ${filtered.length} →`}
+          </button>
+        )}
+
+        {/* Papers */}
+        {papers.length > 0 && (
+          <div style={{ marginTop: 36 }}>
+            <div className="cm-section-label" style={{ marginBottom: 12, paddingTop: 24, borderTop: `1px solid ${C.line}` }}>
+              Recent Papers <span style={{ opacity: 0.6, textTransform: "none", letterSpacing: 0 }}>· last {MAX_PAPERS_AGE_MONTHS} months</span>
+            </div>
+
+            {!papersExpanded && (
+              <div className="cm-carousel">
+                {papers.slice(0, PAPERS_CAROUSEL_LIMIT).map((p, i) => (
+                  <a key={i} href={p.link} target="_blank" rel="noopener noreferrer"
+                    className="cm-card cm-tile-card" style={{
+                      background: C.panel, border: `1px solid ${C.panelEdge}`,
+                      borderRadius: 10, padding: 14, textDecoration: "none", color: C.ink,
+                      display: "flex", flexDirection: "column", gap: 8,
+                    }}
+                  >
+                    <span className="cm-mono" style={{ fontSize: 10, color: C.faint, textTransform: "uppercase", letterSpacing: "0.04em" }}>
+                      {p.venue || p.source}
+                    </span>
+                    <div className="cm-clamp-3" style={{ fontSize: 13.5, fontWeight: 600, lineHeight: 1.35 }}>
+                      {p.title}
+                    </div>
+                    <div className="cm-mono" style={{ fontSize: 10, color: C.faint, marginTop: "auto" }}>
+                      {p.date || ""}
+                    </div>
+                  </a>
+                ))}
+              </div>
+            )}
+
+            {papersExpanded && papers.map((p, i) => (
+              <article key={i} className="cm-card" style={{
+                background: C.panel, border: `1px solid ${C.panelEdge}`,
+                borderRadius: 10, padding: "18px 22px", marginBottom: 12,
+              }}>
+                <div className="cm-meta" style={{
+                  display: "flex", justifyContent: "space-between",
+                  alignItems: "center", marginBottom: 8, gap: 10,
+                }}>
+                  <span className="cm-mono" style={{ color: C.dim, fontSize: 10.5, letterSpacing: "0.06em", textTransform: "uppercase" }}>
+                    {p.venue || p.source}
+                  </span>
+                  <span className="cm-mono" style={{ color: C.faint, fontSize: 10.5 }}>
+                    {p.date || ""}
+                  </span>
+                </div>
+                <h2 style={{ margin: "0 0 6px", fontSize: 16.5, fontWeight: 600, lineHeight: 1.3 }}>
+                  {p.title}
+                </h2>
+                {p.authors?.length > 0 && (
+                  <div className="cm-mono" style={{ color: C.faint, fontSize: 11.5, marginBottom: 8 }}>
+                    {p.authors.join(", ")}
+                  </div>
+                )}
+                {p.abstract && (
+                  <p style={{ margin: "0 0 12px", color: C.dim, fontSize: 13.5, lineHeight: 1.55 }}>
+                    {p.abstract}
+                  </p>
+                )}
+                {p.link && (
+                  <a
+                    href={p.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="cm-btn cm-mono cm-read"
+                    style={{
+                      background: "transparent", color: C.accent,
+                      border: `1px solid ${C.line}`, borderRadius: 6,
+                      padding: "5px 11px", fontSize: 10.5, letterSpacing: "0.04em",
+                      whiteSpace: "nowrap", textDecoration: "none", display: "inline-block",
+                    }}
+                  >
+                    Read paper →
+                  </a>
+                )}
+              </article>
+            ))}
+
+            <button onClick={() => setPapersExpanded((e) => !e)} className="cm-btn cm-mono cm-seemore">
+              {papersExpanded ? "Show compact view ↑" : `See all ${papers.length} →`}
+            </button>
           </div>
         )}
+
+        {/* Podcasts */}
+        {shows.length > 0 && (
+          <div style={{ marginTop: 36 }}>
+            <div className="cm-section-label" style={{ marginBottom: 12, paddingTop: 24, borderTop: `1px solid ${C.line}` }}>Podcasts</div>
+
+            {!podcastsExpanded && (
+              <div className="cm-carousel">
+                {shows.slice(0, PODCASTS_CAROUSEL_LIMIT).map((s, i) => (
+                  <a
+                    key={i}
+                    href={s.latestEpisode?.url || s.showUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="cm-card cm-pod-card"
+                    style={{
+                      background: C.panel, border: `1px solid ${C.panelEdge}`,
+                      borderRadius: 10, padding: 14, textDecoration: "none", color: C.ink,
+                      display: "flex", flexDirection: "column", gap: 8,
+                    }}
+                  >
+                    <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
+                      {s.coverArt ? (
+                        <img src={s.coverArt} alt="" width={40} height={40}
+                          style={{ borderRadius: 6, flexShrink: 0, objectFit: "cover" }} />
+                      ) : (
+                        <div style={{
+                          width: 40, height: 40, borderRadius: 6, flexShrink: 0,
+                          background: C.panelEdge,
+                        }} />
+                      )}
+                      <div style={{ minWidth: 0 }}>
+                        <div className="cm-mono" style={{
+                          fontSize: 10.5, color: C.faint, textTransform: "uppercase",
+                          letterSpacing: "0.04em", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis",
+                        }}>
+                          {s.name}
+                        </div>
+                        {s.latestEpisode?.isNew && (
+                          <span className="cm-mono" style={{
+                            fontSize: 9, color: C.accent, letterSpacing: "0.06em",
+                          }}>
+                            ● NEW
+                          </span>
+                        )}
+                      </div>
+                    </div>
+                    {s.latestEpisode ? (
+                      <>
+                        <div className="cm-clamp-3" style={{ fontSize: 13, fontWeight: 600, lineHeight: 1.35 }}>
+                          {s.latestEpisode.title}
+                        </div>
+                        <div className="cm-mono" style={{ fontSize: 10.5, color: C.faint, marginTop: "auto" }}>
+                          {formatShortDate(s.latestEpisode.date)} · Spotify →
+                        </div>
+                      </>
+                    ) : (
+                      <div className="cm-mono" style={{ fontSize: 11, color: C.faint }}>
+                        Open on Spotify →
+                      </div>
+                    )}
+                  </a>
+                ))}
+              </div>
+            )}
+
+            {podcastsExpanded && shows.map((s, i) => (
+              <a
+                key={i}
+                href={s.latestEpisode?.url || s.showUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="cm-card"
+                style={{
+                  background: C.panel, border: `1px solid ${C.panelEdge}`,
+                  borderRadius: 10, padding: "14px 18px", marginBottom: 12,
+                  textDecoration: "none", color: C.ink,
+                  display: "flex", alignItems: "center", gap: 14,
+                }}
+              >
+                {s.coverArt ? (
+                  <img src={s.coverArt} alt="" width={56} height={56}
+                    style={{ borderRadius: 8, flexShrink: 0, objectFit: "cover" }} />
+                ) : (
+                  <div style={{ width: 56, height: 56, borderRadius: 8, flexShrink: 0, background: C.panelEdge }} />
+                )}
+                <div style={{ minWidth: 0, flex: 1 }}>
+                  <div className="cm-mono" style={{ fontSize: 10.5, color: C.faint, textTransform: "uppercase", letterSpacing: "0.04em" }}>
+                    {s.name}{s.latestEpisode?.isNew && <span style={{ color: C.accent }}> · ● NEW</span>}
+                  </div>
+                  <div style={{ fontSize: 15, fontWeight: 600, lineHeight: 1.35, margin: "4px 0" }}>
+                    {s.latestEpisode?.title || "Open on Spotify"}
+                  </div>
+                  {s.latestEpisode && (
+                    <div className="cm-mono" style={{ fontSize: 11, color: C.faint }}>
+                      {formatShortDate(s.latestEpisode.date)} · Spotify →
+                    </div>
+                  )}
+                </div>
+              </a>
+            ))}
+
+            <button onClick={() => setPodcastsExpanded((e) => !e)} className="cm-btn cm-mono cm-seemore">
+              {podcastsExpanded ? "Show compact view ↑" : `See all ${shows.length} →`}
+            </button>
+          </div>
+        )}
+
       </div>
     </div>
   );

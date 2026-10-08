@@ -1,105 +1,111 @@
 {
-  "generatedAt": "2026-08-25T00:50:21.609Z",
+  "generatedAt": "2026-10-08T02:26:58.860Z",
   "items": [
     {
-      "headline": "South32 boosts Sierra Gorda ore reserve estimate by 61%",
-      "summary": "South32 (ASX, LSE, JSE: S32) announced Tuesday updated ore reserve and mineral resource estimate (MRE) for the Sierra Gorda copper mine in Chile. The updates, the company said, reflect enhanced orebody definition…",
-      "category": "supply",
-      "minerals": [
-        "Copper"
-      ],
-      "source": "MINING.com",
-      "date": "2026-08-24",
-      "link": "https://www.mining.com/south32-boosts-sierra-gorda-ore-reserve-estimate-by-61/"
-    },
-    {
-      "headline": "Agnico buys Quebec gold junior stake for $41M",
-      "summary": "Agnico Eagle Mines (TSX, NYSE: AEM) is investing C$57.2 million ($41.4 million) in Radisson Mining Resources (TSXV: RDS; US-OTC: RMRDF) to help revive one of the Abitibi region’s highest grade historical mines,…",
+      "headline": "AME report sees $23B economic boost from new Canadian mines",
+      "summary": "The Association for Mineral Exploration (AME) released Wednesday an economic impact assessment on the federal government’s commitment to expand eligible activities under the Canadian Exploration Expense (CEE) and…",
       "category": "supply",
       "minerals": [],
       "source": "MINING.com",
-      "date": "2026-08-24",
-      "link": "https://www.mining.com/agnico-buys-quebec-gold-junior-stake-for-41m/"
+      "date": "2026-10-07",
+      "link": "https://www.mining.com/ame-report-sees-23b-economic-boost-from-new-canadian-mines/"
     },
     {
-      "headline": "Top of Mine: Costa sees mining as the cheapest way to invest in AI",
-      "summary": "Otavio (Tavi) Costa, founder and CEO of Azuria Capital, asserts that mining can be the cheapest way to invest in artificial intelligence (AI ) today, as he sees the sector getting more attention from sovereign…",
-      "category": "supply",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-08-24",
-      "link": "https://www.mining.com/top-of-mine-costa-sees-mining-as-the-cheapest-way-to-invest-in-ai/"
-    },
-    {
-      "headline": "Ontario ready to cut off electricity, critical minerals to US amid trade war",
-      "summary": "Ontario Premier Doug Ford has threatened to cut off electricity and critical minerals to the United States in response to Trump’s threats to add new tariffs on Canadian autos and steel. Ford said he will begin cutting…",
-      "category": "economic",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-08-24",
-      "link": "https://www.mining.com/ontario-ready-to-cut-off-electricity-critical-minerals-to-us-amid-trade-war/"
-    },
-    {
-      "headline": "Gold price rises, silver slips on Treasury cash-pile buyback signal",
-      "summary": "Gold rose while silver slipped on Monday after CNBC reported that Treasury Secretary Scott Bessent could tap a $935 billion cash pile to fund bond buybacks, pushing long-term yields lower. The department could draw on…",
-      "category": "supply",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-08-24",
-      "link": "https://www.mining.com/gold-price-rises-silver-slips-on-treasury-cash-pile-buyback-signal/"
-    },
-    {
-      "headline": "Enerpure closes $48M financing for motor oil recycling plant",
-      "summary": "Enerpure, a clean energy company that recycles motor oil, announced it has raised $48 million (US$35 million) in an all-equity commercialization financing […] The post Enerpure closes $48M financing for motor oil…",
-      "category": "funding",
+      "headline": "New polystyrene uses 50% plant-based material and breaks into fragments for potential recycling",
+      "summary": "Polystyrene is used in protective packaging for televisions and electronic devices, in decorative boards and baseboards for interior construction, and in petri dishes. It is one of the world's most important plastics,…",
+      "category": "science",
       "minerals": [
         "Recycling"
       ],
-      "source": "Canadian Mining Journal",
-      "date": "2026-08-24",
-      "link": "https://www.canadianminingjournal.com/news/enerpure-closes-48m-financing-for-motor-oil-recycling-plant/"
+      "source": "Phys.org Chemistry",
+      "date": "2026-10-07",
+      "link": "https://phys.org/news/2026-10-polystyrene-based-material-fragments-potential.html"
     },
     {
-      "headline": "Greenland Mines gets exploration license for Sarfartoq rare earths project",
-      "summary": "Greenland Mines’ (Nasdaq: GRML) Sarfartoq rare earths project has received its exploration licence. The stock rose. The government approval granted Friday satisfies one of the key regulatory closing conditions for...…",
-      "category": "funding",
+      "headline": "Titan Mining, US Army advance strategic graphite processing plant in Alabama",
+      "summary": "Titan Mining (NYSE-A:TII, TSX:TI) announced Wednesday that its wholly owned subsidiary, Empire State Mines, LLC (ESM), and the U.S. Army have executed a term sheet establishing the principal commercial terms to develop…",
+      "category": "supply",
       "minerals": [
-        "Rare earths"
+        "Graphite"
+      ],
+      "source": "MINING.com",
+      "date": "2026-10-07",
+      "link": "https://www.mining.com/titan-mining-us-army-advance-strategic-graphite-processing-plant-in-alabama/"
+    },
+    {
+      "headline": "Canada’s miners must seize political opening: Gratton",
+      "summary": "Canada’s mining industry has won the political support needed to reverse years of decline, outgoing Mining Association of Canada (MAC) president and CEO Pierre Gratton said Tuesday. Companies now need... The post…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-10-07",
+      "link": "https://www.northernminer.com/news/canadas-miners-must-seize-political-opening-gratton/1003895518/"
+    },
+    {
+      "headline": "Opinion | Most Recycling Is a Waste",
+      "summary": "Metals and some plastics are worth separating, but the rest of it is costly and can hurt the environment.",
+      "category": "science",
+      "minerals": [
+        "Recycling"
+      ],
+      "source": "WSJ — World News",
+      "date": "2026-10-07",
+      "link": "https://www.wsj.com/opinion/most-recycling-is-a-waste-091924e1?mod=rss_worldnews"
+    },
+    {
+      "headline": "Zimbabwe’s lithium export earnings surge on higher spodumene prices",
+      "summary": "Zimbabwe recorded lithium export sales worth $2.16 billion during the nine months to September 30, nearly four times the total sales for last year, the government’s minerals marketing agency said on Wednesday. The…",
+      "category": "supply",
+      "minerals": [
+        "Lithium"
+      ],
+      "source": "MINING.com — Battery Metals",
+      "date": "2026-10-07",
+      "link": "https://www.mining.com/web/zimbabwes-lithium-export-earnings-surge-on-higher-spodumene-prices/"
+    },
+    {
+      "headline": "Enzymes could unlock biological recycling of difficult plastic waste",
+      "summary": "They are durable, cheap and everyday life is now hardly imaginable without them: plastics. More then 400 million metric tons are produced every year. As a large proportion is only insufficiently recycled, the…",
+      "category": "science",
+      "minerals": [
+        "Recycling"
+      ],
+      "source": "Phys.org Chemistry",
+      "date": "2026-10-07",
+      "link": "https://phys.org/news/2026-10-enzymes-biological-recycling-difficult-plastic.html"
+    },
+    {
+      "headline": "Anglo-Teck merger, nickel sale are test cases for navigating geopolitical complexities, CEO says",
+      "summary": "Anglo American’s (LON: AAL) proposed $54 billion merger with Canada’s Teck Resources (TSX: TECK.B) and the sale of its Brazilian nickel business have become test cases for navigating geopolitical complexities as they…",
+      "category": "politics",
+      "minerals": [
+        "Nickel",
+        "Brazil"
+      ],
+      "source": "MINING.com — Battery Metals",
+      "date": "2026-10-07",
+      "link": "https://www.mining.com/web/anglo-teck-merger-nickel-sale-are-test-cases-for-navigating-geopolitical-complexities-ceo-says/"
+    },
+    {
+      "headline": "Dutch central bank transfers 86 tonnes of gold closer to home",
+      "summary": "De Nederlandsche Bank (DNB) has moved about 86 tonnes of gold from North America to London between March and August 2026, to strengthen its crisis preparedness and move the metal to a closer and more geopolitically…",
+      "category": "politics",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-07",
+      "link": "https://www.mining.com/dutch-central-bank-transfers-86-tonnes-of-gold-closer-to-home/"
+    },
+    {
+      "headline": "Sigma Lithium jumps after Brazil court reopens mine",
+      "summary": "Sigma Lithium (Nasdaq, TSXV: SGML; ASX: SAU) shares rose as much as 6.7% in New York on Wednesday after a Brazilian appeals court upheld its environmental licences, clearing the company... The post Sigma Lithium jumps…",
+      "category": "economic",
+      "minerals": [
+        "Lithium",
+        "Brazil"
       ],
       "source": "The Northern Miner",
-      "date": "2026-08-24",
-      "link": "https://www.northernminer.com/news/greenland-mines-gets-exploration-license-for-sarfartoq-rare-earths-project/1003894223/"
-    },
-    {
-      "headline": "New American Industrial Alliance launches ‘Ground Truth’ critical minerals readiness survey",
-      "summary": "Supply chain AI company Exiger announced it has joined the New American Industrial Alliance , a US trade association founded in 2024 that brings together tech founders, venture capitalists, and manufacturers aiming to…",
-      "category": "funding",
-      "minerals": [
-        "Venture capital"
-      ],
-      "source": "MINING.com",
-      "date": "2026-08-21",
-      "link": "https://www.mining.com/new-american-industrial-alliance-launches-ground-truth-critical-minerals-readiness-survey/"
-    },
-    {
-      "headline": "5 Interesting Startup Deals You May Have Missed: AI For Everything From Recycling To Breathing To Winning Construction Bids",
-      "summary": "This is a monthly column that runs down five interesting startup funding deals that may have flown under the radar. Check out our previous entry here . This month’s installment of this column is all AI, though…",
-      "category": "science",
-      "minerals": [
-        "Recycling"
-      ],
-      "source": "Crunchbase News",
-      "date": "2026-08-21",
-      "link": "https://news.crunchbase.com/ai/interesting-startup-deals-ai-recycling-robotics-healthcare-data/"
-    },
-    {
-      "headline": "Sunward hails growth in South African market for top hammer rigs",
-      "summary": "In recent years, Changsha-headquartered Sunward says it has achieved continuous breakthroughs in overseas markets such as Africa and the Americas, as part of a steady acceleration in its global expansion. It says that…",
-      "category": "science",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-08-20",
-      "link": "https://im-mining.com/2026/08/20/sunward-hails-growth-in-south-african-market-for-top-hammer-rigs/"
+      "date": "2026-10-07",
+      "link": "https://www.northernminer.com/news/sigma-lithium-jumps-after-brazil-court-reopens-mine/1003895529/"
     }
   ]
 }
