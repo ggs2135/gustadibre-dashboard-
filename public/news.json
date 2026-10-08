@@ -1,14 +1,43 @@
 {
-  "generatedAt": "2026-10-08T02:26:58.860Z",
+  "generatedAt": "2026-10-08T14:20:18.054Z",
   "items": [
     {
-      "headline": "AME report sees $23B economic boost from new Canadian mines",
-      "summary": "The Association for Mineral Exploration (AME) released Wednesday an economic impact assessment on the federal government’s commitment to expand eligible activities under the Canadian Exploration Expense (CEE) and…",
+      "headline": "Dynasty concludes Thundercloud drill campaign",
+      "summary": "Dynasty Gold (TSXV: DYG) has completed its fourteen-drillhole program at its Thundercloud property in northwestern Ontario. Six holes were drilled in the […] The post Dynasty concludes Thundercloud drill campaign…",
       "category": "supply",
       "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-10-07",
-      "link": "https://www.mining.com/ame-report-sees-23b-economic-boost-from-new-canadian-mines/"
+      "source": "Canadian Mining Journal",
+      "date": "2026-10-08",
+      "link": "https://www.canadianminingjournal.com/news/dynasty-concludes-thundercloud-drill-campaign/"
+    },
+    {
+      "headline": "Epiroc’s 47th autonomous drill in Chile plus upsides of RCS5.12",
+      "summary": "Automation continues to advance in surface mining in Chile. Last month, Epiroc delivered the 47th autonomous Pit Viper blasthole drill in the country, a new milestone that reflects the consolidation of this technology…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-08",
+      "link": "https://im-mining.com/2026/10/08/epirocs-47th-autonomous-drill-in-chile-plus-upsides-of-rcs5-12/"
+    },
+    {
+      "headline": "Wesdome eyes low-cost gold boost at Quebec’s Kiena",
+      "summary": "Wesdome Gold Mines’ (TSX: WDO; US-OTC: WDOFF) Kiena mine in Val-d’Or, Que., could increase production by 10% to 15% without major new capital spending, while an aggressive drilling program is... The post Wesdome eyes…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-10-08",
+      "link": "https://www.northernminer.com/news/wesdome-eyes-low-cost-gold-boost-at-quebecs-kiena/1003895550/"
+    },
+    {
+      "headline": "Copper price gains as Chile strike threatens output",
+      "summary": "Copper prices climbed Thursday as a strike by more than 700 workers at Antofagasta’s (LSE: ANTO) Centinela mine in Chile raised concerns about production disruptions that could become more serious... The post Copper…",
+      "category": "supply",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-10-08",
+      "link": "https://www.northernminer.com/news/copper-price-gains-as-chile-strike-threatens-output/1003895558/"
     },
     {
       "headline": "New polystyrene uses 50% plant-based material and breaks into fragments for potential recycling",
@@ -22,26 +51,6 @@
       "link": "https://phys.org/news/2026-10-polystyrene-based-material-fragments-potential.html"
     },
     {
-      "headline": "Titan Mining, US Army advance strategic graphite processing plant in Alabama",
-      "summary": "Titan Mining (NYSE-A:TII, TSX:TI) announced Wednesday that its wholly owned subsidiary, Empire State Mines, LLC (ESM), and the U.S. Army have executed a term sheet establishing the principal commercial terms to develop…",
-      "category": "supply",
-      "minerals": [
-        "Graphite"
-      ],
-      "source": "MINING.com",
-      "date": "2026-10-07",
-      "link": "https://www.mining.com/titan-mining-us-army-advance-strategic-graphite-processing-plant-in-alabama/"
-    },
-    {
-      "headline": "Canada’s miners must seize political opening: Gratton",
-      "summary": "Canada’s mining industry has won the political support needed to reverse years of decline, outgoing Mining Association of Canada (MAC) president and CEO Pierre Gratton said Tuesday. Companies now need... The post…",
-      "category": "supply",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-10-07",
-      "link": "https://www.northernminer.com/news/canadas-miners-must-seize-political-opening-gratton/1003895518/"
-    },
-    {
       "headline": "Opinion | Most Recycling Is a Waste",
       "summary": "Metals and some plastics are worth separating, but the rest of it is costly and can hurt the environment.",
       "category": "science",
@@ -51,17 +60,6 @@
       "source": "WSJ — World News",
       "date": "2026-10-07",
       "link": "https://www.wsj.com/opinion/most-recycling-is-a-waste-091924e1?mod=rss_worldnews"
-    },
-    {
-      "headline": "Zimbabwe’s lithium export earnings surge on higher spodumene prices",
-      "summary": "Zimbabwe recorded lithium export sales worth $2.16 billion during the nine months to September 30, nearly four times the total sales for last year, the government’s minerals marketing agency said on Wednesday. The…",
-      "category": "supply",
-      "minerals": [
-        "Lithium"
-      ],
-      "source": "MINING.com — Battery Metals",
-      "date": "2026-10-07",
-      "link": "https://www.mining.com/web/zimbabwes-lithium-export-earnings-surge-on-higher-spodumene-prices/"
     },
     {
       "headline": "Enzymes could unlock biological recycling of difficult plastic waste",

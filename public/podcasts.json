@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-08T02:19:00.486Z",
+  "generatedAt": "2026-10-08T14:20:19.307Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
-        "title": "Novo Congresso: emendas, influencers e maioria do PL",
-        "date": "2026-10-07",
-        "url": "https://open.spotify.com/episode/3LkT5nQi5MI1YnKMH0ZNsy",
+        "title": "O STF e a crise do STF pós-primeiro turno",
+        "date": "2026-10-08",
+        "url": "https://open.spotify.com/episode/5KsaN17VA1kklqzmHFcmym",
         "isNew": true
       }
     },
     {
       "name": "Posse de Bola",
       "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
       "latestEpisode": {
         "title": "#707: Qual o foi o saldo da Data Fifa? A volta do Brasileirão e o título feminino do São Paulo!",
         "date": "2026-10-05",
@@ -26,11 +26,11 @@
     {
       "name": "WSJ What's News",
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "The Tension and Turnover at Bessent’s Treasury Department",
-        "date": "2026-10-07",
-        "url": "https://open.spotify.com/episode/6H9D57Mxeumr8j5u2HSawN",
+        "title": "Do Smartglasses Belong in Public Spaces?",
+        "date": "2026-10-08",
+        "url": "https://open.spotify.com/episode/0Fb2JiHRDqhKujmXsJn5fd",
         "isNew": true
       }
     },
@@ -39,10 +39,10 @@
       "showUrl": "https://open.spotify.com/show/7dSHR4UqvZjX3I9mZ4rBlu",
       "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8af46957f9ffdf22624d5fc284",
       "latestEpisode": {
-        "title": "Teaser: Chemistry at Its Core",
-        "date": "2026-10-01",
-        "url": "https://open.spotify.com/episode/3hDtKgtUdSBYVyGr6SZiQQ",
-        "isNew": false
+        "title": "When Passion Meets Real Life: Chemistry at Its Core, Episode 1",
+        "date": "2026-10-08",
+        "url": "https://open.spotify.com/episode/4CRPMgcNegdlxQkZUMeNB9",
+        "isNew": true
       }
     },
     {
