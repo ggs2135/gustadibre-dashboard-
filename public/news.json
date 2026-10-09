@@ -1,43 +1,67 @@
 {
-  "generatedAt": "2026-10-08T14:20:18.054Z",
+  "generatedAt": "2026-10-09T14:05:20.013Z",
   "items": [
     {
-      "headline": "Dynasty concludes Thundercloud drill campaign",
-      "summary": "Dynasty Gold (TSXV: DYG) has completed its fourteen-drillhole program at its Thundercloud property in northwestern Ontario. Six holes were drilled in the […] The post Dynasty concludes Thundercloud drill campaign…",
+      "headline": "DLE Xchange Canada seeks 2027 conference speakers",
+      "summary": "Direct Lithium Extraction (DLE) Xchange is calling for speakers to present on commercial lithium production at its Alberta conference. The one-day event […] The post DLE Xchange Canada seeks 2027 conference speakers…",
       "category": "supply",
-      "minerals": [],
+      "minerals": [
+        "Lithium"
+      ],
       "source": "Canadian Mining Journal",
-      "date": "2026-10-08",
-      "link": "https://www.canadianminingjournal.com/news/dynasty-concludes-thundercloud-drill-campaign/"
+      "date": "2026-10-09",
+      "link": "https://www.canadianminingjournal.com/news/dle-xchange-canada-seeks-2027-conference-speakers/"
     },
     {
-      "headline": "Epiroc’s 47th autonomous drill in Chile plus upsides of RCS5.12",
-      "summary": "Automation continues to advance in surface mining in Chile. Last month, Epiroc delivered the 47th autonomous Pit Viper blasthole drill in the country, a new milestone that reflects the consolidation of this technology…",
+      "headline": "Infographic: Can Quebec build Canada’s first graphite supply chain?",
+      "summary": "Of Quebec’s many active and planned critical mineral operations, its graphite sector could be the first to establish a complete mine-to-battery-material supply chain in the province. Nouveau Monde Graphite (NYSE:...…",
       "category": "supply",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-10-08",
-      "link": "https://im-mining.com/2026/10/08/epirocs-47th-autonomous-drill-in-chile-plus-upsides-of-rcs5-12/"
+      "minerals": [
+        "Graphite"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-10-09",
+      "link": "https://www.northernminer.com/news/infographic-can-quebec-build-canadas-first-graphite-supply-chain/1003895573/"
     },
     {
-      "headline": "Wesdome eyes low-cost gold boost at Quebec’s Kiena",
-      "summary": "Wesdome Gold Mines’ (TSX: WDO; US-OTC: WDOFF) Kiena mine in Val-d’Or, Que., could increase production by 10% to 15% without major new capital spending, while an aggressive drilling program is... The post Wesdome eyes…",
+      "headline": "Editorial: Quebec’s new power rationing",
+      "summary": "This editorial appeared in The Northern Miner’s October print edition, which features a special focus on Quebec’s mining industry. As the province pursues new mines and mineral-processing plants, we examine... The post…",
       "category": "supply",
       "minerals": [],
       "source": "The Northern Miner",
-      "date": "2026-10-08",
-      "link": "https://www.northernminer.com/news/wesdome-eyes-low-cost-gold-boost-at-quebecs-kiena/1003895550/"
+      "date": "2026-10-09",
+      "link": "https://www.northernminer.com/regulatory-issues/editorial-quebecs-new-power-rationing/1003895616/"
     },
     {
-      "headline": "Copper price gains as Chile strike threatens output",
-      "summary": "Copper prices climbed Thursday as a strike by more than 700 workers at Antofagasta’s (LSE: ANTO) Centinela mine in Chile raised concerns about production disruptions that could become more serious... The post Copper…",
+      "headline": "CleanTech Lithium expands foothold in Argentina",
+      "summary": "CleanTech Lithium (LSE: CTL) has secured options to add two lithium brine properties in Argentina’s Salar de Antofalla, expanding its footprint near the flagship Laguna Verde project. The company signed... The post…",
       "category": "supply",
+      "minerals": [
+        "Lithium"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-10-09",
+      "link": "https://www.northernminer.com/news/cleantech-lithium-expands-foothold-in-argentina/1003895600/"
+    },
+    {
+      "headline": "EU puts KGHM’s $2.4B copper projects on fast track",
+      "summary": "The European Commission has granted strategic status to two copper projects worth a combined 9.5 billion zlotys ($2.44 billion) proposed by Polish state-controlled producer KGHM Polska Miedz under the EU’s Critical Raw…",
+      "category": "funding",
       "minerals": [
         "Copper"
       ],
-      "source": "The Northern Miner",
+      "source": "MINING.com",
+      "date": "2026-10-09",
+      "link": "https://www.mining.com/eu-puts-kghms-2-4b-copper-projects-on-fast-track/"
+    },
+    {
+      "headline": "SigraFi raises $35M to connect artisanal gold to institutional markets",
+      "summary": "UK-headquartered gold offtake company SigraFi said Thursday it has secured a $35 million credit facility to finance gold supply. The facility is provided by a consortium of British and UAE investors led by UAE-based…",
+      "category": "funding",
+      "minerals": [],
+      "source": "MINING.com",
       "date": "2026-10-08",
-      "link": "https://www.northernminer.com/news/copper-price-gains-as-chile-strike-threatens-output/1003895558/"
+      "link": "https://www.mining.com/sigrafi-raises-35m-to-connect-artisanal-gold-to-institutional-markets/"
     },
     {
       "headline": "New polystyrene uses 50% plant-based material and breaks into fragments for potential recycling",
@@ -49,17 +73,6 @@
       "source": "Phys.org Chemistry",
       "date": "2026-10-07",
       "link": "https://phys.org/news/2026-10-polystyrene-based-material-fragments-potential.html"
-    },
-    {
-      "headline": "Opinion | Most Recycling Is a Waste",
-      "summary": "Metals and some plastics are worth separating, but the rest of it is costly and can hurt the environment.",
-      "category": "science",
-      "minerals": [
-        "Recycling"
-      ],
-      "source": "WSJ — World News",
-      "date": "2026-10-07",
-      "link": "https://www.wsj.com/opinion/most-recycling-is-a-waste-091924e1?mod=rss_worldnews"
     },
     {
       "headline": "Enzymes could unlock biological recycling of difficult plastic waste",
@@ -92,18 +105,6 @@
       "source": "MINING.com",
       "date": "2026-10-07",
       "link": "https://www.mining.com/dutch-central-bank-transfers-86-tonnes-of-gold-closer-to-home/"
-    },
-    {
-      "headline": "Sigma Lithium jumps after Brazil court reopens mine",
-      "summary": "Sigma Lithium (Nasdaq, TSXV: SGML; ASX: SAU) shares rose as much as 6.7% in New York on Wednesday after a Brazilian appeals court upheld its environmental licences, clearing the company... The post Sigma Lithium jumps…",
-      "category": "economic",
-      "minerals": [
-        "Lithium",
-        "Brazil"
-      ],
-      "source": "The Northern Miner",
-      "date": "2026-10-07",
-      "link": "https://www.northernminer.com/news/sigma-lithium-jumps-after-brazil-court-reopens-mine/1003895529/"
     }
   ]
 }

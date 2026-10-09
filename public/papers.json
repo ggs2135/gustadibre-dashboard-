@@ -1,86 +1,105 @@
 {
-  "generatedAt": "2026-10-08T14:20:21.124Z",
+  "generatedAt": "2026-10-09T14:05:25.985Z",
   "items": [
     {
-      "title": "Global Civilizational Equilibrium Doctrine 2026 (GCED-26) Version 2.0 — Comprehensive Governance & Systems Framework A FAIR+D Canon™ Institutional Framework",
+      "title": "Profiling health for equitable benefit-sharing in the global critical mineral value-chain: a lens from East and Southern Africa",
       "authors": [
-        "Bidyut Mazumdar"
+        "Rene H. Loewenson",
+        "Lyman Mlambo",
+        "Marja Hinfelaar",
+        "Francine Iragi Mukotanyi"
+      ],
+      "venue": "Globalization and Health",
+      "date": "2026-10-08",
+      "abstract": "",
+      "link": "https://doi.org/10.1186/s12992-026-01243-7",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Renewable demand or sanctions? A descriptive decomposition of Russia–China mineral trade dynamics",
+      "authors": [
+        "S. Lin"
+      ],
+      "venue": "Russian Journal of Economics",
+      "date": "2026-10-08",
+      "abstract": "After comprehensive Western economic sanctions were imposed in 2022, Russia’s critical mineral exports to China surged from a pre-sanctions (2000–2021) annual average of $277 million per mineral to $1.02 billion per mineral in 2022–2024, both in current U.S. dollars — a 268% increase. This raises a fundamental…",
+      "link": "https://doi.org/10.32609/j.ruje.12.177572",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Replication Dataset and Analysis Materials for \"Observability-Based Design for Critical-Mineral Demand Monitoring under Statistical Discontinuity in Japan's Special Steel Industry\"",
+      "authors": [
+        "Wataru Aaraki",
+        "Akira Nagamatsu"
       ],
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-06",
-      "abstract": "Global Civilizational Equilibrium Doctrine 2026 (GCED-26) Version 2.0 — Complete Twelve-Volume Governance and Systems Framework GCED-26 Version 2.0 presents a twelve-volume interdisciplinary governance and systems framework for the structured design, analysis, modelling, evaluation, documentation, and potential…",
-      "link": "https://doi.org/10.5281/zenodo.18717495",
+      "date": "2026-10-08",
+      "abstract": "This replication package supports the manuscript “Observability-Based Design for Critical-Mineral Demand Monitoring under Statistical Discontinuity in Japan’s Special Steel Industry.” The study examines whether continuously available industrial production statistics can provide supplementary monitoring information…",
+      "link": "https://doi.org/10.5281/zenodo.23112583",
       "source": "OpenAlex"
     },
     {
-      "title": "Early Warning Analytics for Critical Mineral Supply Disruption Risk: Trade Signals, Geopolitical Indicators, and Decision Support",
+      "title": "More than a grain of salt: technological substitution and the instability of critical mineral policy",
       "authors": [
-        "Vadym Antonenko"
+        "Ron Janjua",
+        "Vlado Vivoda",
+        "Chengjian Xu"
+      ],
+      "venue": "Mineral Economics",
+      "date": "2026-10-08",
+      "abstract": "Abstract Critical mineral policy rests on an underexamined premise: that the importance of specific minerals is stable rather than contingent on evolving technological systems. This paper makes two operational contributions. First, it specifies technological substitution as a monitorable seven-stage sequence with…",
+      "link": "https://doi.org/10.1007/s13563-026-00717-9",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "CHOKEPOINTS CUT BOTH WAYS: U.S. Advanced Semiconductor Controls and China's Critical-Mineral and RareEarth Controls, October 2022–June 2026",
+      "authors": [
+        "Mpilontle Mbambo",
+        "Dhanvi Sharma -",
+        "Vanshika Lodhi",
+        "Sampurna Bhowmik"
       ],
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-06",
-      "abstract": "Critical minerals underpin defense systems, clean energy technologies, and advanced manufacturing. Many of these minerals exhibit high geographic concentration in extraction or processing, creating exposure to export policy changes, production disruptions, and market manipulation. This research project examines how…",
-      "link": "https://doi.org/10.5281/zenodo.23173843",
+      "date": "2026-10-08",
+      "abstract": "Abstract Export controls are increasingly central to U.S.-China economic competition. This article compares U.S. restrictions on advanced semiconductors and semiconductor-manufacturing capabilities with China’s controls on selected critical minerals, rare-earth elements, magnets, and related technologies between…",
+      "link": "https://doi.org/10.5281/zenodo.23239225",
       "source": "OpenAlex"
     },
     {
-      "title": "Scripts for publication \"Beyond Bulk Grade: Mineral–Flow Accessibility Controls Pore-Scale Copper Recovery\"",
+      "title": "Will this time be different? Just transition pathways in eastern and Southern Africa’s critical minerals sector",
       "authors": [
-        "Arjun Chakrawal",
-        "Maruti Kumar Mudunuru",
-        "Satish Karra"
+        "Ezgi Canpolat",
+        "Jara Bakx",
+        "Megan Cole"
+      ],
+      "venue": "The Extractive Industries and Society",
+      "date": "2026-10-07",
+      "abstract": "The global energy transition is driving unprecedented demand for critical minerals required for renewable energy technologies like solar panels, wind turbines, and battery storage systems. However, the future translation of mineral reserves into equitable socio-economic development in the region depends on policy…",
+      "link": "https://doi.org/10.1016/j.exis.2026.102063",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Mapping Volcanic Facies for Critical Mineral Exploration Through Seismic Attributes and Machine Learning",
+      "authors": [
+        "Danial Mansourian",
+        "David Lubo-Robles",
+        "Heather Bedle"
+      ],
+      "venue": "Interpretation",
+      "date": "2026-10-07",
+      "abstract": "Abstract Critical minerals (CM) are essential for emerging technologies; however, their exploration remains challenging because they occur in complex geological settings and often exhibit weak seismic expression. Volcanic facies (VF) are one of their sources of occurrence, where minerals such as lead, cobalt, copper,…",
+      "link": "https://doi.org/10.1190/int-2026-1061",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "2026 The Mineral Exploration \"Get-Rich Map\" : First-Tier Exploration Hotspots in the World, Australia & China",
+      "authors": [
+        "铭扬 丁"
       ],
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-06",
-      "abstract": "Beyond Bulk Grade: Mineral–Flow Accessibility at the Pore Scale This release provides the code, analysis products, and reproducibility materials supporting the manuscript: Chakrawal et al., Beyond Bulk Grade: Mineral–Flow Accessibility Controls Pore-Scale Copper Recovery. Critical-mineral recovery is commonly…",
-      "link": "https://doi.org/10.5281/zenodo.23197179",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Geopolitical fragmentation and the green energy transition: systemic reconfiguration across energy and critical metal markets",
-      "authors": [
-        "Savaş Tarkun",
-        "Şerife Akıncı Tok"
-      ],
-      "venue": "Global Environmental Change",
-      "date": "2026-10-06",
-      "abstract": "The global energy transition is unfolding within an increasingly fragmented geopolitical environment in which energy security, climate policy uncertainty, and critical mineral dependence interact. This study examines whether upward and downward movements in geopolitical risk generate structurally different patterns…",
-      "link": "https://doi.org/10.1016/j.gloenvcha.2026.103241",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Multi-objective optimization of hot-dip galvanizing operating conditions under uncertainty: a simulation-based sustainability framework with coating quality constraints",
-      "authors": [
-        "Jose D. Hernández-Betancur"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-06",
-      "abstract": "Hot-dip galvanizing protects much of the world's structural steel with zinc, a critical mineral, through chemical baths whose operation is rarely optimized against sustainability criteria. This work couples a stochastic simulation of a batch galvanizing line, previously assessed with sustainability indicators and a…",
-      "link": "https://doi.org/10.5281/zenodo.23198094",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Lithium Constraints on India’s Transport Electrification: System-Level Impacts and Policy Implications for the Net-Zero Transition",
-      "authors": [
-        "Anu Agarwal",
-        "Amit Kanudia",
-        "Tarun Sharma"
-      ],
-      "venue": "Environmental Research Letters",
-      "date": "2026-10-05",
-      "abstract": "Abstract Energy transition pathways have largely treated critical minerals as unconstrained for the deployment of low-carbon energy technologies. This paper challenges this assumption for India, the third-largest energy consumer globally and a major importer of battery-grade minerals, by incorporating lithium supply…",
-      "link": "https://doi.org/10.1088/1748-9326/aeb03a",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "THE EL-RAKHAWI DOCTRINE OF ENERGY SOVEREIGNTY AND CLIMATE JUSTICE REFRAMING ENERGY SECURITY, GEOPOLITICS, AND THE JUST TRANSITION UNDER INTERNATIONAL",
-      "authors": [
-        "mohamed kamal arafa el-rakhawi"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-05",
-      "abstract": "The El-Rakhawi Doctrine of Energy Sovereignty and Climate Justice reframes global energy governance to combat green colonialism and ensure an equitable transition for the Global South. It introduces six foundational pillars: (1) Sustainable Energy Sovereignty, elevating clean energy access to a fundamental human…",
-      "link": "https://doi.org/10.5281/zenodo.23148866",
+      "date": "2026-10-07",
+      "abstract": "💰 Where is the world actually looking for minerals? Where is the money going? And where might the next major discovery happen? If you want to search for the “get-rich code” of the global mineral industry, you probably should not start with a list of mining companies. Start with the map. Where is exploration capital…",
+      "link": "https://doi.org/10.5281/zenodo.23207811",
       "source": "OpenAlex"
     },
     {
@@ -283,18 +302,6 @@
       "date": "2026-07-06",
       "abstract": "Europe's industries rely heavily on rare earth elements (REEs), classified by the European Union (EU) as critical raw materials (CRMs) since 2011. Yet almost all are imported, and domestic recycling of products containing REEs remains minimal. Some REEs are key components of permanent magnets (PMs), used in…",
       "link": "https://doi.org/10.5281/zenodo.21215247",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Bibliometric Analysis of Green Investment in Electric Vehicles",
-      "authors": [
-        "Loso Judijanto",
-        "Helda Yusita"
-      ],
-      "venue": "West Science Social and Humanities Studies",
-      "date": "2026-06-26",
-      "abstract": "The present study conducts a bibliometric review of scholarly work related to green investment for electric vehicles (EVs). The main objective of the review is to provide an insight into the knowledge base of green investment in EVs in terms of the intellectual structure, theme evolution, and international…",
-      "link": "https://doi.org/10.58812/wsshs.v4i06.2942",
       "source": "OpenAlex"
     }
   ]
