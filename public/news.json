@@ -1,16 +1,54 @@
 {
-  "generatedAt": "2026-10-09T14:05:20.013Z",
+  "generatedAt": "2026-10-10T13:15:28.470Z",
   "items": [
     {
-      "headline": "DLE Xchange Canada seeks 2027 conference speakers",
-      "summary": "Direct Lithium Extraction (DLE) Xchange is calling for speakers to present on commercial lithium production at its Alberta conference. The one-day event […] The post DLE Xchange Canada seeks 2027 conference speakers…",
-      "category": "supply",
+      "headline": "Zimbabwe says no justification to delay lithium export ban",
+      "summary": "Zimbabwe said there’s no reason to delay a ban on exports of lithium concentrate that’s scheduled to come into effect in January. The southern African nation halted shipments of lithium concentrate in February to…",
+      "category": "politics",
       "minerals": [
         "Lithium"
       ],
-      "source": "Canadian Mining Journal",
+      "source": "MINING.com — Battery Metals",
       "date": "2026-10-09",
-      "link": "https://www.canadianminingjournal.com/news/dle-xchange-canada-seeks-2027-conference-speakers/"
+      "link": "https://www.mining.com/web/zimbabwe-says-no-justification-to-delay-lithium-export-ban/"
+    },
+    {
+      "headline": "Gold council urges miners to name refiners",
+      "summary": "Gold miners are being urged to identify the refiners receiving metal from each operating mine under a World Gold Council disclosure framework aimed at making legitimate gold flows easier to... The post Gold council…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-10-09",
+      "link": "https://www.northernminer.com/news/gold-council-urges-miners-to-name-refiners/1003895621/"
+    },
+    {
+      "headline": "EU fast-tracks KGHM’s $3.46B Polish copper projects",
+      "summary": "The European Commission has granted strategic status to two copper projects worth a combined more than 9.5 billion zlotys ($3.46 billion) being developed by Polish state-controlled producer KGHM Polska Miedz... The…",
+      "category": "funding",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-10-09",
+      "link": "https://www.northernminer.com/news/eu-fast-tracks-kghms-3-46b-polish-copper-projects/1003895652/"
+    },
+    {
+      "headline": "Editorial: Quebec’s new power rationing",
+      "summary": "This editorial appeared in The Northern Miner’s October print edition, which features a special focus on Quebec’s mining industry. As the province pursues new mines and mineral-processing plants, we examine... The post…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-10-09",
+      "link": "https://www.northernminer.com/regulatory-issues/editorial-quebecs-new-power-rationing/1003895616/"
+    },
+    {
+      "headline": "Tax breaks could spur $1.6B more in exploration: AME",
+      "summary": "Federal govt's commitment to expand eligible activities under CEE will create as many as 34,000 full time jobs, report found. The post Tax breaks could spur $1.6B more in exploration: AME appeared first on The Northern…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-10-09",
+      "link": "https://www.northernminer.com/news/tax-breaks-could-spur-1-6b-more-in-exploration-ame/1003895613/"
     },
     {
       "headline": "Infographic: Can Quebec build Canada’s first graphite supply chain?",
@@ -24,24 +62,36 @@
       "link": "https://www.northernminer.com/news/infographic-can-quebec-build-canadas-first-graphite-supply-chain/1003895573/"
     },
     {
-      "headline": "Editorial: Quebec’s new power rationing",
-      "summary": "This editorial appeared in The Northern Miner’s October print edition, which features a special focus on Quebec’s mining industry. As the province pursues new mines and mineral-processing plants, we examine... The post…",
-      "category": "supply",
-      "minerals": [],
-      "source": "The Northern Miner",
+      "headline": "Rare earth recycling can bridge US supply gap as mines face long timelines, Paladin says",
+      "summary": "Recycling end-of-life electronics, wind turbines and other industrial equipment could provide the United States with a near-term source of rare earths as the country works to develop new mines and processing capacity,…",
+      "category": "science",
+      "minerals": [
+        "Rare earths",
+        "Recycling"
+      ],
+      "source": "MINING.com",
       "date": "2026-10-09",
-      "link": "https://www.northernminer.com/regulatory-issues/editorial-quebecs-new-power-rationing/1003895616/"
+      "link": "https://www.mining.com/rare-earth-recycling-can-bridge-us-supply-gap-as-mines-face-long-timelines-paladin-says/"
     },
     {
-      "headline": "CleanTech Lithium expands foothold in Argentina",
-      "summary": "CleanTech Lithium (LSE: CTL) has secured options to add two lithium brine properties in Argentina’s Salar de Antofalla, expanding its footprint near the flagship Laguna Verde project. The company signed... The post…",
-      "category": "supply",
+      "headline": "Rock Tech closes $6M private placement",
+      "summary": "Rock Tech Lithium (TSXV: RCK) has raised $6 million (US$4.21 million) to fund a feasibility study for its Georgia Lake mine and […] The post Rock Tech closes $6M private placement appeared first on Canadian Mining…",
+      "category": "funding",
       "minerals": [
         "Lithium"
       ],
-      "source": "The Northern Miner",
+      "source": "Canadian Mining Journal",
       "date": "2026-10-09",
-      "link": "https://www.northernminer.com/news/cleantech-lithium-expands-foothold-in-argentina/1003895600/"
+      "link": "https://www.canadianminingjournal.com/news/rock-tech-closes-6m-private-placement/"
+    },
+    {
+      "headline": "New Schneider Electric series tackles AI, energy demand and sustainability",
+      "summary": "Schneider Electric Canada has announced Innovation Days Canada, a three-city event series bringing together leaders from businesses, energy, government and sports to […] The post New Schneider Electric series tackles…",
+      "category": "funding",
+      "minerals": [],
+      "source": "Canadian Mining Journal",
+      "date": "2026-10-09",
+      "link": "https://www.canadianminingjournal.com/news/new-schneider-electric-series-tackles-ai-energy-demand-and-sustainability/"
     },
     {
       "headline": "EU puts KGHM’s $2.4B copper projects on fast track",
@@ -53,58 +103,6 @@
       "source": "MINING.com",
       "date": "2026-10-09",
       "link": "https://www.mining.com/eu-puts-kghms-2-4b-copper-projects-on-fast-track/"
-    },
-    {
-      "headline": "SigraFi raises $35M to connect artisanal gold to institutional markets",
-      "summary": "UK-headquartered gold offtake company SigraFi said Thursday it has secured a $35 million credit facility to finance gold supply. The facility is provided by a consortium of British and UAE investors led by UAE-based…",
-      "category": "funding",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-10-08",
-      "link": "https://www.mining.com/sigrafi-raises-35m-to-connect-artisanal-gold-to-institutional-markets/"
-    },
-    {
-      "headline": "New polystyrene uses 50% plant-based material and breaks into fragments for potential recycling",
-      "summary": "Polystyrene is used in protective packaging for televisions and electronic devices, in decorative boards and baseboards for interior construction, and in petri dishes. It is one of the world's most important plastics,…",
-      "category": "science",
-      "minerals": [
-        "Recycling"
-      ],
-      "source": "Phys.org Chemistry",
-      "date": "2026-10-07",
-      "link": "https://phys.org/news/2026-10-polystyrene-based-material-fragments-potential.html"
-    },
-    {
-      "headline": "Enzymes could unlock biological recycling of difficult plastic waste",
-      "summary": "They are durable, cheap and everyday life is now hardly imaginable without them: plastics. More then 400 million metric tons are produced every year. As a large proportion is only insufficiently recycled, the…",
-      "category": "science",
-      "minerals": [
-        "Recycling"
-      ],
-      "source": "Phys.org Chemistry",
-      "date": "2026-10-07",
-      "link": "https://phys.org/news/2026-10-enzymes-biological-recycling-difficult-plastic.html"
-    },
-    {
-      "headline": "Anglo-Teck merger, nickel sale are test cases for navigating geopolitical complexities, CEO says",
-      "summary": "Anglo American’s (LON: AAL) proposed $54 billion merger with Canada’s Teck Resources (TSX: TECK.B) and the sale of its Brazilian nickel business have become test cases for navigating geopolitical complexities as they…",
-      "category": "politics",
-      "minerals": [
-        "Nickel",
-        "Brazil"
-      ],
-      "source": "MINING.com — Battery Metals",
-      "date": "2026-10-07",
-      "link": "https://www.mining.com/web/anglo-teck-merger-nickel-sale-are-test-cases-for-navigating-geopolitical-complexities-ceo-says/"
-    },
-    {
-      "headline": "Dutch central bank transfers 86 tonnes of gold closer to home",
-      "summary": "De Nederlandsche Bank (DNB) has moved about 86 tonnes of gold from North America to London between March and August 2026, to strengthen its crisis preparedness and move the metal to a closer and more geopolitically…",
-      "category": "politics",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-10-07",
-      "link": "https://www.mining.com/dutch-central-bank-transfers-86-tonnes-of-gold-closer-to-home/"
     }
   ]
 }

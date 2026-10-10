@@ -1,6 +1,93 @@
 {
-  "generatedAt": "2026-10-09T14:05:25.985Z",
+  "generatedAt": "2026-10-10T13:15:32.245Z",
   "items": [
+    {
+      "title": "Recycling of waste NdFeB magnets: From rare earth recovery to associated element valorization and sustainability assessment",
+      "authors": [
+        "Yu-Chao Qiu",
+        "Qiang Zhang",
+        "Yong-Sheng Sun",
+        "Yue-Xin Han"
+      ],
+      "venue": "Chemical engineering research & design",
+      "date": "2026-11-01",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.psep.2026.109684",
+      "source": "Semantic Scholar"
+    },
+    {
+      "title": "Rare Earth Element Recycling for Sustainable Energy Storage and Renewable Technology Supply Chains: A Critical Review with ASEAN Perspectives",
+      "authors": [
+        "GONE YI THAW MAUNG"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-10",
+      "abstract": "The global shift toward renewable energy and electrified transport has sharply increased demand for rare earth elements (REEs), particularly neodymium, praseodymium, and dysprosium used in NdFeB permanent magnets for wind turbines and electric vehicle motors, yet recycling currently supplies only a small share of…",
+      "link": "https://doi.org/10.5281/zenodo.23255558",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "A Mobile Edge Computing and Blockchain Framework for Secure Cross-Island Critical Mineral Traceability",
+      "authors": [
+        "Musran Munizu",
+        "Suraya Ainun Lestari",
+        "Muhammad Asdar",
+        "Adeel Akmal"
+      ],
+      "venue": "International Journal of Interactive Mobile Technologies (iJIM)",
+      "date": "2026-10-09",
+      "abstract": "Cloud-based traceability systems depend on continuous connectivity, limiting their reliability in geographically dispersed mineral supply chains where prolonged network outages may occur. This study proposes an offline-first architecture integrating Mobile Edge Computing (MEC) with a permissioned blockchain for…",
+      "link": "https://doi.org/10.3991/ijim.v20i19.63193",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "An interdisciplinary workforce blueprint from critical minerals to space manufacturing via SHIP",
+      "authors": [
+        "Paul F. Ndione",
+        "Guangdong Zhu"
+      ],
+      "venue": null,
+      "date": "2026-10-09",
+      "abstract": "Under the leadership of the U.S. Department of Energy’s Office of Critical Minerals and Energy Innovation (CMEI), Solar Heat for Industrial Processes (SHIP) has transitioned into a strategic industrial engine. This presentation outlines a workforce blueprint leveraging HelioCon’s interdisciplinary model. This…",
+      "link": "https://doi.org/10.1117/12.3113958",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Strategic Potential of DPRK's Mineral Resources for Integration into Global Critical Mineral Supply Chains",
+      "authors": [
+        "Jaewook Kim",
+        "Juan Lee",
+        "Yongchae Cho",
+        "Jaebum Kim"
+      ],
+      "venue": "Research Square",
+      "date": "2026-10-09",
+      "abstract": "",
+      "link": "https://doi.org/10.21203/rs.3.rs-11135594/v1",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "STRATEGIC DIPLOMACY OF ANGOLA IN AN INTERNATIONAL SYSTEM IN TRANSFORMATION: THE COUNTRY'S ROLE IN CONFLICT MEDIATION, THE LOBITO CORRIDOR, AND THE GEOPOLITICAL RECONFIGURATION OF AFRICA",
+      "authors": [
+        "Lourenço Pinto Francisco Kwenda"
+      ],
+      "venue": "Seven Editora eBooks",
+      "date": "2026-10-09",
+      "abstract": "The accelerated transformation of the international system has produced new disputes of influence, competition for strategic resources, reconfiguration of geopolitical alliances and growing appreciation of the ability of African states to define their own agendas. In this context, Angola assumes a particularly…",
+      "link": "https://doi.org/10.56238/sevened2026.030-083",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "KTR-001: Conceptual Architecture for a Self-Sustaining One-Million-Person Civilization on Titan for 1,000 Years",
+      "authors": [
+        "Kim Khanh Nguyen"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-09",
+      "abstract": "This paper officially launches Khánh Titan Research (KTR), an interdisciplinary research initiative dedicated to investigating the scientific, engineering, biological, industrial, and societal requirements for establishing a self-sustaining human civilization on Titan, Saturn’s largest moon. The long-term conceptual…",
+      "link": "https://doi.org/10.5281/zenodo.23251953",
+      "source": "OpenAlex"
+    },
     {
       "title": "Profiling health for equitable benefit-sharing in the global critical mineral value-chain: a lens from East and Southern Africa",
       "authors": [
@@ -11,96 +98,48 @@
       ],
       "venue": "Globalization and Health",
       "date": "2026-10-08",
-      "abstract": "",
+      "abstract": "Critical minerals used in low-carbon technologies are vital for the global energy transition, but with disproportionate benefit for wealthy countries and risks from their extraction in the Global South. Globally, African countries, particularly in East and Southern Africa, are reported to hold high shares of global…",
       "link": "https://doi.org/10.1186/s12992-026-01243-7",
       "source": "OpenAlex"
     },
     {
-      "title": "Renewable demand or sanctions? A descriptive decomposition of Russia–China mineral trade dynamics",
+      "title": "India’s transition towards clean energy and its emerging geopolitical implications",
       "authors": [
-        "S. Lin"
+        "Aniket S. Adsul",
+        "Ravindra G. Jaybhaye",
+        "Rahul M. Lad"
       ],
-      "venue": "Russian Journal of Economics",
+      "venue": "Discover Sustainability",
       "date": "2026-10-08",
-      "abstract": "After comprehensive Western economic sanctions were imposed in 2022, Russia’s critical mineral exports to China surged from a pre-sanctions (2000–2021) annual average of $277 million per mineral to $1.02 billion per mineral in 2022–2024, both in current U.S. dollars — a 268% increase. This raises a fundamental…",
-      "link": "https://doi.org/10.32609/j.ruje.12.177572",
+      "abstract": "The transition of India toward clean energy represents a major transformation in its economic, environmental, and geopolitical landscape. As one of the world’s fastest-growing energy consumers, India is increasingly promoting non-fossil fuel energy sources such as solar, wind, hydro, nuclear energy, and green…",
+      "link": "https://doi.org/10.1007/s43621-026-04496-9",
       "source": "OpenAlex"
     },
     {
-      "title": "Replication Dataset and Analysis Materials for \"Observability-Based Design for Critical-Mineral Demand Monitoring under Statistical Discontinuity in Japan's Special Steel Industry\"",
+      "title": "Resilience of copper-cobalt supply chains for the energy transition: A dynamic cascading failure analysis",
       "authors": [
-        "Wataru Aaraki",
-        "Akira Nagamatsu"
+        "Mingmei Song",
+        "Hailiang Zhang"
       ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-08",
-      "abstract": "This replication package supports the manuscript “Observability-Based Design for Critical-Mineral Demand Monitoring under Statistical Discontinuity in Japan’s Special Steel Industry.” The study examines whether continuously available industrial production statistics can provide supplementary monitoring information…",
-      "link": "https://doi.org/10.5281/zenodo.23112583",
+      "venue": "Journal of Cleaner Production",
+      "date": "2026-10-01",
+      "abstract": "Enhancing the resilience of critical mineral supply chains is essential for mitigating risks arising from export disruptions and upstream supply concentration. This study develops a multilayer trade network framework to assess the resilience of global copper and cobalt supply chains under export-reduction shocks.…",
+      "link": "https://doi.org/10.1016/j.jclepro.2026.149642",
       "source": "OpenAlex"
     },
     {
-      "title": "More than a grain of salt: technological substitution and the instability of critical mineral policy",
+      "title": "Recycling of Critical Rare Earth Materials for Sustainable Applications: A Circular Economy Perspective",
       "authors": [
-        "Ron Janjua",
-        "Vlado Vivoda",
-        "Chengjian Xu"
+        "Sabyasachi Paul",
+        "Md. Kaviul Islam",
+        "Protap Sarker",
+        "P. Shrotriya"
       ],
-      "venue": "Mineral Economics",
-      "date": "2026-10-08",
-      "abstract": "Abstract Critical mineral policy rests on an underexamined premise: that the importance of specific minerals is stable rather than contingent on evolving technological systems. This paper makes two operational contributions. First, it specifies technological substitution as a monitorable seven-stage sequence with…",
-      "link": "https://doi.org/10.1007/s13563-026-00717-9",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "CHOKEPOINTS CUT BOTH WAYS: U.S. Advanced Semiconductor Controls and China's Critical-Mineral and RareEarth Controls, October 2022–June 2026",
-      "authors": [
-        "Mpilontle Mbambo",
-        "Dhanvi Sharma -",
-        "Vanshika Lodhi",
-        "Sampurna Bhowmik"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-08",
-      "abstract": "Abstract Export controls are increasingly central to U.S.-China economic competition. This article compares U.S. restrictions on advanced semiconductors and semiconductor-manufacturing capabilities with China’s controls on selected critical minerals, rare-earth elements, magnets, and related technologies between…",
-      "link": "https://doi.org/10.5281/zenodo.23239225",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Will this time be different? Just transition pathways in eastern and Southern Africa’s critical minerals sector",
-      "authors": [
-        "Ezgi Canpolat",
-        "Jara Bakx",
-        "Megan Cole"
-      ],
-      "venue": "The Extractive Industries and Society",
-      "date": "2026-10-07",
-      "abstract": "The global energy transition is driving unprecedented demand for critical minerals required for renewable energy technologies like solar panels, wind turbines, and battery storage systems. However, the future translation of mineral reserves into equitable socio-economic development in the region depends on policy…",
-      "link": "https://doi.org/10.1016/j.exis.2026.102063",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Mapping Volcanic Facies for Critical Mineral Exploration Through Seismic Attributes and Machine Learning",
-      "authors": [
-        "Danial Mansourian",
-        "David Lubo-Robles",
-        "Heather Bedle"
-      ],
-      "venue": "Interpretation",
-      "date": "2026-10-07",
-      "abstract": "Abstract Critical minerals (CM) are essential for emerging technologies; however, their exploration remains challenging because they occur in complex geological settings and often exhibit weak seismic expression. Volcanic facies (VF) are one of their sources of occurrence, where minerals such as lead, cobalt, copper,…",
-      "link": "https://doi.org/10.1190/int-2026-1061",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "2026 The Mineral Exploration \"Get-Rich Map\" : First-Tier Exploration Hotspots in the World, Australia & China",
-      "authors": [
-        "铭扬 丁"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-07",
-      "abstract": "💰 Where is the world actually looking for minerals? Where is the money going? And where might the next major discovery happen? If you want to search for the “get-rich code” of the global mineral industry, you probably should not start with a list of mining companies. Start with the map. Where is exploration capital…",
-      "link": "https://doi.org/10.5281/zenodo.23207811",
-      "source": "OpenAlex"
+      "venue": "Clean Technology",
+      "date": "2026-10-01",
+      "abstract": "Rare earth elements (REEs) are central to the performance of a wide spectrum of clean-energy and advanced technologies, making them linchpins of the global energy transition [...]",
+      "link": "https://doi.org/10.3390/cleantechnol8050157",
+      "source": "Semantic Scholar"
     },
     {
       "title": "Patents alone won’t unlock critical-mineral supply chains",
@@ -166,42 +205,6 @@
       "source": "OpenAlex"
     },
     {
-      "title": "Asia can lead the fight against forced labour in critical mineral supply chains",
-      "authors": [
-        "Peter Young"
-      ],
-      "venue": null,
-      "date": "2026-09-16",
-      "abstract": "",
-      "link": "https://doi.org/10.59425/eabc.1789552800",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Countering Weaponized Interdependence: US Critical Mineral Strategy and Greenland’s Sovereign Agency",
-      "authors": [
-        "Lun Cao",
-        "Guojie Liang",
-        "Xiaojun Wang"
-      ],
-      "venue": "Journal of Island and Marine Studies",
-      "date": "2026-09-14",
-      "abstract": "As critical mineral supply chains become central vectors of “weaponized interdependence,” the United States (US) increasingly seeks to mitigate its structural vulnerabilities by securitizing the Arctic resource frontier. This article investigates Washington’s strategic pivot toward Greenland. Employing a novel…",
-      "link": "https://doi.org/10.59711/jims.12.110039",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "La géopolitique climatique et ses répercussions dans le monde : vers une recomposition des rapports de puissance au XXIe siècle",
-      "authors": [
-        "Hicham BAGHDADI",
-        "Mohammed Zakariae ABOUEDDAHAB"
-      ],
-      "venue": "International Journal of Accounting, Finance, Auditing, Management and Economics",
-      "date": "2026-09-14",
-      "abstract": "Résumé : Le changement climatique est désormais appréhendé non seulement comme un phénomène environnemental, mais également comme une variable susceptible de transformer les conditions d’exercice de la puissance, les vulnérabilités territoriales et les priorités stratégiques des États. Le présent article analyse les…",
-      "link": "https://ijafame.org/index.php/ijafame/article/view/2654",
-      "source": "OpenAlex"
-    },
-    {
       "title": "Pyrometallurgical Recovery of Neodymium from Nd–Fe–B Magnets in End-of-Life Electric Vehicle Motors Using Non-Ferrous Smelting Slag Flux",
       "authors": [
         "Chang-Jeong Kim",
@@ -254,6 +257,20 @@
       "source": "OpenAlex"
     },
     {
+      "title": "Release, Cross-Media Transport, and Retained Inventory of Rare Earth Elements from Informal Electronic Waste Recycling.",
+      "authors": [
+        "Zhunan Xiong",
+        "Lingqing Wang",
+        "Qian Zhang",
+        "Xiao Yang"
+      ],
+      "venue": "Environmental Science and Technology",
+      "date": "2026-08-03",
+      "abstract": "Rare earth elements (REEs) are essential for modern electronics and are increasingly entering electronic waste (e-waste) streams. Informal recycling can release REEs into the environment, but their sources, transfer pathways, and retained inventories remain poorly quantified. Here, we combine microscopic particle…",
+      "link": "https://doi.org/10.1021/acs.est.5c18591",
+      "source": "Semantic Scholar"
+    },
+    {
       "title": "Respon Taiwan pada Kebijakan Pengurangan Ekspor Material Kritis oleh Tiongkok Tahun 2023-2025",
       "authors": [
         "Lois Sintikhe Br Siahaan"
@@ -290,18 +307,6 @@
       "date": "2026-07-07",
       "abstract": "Yttrium oxide (Y 2 O 3 ) has become one of the most critical rare-earth materials recently for its essential roles in many indusial applications. With increasing demand for yttrium-containing materials, the recovery of Y 2 O 3 from used fluorescent lamps has received considerable attention. For example, rare-earth…",
       "link": "https://doi.org/10.1149/ma2026-01562711mtgabs",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Policy Recommendations for a Rare Earth Permanent Magnet Recycling Value Chain in Europe",
-      "authors": [
-        "Juliane B. Lamvik",
-        "REEPRODUCE Project"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-07-06",
-      "abstract": "Europe's industries rely heavily on rare earth elements (REEs), classified by the European Union (EU) as critical raw materials (CRMs) since 2011. Yet almost all are imported, and domestic recycling of products containing REEs remains minimal. Some REEs are key components of permanent magnets (PMs), used in…",
-      "link": "https://doi.org/10.5281/zenodo.21215247",
       "source": "OpenAlex"
     }
   ]
