@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T01:23:19.989Z",
+  "generatedAt": "2026-10-11T01:24:04.002Z",
   "items": [
     {
       "title": "Rare Earth Element Recycling for Sustainable Energy Storage and Renewable Technology Supply Chains: A Critical Review with ASEAN Perspectives",
@@ -218,6 +218,19 @@
       "source": "OpenAlex"
     },
     {
+      "title": "Pedal to the metal: Policy overview of critical minerals used in lithium-ion batteries",
+      "authors": [
+        "Avery Long",
+        "Allison J. Gatz",
+        "Malavika Ramkumar"
+      ],
+      "venue": "MIT Science Policy Review",
+      "date": "2026-08-07",
+      "abstract": "Critical minerals play an important role in modern energy technologies but have sparked geopolitical, economic, and environmental concerns. Lithium-ion batteries (LIBs), which are increasingly popular due to their use in electric vehicle technology, are made of a variety of critical minerals. This review offers a…",
+      "link": "https://doi.org/10.38105/spr.n2rsi1xnt3",
+      "source": "Semantic Scholar"
+    },
+    {
       "title": "Correction: Spatial dynamics of lithium battery recycling enterprises in China: implications for smart waste management and public health",
       "authors": [
         "Frontiers Production Office"
@@ -268,6 +281,17 @@
       "source": "OpenAlex"
     },
     {
+      "title": "What attracts critical minerals processing? investment conditions beyond the mine",
+      "authors": [
+        "Vlado Vivoda"
+      ],
+      "venue": "Mineral Economics",
+      "date": "2026-07-07",
+      "abstract": "\n Critical minerals strategies increasingly emphasise the need to move beyond extraction and establish domestic or allied processing capacity. Yet the conditions required to attract processing investment remain poorly specified. This paper argues that processing is neither simply an extension of mining nor governed…",
+      "link": "https://doi.org/10.1007/s13563-026-00674-3",
+      "source": "Semantic Scholar"
+    },
+    {
       "title": "Policy Recommendations for a Rare Earth Permanent Magnet Recycling Value Chain in Europe",
       "authors": [
         "Juliane B. Lamvik",
@@ -277,30 +301,6 @@
       "date": "2026-07-06",
       "abstract": "Europe's industries rely heavily on rare earth elements (REEs), classified by the European Union (EU) as critical raw materials (CRMs) since 2011. Yet almost all are imported, and domestic recycling of products containing REEs remains minimal. Some REEs are key components of permanent magnets (PMs), used in…",
       "link": "https://doi.org/10.5281/zenodo.21215247",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Bibliometric Analysis of Green Investment in Electric Vehicles",
-      "authors": [
-        "Loso Judijanto",
-        "Helda Yusita"
-      ],
-      "venue": "West Science Social and Humanities Studies",
-      "date": "2026-06-26",
-      "abstract": "The present study conducts a bibliometric review of scholarly work related to green investment for electric vehicles (EVs). The main objective of the review is to provide an insight into the knowledge base of green investment in EVs in terms of the intellectual structure, theme evolution, and international…",
-      "link": "https://doi.org/10.58812/wsshs.v4i06.2942",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Reversible self-assembly of polymeric solid electrolyte enables lithium battery recycling",
-      "authors": [
-        "Mohammad Amaan",
-        "Nicholas A. Kotov"
-      ],
-      "venue": "Nature Chemistry",
-      "date": "2026-05-28",
-      "abstract": "",
-      "link": "https://doi.org/10.1038/s41557-026-02154-1",
       "source": "OpenAlex"
     }
   ]

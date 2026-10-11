@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T01:23:19.360Z",
+  "generatedAt": "2026-10-11T01:24:02.499Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
         "title": "Como sonhos (frustrados) viram votos",
         "date": "2026-10-09",
@@ -37,7 +37,7 @@
     {
       "name": "Chain Reaction by ACS",
       "showUrl": "https://open.spotify.com/show/7dSHR4UqvZjX3I9mZ4rBlu",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8af46957f9ffdf22624d5fc284",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8af46957f9ffdf22624d5fc284",
       "latestEpisode": {
         "title": "When Passion Meets Real Life: Chemistry at Its Core, Episode 1",
         "date": "2026-10-08",
