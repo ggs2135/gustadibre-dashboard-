@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T01:24:02.499Z",
+  "generatedAt": "2026-10-11T13:44:37.946Z",
   "shows": [
     {
       "name": "Café da Manhã",
@@ -26,11 +26,11 @@
     {
       "name": "WSJ What's News",
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "What’s News in Markets: Refiners Cash In, AI Stocks Wobble, Homebuilder Blues",
-        "date": "2026-10-10",
-        "url": "https://open.spotify.com/episode/6esFa4kHjVKM15NYBHM49T",
+        "title": "Why Gen Z Voters Are Reconsidering Their Support for Trump",
+        "date": "2026-10-11",
+        "url": "https://open.spotify.com/episode/0qgmrjGebH9liKffcBoI9a",
         "isNew": true
       }
     },
@@ -42,13 +42,13 @@
         "title": "When Passion Meets Real Life: Chemistry at Its Core, Episode 1",
         "date": "2026-10-08",
         "url": "https://open.spotify.com/episode/4CRPMgcNegdlxQkZUMeNB9",
-        "isNew": true
+        "isNew": false
       }
     },
     {
       "name": "Stereo Chemistry",
       "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
       "latestEpisode": {
         "title": "Bonus: Chirality claims the Chem Nobel (again)",
         "date": "2026-10-08",
