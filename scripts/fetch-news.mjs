@@ -1,14 +1,17 @@
-// Runs on a schedule via .github/workflows/fetch-news.yml. Pulls headlines
-// straight from public RSS feeds (no API key, no paid service) and sorts each
-// one into a category / mineral tag by keyword matching. Writes public/news.json,
-// which the static frontend just reads.
-import { writeFile } from "node:fs/promises";
+// Runs on a schedule via .github/workflows/update-and-deploy.yml. Pulls
+// headlines straight from public RSS feeds + the NYT API and sorts each one
+// into a category / mineral tag by keyword matching. Writes public/news.json
+// (today's briefing, for backward compat) plus a dated archive file under
+// public/news/<YYYY-MM-DD>.json and an index of available dates, so the
+// frontend can offer a day picker.
+import { writeFile, readFile, unlink, mkdir } from "node:fs/promises";
 import { XMLParser } from "fast-xml-parser";
 
 const UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36";
 const MAX_AGE_DAYS = 3;
 const PER_CATEGORY_CAP = 4;
 const MAX_TOTAL_ITEMS = 10;
+const MAX_HISTORY_DAYS = 30; // how many daily archives to keep around
 
 const FEEDS = [
   { url: "https://www.mining.com/category/commodities/battery-metals/feed/", source: "MINING.com — Battery Metals" },
@@ -300,4 +303,27 @@ await writeFile(
   JSON.stringify(payload, null, 2) + "\n",
 );
 
-console.log(`Wrote ${items.length} items to public/news.json`);
+const todayStr = payload.generatedAt.slice(0, 10);
+const newsDir = new URL("../public/news/", import.meta.url);
+await mkdir(newsDir, { recursive: true });
+await writeFile(
+  new URL(`${todayStr}.json`, newsDir),
+  JSON.stringify(payload, null, 2) + "\n",
+);
+
+const indexUrl = new URL("index.json", newsDir);
+let dates = [];
+try {
+  dates = JSON.parse(await readFile(indexUrl, "utf8")).dates || [];
+} catch { /* no index yet — first run */ }
+
+dates = [...new Set([todayStr, ...dates])].sort((a, b) => b.localeCompare(a));
+const kept = dates.slice(0, MAX_HISTORY_DAYS);
+const dropped = dates.slice(MAX_HISTORY_DAYS);
+
+await writeFile(indexUrl, JSON.stringify({ dates: kept }, null, 2) + "\n");
+await Promise.all(dropped.map((d) =>
+  unlink(new URL(`${d}.json`, newsDir)).catch(() => {})
+));
+
+console.log(`Wrote ${items.length} items to public/news.json and public/news/${todayStr}.json (${kept.length} days in history)`);

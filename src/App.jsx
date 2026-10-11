@@ -46,6 +46,7 @@ const MINERAL_TAGS = [
 // and .github/workflows/fetch-news.yml) and committed as static files. The
 // frontend only ever reads these — no API keys are ever exposed to the browser.
 const NEWS_URL = "./news.json";
+const NEWS_INDEX_URL = "./news/index.json";
 const PODCASTS_URL = "./podcasts.json";
 const PAPERS_URL = "./papers.json";
 const PRICES_URL = "./prices.json";
@@ -145,6 +146,8 @@ export default function GustaDibreDashboard() {
   const [error, setError] = useState(null);
   const [active, setActive] = useState("all");
   const [tag, setTag] = useState(null);
+  const [availableDates, setAvailableDates] = useState([]);
+  const [selectedDate, setSelectedDate] = useState(null); // null = today/latest
 
   const [shows, setShows] = useState([]);
   const [papers, setPapers] = useState([]);
@@ -181,18 +184,28 @@ export default function GustaDibreDashboard() {
         setMetals(Array.isArray(data.metals) ? data.metals : []);
       } catch { /* section just won't render */ }
     })();
+    (async () => {
+      try {
+        const res = await fetch(`${NEWS_INDEX_URL}?t=${Date.now()}`, { cache: "no-store" });
+        const data = await res.json();
+        setAvailableDates(Array.isArray(data.dates) ? data.dates : []);
+      } catch { /* day picker just won't show history */ }
+    })();
   }, []);
 
-  const load = useCallback(async () => {
+  const load = useCallback(async (date) => {
     setLoading(true);
     setError(null);
     try {
-      const res = await fetch(`${NEWS_URL}?t=${Date.now()}`, { cache: "no-store" });
+      const url = date ? `./news/${date}.json` : NEWS_URL;
+      const res = await fetch(`${url}?t=${Date.now()}`, { cache: "no-store" });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
       const parsedItems = Array.isArray(data.items) ? data.items : [];
       if (!parsedItems.length) {
-        setError("The last briefing came back empty. The next scheduled run should fix this.");
+        setError(date
+          ? "No briefing found for that day."
+          : "The last briefing came back empty. The next scheduled run should fix this.");
       }
       setItems(parsedItems);
       setGeneratedAt(data.generatedAt || null);
@@ -203,7 +216,7 @@ export default function GustaDibreDashboard() {
     }
   }, []);
 
-  useEffect(() => { load(); }, [load]);
+  useEffect(() => { load(selectedDate); }, [load, selectedDate]);
 
   const filtered = items.filter((it) => {
     const catOk = active === "all" || it.category === active;
@@ -301,7 +314,7 @@ export default function GustaDibreDashboard() {
                 {theme === "dark" ? <SunIcon /> : <MoonIcon />}
               </button>
               <button
-                onClick={load}
+                onClick={() => load(selectedDate)}
                 className="cm-btn cm-mono cm-refresh"
                 style={{
                   background: "transparent", color: C.dim,
@@ -348,6 +361,25 @@ export default function GustaDibreDashboard() {
           News <span style={{ opacity: 0.6, textTransform: "none", letterSpacing: 0 }}>· last {MAX_NEWS_AGE_DAYS} days</span>
         </div>
         <div style={{ display: "flex", gap: 10, flexWrap: "wrap", margin: "12px 0 28px" }}>
+          {availableDates.length > 1 && (
+            <select
+              value={selectedDate || ""}
+              onChange={(e) => setSelectedDate(e.target.value || null)}
+              className="cm-mono cm-select"
+              style={{
+                background: C.panel, color: selectedDate ? C.ink : C.faint,
+                border: `1px solid ${selectedDate ? C.accent : C.line}`,
+                borderRadius: 8, padding: "8px 12px", fontSize: 12.5,
+                letterSpacing: "0.02em", cursor: "pointer",
+              }}
+            >
+              <option value="">Today</option>
+              {availableDates.slice(1).map((d) => (
+                <option key={d} value={d}>{formatShortDate(d)}</option>
+              ))}
+            </select>
+          )}
+
           <select
             value={active}
             onChange={(e) => setActive(e.target.value)}
@@ -395,7 +427,7 @@ export default function GustaDibreDashboard() {
             padding: 20, color: C.dim,
           }}>
             {error}
-            <button onClick={load} className="cm-btn cm-mono" style={{
+            <button onClick={() => load(selectedDate)} className="cm-btn cm-mono" style={{
               display: "block", marginTop: 12, background: "transparent",
               color: C.accent, border: `1px solid ${C.accent}`, borderRadius: 6,
               padding: "6px 12px", fontSize: 11,

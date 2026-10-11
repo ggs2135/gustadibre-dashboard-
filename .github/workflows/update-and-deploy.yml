@@ -1,0 +1,66 @@
+name: Update & Deploy
+
+# Fetch, build, and deploy all run in ONE workflow. They used to be two
+# separate workflows (Fetch News -> commit -> push, which was supposed to
+# trigger Deploy via `on: push`), but GitHub never fires a workflow's `push`
+# trigger for a commit made with the default GITHUB_TOKEN (anti-recursion
+# safeguard) — so Deploy silently never ran after the daily auto-commit, and
+# the live site went stale even though the data was updating fine in the
+# repo. Keeping it all in one workflow run sidesteps that entirely.
+
+on:
+  schedule:
+    # 07:00 UTC daily — adjust to your timezone preference.
+    - cron: "0 7 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: npm ci
+
+      - run: npm run fetch-all
+        env:
+          NYT_API_KEY: ${{ secrets.NYT_API_KEY }}
+          METALPRICE_API_KEY: ${{ secrets.METALPRICE_API_KEY }}
+
+      - name: Commit updated briefing
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update daily briefing (news, podcasts, papers, prices)"
+          file_pattern: "public/news.json public/news/*.json public/podcasts.json public/papers.json public/prices.json"
+
+      - run: npm run build
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

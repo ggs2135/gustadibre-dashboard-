@@ -28,7 +28,9 @@ run can come back with zero items for a section (expected — not a bug).
 
 ## How it works
 
-- `scripts/fetch-news.mjs` — RSS + NYT API → `public/news.json`.
+- `scripts/fetch-news.mjs` — RSS + NYT API → `public/news.json`, plus a dated
+  archive at `public/news/<YYYY-MM-DD>.json` and an `index.json` listing the
+  last 30 days, so the frontend's day picker can show previous briefings.
 - `scripts/fetch-podcasts.mjs` — scrapes each show's public Spotify embed
   page (`open.spotify.com/embed/show/<id>`) for its latest episode. No login,
   no API key — Spotify's Web API gates episode listing behind a 250k-MAU
@@ -38,14 +40,15 @@ run can come back with zero items for a section (expected — not a bug).
 - `scripts/fetch-papers.mjs` — OpenAlex + Semantic Scholar →
   `public/papers.json`.
 - `scripts/fetch-prices.mjs` — MetalpriceAPI → `public/prices.json`.
-- `src/App.jsx` is a static React app that just reads those four JSON files.
-- Two GitHub Actions do the work:
-  - **Fetch News** (`.github/workflows/fetch-news.yml`) — runs on a daily cron
-    (07:00 UTC by default), runs all four fetch scripts, and commits the
-    updated JSON files.
-  - **Deploy** (`.github/workflows/deploy.yml`) — runs on every push to `main`
-    (including the daily commit above), builds the site with Vite, and
-    publishes it to GitHub Pages.
+- `src/App.jsx` is a static React app that just reads those JSON files.
+- **Update & Deploy** (`.github/workflows/update-and-deploy.yml`) does
+  everything in one workflow run: on a daily cron (07:00 UTC by default) or a
+  push to `main`, it runs all four fetch scripts, commits the updated JSON
+  files, builds the site with Vite, and publishes it to GitHub Pages.
+  Fetch+build+deploy are deliberately one workflow, not two — a commit made
+  with the default `GITHUB_TOKEN` never triggers another workflow's `push`
+  event (GitHub's anti-recursion safeguard), so a separate "Fetch" workflow
+  committing data would never actually wake up a separate "Deploy" workflow.
 
 ## One-time setup
 
@@ -69,9 +72,9 @@ run can come back with zero items for a section (expected — not a bug).
 4. Add the same two keys as repo secrets: **Settings → Secrets and variables →
    Actions → New repository secret** (`NYT_API_KEY`, `METALPRICE_API_KEY`).
 5. Enable Pages: repo **Settings → Pages → Source: GitHub Actions**.
-6. Generate the first briefing: **Actions tab → Fetch News → Run workflow**.
-   Once it finishes (it commits the four JSON files), the **Deploy** workflow
-   fires automatically and publishes the site.
+6. Generate the first briefing: **Actions tab → Update & Deploy → Run
+   workflow**. It fetches, commits the JSON files, builds, and publishes the
+   site in one run.
 7. Your dashboard link is `https://<username>.github.io/<repo-name>/` — that's
    the one to bookmark / set as a new-tab page.
 
@@ -90,7 +93,9 @@ run can come back with zero items for a section (expected — not a bug).
 - The paper search topics live in `scripts/fetch-papers.mjs` (`TOPICS`).
 - The tracked metals live in `scripts/fetch-prices.mjs` (`METALS`).
 - To fetch more/less often, edit the `cron` schedule in
-  `.github/workflows/fetch-news.yml`.
+  `.github/workflows/update-and-deploy.yml`.
+- The day picker keeps the last 30 days by default — change
+  `MAX_HISTORY_DAYS` in `scripts/fetch-news.mjs` to keep more or less.
 - To test a fetch script locally: `npm run fetch-news`, `npm run
   fetch-podcasts`, `npm run fetch-papers`, `npm run fetch-prices`, or `npm run
   fetch-all` for all four.
