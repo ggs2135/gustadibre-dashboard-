@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T13:44:37.946Z",
+  "generatedAt": "2026-10-12T16:26:43.825Z",
   "shows": [
     {
       "name": "Café da Manhã",
@@ -9,7 +9,7 @@
         "title": "Como sonhos (frustrados) viram votos",
         "date": "2026-10-09",
         "url": "https://open.spotify.com/episode/1U7NdGINmAwTG33k47wmqJ",
-        "isNew": true
+        "isNew": false
       }
     },
     {
@@ -17,9 +17,9 @@
       "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
       "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
       "latestEpisode": {
-        "title": "De Carona #17: Arnaldo e Tironi analisam a 29ª rodada do Brasileirão",
-        "date": "2026-10-09",
-        "url": "https://open.spotify.com/episode/73FRx03HZrdkvObcjzrl0D",
+        "title": "#709: Palmeiras afunda o Corinthians! Fla mantém a liderança com arbitragem polêmica!",
+        "date": "2026-10-12",
+        "url": "https://open.spotify.com/episode/0s1gzp4A0zhkt1JRoCx1VD",
         "isNew": true
       }
     },
@@ -28,9 +28,9 @@
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
       "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "Why Gen Z Voters Are Reconsidering Their Support for Trump",
-        "date": "2026-10-11",
-        "url": "https://open.spotify.com/episode/0qgmrjGebH9liKffcBoI9a",
+        "title": "Will Trump’s Russian Diesel Deal Lower Prices?",
+        "date": "2026-10-12",
+        "url": "https://open.spotify.com/episode/0iJh2kr9tO4jrRDyWoQNOJ",
         "isNew": true
       }
     },
@@ -50,9 +50,9 @@
       "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
       "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
       "latestEpisode": {
-        "title": "Bonus: Chirality claims the Chem Nobel (again)",
-        "date": "2026-10-08",
-        "url": "https://open.spotify.com/episode/3dxLJrdQkf2fstONJRYmAH",
+        "title": "Bonus: The Future of Scientific Collaboration, A View from Industry",
+        "date": "2026-10-12",
+        "url": "https://open.spotify.com/episode/0ryBL07MVNIJ9lQjU35LTP",
         "isNew": true
       }
     }

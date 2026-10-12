@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-10-11T13:44:38.921Z",
+  "generatedAt": "2026-10-12T16:26:45.068Z",
   "items": [
+    {
+      "title": "COMPARATIVE ANALYSIS OF THE FOREIGN POLICY STRATEGIES OF UZBEKISTAN AND KAZAKHSTAN IN CRITICAL MINERAL RESOURCES DIPLOMACY",
+      "authors": [
+        "Tillavoldiyev Behzod"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-11",
+      "abstract": "This thesis outlines the main directions for a comparative study of the foreign policy strategies of Uzbekistan and Kazakhstan within the framework of critical mineral resources diplomacy. The aim of the study is to identify the similarities and differences in the two countries’ approaches to organizing international…",
+      "link": "https://doi.org/10.5281/zenodo.23303267",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Stockatomics: A Constraint Transmission Framework for Mapping Physical Supply Scarcity to Public Equity Exposure",
+      "authors": [
+        "M Malukas"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-11",
+      "abstract": "A mineral can be essential to a growing industrial use and still leave almost no measurable trace in the listed companies associated with it. This paper sets out the Stockatomics Constraint Transmission Framework, a mineral-first specification for connecting downstream demand to the difficulty of expanding or…",
+      "link": "https://doi.org/10.5281/zenodo.23289830",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Beyond Bayesian Prospecting: Why the Future of Critical Mineral Discovery Belongs to Causal AI",
+      "authors": [
+        "Alexandra Roslin"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-11",
+      "abstract": "Transcending the Limits of Observational Machine Learning, Selection Bias, and Epistemic Asymptotes Through Physics-Grounded Structural Causal Models",
+      "link": "https://doi.org/10.5281/zenodo.23291393",
+      "source": "OpenAlex"
+    },
     {
       "title": "Rare Earth Element Recycling for Sustainable Energy Storage and Renewable Technology Supply Chains: A Critical Review with ASEAN Perspectives",
       "authors": [
-        "GONE YI THAW MAUNG"
+        "Gone Yi Thaw Maung"
       ],
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
       "date": "2026-10-10",
@@ -21,6 +54,20 @@
       "date": "2026-10-10",
       "abstract": "",
       "link": "https://doi.org/10.1016/j.enpol.2026.115651",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "A dual-attribution framework reveals how foreign investment and trade redistribute cobalt availability",
+      "authors": [
+        "Lei Liu",
+        "Ling Zhang",
+        "Songyan Jiang",
+        "Yu Li"
+      ],
+      "venue": "Nature Communications",
+      "date": "2026-10-10",
+      "abstract": "Global resource allocation is increasingly shaped by foreign direct investment (FDI) and international trade, yet their combined effects on distribution of critical mineral availability across countries remain poorly quantified. Here, we develop a dual-attribution framework covering 193 countries and 36 territories…",
+      "link": "https://doi.org/10.1038/s41467-026-78222-4",
       "source": "OpenAlex"
     },
     {
@@ -49,18 +96,6 @@
       "source": "OpenAlex"
     },
     {
-      "title": "An interdisciplinary workforce blueprint from critical minerals to space manufacturing via SHIP",
-      "authors": [
-        "Paul F. Ndione",
-        "Guangdong Zhu"
-      ],
-      "venue": null,
-      "date": "2026-10-09",
-      "abstract": "Under the leadership of the U.S. Department of Energy’s Office of Critical Minerals and Energy Innovation (CMEI), Solar Heat for Industrial Processes (SHIP) has transitioned into a strategic industrial engine. This presentation outlines a workforce blueprint leveraging HelioCon’s interdisciplinary model. This…",
-      "link": "https://doi.org/10.1117/12.3113958",
-      "source": "OpenAlex"
-    },
-    {
       "title": "Strategic Potential of DPRK's Mineral Resources for Integration into Global Critical Mineral Supply Chains",
       "authors": [
         "Jaewook Kim",
@@ -72,28 +107,6 @@
       "date": "2026-10-09",
       "abstract": "",
       "link": "https://doi.org/10.21203/rs.3.rs-11135594/v1",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "STRATEGIC DIPLOMACY OF ANGOLA IN AN INTERNATIONAL SYSTEM IN TRANSFORMATION: THE COUNTRY'S ROLE IN CONFLICT MEDIATION, THE LOBITO CORRIDOR, AND THE GEOPOLITICAL RECONFIGURATION OF AFRICA",
-      "authors": [
-        "Lourenço Pinto Francisco Kwenda"
-      ],
-      "venue": "Seven Editora eBooks",
-      "date": "2026-10-09",
-      "abstract": "The accelerated transformation of the international system has produced new disputes of influence, competition for strategic resources, reconfiguration of geopolitical alliances and growing appreciation of the ability of African states to define their own agendas. In this context, Angola assumes a particularly…",
-      "link": "https://doi.org/10.56238/sevened2026.030-083",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "KTR-001: Conceptual Architecture for a Self-Sustaining One-Million-Person Civilization on Titan for 1,000 Years",
-      "authors": [
-        "Kim Khanh Nguyen"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-09",
-      "abstract": "This paper officially launches Khánh Titan Research (KTR), an interdisciplinary research initiative dedicated to investigating the scientific, engineering, biological, industrial, and societal requirements for establishing a self-sustaining human civilization on Titan, Saturn’s largest moon. The long-term conceptual…",
-      "link": "https://doi.org/10.5281/zenodo.23251953",
       "source": "OpenAlex"
     },
     {
@@ -284,20 +297,6 @@
       "date": "2026-05-28",
       "abstract": "",
       "link": "https://doi.org/10.1038/s41557-026-02154-1",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Fe-Cu Co-Doping Enhanced Peroxymonosulfate Activation for the Degradation of Dimethyl Carbonate in Lithium-Ion Battery Recycling Wastewater",
-      "authors": [
-        "Shaomeng Huang",
-        "Feijian Jing",
-        "Liping Wang",
-        "Yiqing Xu"
-      ],
-      "venue": "Catalysts",
-      "date": "2026-05-20",
-      "abstract": "The lithium battery recycling industry is developing rapidly, and the rapid oxidation and degradation of dimethyl carbonate (DMC) in the wastewater generated by this industry is of crucial importance. In this study, Fe and Cu dopants were controlled and the C-SiO2 framework with porous structures was constructed to…",
-      "link": "https://doi.org/10.3390/catal16050479",
       "source": "OpenAlex"
     }
   ]

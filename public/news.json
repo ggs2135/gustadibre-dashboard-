@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-10-11T13:44:35.207Z",
+  "generatedAt": "2026-10-12T16:26:42.550Z",
   "items": [
+    {
+      "headline": "Africa’s first non-ferrous mining TBM advances further at NFCA’s Chambishi",
+      "summary": "Africa’s first non-ferrous metal mining TBM – China Nonferrous Metals No. 2 – was jointly built by CRCC subsidiary China Railway Construction Heavy Industry (CRCHI) and China Metallurgical Corporation 15, with the…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-12",
+      "link": "https://im-mining.com/2026/10/12/africas-first-non-ferrous-mining-tbm-advances-further-at-nfcas-chambishi/"
+    },
+    {
+      "headline": "Spotlight: Exploration in Quebec",
+      "summary": "Quebec accounts for about 20% of Canada’s mining production and has some of the most diverse mineral resources in North America. Here’s a look at four companies with interesting projects... The post Spotlight:…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-10-12",
+      "link": "https://www.northernminer.com/news/spotlight-exploration-in-quebec/1003895623/"
+    },
+    {
+      "headline": "Chinese lithium prices tumble to nearly 10-month low on demand concerns",
+      "summary": "China’s lithium carbonate futures prices slid to a nearly 10-month low on Monday, as a deal with the European Union to cut hybrid cars exports exacerbated concerns over demand prospects for the electric vehicle battery…",
+      "category": "economic",
+      "minerals": [
+        "Lithium"
+      ],
+      "source": "MINING.com — Battery Metals",
+      "date": "2026-10-12",
+      "link": "https://www.mining.com/web/chinese-lithium-prices-tumble-to-nearly-10-month-low-on-demand-concerns/"
+    },
+    {
+      "headline": "Women hold just 12% of top mining jobs in Australia: report",
+      "summary": "Women hold just 12% of chief executive and head-of-business positions in Australia’s mining industry despite accounting for 23% of its workforce, exposing a leadership gap that new research suggests could be limiting…",
+      "category": "supply",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-12",
+      "link": "https://www.mining.com/women-hold-just-12-of-top-mining-jobs-in-australia-report/"
+    },
+    {
+      "headline": "LGMG holds Global Mining Customer Service Festival in Ordos",
+      "summary": "From October 9th to 11th, Lingong Heavy Machinery (LGMG)’s first Global Mining Customer Service Festival was held in Ordos, Inner Mongolia. A total of more than 500 people, including government and association leaders,…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-12",
+      "link": "https://im-mining.com/2026/10/12/lgmg-holds-global-mining-customer-service-festival-in-ordos/"
+    },
+    {
+      "headline": "Geopolitical risk drives capital to private sector: analyst",
+      "summary": "Growing geopolitical tensions are driving investors away from government debt and towards private assets, a shift that could eventually trigger another gold rally, according to market-cycle analyst Martin Armstrong. In…",
+      "category": "politics",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-11",
+      "link": "https://www.mining.com/geopolitical-risk-drives-capital-to-private-sector-analyst/"
+    },
     {
       "headline": "Zimbabwe says no justification to delay lithium export ban",
       "summary": "Zimbabwe said there’s no reason to delay a ban on exports of lithium concentrate that’s scheduled to come into effect in January. The southern African nation halted shipments of lithium concentrate in February to…",
@@ -11,15 +67,6 @@
       "source": "MINING.com — Battery Metals",
       "date": "2026-10-09",
       "link": "https://www.mining.com/web/zimbabwe-says-no-justification-to-delay-lithium-export-ban/"
-    },
-    {
-      "headline": "Gold council urges miners to name refiners",
-      "summary": "Gold miners are being urged to identify the refiners receiving metal from each operating mine under a World Gold Council disclosure framework aimed at making legitimate gold flows easier to... The post Gold council…",
-      "category": "supply",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-10-09",
-      "link": "https://www.northernminer.com/news/gold-council-urges-miners-to-name-refiners/1003895621/"
     },
     {
       "headline": "EU fast-tracks KGHM’s $3.46B Polish copper projects",
@@ -33,35 +80,6 @@
       "link": "https://www.northernminer.com/news/eu-fast-tracks-kghms-3-46b-polish-copper-projects/1003895652/"
     },
     {
-      "headline": "Editorial: Quebec’s new power rationing",
-      "summary": "This editorial appeared in The Northern Miner’s October print edition, which features a special focus on Quebec’s mining industry. As the province pursues new mines and mineral-processing plants, we examine... The post…",
-      "category": "supply",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-10-09",
-      "link": "https://www.northernminer.com/regulatory-issues/editorial-quebecs-new-power-rationing/1003895616/"
-    },
-    {
-      "headline": "Tax breaks could spur $1.6B more in exploration: AME",
-      "summary": "Federal govt's commitment to expand eligible activities under CEE will create as many as 34,000 full time jobs, report found. The post Tax breaks could spur $1.6B more in exploration: AME appeared first on The Northern…",
-      "category": "supply",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-10-09",
-      "link": "https://www.northernminer.com/news/tax-breaks-could-spur-1-6b-more-in-exploration-ame/1003895613/"
-    },
-    {
-      "headline": "Infographic: Can Quebec build Canada’s first graphite supply chain?",
-      "summary": "Of Quebec’s many active and planned critical mineral operations, its graphite sector could be the first to establish a complete mine-to-battery-material supply chain in the province. Nouveau Monde Graphite (NYSE:...…",
-      "category": "supply",
-      "minerals": [
-        "Graphite"
-      ],
-      "source": "The Northern Miner",
-      "date": "2026-10-09",
-      "link": "https://www.northernminer.com/news/infographic-can-quebec-build-canadas-first-graphite-supply-chain/1003895573/"
-    },
-    {
       "headline": "Rare earth recycling can bridge US supply gap as mines face long timelines, Paladin says",
       "summary": "Recycling end-of-life electronics, wind turbines and other industrial equipment could provide the United States with a near-term source of rare earths as the country works to develop new mines and processing capacity,…",
       "category": "science",
@@ -72,37 +90,6 @@
       "source": "MINING.com",
       "date": "2026-10-09",
       "link": "https://www.mining.com/rare-earth-recycling-can-bridge-us-supply-gap-as-mines-face-long-timelines-paladin-says/"
-    },
-    {
-      "headline": "Rock Tech closes $6M private placement",
-      "summary": "Rock Tech Lithium (TSXV: RCK) has raised $6 million (US$4.21 million) to fund a feasibility study for its Georgia Lake mine and […] The post Rock Tech closes $6M private placement appeared first on Canadian Mining…",
-      "category": "funding",
-      "minerals": [
-        "Lithium"
-      ],
-      "source": "Canadian Mining Journal",
-      "date": "2026-10-09",
-      "link": "https://www.canadianminingjournal.com/news/rock-tech-closes-6m-private-placement/"
-    },
-    {
-      "headline": "New Schneider Electric series tackles AI, energy demand and sustainability",
-      "summary": "Schneider Electric Canada has announced Innovation Days Canada, a three-city event series bringing together leaders from businesses, energy, government and sports to […] The post New Schneider Electric series tackles…",
-      "category": "funding",
-      "minerals": [],
-      "source": "Canadian Mining Journal",
-      "date": "2026-10-09",
-      "link": "https://www.canadianminingjournal.com/news/new-schneider-electric-series-tackles-ai-energy-demand-and-sustainability/"
-    },
-    {
-      "headline": "EU puts KGHM’s $2.4B copper projects on fast track",
-      "summary": "The European Commission has granted strategic status to two copper projects worth a combined 9.5 billion zlotys ($2.44 billion) proposed by Polish state-controlled producer KGHM Polska Miedz under the EU’s Critical Raw…",
-      "category": "funding",
-      "minerals": [
-        "Copper"
-      ],
-      "source": "MINING.com",
-      "date": "2026-10-09",
-      "link": "https://www.mining.com/eu-puts-kghms-2-4b-copper-projects-on-fast-track/"
     }
   ]
 }
