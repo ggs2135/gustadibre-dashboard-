@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-10-12T16:26:45.068Z",
+  "generatedAt": "2026-10-13T14:46:09.575Z",
   "items": [
+    {
+      "title": "IoT‐Enabled Fruit and Vegetable Cold Chain Tracking, Monitoring, and Alert System",
+      "authors": [
+        "Ch. Rajendra Prasad",
+        "Moola Ramu"
+      ],
+      "venue": null,
+      "date": "2026-10-12",
+      "abstract": "Fruits and vegetables are vital for a nutritious diet, supplying critical minerals, vitamins, and fiber. The use of ephemeral fruits and vegetables in the human diet can mitigate the potential of persistent health conditions. However, the loss rate of food value is significant over all food supplied annually,…",
+      "link": "https://doi.org/10.1002/9781394403431.ch7",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Turning building waste into fertilizer: Using cooling tower blowdown brine as a chemical source for critical mineral phosphate recovery from urine",
+      "authors": [
+        "Musie Welldegerima Atsbha",
+        "Lucas Crane",
+        "Dwarakanath Ravikumar",
+        "Oded Nir"
+      ],
+      "venue": "Journal of Water Process Engineering",
+      "date": "2026-10-12",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.jwpe.2026.111087",
+      "source": "OpenAlex"
+    },
     {
       "title": "COMPARATIVE ANALYSIS OF THE FOREIGN POLICY STRATEGIES OF UZBEKISTAN AND KAZAKHSTAN IN CRITICAL MINERAL RESOURCES DIPLOMACY",
       "authors": [
@@ -35,39 +61,44 @@
       "source": "OpenAlex"
     },
     {
-      "title": "Rare Earth Element Recycling for Sustainable Energy Storage and Renewable Technology Supply Chains: A Critical Review with ASEAN Perspectives",
+      "title": "Ethical Tensions in Critical-Mineral Extraction for the Green Transition: A Systematic Review of Community Health, Autonomy, Livelihoods, and Resistance in Asia",
       "authors": [
-        "Gone Yi Thaw Maung"
+        "Zypher Jude G. Regencia",
+        "Anna Katrina V. Tadeo",
+        "Lily Beth Lumagbas"
+      ],
+      "venue": "Open Science Framework",
+      "date": "2026-10-11",
+      "abstract": "The global transition toward low-carbon energy systems has increased demand for critical minerals, including lithium, cobalt, nickel, graphite, manganese, copper, and rare-earth elements. While these minerals are important for renewable energy technologies and electrification, their extraction raises ethical concerns…",
+      "link": "https://doi.org/10.17605/osf.io/nsx6k",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Replication package for \"From supplier to capability builder? Niobium, refractory metals and high-entropy alloys in Brazil's critical minerals, industrial and defence policies\"",
+      "authors": [
+        "José César Augusto de Queiroz",
+        "Deusdedit Monteiro Medeiros",
+        "T. H. C. Costa",
+        "Douglas do Nascimento Silva"
       ],
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-10",
-      "abstract": "The global shift toward renewable energy and electrified transport has sharply increased demand for rare earth elements (REEs), particularly neodymium, praseodymium, and dysprosium used in NdFeB permanent magnets for wind turbines and electric vehicle motors, yet recycling currently supplies only a small share of…",
-      "link": "https://doi.org/10.5281/zenodo.23255558",
+      "date": "2026-10-11",
+      "abstract": "Data, R code and coded policy documents for an exploratory case study of Brazil's position in niobium. The package contains: (1) mine production by country for ten elements used in high-entropy alloys (USGS Mineral Commodity Summaries 2021 and 2026) and its validation against the official data release; (2) Brazilian…",
+      "link": "https://doi.org/10.5281/zenodo.23304366",
       "source": "OpenAlex"
     },
     {
-      "title": "Circular economy practices and clean energy transition performance: the moderating role of critical mineral circularity and policy stringency among EU energy-intensive firms",
+      "title": "The Hidden Cost of Resource Nationalism",
       "authors": [
-        "Sugandha Sharma"
+        "Rabah Arezki",
+        "Olof Löf",
+        "Federico Merchán",
+        "Frederick van der Ploeg"
       ],
-      "venue": "Energy Policy",
-      "date": "2026-10-10",
-      "abstract": "",
-      "link": "https://doi.org/10.1016/j.enpol.2026.115651",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "A dual-attribution framework reveals how foreign investment and trade redistribute cobalt availability",
-      "authors": [
-        "Lei Liu",
-        "Ling Zhang",
-        "Songyan Jiang",
-        "Yu Li"
-      ],
-      "venue": "Nature Communications",
-      "date": "2026-10-10",
-      "abstract": "Global resource allocation is increasingly shaped by foreign direct investment (FDI) and international trade, yet their combined effects on distribution of critical mineral availability across countries remain poorly quantified. Here, we develop a dual-attribution framework covering 193 countries and 36 territories…",
-      "link": "https://doi.org/10.1038/s41467-026-78222-4",
+      "venue": "CESifo",
+      "date": "2026-10-11",
+      "abstract": "This paper explores the effect of export restrictions on critical minerals on foreign investment in exploration, the upstream activity that determines the future resource base. Using a three-way panel of countries, minerals and years that combines the OECD inventory of export restrictions on critical raw materials…",
+      "link": "https://doi.org/10.65864/3anmtkzd5n",
       "source": "OpenAlex"
     },
     {
@@ -273,30 +304,6 @@
       "date": "2026-07-06",
       "abstract": "Europe's industries rely heavily on rare earth elements (REEs), classified by the European Union (EU) as critical raw materials (CRMs) since 2011. Yet almost all are imported, and domestic recycling of products containing REEs remains minimal. Some REEs are key components of permanent magnets (PMs), used in…",
       "link": "https://doi.org/10.5281/zenodo.21215247",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Bibliometric Analysis of Green Investment in Electric Vehicles",
-      "authors": [
-        "Loso Judijanto",
-        "Helda Yusita"
-      ],
-      "venue": "West Science Social and Humanities Studies",
-      "date": "2026-06-26",
-      "abstract": "The present study conducts a bibliometric review of scholarly work related to green investment for electric vehicles (EVs). The main objective of the review is to provide an insight into the knowledge base of green investment in EVs in terms of the intellectual structure, theme evolution, and international…",
-      "link": "https://doi.org/10.58812/wsshs.v4i06.2942",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Reversible self-assembly of polymeric solid electrolyte enables lithium battery recycling",
-      "authors": [
-        "Mohammad Amaan",
-        "Nicholas A. Kotov"
-      ],
-      "venue": "Nature Chemistry",
-      "date": "2026-05-28",
-      "abstract": "",
-      "link": "https://doi.org/10.1038/s41557-026-02154-1",
       "source": "OpenAlex"
     }
   ]

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-12T16:26:43.825Z",
+  "generatedAt": "2026-10-13T14:46:08.616Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
       "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
-        "title": "Como sonhos (frustrados) viram votos",
-        "date": "2026-10-09",
-        "url": "https://open.spotify.com/episode/1U7NdGINmAwTG33k47wmqJ",
-        "isNew": false
+        "title": "As mulheres e a extrema direita",
+        "date": "2026-10-13",
+        "url": "https://open.spotify.com/episode/0f2TYrYzKtgZZ0HiIysyvd",
+        "isNew": true
       }
     },
     {
@@ -26,18 +26,18 @@
     {
       "name": "WSJ What's News",
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "Will Trump’s Russian Diesel Deal Lower Prices?",
-        "date": "2026-10-12",
-        "url": "https://open.spotify.com/episode/0iJh2kr9tO4jrRDyWoQNOJ",
+        "title": "IMF Warns AI’s Riches Are Increasingly Concentrated",
+        "date": "2026-10-13",
+        "url": "https://open.spotify.com/episode/18muArZGBTIIQfx1mADAG8",
         "isNew": true
       }
     },
     {
       "name": "Chain Reaction by ACS",
       "showUrl": "https://open.spotify.com/show/7dSHR4UqvZjX3I9mZ4rBlu",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8af46957f9ffdf22624d5fc284",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8af46957f9ffdf22624d5fc284",
       "latestEpisode": {
         "title": "When Passion Meets Real Life: Chemistry at Its Core, Episode 1",
         "date": "2026-10-08",
