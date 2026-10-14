@@ -1,47 +1,70 @@
 {
-  "generatedAt": "2026-10-13T14:46:07.868Z",
+  "generatedAt": "2026-10-14T12:37:46.286Z",
   "items": [
     {
-      "headline": "Op-Ed: AI will not just add copper demand. It could change who sets the price",
-      "summary": "Most discussions of artificial intelligence (AI) and copper focus on how many more tonnes of copper data centers will need. It is the right place to start, but it misses what may be the more consequential change. AI is…",
+      "headline": "Weir advocates early-stage water management to reduce mining risk",
+      "summary": "The most effective water management strategies in mining are those embedded at the design stage rather than retrofitted once problems emerge. This is according to Marnus Koorts, Director of Capital and Process at Weir,…",
       "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-14",
+      "link": "https://im-mining.com/2026/10/14/weir-advocates-early-stage-water-management-to-reduce-mining-risk/"
+    },
+    {
+      "headline": "ICMM names Froydis Cameron-Johansson as next President and CEO",
+      "summary": "The International Council on Mining and Metals (ICMM) today announces the appointment of Froydis Cameron-Johansson as its next President and Chief Executive Officer. Cameron-Johansson takes up the role on November 23,…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-14",
+      "link": "https://im-mining.com/2026/10/14/icmm-names-froydis-cameron-johansson-as-next-president-and-ceo/"
+    },
+    {
+      "headline": "Record metals, mining returns driven by gold as industry growth stalls, McKinsey says",
+      "summary": "Metals and mining entered 2026 with record market capitalization and some of the strongest financials of the past decade, but the headline performance masks an industry where productivity has stalled and value creation…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-14",
+      "link": "https://im-mining.com/2026/10/14/record-metals-mining-returns-driven-by-gold-as-industry-growth-stalls-mckinsey-says/"
+    },
+    {
+      "headline": "Spotlight: Exploration in Quebec — Part 2",
+      "summary": "This second instalment of our Quebec Spotlight looks at Opus One Gold, Renforth Resources, TomaGold and Vior Gold, whose projects range from early exploration targets to deposits with defined resources.... The post…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-10-14",
+      "link": "https://www.northernminer.com/news/spotlight-exploration-in-quebec-part-2/1003895701/"
+    },
+    {
+      "headline": "Core Resources delivers advanced metallurgical pilot plant to AK Altynalmas in Kazakhstan",
+      "summary": "Core Resources says it has delivered an advanced metallurgical pilot plant to AK Altynalmas, Kazakhstan’s largest gold producer, building on a long-term relationship between the two companies. Over the past year, the…",
+      "category": "science",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-14",
+      "link": "https://im-mining.com/2026/10/14/core-resources-delivers-advanced-metallurgical-pilot-plant-to-ak-altynalmas-in-kazakhstan/"
+    },
+    {
+      "headline": "Explosives: the overlooked risk that could halt mines",
+      "summary": "Canadian miners are underestimating the risk of explosives shortages that could disrupt production as trade tensions and geopolitical instability expose weaknesses in critical supply chains, EPC Canada president and…",
+      "category": "politics",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-13",
+      "link": "https://www.mining.com/explosives-the-overlooked-risk-that-could-halt-mines/"
+    },
+    {
+      "headline": "Eldorado’s Skouries mine wins EU strategic status",
+      "summary": "The European Commission has granted strategic status to Eldorado Gold’s (TSX: ELD, NYSE: EGO) Skouries copper-gold mine in Greece, positioning one of Europe’s largest new mining projects for faster permitting and…",
+      "category": "funding",
       "minerals": [
         "Copper"
       ],
       "source": "MINING.com",
       "date": "2026-10-13",
-      "link": "https://www.mining.com/op-ed-ai-will-not-just-add-copper-demand-it-could-change-who-sets-the-price/"
-    },
-    {
-      "headline": "Hindalco partners with Vi Buisness to deploy private network at Baphlimali mine",
-      "summary": "Vi Business, the enterprise arm of leading telecom operator Vi, has announced a strategic partnership with Hindalco Industries Limited, a global leader in aluminium and copper, to deploy a dedicated private network at…",
-      "category": "supply",
-      "minerals": [
-        "Copper"
-      ],
-      "source": "International Mining",
-      "date": "2026-10-13",
-      "link": "https://im-mining.com/2026/10/13/hindalco-partners-with-vi-buisness-to-deploy-private-network-at-baphlimali-mine/"
-    },
-    {
-      "headline": "Avalanche adds to Chile’s copper supply pressures",
-      "summary": "A snow avalanche that killed two subcontractor workers at Codelco’s El Teniente mine on Sunday has added to mounting supply concerns in Chile, as extreme weather, labour disputes and operational... The post Avalanche…",
-      "category": "supply",
-      "minerals": [
-        "Copper"
-      ],
-      "source": "The Northern Miner",
-      "date": "2026-10-13",
-      "link": "https://www.northernminer.com/news/avalanche-adds-to-chiles-copper-supply-pressures/1003895663/"
-    },
-    {
-      "headline": "Lux seeks $7M to advance Quebec gold project",
-      "summary": "Lux Metals (TSXV: LXM) is planning to seek about $7 million (US$5 million) in flow-through financing this fall to carry its La Grande gold project in northern Quebec towards a... The post Lux seeks $7M to advance…",
-      "category": "supply",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-10-13",
-      "link": "https://www.northernminer.com/news/lux-seeks-7m-to-advance-quebec-gold-project/1003895656/"
+      "link": "https://www.mining.com/eldorados-skouries-mine-wins-eu-strategic-status/"
     },
     {
       "headline": "Chinese lithium prices tumble to nearly 10-month low on demand concerns",
