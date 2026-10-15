@@ -1,104 +1,118 @@
 {
-  "generatedAt": "2026-10-14T12:37:48.342Z",
+  "generatedAt": "2026-10-15T12:25:36.579Z",
   "items": [
     {
-      "title": "IoT‐Enabled Fruit and Vegetable Cold Chain Tracking, Monitoring, and Alert System",
+      "title": "Evaluation of Critical Minerals in Produced Waters from the Louisiana Smackover Formation",
       "authors": [
-        "Ch. Rajendra Prasad",
-        "Moola Ramu"
+        "I. Gupta",
+        "K. Maiti",
+        "M. K. Dutta",
+        "R. Pei"
+      ],
+      "venue": "SPE Annual Technical Conference and Exhibition",
+      "date": "2026-10-14",
+      "abstract": "Abstract Brines from the Upper Jurassic Smackover Formation have become a focus of lithium evaluation following reports of concentrations above 400 mg/L in southern Arkansas, but comparable produced-water geochemistry from northern Louisiana remains limited. We report major- and trace-element, anion, stable-isotope,…",
+      "link": "https://doi.org/10.2118/234010-ms",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Co-Production of Critical Minerals During Stimulated Geological Hydrogen Generation: A Circular Process for Subsurface Resource Recovery",
+      "authors": [
+        "N. M. Angelina",
+        "H. Samouei",
+        "E. R. Okoroafor"
+      ],
+      "venue": "SPE Annual Technical Conference and Exhibition",
+      "date": "2026-10-14",
+      "abstract": "Abstract The U.S. Department of Energy (DOE) 2023 Critical Materials Assessment classified magnesium as near-critical in the short term and critical in the medium term (2025–2035), reflecting its high relevance to clean-energy technologies and supply-chain risk. This study evaluates critical-mineral mobilization and…",
+      "link": "https://doi.org/10.2118/233932-ms",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Co-Production of Critical Minerals and Hydrocarbons in Sedimentary Basins: Experimental Evaluation of Chelation-Enhanced In-Situ Mining",
+      "authors": [
+        "Yuntian Teng",
+        "Ellen G. Polites",
+        "Keju Yan",
+        "C. Heath Stanfield"
+      ],
+      "venue": "SPE Annual Technical Conference and Exhibition",
+      "date": "2026-10-14",
+      "abstract": "Abstract Critical minerals and materials are widely distributed in organic-rich sedimentary formations, but their recovery from existing hydrocarbon reservoirs requires formation-compatible fluids that can mobilize selected elements under reservoir-relevant conditions. This study evaluated critical-element extraction…",
+      "link": "https://doi.org/10.2118/233924-ms",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Permeability Evolution and Critical Mineral Partitioning During Production of Marcellus Shale Produced Waters",
+      "authors": [
+        "Xuejia Du",
+        "Ganesh C. Thakur"
+      ],
+      "venue": "SPE Annual Technical Conference and Exhibition",
+      "date": "2026-10-14",
+      "abstract": "Abstract The recovery of critical minerals such as lithium, magnesium, and strontium from oil and gas produced waters depends on how those metals behave as brine is drawn toward the wellbore. Pressure depletion during production drives carbonate mineral scaling, which both impairs near-wellbore permeability and…",
+      "link": "https://doi.org/10.2118/233926-ms",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Seismological Constraints on Subduction and Suture Zone Architecture in the Central African Copperbelt",
+      "authors": [
+        "Rita Kounoudis",
+        "J-M Kendall",
+        "J Jenkins",
+        "T Mackay-Champion"
+      ],
+      "venue": "Geophysical Journal International",
+      "date": "2026-10-14",
+      "abstract": "Summary Central Africa marks a major collisional zone of the Pan-African Orogeny, involving convergence of the Congo and Kalahari plates during Gondwana assembly (~600–500 Ma). This collision formed the Lufilian Belt and one of the world’s most significant metallogenic provinces—the Central African Copperbelt.…",
+      "link": "https://doi.org/10.1093/gji/ggag444",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "The processed data used in the study of \"From Fossil-Fuel Dependency to Critical-Mineral Trade Dependency\"",
+      "authors": [
+        "ping chen"
+      ],
+      "venue": "Figshare",
+      "date": "2026-10-14",
+      "abstract": "The underlying bilateral trade data are from the CEPII BACI database and are available at https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37. Macroeconomic and energy-transition indicators are from the World Bank World Development Indicators, available at https://data.worldbank.org/.…",
+      "link": "https://doi.org/10.6084/m9.figshare.34477530",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Critical Minerals and AI Infrastructure: Global Reserves, Production, Processing and Country Shares",
+      "authors": [
+        "Anastasios (Tasos) Tassos"
+      ],
+      "venue": "Harvard Dataverse",
+      "date": "2026-10-14",
+      "abstract": "This dataset provides country-level quantities and scoped shares of global mineral reserves, mining and primary production, processing and refining, and selected component manufacture relevant to artificial intelligence infrastructure. It contains 66 quantitative tables with 856 observations covering 85 countries and…",
+      "link": "https://doi.org/10.7910/dvn/bo00tp",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Lixa v0.1.2: an open-source, image-informed framework for closed-loop design of leaching processes for domestic critical-mineral recovery, from the pore to the plant scale",
+      "authors": [
+        "Shahram Asgari"
       ],
       "venue": null,
-      "date": "2026-10-12",
-      "abstract": "Fruits and vegetables are vital for a nutritious diet, supplying critical minerals, vitamins, and fiber. The use of ephemeral fruits and vegetables in the human diet can mitigate the potential of persistent health conditions. However, the loss rate of food value is significant over all food supplied annually,…",
-      "link": "https://doi.org/10.1002/9781394403431.ch7",
+      "date": "2026-10-14",
+      "abstract": "Leaching takes a metal out of a rock and into a solution. In the United States, rare earth elements, lithium and scandium occur mostly in rocks where the metal is thinly spread through a porous matrix: weathered clays, coal ash, lithium claystones and bauxite residue. For such rocks the leaching recipe (reagent,…",
+      "link": "https://doi.org/10.31223/x58f9s",
       "source": "OpenAlex"
     },
     {
-      "title": "Turning building waste into fertilizer: Using cooling tower blowdown brine as a chemical source for critical mineral phosphate recovery from urine",
+      "title": "Transforming Nickel Workers Through Digital Technology and Motivation",
       "authors": [
-        "Musie Welldegerima Atsbha",
-        "Lucas Crane",
-        "Dwarakanath Ravikumar",
-        "Oded Nir"
+        "Cut Aviyanti",
+        "Tri Widyastuti",
+        "Hadita Hadita",
+        "Supardi Supardi"
       ],
-      "venue": "Journal of Water Process Engineering",
-      "date": "2026-10-12",
-      "abstract": "",
-      "link": "https://doi.org/10.1016/j.jwpe.2026.111087",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "COMPARATIVE ANALYSIS OF THE FOREIGN POLICY STRATEGIES OF UZBEKISTAN AND KAZAKHSTAN IN CRITICAL MINERAL RESOURCES DIPLOMACY",
-      "authors": [
-        "Tillavoldiyev Behzod"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-11",
-      "abstract": "This thesis outlines the main directions for a comparative study of the foreign policy strategies of Uzbekistan and Kazakhstan within the framework of critical mineral resources diplomacy. The aim of the study is to identify the similarities and differences in the two countries’ approaches to organizing international…",
-      "link": "https://doi.org/10.5281/zenodo.23303267",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Stockatomics: A Constraint Transmission Framework for Mapping Physical Supply Scarcity to Public Equity Exposure",
-      "authors": [
-        "M Malukas"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-11",
-      "abstract": "A mineral can be essential to a growing industrial use and still leave almost no measurable trace in the listed companies associated with it. This paper sets out the Stockatomics Constraint Transmission Framework, a mineral-first specification for connecting downstream demand to the difficulty of expanding or…",
-      "link": "https://doi.org/10.5281/zenodo.23289830",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Beyond Bayesian Prospecting: Why the Future of Critical Mineral Discovery Belongs to Causal AI",
-      "authors": [
-        "Alexandra Roslin"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-11",
-      "abstract": "Transcending the Limits of Observational Machine Learning, Selection Bias, and Epistemic Asymptotes Through Physics-Grounded Structural Causal Models",
-      "link": "https://doi.org/10.5281/zenodo.23291393",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Ethical Tensions in Critical-Mineral Extraction for the Green Transition: A Systematic Review of Community Health, Autonomy, Livelihoods, and Resistance in Asia",
-      "authors": [
-        "Zypher Jude G. Regencia",
-        "Anna Katrina V. Tadeo",
-        "Lily Beth Lumagbas"
-      ],
-      "venue": "Open Science Framework",
-      "date": "2026-10-11",
-      "abstract": "The global transition toward low-carbon energy systems has increased demand for critical minerals, including lithium, cobalt, nickel, graphite, manganese, copper, and rare-earth elements. While these minerals are important for renewable energy technologies and electrification, their extraction raises ethical concerns…",
-      "link": "https://doi.org/10.17605/osf.io/nsx6k",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Replication package for \"From supplier to capability builder? Niobium, refractory metals and high-entropy alloys in Brazil's critical minerals, industrial and defence policies\"",
-      "authors": [
-        "José César Augusto de Queiroz",
-        "Deusdedit Monteiro Medeiros",
-        "T. H. C. Costa",
-        "Douglas do Nascimento Silva"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-11",
-      "abstract": "Data, R code and coded policy documents for an exploratory case study of Brazil's position in niobium. The package contains: (1) mine production by country for ten elements used in high-entropy alloys (USGS Mineral Commodity Summaries 2021 and 2026) and its validation against the official data release; (2) Brazilian…",
-      "link": "https://doi.org/10.5281/zenodo.23304366",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "The Hidden Cost of Resource Nationalism",
-      "authors": [
-        "Rabah Arezki",
-        "Olof Löf",
-        "Federico Merchán",
-        "Frederick van der Ploeg"
-      ],
-      "venue": "CESifo",
-      "date": "2026-10-11",
-      "abstract": "This paper explores the effect of export restrictions on critical minerals on foreign investment in exploration, the upstream activity that determines the future resource base. Using a three-way panel of countries, minerals and years that combines the OECD inventory of export restrictions on critical raw materials…",
-      "link": "https://doi.org/10.65864/3anmtkzd5n",
+      "venue": "Dinasti International Journal of Management Science",
+      "date": "2026-10-13",
+      "abstract": "Indonesia’s nickel industry has been placed in an increasingly strategic position in the global critical-mineral supply chain. This condition is not only related to production capacity and downstream policy. It is also linked with the readiness of workers who are required to follow digital work systems and changing…",
+      "link": "https://doi.org/10.38035/dijms.v8i1.7446",
       "source": "OpenAlex"
     },
     {
@@ -188,19 +202,6 @@
       "date": "2026-09-26",
       "abstract": "",
       "link": "https://doi.org/10.1007/s10368-026-00815-7",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "From Extraction to Equity: Indigenous Agreement-Making in Lithium Mining",
-      "authors": [
-        "Dorothée Baumann-Pauly",
-        "Justine Nolan",
-        "Andy Symington"
-      ],
-      "venue": "Routledge eBooks",
-      "date": "2026-09-21",
-      "abstract": "This chapter examines Indigenous agreement-making in lithium mining and renewable energy development, using the Albemarle-Consejo de Pueblos Atacameños (CPA) agreement in Chile’s Salar de Atacama as its central case study. Lithium’s pivotal role in the energy transition has intensified extraction in South America’s…",
-      "link": "https://doi.org/10.4324/9781003493112-5",
       "source": "OpenAlex"
     },
     {

@@ -1,41 +1,94 @@
 {
-  "generatedAt": "2026-10-14T12:37:46.286Z",
+  "generatedAt": "2026-10-15T12:25:34.922Z",
   "items": [
     {
-      "headline": "Weir advocates early-stage water management to reduce mining risk",
-      "summary": "The most effective water management strategies in mining are those embedded at the design stage rather than retrofitted once problems emerge. This is according to Marnus Koorts, Director of Capital and Process at Weir,…",
+      "headline": "TNM Drill Down: Pecoy leads recent copper assays",
+      "summary": "Peru, Canada and Colombia yielded the best copper drill results from Aug. 17 to Sept. 15, according to data compiled by The Northern Miner. Intervals from Pecoy Copper (TSXV: PCU),... The post TNM Drill Down: Pecoy…",
+      "category": "supply",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-10-15",
+      "link": "https://www.northernminer.com/news/tnm-drill-down-pecoy-leads-recent-copper-assays/1003895729/"
+    },
+    {
+      "headline": "Basic Materials Roundup: Market Talk",
+      "summary": "Find insight on Antofagasta, Aneka Tambang, Evolution Mining and more in the latest Market Talks covering Basic Materials.",
+      "category": "supply",
+      "minerals": [],
+      "source": "WSJ — Markets",
+      "date": "2026-10-15",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-69712cda?mod=rss_markets_main"
+    },
+    {
+      "headline": "Bradken SmartRoller™ enables safer & more efficient undercarriage operation",
+      "summary": "Bradken, a global leader in mining wear solutions, has recently launched Bradken SmartRoller – a digital product which it says can improve excavator undercarriage performance significantly. It enables real-time,…",
       "category": "supply",
       "minerals": [],
       "source": "International Mining",
-      "date": "2026-10-14",
-      "link": "https://im-mining.com/2026/10/14/weir-advocates-early-stage-water-management-to-reduce-mining-risk/"
+      "date": "2026-10-15",
+      "link": "https://im-mining.com/2026/10/15/bradken-smartroller-enables-safer-more-efficient-undercarriage-operation/"
     },
     {
-      "headline": "ICMM names Froydis Cameron-Johansson as next President and CEO",
-      "summary": "The International Council on Mining and Metals (ICMM) today announces the appointment of Froydis Cameron-Johansson as its next President and Chief Executive Officer. Cameron-Johansson takes up the role on November 23,…",
+      "headline": "Tenaris produces new steel grade for Canadian energy operators",
+      "summary": "Steel manufacturer Tenaris said Wednesday it is now domestically producing its TN 95EY proprietary steel grade, responding to the evolving needs of Western Canadian energy operators. In 2018, Tenaris temporarily laid…",
       "category": "supply",
       "minerals": [],
-      "source": "International Mining",
+      "source": "MINING.com",
       "date": "2026-10-14",
-      "link": "https://im-mining.com/2026/10/14/icmm-names-froydis-cameron-johansson-as-next-president-and-ceo/"
+      "link": "https://www.mining.com/tenaris-produces-new-steel-grade-for-canadian-energy-operators/"
     },
     {
-      "headline": "Record metals, mining returns driven by gold as industry growth stalls, McKinsey says",
-      "summary": "Metals and mining entered 2026 with record market capitalization and some of the strongest financials of the past decade, but the headline performance masks an industry where productivity has stalled and value creation…",
-      "category": "supply",
-      "minerals": [],
-      "source": "International Mining",
+      "headline": "Basic Materials Roundup: Market Talk",
+      "summary": "Find insight on gold and silver futures, Rio Tinto, Mineral Resources and more in the latest Market Talks covering Basic Materials.",
+      "category": "economic",
+      "minerals": [
+        "Silver"
+      ],
+      "source": "WSJ — Markets",
       "date": "2026-10-14",
-      "link": "https://im-mining.com/2026/10/14/record-metals-mining-returns-driven-by-gold-as-industry-growth-stalls-mckinsey-says/"
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-4f9f083f?mod=rss_markets_main"
     },
     {
-      "headline": "Spotlight: Exploration in Quebec — Part 2",
-      "summary": "This second instalment of our Quebec Spotlight looks at Opus One Gold, Renforth Resources, TomaGold and Vior Gold, whose projects range from early exploration targets to deposits with defined resources.... The post…",
-      "category": "supply",
+      "headline": "Gold miners’ earnings surge but valuations lag: Sprott",
+      "summary": "Gold producers aren’t getting full credit from investors for stronger profits and tighter spending discipline, Sprott Asset Management says. The NYSE Arca Gold Miners Index traded at 5.7 times expected... The post Gold…",
+      "category": "economic",
       "minerals": [],
       "source": "The Northern Miner",
       "date": "2026-10-14",
-      "link": "https://www.northernminer.com/news/spotlight-exploration-in-quebec-part-2/1003895701/"
+      "link": "https://www.northernminer.com/news/gold-miners-earnings-surge-but-valuations-lag-sprott/1003895710/"
+    },
+    {
+      "headline": "Opinion | Modernize and Reform the Recycling System",
+      "summary": "The answer isn’t to abandon it but rather to fix it through private-sector innovation, policy standardization and targeted materials recovery.",
+      "category": "science",
+      "minerals": [
+        "Recycling"
+      ],
+      "source": "WSJ — Markets",
+      "date": "2026-10-14",
+      "link": "https://www.wsj.com/opinion/modernize-and-reform-the-recycling-system-d824c886?mod=rss_markets_main"
+    },
+    {
+      "headline": "Copper price forecasts lifted for 2026 but tariff “collapse” still on the table",
+      "summary": "Copper pulled back from a three-week high on Wednesday after US inflation data put a Federal Reserve rate hike this month back on the table, and word of a preliminary deal to avert a strike at BHP’s Escondida, the…",
+      "category": "economic",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "MINING.com",
+      "date": "2026-10-14",
+      "link": "https://www.mining.com/copper-price-forecasts-lifted-for-2026-but-tariff-collapse-still-on-the-table/"
+    },
+    {
+      "headline": "Gold miners’ earnings surge but valuations lag: Sprott",
+      "summary": "Gold producers aren’t getting full credit from investors for stronger profits and tighter spending discipline, Sprott Asset Management says. The NYSE Arca Gold Miners Index traded at 5.7 times expected operating…",
+      "category": "economic",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-14",
+      "link": "https://www.mining.com/gold-miners-earnings-surge-but-valuations-lag-sprott/"
     },
     {
       "headline": "Core Resources delivers advanced metallurgical pilot plant to AK Altynalmas in Kazakhstan",
@@ -45,46 +98,6 @@
       "source": "International Mining",
       "date": "2026-10-14",
       "link": "https://im-mining.com/2026/10/14/core-resources-delivers-advanced-metallurgical-pilot-plant-to-ak-altynalmas-in-kazakhstan/"
-    },
-    {
-      "headline": "Explosives: the overlooked risk that could halt mines",
-      "summary": "Canadian miners are underestimating the risk of explosives shortages that could disrupt production as trade tensions and geopolitical instability expose weaknesses in critical supply chains, EPC Canada president and…",
-      "category": "politics",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-10-13",
-      "link": "https://www.mining.com/explosives-the-overlooked-risk-that-could-halt-mines/"
-    },
-    {
-      "headline": "Eldorado’s Skouries mine wins EU strategic status",
-      "summary": "The European Commission has granted strategic status to Eldorado Gold’s (TSX: ELD, NYSE: EGO) Skouries copper-gold mine in Greece, positioning one of Europe’s largest new mining projects for faster permitting and…",
-      "category": "funding",
-      "minerals": [
-        "Copper"
-      ],
-      "source": "MINING.com",
-      "date": "2026-10-13",
-      "link": "https://www.mining.com/eldorados-skouries-mine-wins-eu-strategic-status/"
-    },
-    {
-      "headline": "Chinese lithium prices tumble to nearly 10-month low on demand concerns",
-      "summary": "China’s lithium carbonate futures prices slid to a nearly 10-month low on Monday, as a deal with the European Union to cut hybrid cars exports exacerbated concerns over demand prospects for the electric vehicle battery…",
-      "category": "economic",
-      "minerals": [
-        "Lithium"
-      ],
-      "source": "MINING.com — Battery Metals",
-      "date": "2026-10-12",
-      "link": "https://www.mining.com/web/chinese-lithium-prices-tumble-to-nearly-10-month-low-on-demand-concerns/"
-    },
-    {
-      "headline": "Geopolitical risk drives capital to private sector: analyst",
-      "summary": "Growing geopolitical tensions are driving investors away from government debt and towards private assets, a shift that could eventually trigger another gold rally, according to market-cycle analyst Martin Armstrong. In…",
-      "category": "politics",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-10-11",
-      "link": "https://www.mining.com/geopolitical-risk-drives-capital-to-private-sector-analyst/"
     }
   ]
 }

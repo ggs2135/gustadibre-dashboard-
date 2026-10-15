@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-14T12:37:46.867Z",
+  "generatedAt": "2026-10-15T12:25:35.665Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
-        "title": "Disputas digitais e a censura de Kassio ao ‘Exército do Lula’",
-        "date": "2026-10-14",
-        "url": "https://open.spotify.com/episode/3lhPK09TI4ONZuP91BFgq8",
+        "title": "Fim da 6x1, ruas, redes e as estratégias da reta final",
+        "date": "2026-10-15",
+        "url": "https://open.spotify.com/episode/2NZzHphgiTmKj2g1nmWZjX",
         "isNew": true
       }
     },
     {
       "name": "Posse de Bola",
       "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
       "latestEpisode": {
         "title": "#709: Palmeiras afunda o Corinthians! Fla mantém a liderança com arbitragem polêmica!",
         "date": "2026-10-12",
@@ -26,11 +26,11 @@
     {
       "name": "WSJ What's News",
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "Have U.S. Cars Lost Their Edge?",
-        "date": "2026-10-14",
-        "url": "https://open.spotify.com/episode/2bc9pCvOTLZJFaR4rdIqr0",
+        "title": "The Tech Selloff Deepens",
+        "date": "2026-10-15",
+        "url": "https://open.spotify.com/episode/7xKqrIi74YCUtUc6XjOq3i",
         "isNew": true
       }
     },
@@ -39,10 +39,10 @@
       "showUrl": "https://open.spotify.com/show/7dSHR4UqvZjX3I9mZ4rBlu",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8af46957f9ffdf22624d5fc284",
       "latestEpisode": {
-        "title": "When Passion Meets Real Life: Chemistry at Its Core, Episode 1",
-        "date": "2026-10-08",
-        "url": "https://open.spotify.com/episode/4CRPMgcNegdlxQkZUMeNB9",
-        "isNew": false
+        "title": "Always a Student: Chemistry at Its Core, Episode 2",
+        "date": "2026-10-15",
+        "url": "https://open.spotify.com/episode/7if7mi9qqD38z8vKkQZV6M",
+        "isNew": true
       }
     },
     {
@@ -50,9 +50,9 @@
       "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
       "latestEpisode": {
-        "title": "Bonus: The Future of Scientific Collaboration, A View from Industry",
-        "date": "2026-10-12",
-        "url": "https://open.spotify.com/episode/0ryBL07MVNIJ9lQjU35LTP",
+        "title": "Uncovered: The Capitals of Chemistry",
+        "date": "2026-10-15",
+        "url": "https://open.spotify.com/episode/7yyzeExRkMXKc5rQ68Kc2a",
         "isNew": true
       }
     }
