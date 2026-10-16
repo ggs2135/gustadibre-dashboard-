@@ -1,104 +1,121 @@
 {
-  "generatedAt": "2026-10-15T12:25:36.579Z",
+  "generatedAt": "2026-10-16T12:04:20.330Z",
   "items": [
     {
-      "title": "Evaluation of Critical Minerals in Produced Waters from the Louisiana Smackover Formation",
+      "title": "Designing Trustworthy AI Systems for Modeling Critical Minerals Recovery Processes",
       "authors": [
-        "I. Gupta",
-        "K. Maiti",
-        "M. K. Dutta",
-        "R. Pei"
+        "Rajshree Deshmukh",
+        "Tanushree Subramanian",
+        "Sheng Pang",
+        "Sarah S. Poon"
       ],
-      "venue": "SPE Annual Technical Conference and Exhibition",
-      "date": "2026-10-14",
-      "abstract": "Abstract Brines from the Upper Jurassic Smackover Formation have become a focus of lithium evaluation following reports of concentrations above 400 mg/L in southern Arkansas, but comparable produced-water geochemistry from northern Louisiana remains limited. We report major- and trace-element, anion, stable-isotope,…",
-      "link": "https://doi.org/10.2118/234010-ms",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-19",
+      "abstract": "As AI assistance lowers the barrier to coding, domain experts with limited programming experience are increasingly engaging with scientific computing software. However, a critical gap persists: evaluating and trusting AI-generated code remains a significant challenge for verification and validation. Drawing on our…",
+      "link": "https://doi.org/10.5281/zenodo.23404250",
       "source": "OpenAlex"
     },
     {
-      "title": "Co-Production of Critical Minerals During Stimulated Geological Hydrogen Generation: A Circular Process for Subsurface Resource Recovery",
+      "title": "Replication Package for \"Tariff Responses in Critical Minerals Trade: Identification in a Multi-Dimensional Panel Gravity Model\"",
       "authors": [
-        "N. M. Angelina",
-        "H. Samouei",
-        "E. R. Okoroafor"
+        "Muhammad Afnan Arif"
       ],
-      "venue": "SPE Annual Technical Conference and Exhibition",
-      "date": "2026-10-14",
-      "abstract": "Abstract The U.S. Department of Energy (DOE) 2023 Critical Materials Assessment classified magnesium as near-critical in the short term and critical in the medium term (2025–2035), reflecting its high relevance to clean-energy technologies and supply-chain risk. This study evaluates critical-mineral mobilization and…",
-      "link": "https://doi.org/10.2118/233932-ms",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-15",
+      "abstract": "",
+      "link": "https://doi.org/10.5281/zenodo.23400586",
       "source": "OpenAlex"
     },
     {
-      "title": "Co-Production of Critical Minerals and Hydrocarbons in Sedimentary Basins: Experimental Evaluation of Chelation-Enhanced In-Situ Mining",
+      "title": "Ownership and Final-Demand Responsibility in Critical Mineral Supply Chains",
       "authors": [
-        "Yuntian Teng",
-        "Ellen G. Polites",
-        "Keju Yan",
-        "C. Heath Stanfield"
+        "Lawrence Adu Asamoah"
       ],
-      "venue": "SPE Annual Technical Conference and Exhibition",
-      "date": "2026-10-14",
-      "abstract": "Abstract Critical minerals and materials are widely distributed in organic-rich sedimentary formations, but their recovery from existing hydrocarbon reservoirs requires formation-compatible fluids that can mobilize selected elements under reservoir-relevant conditions. This study evaluated critical-element extraction…",
-      "link": "https://doi.org/10.2118/233924-ms",
+      "venue": "Mendeley Data",
+      "date": "2026-10-15",
+      "abstract": "This file reproduces the ownership and final demand responsibility in critical mineral supply chain with emphasis on DRC and Guinea.",
+      "link": "https://doi.org/10.17632/mbs9mr8h37",
       "source": "OpenAlex"
     },
     {
-      "title": "Permeability Evolution and Critical Mineral Partitioning During Production of Marcellus Shale Produced Waters",
+      "title": "(Un)just energy and mobility transitions",
       "authors": [
-        "Xuejia Du",
-        "Ganesh C. Thakur"
+        "Era Purike",
+        "Arfin Sudirman",
+        "Darmansjah Djumala",
+        "Deasy Silvya Sari"
       ],
-      "venue": "SPE Annual Technical Conference and Exhibition",
-      "date": "2026-10-14",
-      "abstract": "Abstract The recovery of critical minerals such as lithium, magnesium, and strontium from oil and gas produced waters depends on how those metals behave as brine is drawn toward the wellbore. Pressure depletion during production drives carbonate mineral scaling, which both impairs near-wellbore permeability and…",
-      "link": "https://doi.org/10.2118/233926-ms",
+      "venue": "Routledge eBooks",
+      "date": "2026-10-15",
+      "abstract": "The transition of energy and mobility systems from fossil fuel-based to renewable energy and battery electric vehicles boosts the demand for critical minerals such as nickel. Indonesia’s ban on exporting unprocessed nickel ore has successfully attracted Chinese investment in smelting operations and captive coal power…",
+      "link": "https://doi.org/10.4324/9781042018000-11",
       "source": "OpenAlex"
     },
     {
-      "title": "Seismological Constraints on Subduction and Suture Zone Architecture in the Central African Copperbelt",
+      "title": "GREEN TRANSFORMATION OF GLOBAL BUSINESS IN THE CONTEXT OF DECARBONIZATION, COMPETITIVENESS, AND INCLUSIVE SUSTAINABLE DEVELOPMENT",
       "authors": [
-        "Rita Kounoudis",
-        "J-M Kendall",
-        "J Jenkins",
-        "T Mackay-Champion"
+        "Oleksandr Robeiko",
+        "Ю. Тимофійчук"
       ],
-      "venue": "Geophysical Journal International",
-      "date": "2026-10-14",
-      "abstract": "Summary Central Africa marks a major collisional zone of the Pan-African Orogeny, involving convergence of the Congo and Kalahari plates during Gondwana assembly (~600–500 Ma). This collision formed the Lufilian Belt and one of the world’s most significant metallogenic provinces—the Central African Copperbelt.…",
-      "link": "https://doi.org/10.1093/gji/ggag444",
+      "venue": "Business Navigator",
+      "date": "2026-10-15",
+      "abstract": "The article examines the green transformation of global business in the context of accelerating decarbonization, technological change, and the transition towards sustainable development. The purpose of the study is to substantiate the relationship between decarbonization, business competitiveness, and inclusiveness,…",
+      "link": "https://doi.org/10.32782/business-navigator.88-16",
       "source": "OpenAlex"
     },
     {
-      "title": "The processed data used in the study of \"From Fossil-Fuel Dependency to Critical-Mineral Trade Dependency\"",
+      "title": "Green Energy Vehicles in the Global Energy Transition: Technological Evolution, Critical Materials, and Sustainable Supply Chains—A Bibliometric and Thematic Review (2015–2025)",
       "authors": [
-        "ping chen"
+        "Mcxin Tee",
+        "Shaowei Miao",
+        "Amran Rasli",
+        "Dong Li"
       ],
-      "venue": "Figshare",
-      "date": "2026-10-14",
-      "abstract": "The underlying bilateral trade data are from the CEPII BACI database and are available at https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37. Macroeconomic and energy-transition indicators are from the World Bank World Development Indicators, available at https://data.worldbank.org/.…",
-      "link": "https://doi.org/10.6084/m9.figshare.34477530",
+      "venue": "Energies",
+      "date": "2026-10-15",
+      "abstract": "Green energy vehicles (GEVs) are increasingly central to low-carbon energy transitions, but research remains fragmented across vehicle technologies, battery systems, critical materials, circularity, and sustainable supply chains. This bibliometric and thematic review maps the intellectual structure and evolution of…",
+      "link": "https://doi.org/10.3390/en19204878",
       "source": "OpenAlex"
     },
     {
-      "title": "Critical Minerals and AI Infrastructure: Global Reserves, Production, Processing and Country Shares",
+      "title": "Machine learning-based thorium normalization in airborne gamma-ray spectrometry for enhanced critical mineral exploration",
       "authors": [
-        "Anastasios (Tasos) Tassos"
+        "Jessica Derkacz Weihermann",
+        "Yaoguo Li",
+        "Mengli Zhang"
       ],
-      "venue": "Harvard Dataverse",
-      "date": "2026-10-14",
-      "abstract": "This dataset provides country-level quantities and scoped shares of global mineral reserves, mining and primary production, processing and refining, and selected component manufacture relevant to artificial intelligence infrastructure. It contains 66 quantitative tables with 856 observations covering 85 countries and…",
-      "link": "https://doi.org/10.7910/dvn/bo00tp",
+      "venue": "Scientific Reports",
+      "date": "2026-10-15",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-76122-7",
       "source": "OpenAlex"
     },
     {
-      "title": "Lixa v0.1.2: an open-source, image-informed framework for closed-loop design of leaching processes for domestic critical-mineral recovery, from the pore to the plant scale",
+      "title": "GeONet: Geometry-Encoded Operator Network for Predicting Flow in Heterogeneous Porous Media",
       "authors": [
-        "Shahram Asgari"
+        "Md Lal Mamud",
+        "Maruti Mudunuru",
+        "Yucheng Fu",
+        "Aramy Troung"
       ],
       "venue": null,
-      "date": "2026-10-14",
-      "abstract": "Leaching takes a metal out of a rock and into a solution. In the United States, rare earth elements, lithium and scandium occur mostly in rocks where the metal is thinly spread through a porous matrix: weathered clays, coal ash, lithium claystones and bauxite residue. For such rocks the leaching recipe (reagent,…",
-      "link": "https://doi.org/10.31223/x58f9s",
+      "date": "2026-10-15",
+      "abstract": "Rapid prediction of pressure-driven flow in microfluidic porous-media analogs is important for experimental design, tracer-test interpretation, and real-time digital-twin development for subsurface energy and critical mineral science applications. High-fidelity numerical simulators resolve geometry-controlled flow in…",
+      "link": "https://doi.org/10.31223/x57j84",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Reproducibility Package for Deterministic Assessment of Critical Mineral Supply Chain Risks Under Climate and Geopolitical Disruptions",
+      "authors": [
+        "Chang Chang",
+        "Masoud Ghasemi",
+        "Samia Elattar",
+        "H. Elhosiny Ali"
+      ],
+      "venue": "Figshare",
+      "date": "2026-10-15",
+      "abstract": "This reproducibility package accompanies the manuscript “Deterministic Assessment of Critical Mineral Supply Chain Risks Under Climate and Geopolitical Disruptions.” It combines the controlled deterministic scenario analysis and the empirical physical production-risk evaluation. The archive contains machine-readable…",
+      "link": "https://doi.org/10.6084/m9.figshare.34516611",
       "source": "OpenAlex"
     },
     {
@@ -175,33 +192,6 @@
       "date": "2026-09-29",
       "abstract": "",
       "link": "https://doi.org/10.1038/d41586-026-03054-7",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Digging into disclosure: Mapping site-level publicly disclosed VSS engagement in lithium and cobalt mining",
-      "authors": [
-        "Capucine Nouvel Zurcher",
-        "Paulina Fernández",
-        "Sónia Martins da Cunha",
-        "Susan van den Brink"
-      ],
-      "venue": "Resources Policy",
-      "date": "2026-09-27",
-      "abstract": "The growing importance of critical minerals such as lithium and cobalt in the energy transition has intensified scrutiny over environmental, social, and governance (ESG) practices in mining supply chains. While Voluntary Sustainability Standards (VSS) are increasingly used to signal responsible sourcing, publicly…",
-      "link": "https://doi.org/10.1016/j.resourpol.2026.106063",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Temporal Dynamics of Market Concentration and Systemic Risk in Critical Minerals Supply Chains: Evidence from a Multi-Layer Network Analysis",
-      "authors": [
-        "Bekir Pakdemirli",
-        "Ömer Akgüller",
-        "Mehmet Ali Balcı"
-      ],
-      "venue": "International Economics and Economic Policy",
-      "date": "2026-09-26",
-      "abstract": "",
-      "link": "https://doi.org/10.1007/s10368-026-00815-7",
       "source": "OpenAlex"
     },
     {
@@ -305,6 +295,18 @@
       "date": "2026-07-06",
       "abstract": "Europe's industries rely heavily on rare earth elements (REEs), classified by the European Union (EU) as critical raw materials (CRMs) since 2011. Yet almost all are imported, and domestic recycling of products containing REEs remains minimal. Some REEs are key components of permanent magnets (PMs), used in…",
       "link": "https://doi.org/10.5281/zenodo.21215247",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Bibliometric Analysis of Green Investment in Electric Vehicles",
+      "authors": [
+        "Loso Judijanto",
+        "Helda Yusita"
+      ],
+      "venue": "West Science Social and Humanities Studies",
+      "date": "2026-06-26",
+      "abstract": "The present study conducts a bibliometric review of scholarly work related to green investment for electric vehicles (EVs). The main objective of the review is to provide an insight into the knowledge base of green investment in EVs in terms of the intellectual structure, theme evolution, and international…",
+      "link": "https://doi.org/10.58812/wsshs.v4i06.2942",
       "source": "OpenAlex"
     }
   ]

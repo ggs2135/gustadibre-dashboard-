@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-10-15T12:25:35.665Z",
+  "generatedAt": "2026-10-16T12:04:18.827Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
-        "title": "Fim da 6x1, ruas, redes e as estratégias da reta final",
-        "date": "2026-10-15",
-        "url": "https://open.spotify.com/episode/2NZzHphgiTmKj2g1nmWZjX",
+        "title": "O fim da 6x1 para valer",
+        "date": "2026-10-16",
+        "url": "https://open.spotify.com/episode/4tJh1MSPKvlUt0WXlTIQti",
         "isNew": true
       }
     },
     {
       "name": "Posse de Bola",
       "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
       "latestEpisode": {
         "title": "#709: Palmeiras afunda o Corinthians! Fla mantém a liderança com arbitragem polêmica!",
         "date": "2026-10-12",
         "url": "https://open.spotify.com/episode/0s1gzp4A0zhkt1JRoCx1VD",
-        "isNew": true
+        "isNew": false
       }
     },
     {
@@ -28,9 +28,9 @@
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
       "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "The Tech Selloff Deepens",
-        "date": "2026-10-15",
-        "url": "https://open.spotify.com/episode/7xKqrIi74YCUtUc6XjOq3i",
+        "title": "AI Has an Insurance Problem",
+        "date": "2026-10-16",
+        "url": "https://open.spotify.com/episode/1uIJ7N7M5MGLUr8DacbNkI",
         "isNew": true
       }
     },

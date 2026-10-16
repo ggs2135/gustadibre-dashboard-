@@ -1,54 +1,52 @@
 {
-  "generatedAt": "2026-10-15T12:25:34.922Z",
+  "generatedAt": "2026-10-16T12:04:18.020Z",
   "items": [
     {
-      "headline": "TNM Drill Down: Pecoy leads recent copper assays",
-      "summary": "Peru, Canada and Colombia yielded the best copper drill results from Aug. 17 to Sept. 15, according to data compiled by The Northern Miner. Intervals from Pecoy Copper (TSXV: PCU),... The post TNM Drill Down: Pecoy…",
+      "headline": "Copper surplus to widen as refined output rebounds",
+      "summary": "The global refined copper surplus is expected to more than triple next year as production growth outpaces consumption, despite demand from electrification, artificial intelligence and data centres, the International…",
       "category": "supply",
       "minerals": [
         "Copper"
       ],
       "source": "The Northern Miner",
-      "date": "2026-10-15",
-      "link": "https://www.northernminer.com/news/tnm-drill-down-pecoy-leads-recent-copper-assays/1003895729/"
+      "date": "2026-10-16",
+      "link": "https://www.northernminer.com/news/copper-surplus-to-widen-as-refined-output-rebounds/1003895769/"
     },
     {
-      "headline": "Basic Materials Roundup: Market Talk",
-      "summary": "Find insight on Antofagasta, Aneka Tambang, Evolution Mining and more in the latest Market Talks covering Basic Materials.",
-      "category": "supply",
-      "minerals": [],
-      "source": "WSJ — Markets",
-      "date": "2026-10-15",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-69712cda?mod=rss_markets_main"
-    },
-    {
-      "headline": "Bradken SmartRoller™ enables safer & more efficient undercarriage operation",
-      "summary": "Bradken, a global leader in mining wear solutions, has recently launched Bradken SmartRoller – a digital product which it says can improve excavator undercarriage performance significantly. It enables real-time,…",
+      "headline": "Integrated Pump Technology strengthens dewatering resilience in Central Africa’s mines",
+      "summary": "Central Africa’s mining sector is grappling with more unpredictable rainfall as a result of climate change. Integrated Pump Technology, distributor of Grindex submersible and Godwin surface pumps, is responding with a…",
       "category": "supply",
       "minerals": [],
       "source": "International Mining",
-      "date": "2026-10-15",
-      "link": "https://im-mining.com/2026/10/15/bradken-smartroller-enables-safer-more-efficient-undercarriage-operation/"
+      "date": "2026-10-16",
+      "link": "https://im-mining.com/2026/10/16/integrated-pump-technology-strengthens-dewatering-resilience-in-central-africas-mines/"
     },
     {
-      "headline": "Tenaris produces new steel grade for Canadian energy operators",
-      "summary": "Steel manufacturer Tenaris said Wednesday it is now domestically producing its TN 95EY proprietary steel grade, responding to the evolving needs of Western Canadian energy operators. In 2018, Tenaris temporarily laid…",
+      "headline": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
+      "summary": "A teen opened fire at an Oregon elementary school, leaving three kids and one teacher dead. And, the Justice Department is suing California over alleged noncitizen voters. (Image credit: Mathieu Lewis-Rolland)",
       "category": "supply",
       "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-10-14",
-      "link": "https://www.mining.com/tenaris-produces-new-steel-grade-for-canadian-energy-operators/"
+      "source": "NPR",
+      "date": "2026-10-16",
+      "link": "https://www.npr.org/2026/10/16/g-s1-148373/up-first-newsletter-bend-oregon-school-shooting-california-doj-voters-presidential-papers"
     },
     {
-      "headline": "Basic Materials Roundup: Market Talk",
-      "summary": "Find insight on gold and silver futures, Rio Tinto, Mineral Resources and more in the latest Market Talks covering Basic Materials.",
-      "category": "economic",
-      "minerals": [
-        "Silver"
-      ],
-      "source": "WSJ — Markets",
-      "date": "2026-10-14",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-4f9f083f?mod=rss_markets_main"
+      "headline": "Sandvik Rock Processing’s Reborn crusher program gains traction in Africa",
+      "summary": "Mines and quarries across Africa are pushing to maximise output from existing infrastructure while keeping capital expenditure under tight control, with Sandvik Rock Processing’s Reborn program does just this for…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-16",
+      "link": "https://im-mining.com/2026/10/16/sandvik-rock-processings-reborn-crusher-program-gains-traction-in-africa/"
+    },
+    {
+      "headline": "Caterpillar invests $10M in North Carolina workforce",
+      "summary": "Caterpillar (NYSE: CAT) is set to expand its workforce commitment in North Carolina, with an allocation of up to $10 million (C$14.19 […] The post Caterpillar invests $10M in North Carolina workforce appeared first on…",
+      "category": "funding",
+      "minerals": [],
+      "source": "Canadian Mining Journal",
+      "date": "2026-10-15",
+      "link": "https://www.canadianminingjournal.com/news/caterpillar-invests-10m-in-north-carolina-workforce/"
     },
     {
       "headline": "Gold miners’ earnings surge but valuations lag: Sprott",
@@ -91,13 +89,13 @@
       "link": "https://www.mining.com/gold-miners-earnings-surge-but-valuations-lag-sprott/"
     },
     {
-      "headline": "Core Resources delivers advanced metallurgical pilot plant to AK Altynalmas in Kazakhstan",
-      "summary": "Core Resources says it has delivered an advanced metallurgical pilot plant to AK Altynalmas, Kazakhstan’s largest gold producer, building on a long-term relationship between the two companies. Over the past year, the…",
-      "category": "science",
+      "headline": "Explosives: the overlooked risk that could halt mines",
+      "summary": "Canadian miners are underestimating the risk of explosives shortages that could disrupt production as trade tensions and geopolitical instability expose weaknesses in critical supply chains, EPC Canada senior…",
+      "category": "politics",
       "minerals": [],
-      "source": "International Mining",
-      "date": "2026-10-14",
-      "link": "https://im-mining.com/2026/10/14/core-resources-delivers-advanced-metallurgical-pilot-plant-to-ak-altynalmas-in-kazakhstan/"
+      "source": "MINING.com",
+      "date": "2026-10-13",
+      "link": "https://www.mining.com/explosives-the-overlooked-risk-that-could-halt-mines/"
     }
   ]
 }
