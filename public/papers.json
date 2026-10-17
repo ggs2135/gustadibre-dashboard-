@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T12:04:20.330Z",
+  "generatedAt": "2026-10-17T11:19:27.193Z",
   "items": [
     {
       "title": "Designing Trustworthy AI Systems for Modeling Critical Minerals Recovery Processes",
@@ -16,6 +16,66 @@
       "source": "OpenAlex"
     },
     {
+      "title": "India's Critical Mineral Refining Bottleneck: An Empirical Investigation of Trade Concentration, Balance Sheet Absorptive Capacity, and Unit Economics",
+      "authors": [
+        "Tanisha Vashistha"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-16",
+      "abstract": "This empirical working paper evaluates the commercial viability of battery-grade graphite refining in India across international trade flows, corporate balance-sheet capacity, and factory unit economics. Using bilateral trade data across HS codes 2504.10 and 3801.10, the paper documents extreme monopolistic…",
+      "link": "https://doi.org/10.5281/zenodo.23424016",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Continuity, Symbiosis, and Stacking: Extracting Critical Minerals Value from Coal Waste in Pennsylvania",
+      "authors": [
+        "Owen Harrington"
+      ],
+      "venue": "Annals of the American Association of Geographers",
+      "date": "2026-10-16",
+      "abstract": "State and industry-backed efforts to remine coal wastes, such as coal ash, acid mine drainage, and waste coal, for critical minerals position new forms of extraction as both mining and remediation, give coal companies a stake in energy transitions, and promise to revive coal communities and bolster national security.…",
+      "link": "https://doi.org/10.1080/24694452.2026.2738587",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Critical minerals in Africa",
+      "authors": [
+        "OECD"
+      ],
+      "venue": null,
+      "date": "2026-10-16",
+      "abstract": "",
+      "link": "https://doi.org/10.1787/53e5f664-en",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Machine Learning Identifies an Information-Sufficiency Regime for Critical-Mineral Recovery",
+      "authors": [
+        "Tengxiao Liu",
+        "Ta-Wei Wang",
+        "Hongtao Sun"
+      ],
+      "venue": "ChemRxiv",
+      "date": "2026-10-16",
+      "abstract": "The recovery of critical minerals from spent lithium-ion batteries is governed by coupled feedstock chemistry, solvent composition, and processing conditions, yet heterogeneous experimental reporting makes it difficult to determine which information is essential for reliable prediction across heterogeneous…",
+      "link": "https://doi.org/10.26434/chemrxiv.15010566/v1",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Material circularity implications of battery degradation in shared electric mobility",
+      "authors": [
+        "Qindong Yang",
+        "Guochang Xu",
+        "Wu Chen",
+        "Dan Tong"
+      ],
+      "venue": "Nature Sustainability",
+      "date": "2026-10-16",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41893-026-01969-7",
+      "source": "OpenAlex"
+    },
+    {
       "title": "Replication Package for \"Tariff Responses in Critical Minerals Trade: Identification in a Multi-Dimensional Panel Gravity Model\"",
       "authors": [
         "Muhammad Afnan Arif"
@@ -29,79 +89,13 @@
     {
       "title": "Ownership and Final-Demand Responsibility in Critical Mineral Supply Chains",
       "authors": [
-        "Lawrence Adu Asamoah"
+        "Lawrence Adu Asamoah",
+        "George Boateng"
       ],
       "venue": "Mendeley Data",
       "date": "2026-10-15",
       "abstract": "This file reproduces the ownership and final demand responsibility in critical mineral supply chain with emphasis on DRC and Guinea.",
       "link": "https://doi.org/10.17632/mbs9mr8h37",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "(Un)just energy and mobility transitions",
-      "authors": [
-        "Era Purike",
-        "Arfin Sudirman",
-        "Darmansjah Djumala",
-        "Deasy Silvya Sari"
-      ],
-      "venue": "Routledge eBooks",
-      "date": "2026-10-15",
-      "abstract": "The transition of energy and mobility systems from fossil fuel-based to renewable energy and battery electric vehicles boosts the demand for critical minerals such as nickel. Indonesia’s ban on exporting unprocessed nickel ore has successfully attracted Chinese investment in smelting operations and captive coal power…",
-      "link": "https://doi.org/10.4324/9781042018000-11",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "GREEN TRANSFORMATION OF GLOBAL BUSINESS IN THE CONTEXT OF DECARBONIZATION, COMPETITIVENESS, AND INCLUSIVE SUSTAINABLE DEVELOPMENT",
-      "authors": [
-        "Oleksandr Robeiko",
-        "Ю. Тимофійчук"
-      ],
-      "venue": "Business Navigator",
-      "date": "2026-10-15",
-      "abstract": "The article examines the green transformation of global business in the context of accelerating decarbonization, technological change, and the transition towards sustainable development. The purpose of the study is to substantiate the relationship between decarbonization, business competitiveness, and inclusiveness,…",
-      "link": "https://doi.org/10.32782/business-navigator.88-16",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Green Energy Vehicles in the Global Energy Transition: Technological Evolution, Critical Materials, and Sustainable Supply Chains—A Bibliometric and Thematic Review (2015–2025)",
-      "authors": [
-        "Mcxin Tee",
-        "Shaowei Miao",
-        "Amran Rasli",
-        "Dong Li"
-      ],
-      "venue": "Energies",
-      "date": "2026-10-15",
-      "abstract": "Green energy vehicles (GEVs) are increasingly central to low-carbon energy transitions, but research remains fragmented across vehicle technologies, battery systems, critical materials, circularity, and sustainable supply chains. This bibliometric and thematic review maps the intellectual structure and evolution of…",
-      "link": "https://doi.org/10.3390/en19204878",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Machine learning-based thorium normalization in airborne gamma-ray spectrometry for enhanced critical mineral exploration",
-      "authors": [
-        "Jessica Derkacz Weihermann",
-        "Yaoguo Li",
-        "Mengli Zhang"
-      ],
-      "venue": "Scientific Reports",
-      "date": "2026-10-15",
-      "abstract": "",
-      "link": "https://doi.org/10.1038/s41598-026-76122-7",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "GeONet: Geometry-Encoded Operator Network for Predicting Flow in Heterogeneous Porous Media",
-      "authors": [
-        "Md Lal Mamud",
-        "Maruti Mudunuru",
-        "Yucheng Fu",
-        "Aramy Troung"
-      ],
-      "venue": null,
-      "date": "2026-10-15",
-      "abstract": "Rapid prediction of pressure-driven flow in microfluidic porous-media analogs is important for experimental design, tracer-test interpretation, and real-time digital-twin development for subsurface energy and critical mineral science applications. High-fidelity numerical simulators resolve geometry-controlled flow in…",
-      "link": "https://doi.org/10.31223/x57j84",
       "source": "OpenAlex"
     },
     {

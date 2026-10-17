@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T12:04:18.827Z",
+  "generatedAt": "2026-10-17T11:19:25.954Z",
   "shows": [
     {
       "name": "Café da Manhã",
@@ -17,20 +17,20 @@
       "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
       "latestEpisode": {
-        "title": "#709: Palmeiras afunda o Corinthians! Fla mantém a liderança com arbitragem polêmica!",
-        "date": "2026-10-12",
-        "url": "https://open.spotify.com/episode/0s1gzp4A0zhkt1JRoCx1VD",
-        "isNew": false
+        "title": "De Carona #18: Gabriel Delfim na Seleção? Palmeiras na final da Libertadores?",
+        "date": "2026-10-16",
+        "url": "https://open.spotify.com/episode/0Ab8v30O4Mpjabto0qyGFC",
+        "isNew": true
       }
     },
     {
       "name": "WSJ What's News",
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "AI Has an Insurance Problem",
-        "date": "2026-10-16",
-        "url": "https://open.spotify.com/episode/1uIJ7N7M5MGLUr8DacbNkI",
+        "title": "What’s News in Markets: CoreWeave Selloff, Apple Milestone, Borrowing Boom",
+        "date": "2026-10-17",
+        "url": "https://open.spotify.com/episode/2pYijFGlmwOKxXR26AzRow",
         "isNew": true
       }
     },
@@ -48,7 +48,7 @@
     {
       "name": "Stereo Chemistry",
       "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
       "latestEpisode": {
         "title": "Uncovered: The Capitals of Chemistry",
         "date": "2026-10-15",
