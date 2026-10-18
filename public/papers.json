@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T11:19:27.193Z",
+  "generatedAt": "2026-10-18T11:55:44.700Z",
   "items": [
     {
       "title": "Designing Trustworthy AI Systems for Modeling Critical Minerals Recovery Processes",
@@ -13,6 +13,34 @@
       "date": "2026-10-19",
       "abstract": "As AI assistance lowers the barrier to coding, domain experts with limited programming experience are increasingly engaging with scientific computing software. However, a critical gap persists: evaluating and trusting AI-generated code remains a significant challenge for verification and validation. Drawing on our…",
       "link": "https://doi.org/10.5281/zenodo.23404250",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Material-engineered localized ion enrichment for critical mineral recovery via solar-driven interfacial evaporation",
+      "authors": [
+        "Jun-Yi Zhang",
+        "Xiao-Rong Sun",
+        "Chang-Ping Feng",
+        "Lu Bai"
+      ],
+      "venue": "Renewable and Sustainable Energy Reviews",
+      "date": "2026-10-17",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.rser.2026.117608",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Divergent financing responses in lithium exploration: descriptive time-series evidence from fiscal and enterprise channels (2015–2024)",
+      "authors": [
+        "YU yun",
+        "jianfeng yang",
+        "haojie liu",
+        "Benyan Xu"
+      ],
+      "venue": "Humanities and Social Sciences Communications",
+      "date": "2026-10-17",
+      "abstract": "Exploration investment in critical minerals is typically analysed as an aggregate process, leaving comparatively little evidence on how financing composition varies across institutional channels under changing commodity price conditions. Using annual data on lithium exploration during 2015–2024, this study…",
+      "link": "https://doi.org/10.1057/s41599-026-09378-z",
       "source": "OpenAlex"
     },
     {
@@ -73,17 +101,6 @@
       "date": "2026-10-16",
       "abstract": "",
       "link": "https://doi.org/10.1038/s41893-026-01969-7",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Replication Package for \"Tariff Responses in Critical Minerals Trade: Identification in a Multi-Dimensional Panel Gravity Model\"",
-      "authors": [
-        "Muhammad Afnan Arif"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-15",
-      "abstract": "",
-      "link": "https://doi.org/10.5281/zenodo.23400586",
       "source": "OpenAlex"
     },
     {
@@ -289,18 +306,6 @@
       "date": "2026-07-06",
       "abstract": "Europe's industries rely heavily on rare earth elements (REEs), classified by the European Union (EU) as critical raw materials (CRMs) since 2011. Yet almost all are imported, and domestic recycling of products containing REEs remains minimal. Some REEs are key components of permanent magnets (PMs), used in…",
       "link": "https://doi.org/10.5281/zenodo.21215247",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Bibliometric Analysis of Green Investment in Electric Vehicles",
-      "authors": [
-        "Loso Judijanto",
-        "Helda Yusita"
-      ],
-      "venue": "West Science Social and Humanities Studies",
-      "date": "2026-06-26",
-      "abstract": "The present study conducts a bibliometric review of scholarly work related to green investment for electric vehicles (EVs). The main objective of the review is to provide an insight into the knowledge base of green investment in EVs in terms of the intellectual structure, theme evolution, and international…",
-      "link": "https://doi.org/10.58812/wsshs.v4i06.2942",
       "source": "OpenAlex"
     }
   ]

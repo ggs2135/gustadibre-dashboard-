@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-17T11:19:23.078Z",
+  "generatedAt": "2026-10-18T11:55:40.870Z",
   "items": [
+    {
+      "headline": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
+      "summary": "NPR's Joel Rose talks with Oregon Governor Tina Kotek about the shooting at Silver Rail Elementary in Bend, Oregon.",
+      "category": "supply",
+      "minerals": [
+        "Silver"
+      ],
+      "source": "NPR",
+      "date": "2026-10-17",
+      "link": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting"
+    },
     {
       "headline": "Buffalo clears potash permit hurdle in Saskatchewan",
       "summary": "Buffalo Potash (TSXV: BUFF; US-OTC: BLPTF) has secured Saskatchewan approval to complete construction and operate its Disley potash facility, with first production still targeted for early 2027. The initial production…",
@@ -38,15 +49,6 @@
       "link": "https://www.northernminer.com/news/freegolds-213m-at-1-2g-t-gold-outlines-faster-alaska-plan/1003895816/"
     },
     {
-      "headline": "Summit video: Montage targets first Koné gold pour by year-end",
-      "summary": "Montage Gold (TSX: MAU; US-OTC: MAUTF) is targeting higher-grade satellite deposits to boost output at its Koné mine in Côte d’Ivoire, CEO Martino De Ciccio says. Koné, about 350 km... The post Summit video: Montage…",
-      "category": "supply",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-10-16",
-      "link": "https://www.northernminer.com/stock-markets-investing/sponsored-summit-video-montage-targets-first-kone-gold-by-year-end/1003895822/"
-    },
-    {
       "headline": "Caterpillar invests $10M in North Carolina workforce",
       "summary": "Caterpillar (NYSE: CAT) is set to expand its workforce commitment in North Carolina, with an allocation of up to $10 million (C$14.19 […] The post Caterpillar invests $10M in North Carolina workforce appeared first on…",
       "category": "funding",
@@ -54,46 +56,6 @@
       "source": "Canadian Mining Journal",
       "date": "2026-10-15",
       "link": "https://www.canadianminingjournal.com/news/caterpillar-invests-10m-in-north-carolina-workforce/"
-    },
-    {
-      "headline": "Gold miners’ earnings surge but valuations lag: Sprott",
-      "summary": "Gold producers aren’t getting full credit from investors for stronger profits and tighter spending discipline, Sprott Asset Management says. The NYSE Arca Gold Miners Index traded at 5.7 times expected... The post Gold…",
-      "category": "economic",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-10-14",
-      "link": "https://www.northernminer.com/news/gold-miners-earnings-surge-but-valuations-lag-sprott/1003895710/"
-    },
-    {
-      "headline": "Opinion | Modernize and Reform the Recycling System",
-      "summary": "The answer isn’t to abandon it but rather to fix it through private-sector innovation, policy standardization and targeted materials recovery.",
-      "category": "science",
-      "minerals": [
-        "Recycling"
-      ],
-      "source": "WSJ — Markets",
-      "date": "2026-10-14",
-      "link": "https://www.wsj.com/opinion/modernize-and-reform-the-recycling-system-d824c886?mod=rss_markets_main"
-    },
-    {
-      "headline": "Copper price forecasts lifted for 2026 but tariff “collapse” still on the table",
-      "summary": "Copper pulled back from a three-week high on Wednesday after US inflation data put a Federal Reserve rate hike this month back on the table, and word of a preliminary deal to avert a strike at BHP’s Escondida, the…",
-      "category": "economic",
-      "minerals": [
-        "Copper"
-      ],
-      "source": "MINING.com",
-      "date": "2026-10-14",
-      "link": "https://www.mining.com/copper-price-forecasts-lifted-for-2026-but-tariff-collapse-still-on-the-table/"
-    },
-    {
-      "headline": "Gold miners’ earnings surge but valuations lag: Sprott",
-      "summary": "Gold producers aren’t getting full credit from investors for stronger profits and tighter spending discipline, Sprott Asset Management says. The NYSE Arca Gold Miners Index traded at 5.7 times expected operating…",
-      "category": "economic",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-10-14",
-      "link": "https://www.mining.com/gold-miners-earnings-surge-but-valuations-lag-sprott/"
     }
   ]
 }
