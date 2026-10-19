@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-18T11:55:43.261Z",
+  "generatedAt": "2026-10-19T14:18:00.343Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
-        "title": "O fim da 6x1 para valer",
-        "date": "2026-10-16",
-        "url": "https://open.spotify.com/episode/4tJh1MSPKvlUt0WXlTIQti",
+        "title": "O primeiro debate entre Flávio Bolsonaro e Lula",
+        "date": "2026-10-19",
+        "url": "https://open.spotify.com/episode/7KPjrQfrBJUZvfJiw1DKMP",
         "isNew": true
       }
     },
@@ -26,18 +26,18 @@
     {
       "name": "WSJ What's News",
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "What’s News in Markets: CoreWeave Selloff, Apple Milestone, Borrowing Boom",
-        "date": "2026-10-17",
-        "url": "https://open.spotify.com/episode/2pYijFGlmwOKxXR26AzRow",
+        "title": "Violent Rioting Sweeps France",
+        "date": "2026-10-19",
+        "url": "https://open.spotify.com/episode/5cOHV8UQATRcSVHC4C65ol",
         "isNew": true
       }
     },
     {
       "name": "Chain Reaction by ACS",
       "showUrl": "https://open.spotify.com/show/7dSHR4UqvZjX3I9mZ4rBlu",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8af46957f9ffdf22624d5fc284",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8af46957f9ffdf22624d5fc284",
       "latestEpisode": {
         "title": "Always a Student: Chemistry at Its Core, Episode 2",
         "date": "2026-10-15",

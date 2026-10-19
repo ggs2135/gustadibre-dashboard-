@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T11:55:44.700Z",
+  "generatedAt": "2026-10-19T14:18:02.113Z",
   "items": [
     {
       "title": "Designing Trustworthy AI Systems for Modeling Critical Minerals Recovery Processes",
@@ -13,6 +13,17 @@
       "date": "2026-10-19",
       "abstract": "As AI assistance lowers the barrier to coding, domain experts with limited programming experience are increasingly engaging with scientific computing software. However, a critical gap persists: evaluating and trusting AI-generated code remains a significant challenge for verification and validation. Drawing on our…",
       "link": "https://doi.org/10.5281/zenodo.23404250",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Official Critical-Mineral Scores Do Not Determine Industrial Priority",
+      "authors": [
+        "Juan Navalón Fernández"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-18",
+      "abstract": "Selecting the three highest-ranked U.S. critical minerals by aggregate GDP risk rather than by an electronics/semiconductor mission leaves at least US\\$1,607 million of annualized, probability-weighted industry exposure uncaptured in the published decision model. Equivalent three-material missions reveal conservative…",
+      "link": "https://doi.org/10.5281/zenodo.23449840",
       "source": "OpenAlex"
     },
     {
@@ -87,20 +98,6 @@
       "date": "2026-10-16",
       "abstract": "The recovery of critical minerals from spent lithium-ion batteries is governed by coupled feedstock chemistry, solvent composition, and processing conditions, yet heterogeneous experimental reporting makes it difficult to determine which information is essential for reliable prediction across heterogeneous…",
       "link": "https://doi.org/10.26434/chemrxiv.15010566/v1",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Material circularity implications of battery degradation in shared electric mobility",
-      "authors": [
-        "Qindong Yang",
-        "Guochang Xu",
-        "Wu Chen",
-        "Dan Tong"
-      ],
-      "venue": "Nature Sustainability",
-      "date": "2026-10-16",
-      "abstract": "",
-      "link": "https://doi.org/10.1038/s41893-026-01969-7",
       "source": "OpenAlex"
     },
     {
@@ -183,6 +180,17 @@
       "source": "OpenAlex"
     },
     {
+      "title": "Exploring the role of gold in geofinance, strategic autonomy and illicit trade",
+      "authors": [
+        "OECD"
+      ],
+      "venue": "OECD working papers on finance, insurance private pensions",
+      "date": "2026-10-01",
+      "abstract": "This working paper explores the underlying reasons for shifts in the gold landscape and the possibility that these developments could signal deeper ongoing transformations in the global economy, with broader implications across economic sectors and financial markets. This paper provides an overview of these signals…",
+      "link": "https://doi.org/10.1787/e6c496cd-en",
+      "source": "OpenAlex"
+    },
+    {
       "title": "Resilience of copper-cobalt supply chains for the energy transition: A dynamic cascading failure analysis",
       "authors": [
         "Mingmei Song",
@@ -192,17 +200,6 @@
       "date": "2026-10-01",
       "abstract": "Enhancing the resilience of critical mineral supply chains is essential for mitigating risks arising from export disruptions and upstream supply concentration. This study develops a multilayer trade network framework to assess the resilience of global copper and cobalt supply chains under export-reduction shocks.…",
       "link": "https://doi.org/10.1016/j.jclepro.2026.149642",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Patents alone won’t unlock critical-mineral supply chains",
-      "authors": [
-        "Sunil Kumar Tripathy"
-      ],
-      "venue": "Nature",
-      "date": "2026-09-29",
-      "abstract": "",
-      "link": "https://doi.org/10.1038/d41586-026-03054-7",
       "source": "OpenAlex"
     },
     {
