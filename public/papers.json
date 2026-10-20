@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T14:18:02.113Z",
+  "generatedAt": "2026-10-20T12:30:23.204Z",
   "items": [
     {
       "title": "Designing Trustworthy AI Systems for Modeling Critical Minerals Recovery Processes",
@@ -13,6 +13,43 @@
       "date": "2026-10-19",
       "abstract": "As AI assistance lowers the barrier to coding, domain experts with limited programming experience are increasingly engaging with scientific computing software. However, a critical gap persists: evaluating and trusting AI-generated code remains a significant challenge for verification and validation. Drawing on our…",
       "link": "https://doi.org/10.5281/zenodo.23404250",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Polyamide crosslinking dataset",
+      "authors": [
+        "Ying Li",
+        "Subhamoy Mahajan"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-19",
+      "abstract": "Crosslinked molecular dynamics simulations for MPD-TMC polyamide membranes. Different folders represent different initial MPD/TMC ratios. Each folder contains GROMACS topology (.top) and structure (.gro) files with different degrees of polymerization. Refer to https://github.com/subhamoymahajan/CrosslinkingDegree for…",
+      "link": "https://doi.org/10.5281/zenodo.23484084",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Toward sustainable mineral resource governance: policy implications of China’s 2024 Mineral Resources Law reform",
+      "authors": [
+        "Xinqian Li",
+        "Duo An",
+        "Jiangwei Wu",
+        "Ruyi Du"
+      ],
+      "venue": "Humanities and Social Sciences Communications",
+      "date": "2026-10-19",
+      "abstract": "China’s 2024 revision of the Mineral Resources Law seeks to integrate resource allocation, ecological governance, and strategic resource security within a single legal framework. This article examines the sustainability implications of the reform through an institutional-coupling framework that identifies how legal…",
+      "link": "https://doi.org/10.1057/s41599-026-09244-y",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Australia should turn critical minerals leverage into industrial capability",
+      "authors": [
+        "Marina Yue Zhang"
+      ],
+      "venue": null,
+      "date": "2026-10-19",
+      "abstract": "",
+      "link": "https://doi.org/10.59425/eabc.1792447200",
       "source": "OpenAlex"
     },
     {
@@ -63,41 +100,6 @@
       "date": "2026-10-16",
       "abstract": "This empirical working paper evaluates the commercial viability of battery-grade graphite refining in India across international trade flows, corporate balance-sheet capacity, and factory unit economics. Using bilateral trade data across HS codes 2504.10 and 3801.10, the paper documents extreme monopolistic…",
       "link": "https://doi.org/10.5281/zenodo.23424016",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Continuity, Symbiosis, and Stacking: Extracting Critical Minerals Value from Coal Waste in Pennsylvania",
-      "authors": [
-        "Owen Harrington"
-      ],
-      "venue": "Annals of the American Association of Geographers",
-      "date": "2026-10-16",
-      "abstract": "State and industry-backed efforts to remine coal wastes, such as coal ash, acid mine drainage, and waste coal, for critical minerals position new forms of extraction as both mining and remediation, give coal companies a stake in energy transitions, and promise to revive coal communities and bolster national security.…",
-      "link": "https://doi.org/10.1080/24694452.2026.2738587",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Critical minerals in Africa",
-      "authors": [
-        "OECD"
-      ],
-      "venue": null,
-      "date": "2026-10-16",
-      "abstract": "",
-      "link": "https://doi.org/10.1787/53e5f664-en",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Machine Learning Identifies an Information-Sufficiency Regime for Critical-Mineral Recovery",
-      "authors": [
-        "Tengxiao Liu",
-        "Ta-Wei Wang",
-        "Hongtao Sun"
-      ],
-      "venue": "ChemRxiv",
-      "date": "2026-10-16",
-      "abstract": "The recovery of critical minerals from spent lithium-ion batteries is governed by coupled feedstock chemistry, solvent composition, and processing conditions, yet heterogeneous experimental reporting makes it difficult to determine which information is essential for reliable prediction across heterogeneous…",
-      "link": "https://doi.org/10.26434/chemrxiv.15010566/v1",
       "source": "OpenAlex"
     },
     {

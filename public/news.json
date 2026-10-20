@@ -1,25 +1,85 @@
 {
-  "generatedAt": "2026-10-19T14:17:58.307Z",
+  "generatedAt": "2026-10-20T12:30:21.234Z",
   "items": [
     {
-      "headline": "NMDC puts nickel foray on hold on global oversupply concerns, sources say",
-      "summary": "India’s state-run miner NMDC (NSE: NMDC) has put its planned foray into nickel on hold partly because of global oversupply concerns in Indonesia, a country that accounts for more than 60% of global output of the metal,…",
+      "headline": "The Morning Risk Report: Saudi Arabia Postpones ‘Davos in the Desert’",
+      "summary": "Plus: DHS orders DeepSeek tech removed from federal civilian IT systems and the new Wild West of gold mining is West Africa.",
       "category": "supply",
-      "minerals": [
-        "Nickel"
-      ],
-      "source": "MINING.com — Battery Metals",
-      "date": "2026-10-19",
-      "link": "https://www.mining.com/web/nmdc-puts-nickel-foray-on-hold-on-global-oversupply-concerns-sources-say/"
+      "minerals": [],
+      "source": "WSJ — World News",
+      "date": "2026-10-20",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-saudi-arabia-postpones-davos-in-the-desert-839214f2?mod=rss_worldnews"
     },
     {
-      "headline": "Spain’s Andalucia courts miners with faster permits",
-      "summary": "The Andalucia region in Spain wants to attract mining investors with faster approvals and access to hundreds of areas covered by expired mineral rights, as Europe seeks the capacity to... The post Spain’s Andalucia…",
+      "headline": "JOEST Australia bags largest order in its history for Pilgangoora expansion",
+      "summary": "JOEST Australia has been awarded a major contract for the PLS P2000 Expansion Project. The contract, from Pilgangoora Operations Pty Ltd, includes the supply of vibrating screens, feeders and a primary grizzly for the…",
       "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-20",
+      "link": "https://im-mining.com/2026/10/20/joest-australia-bags-largest-order-in-its-history-for-pilgangoora-expansion/"
+    },
+    {
+      "headline": "BHP reveals first block cave resource at Olympic Dam",
+      "summary": "BHP has reported an underground block cave (BC) resource at its Olympic Dam integrated copper, uranium, gold and silver mine in South Australia, as part of its operational review to September 30, 2026. The Olympic Dam…",
+      "category": "supply",
+      "minerals": [
+        "Copper",
+        "Silver"
+      ],
+      "source": "International Mining",
+      "date": "2026-10-20",
+      "link": "https://im-mining.com/2026/10/20/bhp-reveals-first-block-cave-resource-at-olympic-dam/"
+    },
+    {
+      "headline": "FLANDERS installs hybrid-electric control cabinet on Komatsu 930 at Belle Ayr mine",
+      "summary": "Earlier this month, mining industry power, automation, and electrification solutions major FLANDERS announced a “world’s first” installation of FLANDERS’ hybrid-electric control cabinet on a diesel-electric drive…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-20",
+      "link": "https://im-mining.com/2026/10/20/flanders-installs-hybrid-electric-control-cabinet-on-komatsu-930-at-belle-ayr-mine/"
+    },
+    {
+      "headline": "Gold Slips as Investors Await Fed Meeting Next Week",
+      "summary": "Gold prices slipped as rising energy prices heightened inflation concerns, and silver futures and platinum rose.",
+      "category": "economic",
+      "minerals": [
+        "Silver",
+        "Platinum"
+      ],
+      "source": "WSJ — Markets",
+      "date": "2026-10-20",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-higher-yields-weigh-ebc91ac4?mod=rss_markets_main"
+    },
+    {
+      "headline": "Simpler recycling process recovers pure raw materials from acrylic glass without solvents",
+      "summary": "Large quantities of acrylic glass are used worldwide in a wide range of applications, from windowpanes and car taillights to furniture. The polymer is also known by the brand name Plexiglas. All too often, acrylic…",
+      "category": "science",
+      "minerals": [
+        "Recycling"
+      ],
+      "source": "Phys.org Chemistry",
+      "date": "2026-10-19",
+      "link": "https://phys.org/news/2026-10-simpler-recycling-recovers-pure-raw.html"
+    },
+    {
+      "headline": "Military Metals wins four-year Slovak licence lifeline",
+      "summary": "Military Metals (CSE: MILI; US-OTC: MILIF) secured four more years to explore its Trojárová antimony-gold project in Slovakia after authorities reversed a decision to cancel its licence. Shares rose. The exploration…",
+      "category": "economic",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-19",
+      "link": "https://www.mining.com/military-metals-wins-four-year-slovak-licence-lifeline/"
+    },
+    {
+      "headline": "Military Metals wins four-year Slovak licence lifeline",
+      "summary": "Military Metals (CSE: MILI; US-OTC: MILIF) secured four more years to explore its Trojárová antimony-gold project in Slovakia after authorities reversed a decision to cancel its licence. Shares rose. The... The post…",
+      "category": "economic",
       "minerals": [],
       "source": "The Northern Miner",
       "date": "2026-10-19",
-      "link": "https://www.northernminer.com/news/spains-andalucia-courts-miners-with-faster-permits/1003895850/"
+      "link": "https://www.northernminer.com/news/military-metals-wins-four-year-slovak-licence-lifeline/1003895882/"
     },
     {
       "headline": "Eriez debuts copper reduction process for scrap metal recycling",
@@ -32,33 +92,6 @@
       "source": "Canadian Mining Journal",
       "date": "2026-10-19",
       "link": "https://www.canadianminingjournal.com/news/eriez-debuts-copper-reduction-process-for-scrap-metal-recycling/"
-    },
-    {
-      "headline": "Digital gold could triple by 2031, WGC estimates",
-      "summary": "Digital gold could bring $95 billion (C$135 billion) in new money into bullion by 2031 if providers can win investors’ trust, the World Gold Council and Boston Consulting Group estimate.... The post Digital gold could…",
-      "category": "supply",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-10-19",
-      "link": "https://www.northernminer.com/news/digital-gold-could-triple-by-2031-wgc-estimates/1003895839/"
-    },
-    {
-      "headline": "Safety as the foundation of successful underground mining",
-      "summary": "Underground mining is an inherently complex operating environment. Conditions can change rapidly and production pressures can create competing priorities. In this environment, safety cannot be treated as a separate…",
-      "category": "supply",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-10-19",
-      "link": "https://im-mining.com/2026/10/19/safety-as-the-foundation-of-successful-underground-mining/"
-    },
-    {
-      "headline": "American Metal says US seabed mining exploration license application advances",
-      "summary": "Deep-sea mining startup American Metal said on Friday that US regulators have certified its application for a license to explore for critical minerals in the Pacific Ocean, marking the next step in its bid to mine the…",
-      "category": "funding",
-      "minerals": [],
-      "source": "MINING.com — Battery Metals",
-      "date": "2026-10-16",
-      "link": "https://www.mining.com/web/american-metal-says-us-seabed-mining-exploration-license-application-advances/"
     }
   ]
 }
