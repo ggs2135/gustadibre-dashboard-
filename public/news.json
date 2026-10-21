@@ -1,56 +1,61 @@
 {
-  "generatedAt": "2026-10-20T12:30:21.234Z",
+  "generatedAt": "2026-10-21T12:41:09.838Z",
   "items": [
     {
-      "headline": "The Morning Risk Report: Saudi Arabia Postpones ‘Davos in the Desert’",
-      "summary": "Plus: DHS orders DeepSeek tech removed from federal civilian IT systems and the new Wild West of gold mining is West Africa.",
-      "category": "supply",
-      "minerals": [],
-      "source": "WSJ — World News",
-      "date": "2026-10-20",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-saudi-arabia-postpones-davos-in-the-desert-839214f2?mod=rss_worldnews"
-    },
-    {
-      "headline": "JOEST Australia bags largest order in its history for Pilgangoora expansion",
-      "summary": "JOEST Australia has been awarded a major contract for the PLS P2000 Expansion Project. The contract, from Pilgangoora Operations Pty Ltd, includes the supply of vibrating screens, feeders and a primary grizzly for the…",
-      "category": "supply",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-10-20",
-      "link": "https://im-mining.com/2026/10/20/joest-australia-bags-largest-order-in-its-history-for-pilgangoora-expansion/"
-    },
-    {
-      "headline": "BHP reveals first block cave resource at Olympic Dam",
-      "summary": "BHP has reported an underground block cave (BC) resource at its Olympic Dam integrated copper, uranium, gold and silver mine in South Australia, as part of its operational review to September 30, 2026. The Olympic Dam…",
+      "headline": "Hudbay, Mitsubishi Approve Construction of Big Copper Project in Arizona",
+      "summary": "Hudbay Minerals and partner Mitsubishi have formally approved construction of what promises to be the next major copper mine in the U.S., with production set to begin in the back half of 2029.",
       "category": "supply",
       "minerals": [
-        "Copper",
-        "Silver"
-      ],
-      "source": "International Mining",
-      "date": "2026-10-20",
-      "link": "https://im-mining.com/2026/10/20/bhp-reveals-first-block-cave-resource-at-olympic-dam/"
-    },
-    {
-      "headline": "FLANDERS installs hybrid-electric control cabinet on Komatsu 930 at Belle Ayr mine",
-      "summary": "Earlier this month, mining industry power, automation, and electrification solutions major FLANDERS announced a “world’s first” installation of FLANDERS’ hybrid-electric control cabinet on a diesel-electric drive…",
-      "category": "supply",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-10-20",
-      "link": "https://im-mining.com/2026/10/20/flanders-installs-hybrid-electric-control-cabinet-on-komatsu-930-at-belle-ayr-mine/"
-    },
-    {
-      "headline": "Gold Slips as Investors Await Fed Meeting Next Week",
-      "summary": "Gold prices slipped as rising energy prices heightened inflation concerns, and silver futures and platinum rose.",
-      "category": "economic",
-      "minerals": [
-        "Silver",
-        "Platinum"
+        "Copper"
       ],
       "source": "WSJ — Markets",
+      "date": "2026-10-21",
+      "link": "https://www.wsj.com/business/hudbay-mitsubishi-approve-construction-of-big-copper-project-in-arizona-91e710f8?mod=rss_markets_main"
+    },
+    {
+      "headline": "Weir names ex-Caterpillar exec Marc Cameron as President of Minerals Division",
+      "summary": "Weir has appointed Marc Cameron as President of its Minerals Division, joining the company on October 26, 2026, and becoming a member of the Group Executive. Cameron brings more than 25 years of leadership experience…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-21",
+      "link": "https://im-mining.com/2026/10/21/weir-names-ex-caterpillar-exec-marc-cameron-as-president-of-minerals-division/"
+    },
+    {
+      "headline": "Vulcan Elements teams up with North Carolina researchers to advance rare earth magnets tech",
+      "summary": "Vulcan Elements announced Tuesday a partnership with the North Carolina Collaboratory to advance development of high-performance rare earth magnets for defense and commercial technology applications. The company said…",
+      "category": "supply",
+      "minerals": [],
+      "source": "MINING.com",
       "date": "2026-10-20",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-higher-yields-weigh-ebc91ac4?mod=rss_markets_main"
+      "link": "https://www.mining.com/vulcan-elements-teams-up-with-north-carolina-researchers-to-advance-rare-earth-magnets-tech/"
+    },
+    {
+      "headline": "Mauritania’s first uranium mine comes into view despite funding, security issues",
+      "summary": "Aura Energy (ASX: AEE; AIM: AURA) is moving closer to building Mauritania’s first uranium mine after a bankable feasibility study outlined a $500-million valuation for its Tiris project, despite a 52% increase in…",
+      "category": "economic",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-20",
+      "link": "https://www.mining.com/mauritanias-first-uranium-mine-comes-into-view-despite-funding-security-issues/"
+    },
+    {
+      "headline": "Seville panel: Europe must match US mining support",
+      "summary": "Europe needs to match its critical minerals ambitions with purchase guarantees, public investment and stable policies if it wants companies to build mines and processing plants, speakers told the sixth... The post…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-10-20",
+      "link": "https://www.northernminer.com/news/seville-panel-europe-must-match-us-mining-support/1003895900/"
+    },
+    {
+      "headline": "Mauritania’s first uranium mine comes into view despite funding, security issues",
+      "summary": "Aura Energy (ASX: AEE; AIM: AURA) is moving closer to building Mauritania’s first uranium mine after a bankable feasibility study outlined a $500-million (C$701.9 million) valuation for its Tiris project,... The post…",
+      "category": "economic",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-10-20",
+      "link": "https://www.northernminer.com/news/mauritanias-first-uranium-mine-comes-into-view-despite-funding-security-issues/1003895897/"
     },
     {
       "headline": "Simpler recycling process recovers pure raw materials from acrylic glass without solvents",
@@ -80,18 +85,6 @@
       "source": "The Northern Miner",
       "date": "2026-10-19",
       "link": "https://www.northernminer.com/news/military-metals-wins-four-year-slovak-licence-lifeline/1003895882/"
-    },
-    {
-      "headline": "Eriez debuts copper reduction process for scrap metal recycling",
-      "summary": "Eriez, a company specializing in separation technology, has unveiled its Copper Reduction Circuit for steel mills. The system is designed to help […] The post Eriez debuts copper reduction process for scrap metal…",
-      "category": "science",
-      "minerals": [
-        "Copper",
-        "Recycling"
-      ],
-      "source": "Canadian Mining Journal",
-      "date": "2026-10-19",
-      "link": "https://www.canadianminingjournal.com/news/eriez-debuts-copper-reduction-process-for-scrap-metal-recycling/"
     }
   ]
 }

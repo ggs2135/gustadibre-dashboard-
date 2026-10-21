@@ -1,6 +1,74 @@
 {
-  "generatedAt": "2026-10-20T12:30:23.204Z",
+  "generatedAt": "2026-10-21T12:41:11.673Z",
   "items": [
+    {
+      "title": "Critical Mineral Resources of the Green Transition: Geology and Metallogenic Potential in Croatia",
+      "authors": [
+        "Tomislav Brenko",
+        "Sibila Borojević Šoštarić"
+      ],
+      "venue": null,
+      "date": "2026-10-20",
+      "abstract": "",
+      "link": "https://doi.org/10.17794/dimesee.a.2026.2.12",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "ISHEA REPORT V1 2026",
+      "authors": [
+        "Carlos Jose Perez Pulido"
+      ],
+      "venue": "Open Science Framework",
+      "date": "2026-10-20",
+      "abstract": "The Physical Limit of Capital: Energy, Infrastructure and Geopolitics in the New Resource Economy ISHEA Premiere Report · Vol. 1, No. 1 · September 2026 This report examines the relationship between financial capital, physical resource availability, infrastructure resilience, and geopolitical risk in the global…",
+      "link": "https://doi.org/10.17605/osf.io/h6ur7",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Stress-Contingent Risk Transmission in the AI–Energy Nexus: Evidence from TVP-VAR Connectedness and Nonlinear Predictive Models",
+      "authors": [
+        "Tanattrin Bunnag"
+      ],
+      "venue": "Energies",
+      "date": "2026-10-20",
+      "abstract": "Artificial intelligence is creating closer links between computing infrastructure, electricity supply, critical minerals, nuclear capacity, and clean-energy investment. This study examines daily market-price transmission among U.S. natural gas (NG), copper futures (HG), the Global X Uranium ETF (URA), the iShares…",
+      "link": "https://doi.org/10.3390/en19204979",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Bundle water safeguards into critical-mineral licences",
+      "authors": [
+        "Junpeng Guo",
+        "Xingtao Xu"
+      ],
+      "venue": "Nature",
+      "date": "2026-10-20",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/d41586-026-03353-z",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Cabinet-Adjacent Briefing: Critical Minerals and Strategic Supply Chain Sovereignty",
+      "authors": [
+        "Farha Mohamed"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-20",
+      "abstract": "This briefing proposes a neutral, geopolitically agnostic framework that transforms critical mineral supply networks from a high-exposure liability into a transparent, resilient system. By transitioning from single-source dependencies to a diversified, localized, and circular mineral architecture, sovereign and…",
+      "link": "https://doi.org/10.5281/zenodo.23495984",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Visualizing a resource frontier: contact zones and transition spatialities in deep-sea mining",
+      "authors": [
+        "Sebastián Rodríguez"
+      ],
+      "venue": "GeoJournal",
+      "date": "2026-10-20",
+      "abstract": "",
+      "link": "https://doi.org/10.1007/s10708-026-11721-5",
+      "source": "OpenAlex"
+    },
     {
       "title": "Designing Trustworthy AI Systems for Modeling Critical Minerals Recovery Processes",
       "authors": [
@@ -25,81 +93,6 @@
       "date": "2026-10-19",
       "abstract": "Crosslinked molecular dynamics simulations for MPD-TMC polyamide membranes. Different folders represent different initial MPD/TMC ratios. Each folder contains GROMACS topology (.top) and structure (.gro) files with different degrees of polymerization. Refer to https://github.com/subhamoymahajan/CrosslinkingDegree for…",
       "link": "https://doi.org/10.5281/zenodo.23484084",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Toward sustainable mineral resource governance: policy implications of China’s 2024 Mineral Resources Law reform",
-      "authors": [
-        "Xinqian Li",
-        "Duo An",
-        "Jiangwei Wu",
-        "Ruyi Du"
-      ],
-      "venue": "Humanities and Social Sciences Communications",
-      "date": "2026-10-19",
-      "abstract": "China’s 2024 revision of the Mineral Resources Law seeks to integrate resource allocation, ecological governance, and strategic resource security within a single legal framework. This article examines the sustainability implications of the reform through an institutional-coupling framework that identifies how legal…",
-      "link": "https://doi.org/10.1057/s41599-026-09244-y",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Australia should turn critical minerals leverage into industrial capability",
-      "authors": [
-        "Marina Yue Zhang"
-      ],
-      "venue": null,
-      "date": "2026-10-19",
-      "abstract": "",
-      "link": "https://doi.org/10.59425/eabc.1792447200",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Official Critical-Mineral Scores Do Not Determine Industrial Priority",
-      "authors": [
-        "Juan Navalón Fernández"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-18",
-      "abstract": "Selecting the three highest-ranked U.S. critical minerals by aggregate GDP risk rather than by an electronics/semiconductor mission leaves at least US\\$1,607 million of annualized, probability-weighted industry exposure uncaptured in the published decision model. Equivalent three-material missions reveal conservative…",
-      "link": "https://doi.org/10.5281/zenodo.23449840",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Material-engineered localized ion enrichment for critical mineral recovery via solar-driven interfacial evaporation",
-      "authors": [
-        "Jun-Yi Zhang",
-        "Xiao-Rong Sun",
-        "Chang-Ping Feng",
-        "Lu Bai"
-      ],
-      "venue": "Renewable and Sustainable Energy Reviews",
-      "date": "2026-10-17",
-      "abstract": "",
-      "link": "https://doi.org/10.1016/j.rser.2026.117608",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Divergent financing responses in lithium exploration: descriptive time-series evidence from fiscal and enterprise channels (2015–2024)",
-      "authors": [
-        "YU yun",
-        "jianfeng yang",
-        "haojie liu",
-        "Benyan Xu"
-      ],
-      "venue": "Humanities and Social Sciences Communications",
-      "date": "2026-10-17",
-      "abstract": "Exploration investment in critical minerals is typically analysed as an aggregate process, leaving comparatively little evidence on how financing composition varies across institutional channels under changing commodity price conditions. Using annual data on lithium exploration during 2015–2024, this study…",
-      "link": "https://doi.org/10.1057/s41599-026-09378-z",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "India's Critical Mineral Refining Bottleneck: An Empirical Investigation of Trade Concentration, Balance Sheet Absorptive Capacity, and Unit Economics",
-      "authors": [
-        "Tanisha Vashistha"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-16",
-      "abstract": "This empirical working paper evaluates the commercial viability of battery-grade graphite refining in India across international trade flows, corporate balance-sheet capacity, and factory unit economics. Using bilateral trade data across HS codes 2504.10 and 3801.10, the paper documents extreme monopolistic…",
-      "link": "https://doi.org/10.5281/zenodo.23424016",
       "source": "OpenAlex"
     },
     {

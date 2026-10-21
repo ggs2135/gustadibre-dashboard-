@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-20T12:30:21.811Z",
+  "generatedAt": "2026-10-21T12:41:10.570Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
-        "title": "A festa para KN e a política no WhatsApp de Vorcaro",
-        "date": "2026-10-20",
-        "url": "https://open.spotify.com/episode/3DgnuMMqx7aTWNHBOzqdRA",
+        "title": "Bolsa Família, dívidas e a economia na campanha",
+        "date": "2026-10-21",
+        "url": "https://open.spotify.com/episode/3boxYY4dFiP0FFkQ1OAro9",
         "isNew": true
       }
     },
     {
       "name": "Posse de Bola",
       "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
       "latestEpisode": {
         "title": "#711: Flamengo e Palmeiras impressionam fora de casa! Quem está jogando melhor?",
         "date": "2026-10-19",
@@ -28,9 +28,9 @@
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "Are Americans’ Finances Better or Worse Under Trump?",
-        "date": "2026-10-20",
-        "url": "https://open.spotify.com/episode/5lUXv4ux8NQPa9Qv3aS3TM",
+        "title": "Tesla and SpaceX Weigh a Mega Merger",
+        "date": "2026-10-21",
+        "url": "https://open.spotify.com/episode/7EtQAZnsEDedJ7x7DRkwZF",
         "isNew": true
       }
     },
@@ -48,7 +48,7 @@
     {
       "name": "Stereo Chemistry",
       "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
       "latestEpisode": {
         "title": "Uncovered: The Capitals of Chemistry",
         "date": "2026-10-15",
