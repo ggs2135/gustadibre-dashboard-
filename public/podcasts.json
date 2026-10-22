@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-21T12:41:10.570Z",
+  "generatedAt": "2026-10-22T12:45:08.194Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
-        "title": "Bolsa Família, dívidas e a economia na campanha",
-        "date": "2026-10-21",
-        "url": "https://open.spotify.com/episode/3boxYY4dFiP0FFkQ1OAro9",
+        "title": "Meta, canais do WhatsApp e o TSE na reta final",
+        "date": "2026-10-22",
+        "url": "https://open.spotify.com/episode/75po21SAtwtNgNm1JP7YO2",
         "isNew": true
       }
     },
@@ -28,9 +28,9 @@
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "Tesla and SpaceX Weigh a Mega Merger",
-        "date": "2026-10-21",
-        "url": "https://open.spotify.com/episode/7EtQAZnsEDedJ7x7DRkwZF",
+        "title": "Can Meta Turn Muse’s Popularity Into Profits?",
+        "date": "2026-10-22",
+        "url": "https://open.spotify.com/episode/6ullYn5BNieHseQZ3RWWGM",
         "isNew": true
       }
     },
@@ -39,16 +39,16 @@
       "showUrl": "https://open.spotify.com/show/7dSHR4UqvZjX3I9mZ4rBlu",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8af46957f9ffdf22624d5fc284",
       "latestEpisode": {
-        "title": "Always a Student: Chemistry at Its Core, Episode 2",
-        "date": "2026-10-15",
-        "url": "https://open.spotify.com/episode/7if7mi9qqD38z8vKkQZV6M",
-        "isNew": false
+        "title": "Where Safety Meets Sustainability: Chemistry at Its Core, Episode 3",
+        "date": "2026-10-22",
+        "url": "https://open.spotify.com/episode/4vm3X3IKfaChVmUodVDbJ7",
+        "isNew": true
       }
     },
     {
       "name": "Stereo Chemistry",
       "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
       "latestEpisode": {
         "title": "Uncovered: The Capitals of Chemistry",
         "date": "2026-10-15",

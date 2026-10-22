@@ -1,98 +1,96 @@
 {
-  "generatedAt": "2026-10-21T12:41:11.673Z",
+  "generatedAt": "2026-10-22T12:45:10.026Z",
   "items": [
     {
-      "title": "Critical Mineral Resources of the Green Transition: Geology and Metallogenic Potential in Croatia",
+      "title": "Modernising Environmental Management in ISA: From Impact Assessment to Adoptive Governance",
       "authors": [
-        "Tomislav Brenko",
-        "Sibila Borojević Šoštarić"
+        "Raijieli L. Taga"
+      ],
+      "venue": "Springer eBooks",
+      "date": "2026-10-21",
+      "abstract": "",
+      "link": "https://doi.org/10.1007/978-3-032-23997-6_13",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Balancing Seabed Resource Development and Conservation of the Marine Environment—Is a Pause Necessary?",
+      "authors": [
+        "Rahul Sharma"
+      ],
+      "venue": "Springer eBooks",
+      "date": "2026-10-21",
+      "abstract": "Balancing the development of seabed mineral resources with environmental conservation has become a defining challenge for ocean governance. Deep-sea minerals (polymetallic nodules, polymetallic sulphides and ferromanganese crusts) hold the potential to provide critical raw materials needed for industrial growth and…",
+      "link": "https://doi.org/10.1007/978-3-032-23997-6_17",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Exploitation of Mineral Resources in the ‘Area’: Toward the Wild West or to the Multilateral Governance of the Common Heritage of (Hu)mankind?",
+      "authors": [
+        "Pedro Madureira",
+        "Eduardo Silva"
+      ],
+      "venue": "Springer eBooks",
+      "date": "2026-10-21",
+      "abstract": "",
+      "link": "https://doi.org/10.1007/978-3-032-23997-6_6",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "MCR-GeoChem: Aharmonized, quality-flagged open compilation of whole-rock and mineral geochemistry for the 1.1 Ga Midcontinent Rift in Michigan, Minnesota, and Wisconsin",
+      "authors": [
+        "Bezali Kwame Danso",
+        "Saadatu Abdullah"
       ],
       "venue": null,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
+      "abstract": "Nickel, copper, cobalt, and the platinum-group metals are all on the final 2025 U.S. List of Critical Minerals, and the 1.1-billion-year-old Midcontinent Rift around Lake Superior hosts some of the largest domestic resources of them. The rock chemistry needed to study these systems is public but fragmented: it is…",
+      "link": "https://doi.org/10.31223/x5zv47",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Machine learning for multi-scale structural mapping of the Melbourne Zone, central Victoria: from LiDAR bedding traces to geophysically domained crustal architecture",
+      "authors": [
+        "Phil Skladzien"
+      ],
+      "venue": "ASEG Extended Abstracts",
+      "date": "2026-10-21",
+      "abstract": "Summary The Melbourne Zone of the Lachlan Orogen, central Victoria, preserves a thick Silurian to Lower Devonian turbidite succession above the Selwyn Block — an exotic Proterozoic to Cambrian crustal block that underlies the zone above a mid-crustal décollement, the Thomas Fault, at ~10–20 km depth. Approximately…",
+      "link": "https://doi.org/10.63929/22020586.2026.1.096",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Concurrent Regimes for the Concept of “Common Heritage” in Seabed Mining",
+      "authors": [
+        "James Kraska",
+        "Digvijay Rewatkar"
+      ],
+      "venue": "Springer eBooks",
+      "date": "2026-10-21",
       "abstract": "",
-      "link": "https://doi.org/10.17794/dimesee.a.2026.2.12",
+      "link": "https://doi.org/10.1007/978-3-032-23997-6_8",
       "source": "OpenAlex"
     },
     {
-      "title": "ISHEA REPORT V1 2026",
+      "title": "MERCOSUR–EUROPEAN UNION (EU) AGREEMENT: PROSPECTS, ADVANTAGES, AND BENEFITS FOR BRAZIL IN THE STRATEGIC AND CRITICAL MINERALS AGENDA",
       "authors": [
-        "Carlos Jose Perez Pulido"
+        "Márcio Carneiro Barbosa"
       ],
-      "venue": "Open Science Framework",
-      "date": "2026-10-20",
-      "abstract": "The Physical Limit of Capital: Energy, Infrastructure and Geopolitics in the New Resource Economy ISHEA Premiere Report · Vol. 1, No. 1 · September 2026 This report examines the relationship between financial capital, physical resource availability, infrastructure resilience, and geopolitical risk in the global…",
-      "link": "https://doi.org/10.17605/osf.io/h6ur7",
+      "venue": "Revista Tópicos.",
+      "date": "2026-10-21",
+      "abstract": "O Acordo Mercosul–União Europeia estabelece novas perspectivas para as relações comerciais e econômicas entre os dois blocos, especialmente no setor mineral, com destaque para os minerais estratégicos e críticos, e pode contribuir para o desenvolvimento econômico do Brasil por meio de relações de cooperação e…",
+      "link": "https://doi.org/10.70773/revistatopicos/792460157",
       "source": "OpenAlex"
     },
     {
-      "title": "Stress-Contingent Risk Transmission in the AI–Energy Nexus: Evidence from TVP-VAR Connectedness and Nonlinear Predictive Models",
+      "title": "Development of Renewable Energy and Electric Transport: US Experience",
       "authors": [
-        "Tanattrin Bunnag"
+        "V. E. Goldenkov",
+        "E. A. Nikolaeva"
       ],
-      "venue": "Energies",
-      "date": "2026-10-20",
-      "abstract": "Artificial intelligence is creating closer links between computing infrastructure, electricity supply, critical minerals, nuclear capacity, and clean-energy investment. This study examines daily market-price transmission among U.S. natural gas (NG), copper futures (HG), the Global X Uranium ETF (URA), the iShares…",
-      "link": "https://doi.org/10.3390/en19204979",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Bundle water safeguards into critical-mineral licences",
-      "authors": [
-        "Junpeng Guo",
-        "Xingtao Xu"
-      ],
-      "venue": "Nature",
-      "date": "2026-10-20",
-      "abstract": "",
-      "link": "https://doi.org/10.1038/d41586-026-03353-z",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Cabinet-Adjacent Briefing: Critical Minerals and Strategic Supply Chain Sovereignty",
-      "authors": [
-        "Farha Mohamed"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-20",
-      "abstract": "This briefing proposes a neutral, geopolitically agnostic framework that transforms critical mineral supply networks from a high-exposure liability into a transparent, resilient system. By transitioning from single-source dependencies to a diversified, localized, and circular mineral architecture, sovereign and…",
-      "link": "https://doi.org/10.5281/zenodo.23495984",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Visualizing a resource frontier: contact zones and transition spatialities in deep-sea mining",
-      "authors": [
-        "Sebastián Rodríguez"
-      ],
-      "venue": "GeoJournal",
-      "date": "2026-10-20",
-      "abstract": "",
-      "link": "https://doi.org/10.1007/s10708-026-11721-5",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Designing Trustworthy AI Systems for Modeling Critical Minerals Recovery Processes",
-      "authors": [
-        "Rajshree Deshmukh",
-        "Tanushree Subramanian",
-        "Sheng Pang",
-        "Sarah S. Poon"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-19",
-      "abstract": "As AI assistance lowers the barrier to coding, domain experts with limited programming experience are increasingly engaging with scientific computing software. However, a critical gap persists: evaluating and trusting AI-generated code remains a significant challenge for verification and validation. Drawing on our…",
-      "link": "https://doi.org/10.5281/zenodo.23404250",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Polyamide crosslinking dataset",
-      "authors": [
-        "Ying Li",
-        "Subhamoy Mahajan"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-19",
-      "abstract": "Crosslinked molecular dynamics simulations for MPD-TMC polyamide membranes. Different folders represent different initial MPD/TMC ratios. Each folder contains GROMACS topology (.top) and structure (.gro) files with different degrees of polymerization. Refer to https://github.com/subhamoymahajan/CrosslinkingDegree for…",
-      "link": "https://doi.org/10.5281/zenodo.23484084",
+      "venue": "International Trade and Trade Policy",
+      "date": "2026-10-21",
+      "abstract": "The article shows the main trends in the development of renewable energy and electric transport in the USA, from 1992 to the present, and the impact of this process on the dynamics of investment, employment, and the regulatory environment in 2021–2026, including the transition from the Inflation Reduction Act model…",
+      "link": "https://doi.org/10.21686/2410-7395-2026-3-225-243",
       "source": "OpenAlex"
     },
     {

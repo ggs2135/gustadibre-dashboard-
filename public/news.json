@@ -1,52 +1,45 @@
 {
-  "generatedAt": "2026-10-21T12:41:09.838Z",
+  "generatedAt": "2026-10-22T12:45:07.186Z",
   "items": [
     {
-      "headline": "Hudbay, Mitsubishi Approve Construction of Big Copper Project in Arizona",
-      "summary": "Hudbay Minerals and partner Mitsubishi have formally approved construction of what promises to be the next major copper mine in the U.S., with production set to begin in the back half of 2029.",
+      "headline": "Hudbay, Mitsubishi greenlight Copper World project development in Arizona",
+      "summary": "Hudbay Minerals Inc and its partner Mitsubishi Corporation have approved the development of what they say will be one of the largest open-pit copper mines in the US. The news came when announcing the results of the…",
       "category": "supply",
       "minerals": [
         "Copper"
       ],
-      "source": "WSJ — Markets",
-      "date": "2026-10-21",
-      "link": "https://www.wsj.com/business/hudbay-mitsubishi-approve-construction-of-big-copper-project-in-arizona-91e710f8?mod=rss_markets_main"
-    },
-    {
-      "headline": "Weir names ex-Caterpillar exec Marc Cameron as President of Minerals Division",
-      "summary": "Weir has appointed Marc Cameron as President of its Minerals Division, joining the company on October 26, 2026, and becoming a member of the Group Executive. Cameron brings more than 25 years of leadership experience…",
-      "category": "supply",
-      "minerals": [],
       "source": "International Mining",
-      "date": "2026-10-21",
-      "link": "https://im-mining.com/2026/10/21/weir-names-ex-caterpillar-exec-marc-cameron-as-president-of-minerals-division/"
+      "date": "2026-10-22",
+      "link": "https://im-mining.com/2026/10/22/hudbay-mitsubishi-greenlight-copper-world-project-development-in-arizona/"
     },
     {
-      "headline": "Vulcan Elements teams up with North Carolina researchers to advance rare earth magnets tech",
-      "summary": "Vulcan Elements announced Tuesday a partnership with the North Carolina Collaboratory to advance development of high-performance rare earth magnets for defense and commercial technology applications. The company said…",
+      "headline": "Spain: Pan Global eyes copper riches in ancient belt",
+      "summary": "Pan Global Resources (TSXV: PGZ; US-OTC: PGZFF), led by former Rio Tinto (ASX, LSE, NYSE: RIO) exploration director Tim Moody, sees neighbouring plants as a potential route to copper production... The post Spain: Pan…",
       "category": "supply",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-10-20",
-      "link": "https://www.mining.com/vulcan-elements-teams-up-with-north-carolina-researchers-to-advance-rare-earth-magnets-tech/"
+      "minerals": [
+        "Copper"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-10-22",
+      "link": "https://www.northernminer.com/news/spain-pan-global-eyes-copper-riches-in-ancient-belt/1003895963/"
     },
     {
-      "headline": "Mauritania’s first uranium mine comes into view despite funding, security issues",
-      "summary": "Aura Energy (ASX: AEE; AIM: AURA) is moving closer to building Mauritania’s first uranium mine after a bankable feasibility study outlined a $500-million valuation for its Tiris project, despite a 52% increase in…",
-      "category": "economic",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-10-20",
-      "link": "https://www.mining.com/mauritanias-first-uranium-mine-comes-into-view-despite-funding-security-issues/"
-    },
-    {
-      "headline": "Seville panel: Europe must match US mining support",
-      "summary": "Europe needs to match its critical minerals ambitions with purchase guarantees, public investment and stable policies if it wants companies to build mines and processing plants, speakers told the sixth... The post…",
+      "headline": "South African rare earth mine targets China sales",
+      "summary": "South Africa’s Steenkampskraal mine expects its first rare earth concentrate sales in early 2027 to buyers in China, as commissioning continues at a processing plant opened this month. The Western... The post South…",
       "category": "supply",
       "minerals": [],
       "source": "The Northern Miner",
-      "date": "2026-10-20",
-      "link": "https://www.northernminer.com/news/seville-panel-europe-must-match-us-mining-support/1003895900/"
+      "date": "2026-10-22",
+      "link": "https://www.northernminer.com/news/south-african-rare-earth-mine-targets-first-exports/1003895889/"
+    },
+    {
+      "headline": "Thiess wins long-term mining services contracts in Mongolia",
+      "summary": "Global mining services provider Thiess has been awarded two five-year contracts in Mongolia, strengthening its presence in the country, the company says. Under the two contracts, Thiess will deliver underground mining…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-22",
+      "link": "https://im-mining.com/2026/10/22/thiess-wins-long-term-mining-services-contracts-in-mongolia/"
     },
     {
       "headline": "Mauritania’s first uranium mine comes into view despite funding, security issues",
@@ -67,24 +60,6 @@
       "source": "Phys.org Chemistry",
       "date": "2026-10-19",
       "link": "https://phys.org/news/2026-10-simpler-recycling-recovers-pure-raw.html"
-    },
-    {
-      "headline": "Military Metals wins four-year Slovak licence lifeline",
-      "summary": "Military Metals (CSE: MILI; US-OTC: MILIF) secured four more years to explore its Trojárová antimony-gold project in Slovakia after authorities reversed a decision to cancel its licence. Shares rose. The exploration…",
-      "category": "economic",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-10-19",
-      "link": "https://www.mining.com/military-metals-wins-four-year-slovak-licence-lifeline/"
-    },
-    {
-      "headline": "Military Metals wins four-year Slovak licence lifeline",
-      "summary": "Military Metals (CSE: MILI; US-OTC: MILIF) secured four more years to explore its Trojárová antimony-gold project in Slovakia after authorities reversed a decision to cancel its licence. Shares rose. The... The post…",
-      "category": "economic",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-10-19",
-      "link": "https://www.northernminer.com/news/military-metals-wins-four-year-slovak-licence-lifeline/1003895882/"
     }
   ]
 }
