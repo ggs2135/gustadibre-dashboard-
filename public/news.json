@@ -1,65 +1,100 @@
 {
-  "generatedAt": "2026-10-22T12:45:07.186Z",
+  "generatedAt": "2026-10-23T12:22:54.182Z",
   "items": [
     {
-      "headline": "Hudbay, Mitsubishi greenlight Copper World project development in Arizona",
-      "summary": "Hudbay Minerals Inc and its partner Mitsubishi Corporation have approved the development of what they say will be one of the largest open-pit copper mines in the US. The news came when announcing the results of the…",
-      "category": "supply",
-      "minerals": [
-        "Copper"
-      ],
-      "source": "International Mining",
-      "date": "2026-10-22",
-      "link": "https://im-mining.com/2026/10/22/hudbay-mitsubishi-greenlight-copper-world-project-development-in-arizona/"
-    },
-    {
-      "headline": "Spain: Pan Global eyes copper riches in ancient belt",
-      "summary": "Pan Global Resources (TSXV: PGZ; US-OTC: PGZFF), led by former Rio Tinto (ASX, LSE, NYSE: RIO) exploration director Tim Moody, sees neighbouring plants as a potential route to copper production... The post Spain: Pan…",
-      "category": "supply",
-      "minerals": [
-        "Copper"
-      ],
-      "source": "The Northern Miner",
-      "date": "2026-10-22",
-      "link": "https://www.northernminer.com/news/spain-pan-global-eyes-copper-riches-in-ancient-belt/1003895963/"
-    },
-    {
-      "headline": "South African rare earth mine targets China sales",
-      "summary": "South Africa’s Steenkampskraal mine expects its first rare earth concentrate sales in early 2027 to buyers in China, as commissioning continues at a processing plant opened this month. The Western... The post South…",
-      "category": "supply",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-10-22",
-      "link": "https://www.northernminer.com/news/south-african-rare-earth-mine-targets-first-exports/1003895889/"
-    },
-    {
-      "headline": "Thiess wins long-term mining services contracts in Mongolia",
-      "summary": "Global mining services provider Thiess has been awarded two five-year contracts in Mongolia, strengthening its presence in the country, the company says. Under the two contracts, Thiess will deliver underground mining…",
+      "headline": "Hitachi EX5500-6 mining excavator passes 100,000 hours at Moatize",
+      "summary": "Hitachi Construction Machinery Co Ltd has announced that an EX5500-6 ultra-large hydraulic excavator manufactured by the company has passed 100,000 hours of operation at the Moatize Coal Mine in Tete Province in the…",
       "category": "supply",
       "minerals": [],
       "source": "International Mining",
+      "date": "2026-10-23",
+      "link": "https://im-mining.com/2026/10/23/hitachi-ex5500-6-mining-excavator-passes-100000-hours-at-moatize/"
+    },
+    {
+      "headline": "Epiroc unifies reverse circulation portfolio under AirDrill",
+      "summary": "Epiroc is introducing a unified reverse circulation (RC) portfolio, bringing together the established Epiroc RC range and the renowned AirDrill hammers and bits under a single, streamlined offering. The new AirDrill…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-23",
+      "link": "https://im-mining.com/2026/10/23/epiroc-unifies-reverse-circulation-portfolio-under-airdrill/"
+    },
+    {
+      "headline": "Palabora Mining Company improves electrical reliability with ABB",
+      "summary": "By combining the modernisation of its medium-voltage network with ongoing service support, Palabora Mining Company (PMC) has improved electrical reliability with the help of ABB, according to a recent case study. ABB…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-23",
+      "link": "https://im-mining.com/2026/10/23/palabora-mining-company-improves-electrical-reliability-with-abb/"
+    },
+    {
+      "headline": "CITIC HIC moves into mining truck market on 70th anniversary",
+      "summary": "While already well known as one of the world’s leading mineral processing equipment companies – supplying AG, SAG and ball mills, mining crushers and vertical mills, amongst other equipment, as well as mine hoists,…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-23",
+      "link": "https://im-mining.com/2026/10/23/citic-hic-moves-into-mining-truck-market-on-70th-anniversary/"
+    },
+    {
+      "headline": "Basic Materials Roundup: Market Talk",
+      "summary": "Find insight on silver futures, Mullen Group, copper and more in the latest Market Talks covering Basic Materials.",
+      "category": "economic",
+      "minerals": [
+        "Copper",
+        "Silver"
+      ],
+      "source": "WSJ — Markets",
       "date": "2026-10-22",
-      "link": "https://im-mining.com/2026/10/22/thiess-wins-long-term-mining-services-contracts-in-mongolia/"
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-e1d91687?mod=rss_markets_main"
+    },
+    {
+      "headline": "US permitting: Environmental review overhaul could speed mine approvals, but hurdles remain",
+      "summary": "A bipartisan permitting reform proposal introduced in the US Senate on September 30 could deliver some of the most consequential changes to federal environmental approvals in decades, potentially shortening project…",
+      "category": "politics",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-22",
+      "link": "https://www.mining.com/us-permitting-environmental-review-overhaul-could-speed-mine-approvals-but-hurdles-remain/"
+    },
+    {
+      "headline": "AI boom could overwhelm metals supply: WoodMac",
+      "summary": "Geopolitical disruptions and surging electricity demand from artificial intelligence (AI) are putting global metals supplies under growing pressure as mining investment struggles to keep pace, according to Wood…",
+      "category": "politics",
+      "minerals": [],
+      "source": "MINING.com — Battery Metals",
+      "date": "2026-10-22",
+      "link": "https://www.mining.com/ai-boom-could-overwhelm-metals-supply-woodmac/"
+    },
+    {
+      "headline": "US Department of Energy grants $42M for gas pipeline from Pennsylvania to New York",
+      "summary": "The U.S. Department of Energy (DOE) announced it will use up to $42 million in Defense Production Act (DPA) funding to advance the development of a proposed 125-mile natural gas pipeline from Pennsylvania to New York.…",
+      "category": "politics",
+      "minerals": [
+        "Grants"
+      ],
+      "source": "MINING.com",
+      "date": "2026-10-21",
+      "link": "https://www.mining.com/us-department-of-energy-grants-42m-for-gas-pipeline-from-pennsylvania-to-new-york/"
+    },
+    {
+      "headline": "Carney announces $6.4 billion plan for Ontario steel and autos",
+      "summary": "Prime Minister Mark Carney unveiled a C$9 billion ($6.4 billion) partnership with Ontario to support the province’s tariff-battered steel and auto industries, along with new funding for mining-related infrastructure in…",
+      "category": "economic",
+      "minerals": [],
+      "source": "MINING.com — Battery Metals",
+      "date": "2026-10-21",
+      "link": "https://www.mining.com/web/carney-announces-6-4-billion-plan-for-ontario-steel-and-autos/"
     },
     {
       "headline": "Mauritania’s first uranium mine comes into view despite funding, security issues",
-      "summary": "Aura Energy (ASX: AEE; AIM: AURA) is moving closer to building Mauritania’s first uranium mine after a bankable feasibility study outlined a $500-million (C$701.9 million) valuation for its Tiris project,... The post…",
+      "summary": "Aura Energy (ASX: AEE; AIM: AURA) is moving closer to building Mauritania’s first uranium mine after a bankable feasibility study outlined a $500-million valuation for its Tiris project, despite a 52% increase in…",
       "category": "economic",
       "minerals": [],
-      "source": "The Northern Miner",
+      "source": "MINING.com",
       "date": "2026-10-20",
-      "link": "https://www.northernminer.com/news/mauritanias-first-uranium-mine-comes-into-view-despite-funding-security-issues/1003895897/"
-    },
-    {
-      "headline": "Simpler recycling process recovers pure raw materials from acrylic glass without solvents",
-      "summary": "Large quantities of acrylic glass are used worldwide in a wide range of applications, from windowpanes and car taillights to furniture. The polymer is also known by the brand name Plexiglas. All too often, acrylic…",
-      "category": "science",
-      "minerals": [
-        "Recycling"
-      ],
-      "source": "Phys.org Chemistry",
-      "date": "2026-10-19",
-      "link": "https://phys.org/news/2026-10-simpler-recycling-recovers-pure-raw.html"
+      "link": "https://www.mining.com/mauritanias-first-uranium-mine-comes-into-view-despite-funding-security-issues/"
     }
   ]
 }

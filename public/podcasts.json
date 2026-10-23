@@ -1,43 +1,37 @@
 {
-  "generatedAt": "2026-10-22T12:45:08.194Z",
+  "generatedAt": "2026-10-23T12:22:59.473Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
-        "title": "Meta, canais do WhatsApp e o TSE na reta final",
-        "date": "2026-10-22",
-        "url": "https://open.spotify.com/episode/75po21SAtwtNgNm1JP7YO2",
+        "title": "As suspeitas sobre Willer e Flávio Bolsonaro",
+        "date": "2026-10-23",
+        "url": "https://open.spotify.com/episode/5Y27lLU7VjO29feaAcn5Ve",
         "isNew": true
       }
     },
     {
       "name": "Posse de Bola",
       "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
-      "latestEpisode": {
-        "title": "#711: Flamengo e Palmeiras impressionam fora de casa! Quem está jogando melhor?",
-        "date": "2026-10-19",
-        "url": "https://open.spotify.com/episode/4OyJ6BOMe4QfBMcZ6N3gEl",
-        "isNew": true
-      }
+      "latestEpisode": null
     },
     {
       "name": "WSJ What's News",
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "Can Meta Turn Muse’s Popularity Into Profits?",
-        "date": "2026-10-22",
-        "url": "https://open.spotify.com/episode/6ullYn5BNieHseQZ3RWWGM",
+        "title": "AI Rout Finds a Floor. For Now.",
+        "date": "2026-10-23",
+        "url": "https://open.spotify.com/episode/0wdbbvbPU9aR8TsAuwgEdG",
         "isNew": true
       }
     },
     {
       "name": "Chain Reaction by ACS",
       "showUrl": "https://open.spotify.com/show/7dSHR4UqvZjX3I9mZ4rBlu",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8af46957f9ffdf22624d5fc284",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8af46957f9ffdf22624d5fc284",
       "latestEpisode": {
         "title": "Where Safety Meets Sustainability: Chemistry at Its Core, Episode 3",
         "date": "2026-10-22",
