@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-10-23T12:23:00.682Z",
+  "generatedAt": "2026-10-24T11:49:40.398Z",
   "items": [
+    {
+      "title": "Critical minerals in Southeast Asia and India",
+      "authors": [
+        "OECD"
+      ],
+      "venue": null,
+      "date": "2026-10-24",
+      "abstract": "",
+      "link": "https://doi.org/10.1787/ba1f1e55-en",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Circular Economy and Sustainability in Critical Mineral Mining Law in",
+      "authors": [
+        "Fatime Soukolgue"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-23",
+      "abstract": "Critical minerals, among them cobalt, copper, lithium, nickel and the rare earth elements, are central to the global transition to clean energy and digital technology, and their extraction is an increasingly important part of Uganda's development strategy. Conventional mining, however, follows a linear model of…",
+      "link": "https://doi.org/10.5281/zenodo.23588367",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Modern US Foreign Economic Policy: From Targeted Protectionism to a Systemic Geoeconomic Strategy",
+      "authors": [
+        "Maxim Boyko"
+      ],
+      "venue": "World Economy and World Finance",
+      "date": "2026-10-23",
+      "abstract": "Amid mounting geopolitical turbulence and the global economy’s shift from liberal globalization to a model of fragmented blocs, US foreign economic policy is undergoing a fundamental transformation. Donald Trump’s return to the White House in 2025 marked a qualitative leap in the implementation of the “America First”…",
+      "link": "https://doi.org/10.65324/wewf046",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "The Global Significance of Renewable Energy: Contributions to Economic Growth and Environmental Sustainability",
+      "authors": [
+        "Jyoti Prakash Myageri",
+        "Math Abhishek Gurulingayya"
+      ],
+      "venue": "International Journal for Research in Applied Science and Engineering Technology",
+      "date": "2026-10-23",
+      "abstract": "Renewable energy has moved from the margins of the global energy system to its leading edge, reshaping how electricity is generated, traded, and valued. This review synthesises recent evidence on the economic and environmental significance of renewable energy at a global scale. On the economic side, it examines…",
+      "link": "https://doi.org/10.22214/ijraset.2026.85292",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Andrew-coder12138/ARIO-Mineral-Storage: ARIO Simulation Framework – Initial Release",
+      "authors": [
+        "Andrew-coder12138"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-23",
+      "abstract": "Overview This release provides an Adaptive Regional Input–Output (ARIO) simulation framework for examining critical mineral supply constraints, climate-related disruptions, and energy storage technology pathways. Model Components The framework includes three simulation models: Baseline Model: Simulates mineral…",
+      "link": "https://doi.org/10.5281/zenodo.23585302",
+      "source": "OpenAlex"
+    },
     {
       "title": "Subsurface volumetric estimates of ultramafic and mafic rocks in the Livengood Terrane, Central Alaska: implications for carbon mineralization",
       "authors": [
@@ -40,63 +96,6 @@
       "source": "OpenAlex"
     },
     {
-      "title": "Institutional Quality, Political Risk, and Supply Concentration in Critical Mineral Markets",
-      "authors": [
-        "Hasan Tutar"
-      ],
-      "venue": "Open Science Framework",
-      "date": "2026-10-22",
-      "abstract": "",
-      "link": "https://doi.org/10.17605/osf.io/axd23",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Modernising Environmental Management in ISA: From Impact Assessment to Adoptive Governance",
-      "authors": [
-        "Raijieli L. Taga"
-      ],
-      "venue": "Springer eBooks",
-      "date": "2026-10-21",
-      "abstract": "",
-      "link": "https://doi.org/10.1007/978-3-032-23997-6_13",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Balancing Seabed Resource Development and Conservation of the Marine Environment—Is a Pause Necessary?",
-      "authors": [
-        "Rahul Sharma"
-      ],
-      "venue": "Springer eBooks",
-      "date": "2026-10-21",
-      "abstract": "Balancing the development of seabed mineral resources with environmental conservation has become a defining challenge for ocean governance. Deep-sea minerals (polymetallic nodules, polymetallic sulphides and ferromanganese crusts) hold the potential to provide critical raw materials needed for industrial growth and…",
-      "link": "https://doi.org/10.1007/978-3-032-23997-6_17",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Exploitation of Mineral Resources in the ‘Area’: Toward the Wild West or to the Multilateral Governance of the Common Heritage of (Hu)mankind?",
-      "authors": [
-        "Pedro Madureira",
-        "Eduardo Silva"
-      ],
-      "venue": "Springer eBooks",
-      "date": "2026-10-21",
-      "abstract": "",
-      "link": "https://doi.org/10.1007/978-3-032-23997-6_6",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "MCR-GeoChem: Aharmonized, quality-flagged open compilation of whole-rock and mineral geochemistry for the 1.1 Ga Midcontinent Rift in Michigan, Minnesota, and Wisconsin",
-      "authors": [
-        "Bezali Kwame Danso",
-        "Saadatu Abdullah"
-      ],
-      "venue": null,
-      "date": "2026-10-21",
-      "abstract": "Nickel, copper, cobalt, and the platinum-group metals are all on the final 2025 U.S. List of Critical Minerals, and the 1.1-billion-year-old Midcontinent Rift around Lake Superior hosts some of the largest domestic resources of them. The rock chemistry needed to study these systems is public but fragmented: it is…",
-      "link": "https://doi.org/10.31223/x5zv47",
-      "source": "OpenAlex"
-    },
-    {
       "title": "From Oil Embargo to Energy Realignment: The Geopolitical Evolution of Control over Oil and Power",
       "authors": [
         "Srishti Gupta",
@@ -129,6 +128,17 @@
       "date": "2026-10-18",
       "abstract": "The intensification of U.S.–China strategic competition has transformed critical-mineral supply chains into an increasingly important arena of geoeconomic competition. Rare-earth elements (REEs), particularly those used in advanced technologies, renewable-energy systems and defence applications, have acquired…",
       "link": "https://doi.org/10.71317/jgst.2.10.2026.895",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Dataset for China's Critical Minerals Supply Vulnerability Index (CMSV), 2015–2024",
+      "authors": [
+        "chen bo"
+      ],
+      "venue": "ScienceDB",
+      "date": "2026-10-18",
+      "abstract": "This dataset supports all quantitative results of the accompanying paper \"Measuring the Bidirectional Vulnerability of China's Critical Minerals Supply Chains\". It contains: input parameters for the 2024 cross-section of 17 critical minerals; the Composite Minerals Supply Vulnerability index (CMSV) and its four…",
+      "link": "https://doi.org/10.57760/sciencedb.016g6",
       "source": "OpenAlex"
     },
     {
@@ -169,31 +179,6 @@
       "date": "2026-10-13",
       "abstract": "Indonesia’s nickel industry has been placed in an increasingly strategic position in the global critical-mineral supply chain. This condition is not only related to production capacity and downstream policy. It is also linked with the readiness of workers who are required to follow digital work systems and changing…",
       "link": "https://doi.org/10.38035/dijms.v8i1.7446",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Non-Commutative Rough Resource Dynamics (NC-RRD) Subsuming Direct Lithium Extraction (DLE) and Critical Mineral Supply Chain Limits via UROA, STCT, and RQIG",
-      "authors": [
-        "Seonggil Lee"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-10",
-      "abstract": "Critical mineral supply chains and Direct Lithium Extraction (DLE) are conventionally bounded by linear resource depletion and static geopolitical risk models. This paper supersedes these views by establishing Non-Commutative Rough Resource Dynamics (NC-RRD) within the SMA-∞ Topos. By integrating Universal Rough…",
-      "link": "https://doi.org/10.5281/zenodo.23276597",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "A Mobile Edge Computing and Blockchain Framework for Secure Cross-Island Critical Mineral Traceability",
-      "authors": [
-        "Musran Munizu",
-        "Suraya Ainun Lestari",
-        "Muhammad Asdar",
-        "Adeel Akmal"
-      ],
-      "venue": "International Journal of Interactive Mobile Technologies (iJIM)",
-      "date": "2026-10-09",
-      "abstract": "Cloud-based traceability systems depend on continuous connectivity, limiting their reliability in geographically dispersed mineral supply chains where prolonged network outages may occur. This study proposes an offline-first architecture integrating Mobile Edge Computing (MEC) with a permissioned blockchain for…",
-      "link": "https://doi.org/10.3991/ijim.v20i19.63193",
       "source": "OpenAlex"
     },
     {
@@ -297,6 +282,18 @@
       "date": "2026-07-06",
       "abstract": "Europe's industries rely heavily on rare earth elements (REEs), classified by the European Union (EU) as critical raw materials (CRMs) since 2011. Yet almost all are imported, and domestic recycling of products containing REEs remains minimal. Some REEs are key components of permanent magnets (PMs), used in…",
       "link": "https://doi.org/10.5281/zenodo.21215247",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Bibliometric Analysis of Green Investment in Electric Vehicles",
+      "authors": [
+        "Loso Judijanto",
+        "Helda Yusita"
+      ],
+      "venue": "West Science Social and Humanities Studies",
+      "date": "2026-06-26",
+      "abstract": "The present study conducts a bibliometric review of scholarly work related to green investment for electric vehicles (EVs). The main objective of the review is to provide an insight into the knowledge base of green investment in EVs in terms of the intellectual structure, theme evolution, and international…",
+      "link": "https://doi.org/10.58812/wsshs.v4i06.2942",
       "source": "OpenAlex"
     }
   ]
