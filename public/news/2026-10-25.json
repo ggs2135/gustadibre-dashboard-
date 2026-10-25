@@ -1,0 +1,99 @@
+{
+  "generatedAt": "2026-10-25T12:18:39.686Z",
+  "items": [
+    {
+      "headline": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers",
+      "summary": "Record diesel prices are kicking Western ranchers while they're down. Drought means they have to buy extra hay, and pay truckers extra to deliver it because of fuel price hikes. (Image credit: Anna King)",
+      "category": "supply",
+      "minerals": [],
+      "source": "NPR",
+      "date": "2026-10-25",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers"
+    },
+    {
+      "headline": "Zijin Longking to bring its battery electric mining trucks to Australia",
+      "summary": "Things move fast in mining technology in China, especially when backed by one of the world’s largest mining companies. Back in January 2026, IM reported that Zijin Mining had begun producing its own battery electric…",
+      "category": "funding",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-24",
+      "link": "https://im-mining.com/2026/10/24/zijin-longking-to-bring-its-battery-electric-mining-trucks-to-australia/"
+    },
+    {
+      "headline": "US Department of Energy names helium to critical materials list",
+      "summary": "The U.S. Department of Energy (DOE) announced Friday that Secretary of Energy Chris Wright has designated helium as a critical material under the Energy Act of 2020. The designation advances the Trump Administration’s…",
+      "category": "politics",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-23",
+      "link": "https://www.mining.com/us-department-of-energy-names-helium-to-critical-materials-list/"
+    },
+    {
+      "headline": "Bannerman pulls trigger on $353M uranium mine",
+      "summary": "Bannerman Energy (ASX, NSX: BMN; US-OTC: BNNLF) and its Chinese partner CNNC Overseas have approved construction of the Etango uranium project in Namibia, with funding secured without project debt and first production…",
+      "category": "supply",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-23",
+      "link": "https://www.mining.com/bannerman-pulls-trigger-on-353m-uranium-mine/"
+    },
+    {
+      "headline": "Newmont prices Red Chris expansion at up to $4.8B",
+      "summary": "Newmont (NYSE, ASX: NEM) put a price of up to $4.8 billion (C$6.4 billion) on taking its Red Chris copper-gold mine underground in British Columbia, with commercial production targeted for... The post Newmont prices…",
+      "category": "supply",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-10-23",
+      "link": "https://www.northernminer.com/news/newmont-prices-red-chris-expansion-at-up-to-4-8b/1003896004/"
+    },
+    {
+      "headline": "Lithium’s $100B question: Who will build 134 new mines?",
+      "summary": "Global lithium demand is expected to more than triple by 2050, equivalent to the output of 134 new mines and more than $100 billion (C$139.8 billion) in investment before accounting... The post Lithium’s $100B…",
+      "category": "supply",
+      "minerals": [
+        "Lithium"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-10-23",
+      "link": "https://www.northernminer.com/news/lithiums-100b-question-who-will-build-134-new-mines/1003896015/"
+    },
+    {
+      "headline": "New Found Gold doubles Queensway valuation to $1.7B",
+      "summary": "New Found Gold (TSX, NYSE-A: NFGC) has more than doubled the projected value of its Queensway gold project in Newfoundland to C$1.73 billion while expanding measured and indicated resources by... The post New Found…",
+      "category": "economic",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-10-23",
+      "link": "https://www.northernminer.com/news/new-found-gold-doubles-queensway-valuation-to-1-7b/1003896000/"
+    },
+    {
+      "headline": "Op-Ed: Nicaragua mining – the golden bridgehead threatening US national security",
+      "summary": "(The opinions expressed here are those of the author, Nicholas Vafeas) In the wake of Daniel Ortega’s July declaration , formalizing the end of competitive elections, Western commentary focused almost entirely on the…",
+      "category": "politics",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-23",
+      "link": "https://www.mining.com/op-ed-nicaragua-mining-the-golden-bridgehead-threatening-us-national-security/"
+    },
+    {
+      "headline": "Diesel price surge putting mining profits to test",
+      "summary": "Soaring diesel prices have started to impact mining, rising production and transportation costs and influencing the pricing of metals around the globe, as the commodity market adjusts to tariffs and inflation.…",
+      "category": "economic",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-23",
+      "link": "https://www.mining.com/diesel-price-surge-putting-mining-profits-to-test/"
+    },
+    {
+      "headline": "New Found Gold doubles Queensway valuation to $1.2B",
+      "summary": "New Found Gold (TSX, NYSE-A: NFGC) has more than doubled the projected value of its Queensway gold project in Newfoundland to C$1.73 billion ($1.23 billion) while expanding measured and indicated resources by 38%,…",
+      "category": "economic",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-23",
+      "link": "https://www.mining.com/new-found-gold-doubles-queensway-valuation-to-1-2b/"
+    }
+  ]
+}

@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-24T11:49:36.464Z",
+  "generatedAt": "2026-10-25T12:18:39.686Z",
   "items": [
+    {
+      "headline": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers",
+      "summary": "Record diesel prices are kicking Western ranchers while they're down. Drought means they have to buy extra hay, and pay truckers extra to deliver it because of fuel price hikes. (Image credit: Anna King)",
+      "category": "supply",
+      "minerals": [],
+      "source": "NPR",
+      "date": "2026-10-25",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers"
+    },
+    {
+      "headline": "Zijin Longking to bring its battery electric mining trucks to Australia",
+      "summary": "Things move fast in mining technology in China, especially when backed by one of the world’s largest mining companies. Back in January 2026, IM reported that Zijin Mining had begun producing its own battery electric…",
+      "category": "funding",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-24",
+      "link": "https://im-mining.com/2026/10/24/zijin-longking-to-bring-its-battery-electric-mining-trucks-to-australia/"
+    },
     {
       "headline": "US Department of Energy names helium to critical materials list",
       "summary": "The U.S. Department of Energy (DOE) announced Friday that Secretary of Energy Chris Wright has designated helium as a critical material under the Energy Act of 2020. The designation advances the Trump Administration’s…",
@@ -51,17 +69,6 @@
       "link": "https://www.northernminer.com/news/new-found-gold-doubles-queensway-valuation-to-1-7b/1003896000/"
     },
     {
-      "headline": "Southern Copper weighs $680M Cuajone expansion",
-      "summary": "Southern Copper (NYSE, BVL: SCCO) is evaluating a $680-million (C$950.6 million) expansion of its Cuajone mine in southern Peru to counter declining ore grades and improve efficiency as the copper... The post Southern…",
-      "category": "supply",
-      "minerals": [
-        "Copper"
-      ],
-      "source": "The Northern Miner",
-      "date": "2026-10-23",
-      "link": "https://www.northernminer.com/news/southern-copper-weighs-680m-cuajone-expansion/1003896008/"
-    },
-    {
       "headline": "Op-Ed: Nicaragua mining – the golden bridgehead threatening US national security",
       "summary": "(The opinions expressed here are those of the author, Nicholas Vafeas) In the wake of Daniel Ortega’s July declaration , formalizing the end of competitive elections, Western commentary focused almost entirely on the…",
       "category": "politics",
@@ -87,18 +94,6 @@
       "source": "MINING.com",
       "date": "2026-10-23",
       "link": "https://www.mining.com/new-found-gold-doubles-queensway-valuation-to-1-2b/"
-    },
-    {
-      "headline": "Basic Materials Roundup: Market Talk",
-      "summary": "Find insight on silver futures, Mullen Group, copper and more in the latest Market Talks covering Basic Materials.",
-      "category": "economic",
-      "minerals": [
-        "Copper",
-        "Silver"
-      ],
-      "source": "WSJ — Markets",
-      "date": "2026-10-22",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-e1d91687?mod=rss_markets_main"
     }
   ]
 }

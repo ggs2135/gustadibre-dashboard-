@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T11:49:39.528Z",
+  "generatedAt": "2026-10-25T12:18:44.966Z",
   "shows": [
     {
       "name": "Café da Manhã",
@@ -15,22 +15,16 @@
     {
       "name": "Posse de Bola",
       "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
-      "latestEpisode": {
-        "title": "De Carona #19: Arnaldo e Tironi analisam Flamengo e Palmeiras na Libertadores",
-        "date": "2026-10-23",
-        "url": "https://open.spotify.com/episode/16z9JBmXY37W0Cf2zRWHmN",
-        "isNew": true
-      }
+      "latestEpisode": null
     },
     {
       "name": "WSJ What's News",
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "What’s News in Markets: Meta’s AI Bill, IBM’s Comeback, Musk Explores Merger",
-        "date": "2026-10-24",
-        "url": "https://open.spotify.com/episode/1TPh97c2lP8xIRPmZdkNuB",
+        "title": "Social Security Is Breaking and Congress Doesn’t Have a Plan",
+        "date": "2026-10-25",
+        "url": "https://open.spotify.com/episode/6X8r7lac0gm6TvY0j3Sifv",
         "isNew": true
       }
     },
@@ -42,13 +36,13 @@
         "title": "Where Safety Meets Sustainability: Chemistry at Its Core, Episode 3",
         "date": "2026-10-22",
         "url": "https://open.spotify.com/episode/4vm3X3IKfaChVmUodVDbJ7",
-        "isNew": true
+        "isNew": false
       }
     },
     {
       "name": "Stereo Chemistry",
       "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
       "latestEpisode": {
         "title": "Uncovered: The Capitals of Chemistry",
         "date": "2026-10-15",
