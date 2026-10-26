@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-10-25T12:18:39.686Z",
+  "generatedAt": "2026-10-26T13:49:42.170Z",
   "items": [
     {
-      "headline": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers",
-      "summary": "Record diesel prices are kicking Western ranchers while they're down. Drought means they have to buy extra hay, and pay truckers extra to deliver it because of fuel price hikes. (Image credit: Anna King)",
+      "headline": "TruSilver Metals to go public on TSXV following merger",
+      "summary": "TruSilver Metals is set to begin trading on the Toronto Stock Exchange Venture (TSXV) under the ticker symbol TAG, starting Oct. 27. […] The post TruSilver Metals to go public on TSXV following merger appeared first on…",
       "category": "supply",
       "minerals": [],
-      "source": "NPR",
-      "date": "2026-10-25",
-      "link": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers"
+      "source": "Canadian Mining Journal",
+      "date": "2026-10-26",
+      "link": "https://www.canadianminingjournal.com/news/trusilver-metals-to-go-public-on-tsxv-following-merger/"
+    },
+    {
+      "headline": "Basic Materials Roundup: Market Talk",
+      "summary": "Find insight on Mineral Resources, Ora Banda Mining, Press Metal Aluminium and more in the latest Market Talks covering Basic Materials.",
+      "category": "supply",
+      "minerals": [],
+      "source": "WSJ — Markets",
+      "date": "2026-10-26",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-4d509d1c?mod=rss_markets_main"
+    },
+    {
+      "headline": "Buried sediments prove Romans mined gold in Pyrenees",
+      "summary": "Researchers have confirmed that Roman miners used an extensive hydraulic system to extract gold from Spain’s eastern Pyrenees nearly 1,700 years ago, providing new evidence of ancient mining activity in the mountainous…",
+      "category": "supply",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-26",
+      "link": "https://www.mining.com/buried-sediments-prove-romans-mined-gold-in-pyrenees/"
+    },
+    {
+      "headline": "Metso highlights Media Pumping System for HIGmill™ & SMD applications in Suzhou",
+      "summary": "Recently, customers from around the world joined Metso in Suzhou, China, for a live demonstration of Metso’s revolutionary Media Pumping System (MPS) for HIGmill and SMD applications. The event brought together Metso…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-26",
+      "link": "https://im-mining.com/2026/10/26/metso-highlights-media-pumping-system-for-higmill-smd-applications-in-suzhou/"
+    },
+    {
+      "headline": "DryFlow Magnetics secures ARENA funding for dry magnetite upgrading demo plant",
+      "summary": "DryFlow Magnetics has secured up to A$48.4 million in grant funding from the Australian Renewable Energy Agency (ARENA) for a first-of-a-kind commercial demonstration project in South Australia. Supported under ARENA’s…",
+      "category": "funding",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-26",
+      "link": "https://im-mining.com/2026/10/26/dryflow-magnetics-secures-arena-funding-for-dry-magnetite-upgrading-demo-plant/"
     },
     {
       "headline": "Zijin Longking to bring its battery electric mining trucks to Australia",
@@ -27,37 +63,6 @@
       "source": "MINING.com",
       "date": "2026-10-23",
       "link": "https://www.mining.com/us-department-of-energy-names-helium-to-critical-materials-list/"
-    },
-    {
-      "headline": "Bannerman pulls trigger on $353M uranium mine",
-      "summary": "Bannerman Energy (ASX, NSX: BMN; US-OTC: BNNLF) and its Chinese partner CNNC Overseas have approved construction of the Etango uranium project in Namibia, with funding secured without project debt and first production…",
-      "category": "supply",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-10-23",
-      "link": "https://www.mining.com/bannerman-pulls-trigger-on-353m-uranium-mine/"
-    },
-    {
-      "headline": "Newmont prices Red Chris expansion at up to $4.8B",
-      "summary": "Newmont (NYSE, ASX: NEM) put a price of up to $4.8 billion (C$6.4 billion) on taking its Red Chris copper-gold mine underground in British Columbia, with commercial production targeted for... The post Newmont prices…",
-      "category": "supply",
-      "minerals": [
-        "Copper"
-      ],
-      "source": "The Northern Miner",
-      "date": "2026-10-23",
-      "link": "https://www.northernminer.com/news/newmont-prices-red-chris-expansion-at-up-to-4-8b/1003896004/"
-    },
-    {
-      "headline": "Lithium’s $100B question: Who will build 134 new mines?",
-      "summary": "Global lithium demand is expected to more than triple by 2050, equivalent to the output of 134 new mines and more than $100 billion (C$139.8 billion) in investment before accounting... The post Lithium’s $100B…",
-      "category": "supply",
-      "minerals": [
-        "Lithium"
-      ],
-      "source": "The Northern Miner",
-      "date": "2026-10-23",
-      "link": "https://www.northernminer.com/news/lithiums-100b-question-who-will-build-134-new-mines/1003896015/"
     },
     {
       "headline": "New Found Gold doubles Queensway valuation to $1.7B",
@@ -85,15 +90,6 @@
       "source": "MINING.com",
       "date": "2026-10-23",
       "link": "https://www.mining.com/diesel-price-surge-putting-mining-profits-to-test/"
-    },
-    {
-      "headline": "New Found Gold doubles Queensway valuation to $1.2B",
-      "summary": "New Found Gold (TSX, NYSE-A: NFGC) has more than doubled the projected value of its Queensway gold project in Newfoundland to C$1.73 billion ($1.23 billion) while expanding measured and indicated resources by 38%,…",
-      "category": "economic",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-10-23",
-      "link": "https://www.mining.com/new-found-gold-doubles-queensway-valuation-to-1-2b/"
     }
   ]
 }

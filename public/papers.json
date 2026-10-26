@@ -1,6 +1,31 @@
 {
-  "generatedAt": "2026-10-25T12:18:46.749Z",
+  "generatedAt": "2026-10-26T13:49:45.399Z",
   "items": [
+    {
+      "title": "Nuclear Transmutation of Mercury to Gold: A Theoretical and Metallurgical Analysis of the \"Maardan Fusion\" Process and Deep-Sea Polymetallic Nodule Exploration for Strategic Resource Security",
+      "authors": [
+        "Sudhakar Geruganti"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-25",
+      "abstract": "ALTERNATIVE TITLES1. From Black Sand to Gold: Integrating Nuclear Transmutation and Deep-Sea Mining for India's Critical Mineral and Precious Metal Autonomy2. Modern Alchemy and the Blue Economy: A Metallurgical Engineering Perspective on \"Maardan Fusion\" and Polymetallic Nodule Extraction3. Synthetic Gold and Seabed…",
+      "link": "https://doi.org/10.5281/zenodo.23636256",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Digital technologies for sustainable operations: a single-reviewer systematic review of artificial intelligence, internet of things, and data analytics applications for resource efficiency and emissions reduction",
+      "authors": [
+        "Claudia Mattar",
+        "Wahib Arairo",
+        "M. S. Khatib",
+        "Soraia Oueida"
+      ],
+      "venue": "Discover Sustainability",
+      "date": "2026-10-25",
+      "abstract": "The need to reduce carbon emissions, manage scarce resources, and improve operational efficiency has increased interest in digital technologies for sustainable operations. This PRISMA 2020-guided, single-reviewer systematic review examines how artificial intelligence (AI), the Internet of Things (IoT), data…",
+      "link": "https://doi.org/10.1007/s43621-026-05112-6",
+      "source": "OpenAlex"
+    },
     {
       "title": "Critical minerals in Southeast Asia and India",
       "authors": [
@@ -26,12 +51,26 @@
     {
       "title": "WHY THE WORLD NEEDS SOMALILAND MORE THAN SOMALILAND NEEDS THE WORLD: The Geopolitics of Maritime Security, Critical Mineral Frontiers, and Strategic Realism in the Horn of Africa",
       "authors": [
-        "Hamse Jama¹"
+        "Hamse Suleiman Jama"
       ],
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
       "date": "2026-10-24",
       "abstract": "For more than three decades, international engagement across the Somali peninsula has remained constrained by a rigid diplomatic orthodoxy that treats the defunct 1960 union as an unalterable reality. Despite the expenditure of over sixty billion dollars in multilateral stabilization programs, peacekeeping mandates,…",
       "link": "https://doi.org/10.5281/zenodo.23619877",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Closed-Loop Mineral Intelligence: A Conceptual Framework and Research Agenda for Adaptive, Uncertainty-Aware Critical Mineral Exploration",
+      "authors": [
+        "Vasiliki Balaska",
+        "Kostas Botsialas",
+        "Leonardo Azevedo",
+        "João Narciso"
+      ],
+      "venue": "Minerals",
+      "date": "2026-10-24",
+      "abstract": "Critical raw material (CRM) exploration increasingly combines Earth Observation, geophysics, geochemistry, mineral prospectivity mapping, probabilistic modelling, and autonomous sensing. However, these capabilities are commonly developed or deployed as separate components, while the explicit coupling of observation,…",
+      "link": "https://doi.org/10.3390/min16111104",
       "source": "OpenAlex"
     },
     {
@@ -66,30 +105,6 @@
       "date": "2026-10-23",
       "abstract": "Renewable energy has moved from the margins of the global energy system to its leading edge, reshaping how electricity is generated, traded, and valued. This review synthesises recent evidence on the economic and environmental significance of renewable energy at a global scale. On the economic side, it examines…",
       "link": "https://doi.org/10.22214/ijraset.2026.85292",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Andrew-coder12138/ARIO-Mineral-Storage: ARIO Simulation Framework – Initial Release",
-      "authors": [
-        "Andrew-coder12138"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-23",
-      "abstract": "Overview This release provides an Adaptive Regional Input–Output (ARIO) simulation framework for examining critical mineral supply constraints, climate-related disruptions, and energy storage technology pathways. Model Components The framework includes three simulation models: Baseline Model: Simulates mineral…",
-      "link": "https://doi.org/10.5281/zenodo.23585302",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Subsurface volumetric estimates of ultramafic and mafic rocks in the Livengood Terrane, Central Alaska: implications for carbon mineralization",
-      "authors": [
-        "Rama Chandrudu Arasada",
-        "Shuvajit Bhattacharya",
-        "Estibalitz Ukar"
-      ],
-      "venue": "Acta Geophysica",
-      "date": "2026-10-22",
-      "abstract": "Abstract Mafic and ultramafic rocks are sources of critical minerals and also provide a medium to securely store CO 2 . The objective of this study is to delineate the geometry and assess the volumes of ultramafic rocks in the Livengood Terrane in central Alaska using high-resolution aeromagnetic, petrophysical, and…",
-      "link": "https://doi.org/10.1007/s11600-026-02039-4",
       "source": "OpenAlex"
     },
     {
@@ -277,18 +292,6 @@
       "date": "2026-06-26",
       "abstract": "The present study conducts a bibliometric review of scholarly work related to green investment for electric vehicles (EVs). The main objective of the review is to provide an insight into the knowledge base of green investment in EVs in terms of the intellectual structure, theme evolution, and international…",
       "link": "https://doi.org/10.58812/wsshs.v4i06.2942",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Reversible self-assembly of polymeric solid electrolyte enables lithium battery recycling",
-      "authors": [
-        "Mohammad Amaan",
-        "Nicholas A. Kotov"
-      ],
-      "venue": "Nature Chemistry",
-      "date": "2026-05-28",
-      "abstract": "",
-      "link": "https://doi.org/10.1038/s41557-026-02154-1",
       "source": "OpenAlex"
     }
   ]
