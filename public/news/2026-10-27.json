@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2026-10-27T12:56:46.837Z",
+  "items": [
+    {
+      "headline": "Basic Materials Roundup: Market Talk",
+      "summary": "Find insight on Sandfire Resources, gold futures, Perseus Mining and more in the latest Market Talks covering Basic Materials.",
+      "category": "economic",
+      "minerals": [],
+      "source": "WSJ — Markets",
+      "date": "2026-10-27",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-839fe107?mod=rss_markets_main"
+    },
+    {
+      "headline": "Millennial Potash eyes bigger Gabon mine with US backing",
+      "summary": "Millennial Potash (TSX-V: MLP) plans to begin building its US-backed Banio potash project in Gabon by late 2027 or early 2028, potentially at a larger scale than initially planned as interest from prospective buyers…",
+      "category": "supply",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-27",
+      "link": "https://www.mining.com/millennial-potash-eyes-bigger-gabon-mine-with-us-backing/"
+    },
+    {
+      "headline": "Sponsored Q&A: GRG turns to gold after San Pietro copper sale",
+      "summary": "GRG Resources (TSXV: GRG; US-OTC: GARWF), formerly Golden Arrow Resources, is preparing to test gold targets in Chile after selling the copper assets at its San Pietro project to Capstone... The post Sponsored Q&A: GRG…",
+      "category": "supply",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-10-27",
+      "link": "https://www.northernminer.com/stock-markets-investing/sponsored-qa-grg-turns-to-gold-after-san-pietro-copper-sale/1003896124/"
+    },
+    {
+      "headline": "Epiroc Surface Automation Centers – all access automation",
+      "summary": "Epiroc is already known globally in mining as one of the leading suppliers of autonomous solutions. What is less known is that in the past few years, it has put a lot of effort and investment into building new…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-27",
+      "link": "https://im-mining.com/2026/10/27/epiroc-surface-automation-centers-all-access-automation/"
+    },
+    {
+      "headline": "Wabtec partners with Razor Labs to bring predictive maintenance to mining fleets",
+      "summary": "Wabtec Digital Mine and Razor Labs have announced a new partnership, unveiled at IMARC 2026 . Through this partnership, Wabtec will offer Razor Labs’ DataMind AI predictive maintenance solution to its mining customers.…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-27",
+      "link": "https://im-mining.com/2026/10/27/wabtec-partners-with-razor-labs-to-bring-predictive-maintenance-to-mining-fleets/"
+    },
+    {
+      "headline": "America Needs Canada’s Aluminum. Trump’s Tariff Exposed Just How Badly.",
+      "summary": "Smelters in Quebec run on cheap hydroelectric power. The Trump administration’s 50% tariff has pushed up prices for American industry.",
+      "category": "politics",
+      "minerals": [],
+      "source": "WSJ — World News",
+      "date": "2026-10-27",
+      "link": "https://www.wsj.com/business/aluminum-tariff-canada-trump-f2555b38?mod=rss_worldnews"
+    },
+    {
+      "headline": "DryFlow Magnetics secures ARENA funding for dry magnetite upgrading demo plant",
+      "summary": "DryFlow Magnetics has secured up to A$48.4 million in grant funding from the Australian Renewable Energy Agency (ARENA) for a first-of-a-kind commercial demonstration project in South Australia. Supported under ARENA’s…",
+      "category": "funding",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-26",
+      "link": "https://im-mining.com/2026/10/26/dryflow-magnetics-secures-arena-funding-for-dry-magnetite-upgrading-demo-plant/"
+    }
+  ]
+}
