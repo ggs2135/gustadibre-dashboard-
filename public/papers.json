@@ -1,40 +1,108 @@
 {
-  "generatedAt": "2026-10-27T12:56:49.105Z",
+  "generatedAt": "2026-10-28T13:47:51.117Z",
   "items": [
     {
-      "title": "Nuclear Transmutation of Mercury to Gold: A Theoretical and Metallurgical Analysis of the \"Maardan Fusion\" Process and Deep-Sea Polymetallic Nodule Exploration for Strategic Resource Security",
+      "title": "Photographer Tom Hegen’s aerial eye reveals the true scale of the critical mineral age",
       "authors": [
-        "Sudhakar Geruganti"
+        "Carolyn Cowan"
+      ],
+      "venue": null,
+      "date": "2026-10-28",
+      "abstract": "",
+      "link": "https://doi.org/10.66709/news-334027",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "riftprospect v0.1.0: open prospectivity model for magmatic Ni-Cu-Co-PGE deposits in the Midcontinent Rift",
+      "authors": [
+        "Bezali Kwame Danso",
+        "Adwoa Aduaba Aidoo",
+        "Saadatu Abdullah"
       ],
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-25",
-      "abstract": "ALTERNATIVE TITLES1. From Black Sand to Gold: Integrating Nuclear Transmutation and Deep-Sea Mining for India's Critical Mineral and Precious Metal Autonomy2. Modern Alchemy and the Blue Economy: A Metallurgical Engineering Perspective on \"Maardan Fusion\" and Polymetallic Nodule Extraction3. Synthetic Gold and Seabed…",
-      "link": "https://doi.org/10.5281/zenodo.23636256",
+      "date": "2026-10-27",
+      "abstract": "riftprospect is an open, tested Python package and reproducible pipeline that ranks every 200 m square of the 2025 USGS airborne magnetic and radiometric survey of the Upper Peninsula of Michigan and northern Wisconsin (39,369 km²) by its similarity to the setting of small mafic-ultramafic intrusions that host…",
+      "link": "https://doi.org/10.5281/zenodo.23697826",
       "source": "OpenAlex"
     },
     {
-      "title": "Digital technologies for sustainable operations: a single-reviewer systematic review of artificial intelligence, internet of things, and data analytics applications for resource efficiency and emissions reduction",
+      "title": "Onemolease's Economic Laws of Regenerative Economics: Formalizing Abundance Circulation as the Default State of Economic Systems",
       "authors": [
-        "Claudia Mattar",
-        "Wahib Arairo",
-        "M. S. Khatib",
-        "Soraia Oueida"
+        "Jude Ahabue Onemolease"
       ],
-      "venue": "Discover Sustainability",
-      "date": "2026-10-25",
-      "abstract": "The need to reduce carbon emissions, manage scarce resources, and improve operational efficiency has increased interest in digital technologies for sustainable operations. This PRISMA 2020-guided, single-reviewer systematic review examines how artificial intelligence (AI), the Internet of Things (IoT), data…",
-      "link": "https://doi.org/10.1007/s43621-026-05112-6",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-27",
+      "abstract": "Classical economic theory is fundamentally anchored in the axiom of scarcity, positioning the laws of supply and demand as primary mechanisms for resource allocation within inherent limits. This scarcity-centric worldview has shaped centuries of economic policy and practice, often resulting in systemic extraction,…",
+      "link": "https://doi.org/10.5281/zenodo.23337060",
       "source": "OpenAlex"
     },
     {
-      "title": "Critical minerals in Southeast Asia and India",
+      "title": "Artificial Intelligence and Satellite Remote Sensing for Mineral Exploration and Mining Site Detection: A Critical Research Review and Reproducible Framework for Gold, Rare Earth Elements, and Critical Minerals",
+      "authors": [
+        "Mohammad Bahareth"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-27",
+      "abstract": "Artificial intelligence (AI) and Earth observation are changing how investigators recognize surface evidence of mineral systems and monitor the footprint of mining activity. Their value is frequently overstated when a remotely sensed alteration anomaly is treated as a discovered orebody or when a site-detection…",
+      "link": "https://doi.org/10.5281/zenodo.23697932",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Ranked prospectivity targets for magmatic Ni-Cu-Co-PGE deposits, Upper Peninsula of Michigan and northern Wisconsin (riftprospect v0.1.0)",
+      "authors": [
+        "Bezali Kwame Danso",
+        "Adwoa Aduaba Aidoo",
+        "Saadatu Abdullah"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-27",
+      "abstract": "Ranked prospectivity targets for magmatic Ni-Cu-Co-PGE sulfide deposits in the Upper Peninsula of Michigan and northern Wisconsin, produced by riftprospect v0.1.0 (doi:10.5281/zenodo.23697827). 1,629 targets (top 2% of 200 m squares more than 1 km from a survey edge) with location, area, peak and mean score, Monte…",
+      "link": "https://doi.org/10.5281/zenodo.23697828",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Critical minerals in Central Asia",
       "authors": [
         "OECD"
       ],
       "venue": null,
-      "date": "2026-10-24",
+      "date": "2026-10-27",
       "abstract": "",
-      "link": "https://doi.org/10.1787/ba1f1e55-en",
+      "link": "https://doi.org/10.1787/400e2d2a-en",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Selective Strategic Autonomy in Critical Minerals and Devices",
+      "authors": [
+        "Subash Chandra Bose Rapaka"
+      ],
+      "venue": "Indian Public Policy Review",
+      "date": "2026-10-27",
+      "abstract": "Viksit Bharat 2047 offers an opportunity to strengthen the materials and electronics capabilities underpinning India’s digital, industrial, space, and strategic ambitions. This paper develops a framework for selective strategic autonomy in critical materials and devices, combining domestic capability in priority…",
+      "link": "https://doi.org/10.55763/ippr.2026.07.04.002",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Balancing Mineral Extraction and Environmental Regulation: An Analysis of the Mines and Minerals (Development and Regulation) Act, 1957 and the 2023 Amendment",
+      "authors": [
+        "Arisha Aamir"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-26",
+      "abstract": "In recent past we have witnessed India's mineral sector being reshaped into a competitive commercial market, instead of its traditional image as a discretionary licensing system. The repeatedly amended Mines and Minerals (Development and Regulation) Act, 1957, with the recent amendments of 2015 and 2023, presently…",
+      "link": "https://doi.org/10.5281/zenodo.23662560",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Author Correction: From margins to algorithms: AI infrastructure and the geopolitics of critical mineral supply chains",
+      "authors": [
+        "Mojawir Ahmad Sadat",
+        "Deyi Xu"
+      ],
+      "venue": "Mineral Economics",
+      "date": "2026-10-26",
+      "abstract": "",
+      "link": "https://doi.org/10.1007/s13563-026-00719-7",
       "source": "OpenAlex"
     },
     {
@@ -49,53 +117,6 @@
       "source": "OpenAlex"
     },
     {
-      "title": "WHY THE WORLD NEEDS SOMALILAND MORE THAN SOMALILAND NEEDS THE WORLD: The Geopolitics of Maritime Security, Critical Mineral Frontiers, and Strategic Realism in the Horn of Africa",
-      "authors": [
-        "Hamse Suleiman Jama"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-24",
-      "abstract": "For more than three decades, international engagement across the Somali peninsula has remained constrained by a rigid diplomatic orthodoxy that treats the defunct 1960 union as an unalterable reality. Despite the expenditure of over sixty billion dollars in multilateral stabilization programs, peacekeeping mandates,…",
-      "link": "https://doi.org/10.5281/zenodo.23619877",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Closed-Loop Mineral Intelligence: A Conceptual Framework and Research Agenda for Adaptive, Uncertainty-Aware Critical Mineral Exploration",
-      "authors": [
-        "Vasiliki Balaska",
-        "Kostas Botsialas",
-        "Leonardo Azevedo",
-        "João Narciso"
-      ],
-      "venue": "Minerals",
-      "date": "2026-10-24",
-      "abstract": "Critical raw material (CRM) exploration increasingly combines Earth Observation, geophysics, geochemistry, mineral prospectivity mapping, probabilistic modelling, and autonomous sensing. However, these capabilities are commonly developed or deployed as separate components, while the explicit coupling of observation,…",
-      "link": "https://doi.org/10.3390/min16111104",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Circular Economy and Sustainability in Critical Mineral Mining Law in",
-      "authors": [
-        "Fatime Soukolgue"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-23",
-      "abstract": "Critical minerals, among them cobalt, copper, lithium, nickel and the rare earth elements, are central to the global transition to clean energy and digital technology, and their extraction is an increasingly important part of Uganda's development strategy. Conventional mining, however, follows a linear model of…",
-      "link": "https://doi.org/10.5281/zenodo.23588367",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Modern US Foreign Economic Policy: From Targeted Protectionism to a Systemic Geoeconomic Strategy",
-      "authors": [
-        "Maxim Boyko"
-      ],
-      "venue": "World Economy and World Finance",
-      "date": "2026-10-23",
-      "abstract": "Amid mounting geopolitical turbulence and the global economy’s shift from liberal globalization to a model of fragmented blocs, US foreign economic policy is undergoing a fundamental transformation. Donald Trump’s return to the White House in 2025 marked a qualitative leap in the implementation of the “America First”…",
-      "link": "https://doi.org/10.65324/wewf046",
-      "source": "OpenAlex"
-    },
-    {
       "title": "The Global Significance of Renewable Energy: Contributions to Economic Growth and Environmental Sustainability",
       "authors": [
         "Jyoti Prakash Myageri",
@@ -105,6 +126,20 @@
       "date": "2026-10-23",
       "abstract": "Renewable energy has moved from the margins of the global energy system to its leading edge, reshaping how electricity is generated, traded, and valued. This review synthesises recent evidence on the economic and environmental significance of renewable energy at a global scale. On the economic side, it examines…",
       "link": "https://doi.org/10.22214/ijraset.2026.85292",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Computational Reproducibility Package for Critical Mineral Supply Chain Risk Management under Climate and Geopolitical Disruptions with Deterministic Directed Dependency and Uncertainty Assessment",
+      "authors": [
+        "Chang Chang",
+        "Masoud Ghasemi",
+        "Samia Elattar",
+        "H. Elhosiny Ali"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-23",
+      "abstract": "This repository provides the computational reproducibility materials supporting the study “Critical Mineral Supply Chain Risk Management under Climate and Geopolitical Disruptions with Deterministic Directed Dependency and Uncertainty Assessment.” The archive includes two computational components: (1) deterministic…",
+      "link": "https://doi.org/10.5281/zenodo.23604696",
       "source": "OpenAlex"
     },
     {
@@ -134,7 +169,8 @@
     {
       "title": "Pakistan’s Rare-Earth Diplomacy: Strategic Hedging and Resource Statecraft Amid U.S.–China Competition",
       "authors": [
-        "Mohsin Mahmood"
+        "Mohsin Mahmood",
+        "Muhammad Usman Askari"
       ],
       "venue": "Journal of Global Social Transformation",
       "date": "2026-10-18",
@@ -154,29 +190,17 @@
       "source": "OpenAlex"
     },
     {
-      "title": "Ownership and Final-Demand Responsibility in Critical Mineral Supply Chains",
+      "title": "Hybrid-Charge Interlayer Boosts Acid-Resistant NF Membranes for Lithium Battery Recycling",
       "authors": [
-        "Lawrence Adu Asamoah",
-        "George Boateng"
+        "Pengfei Li",
+        "Mingzheng Bao",
+        "Liming Wang",
+        "Zhencan Hou"
       ],
-      "venue": "Mendeley Data",
-      "date": "2026-10-15",
-      "abstract": "This file reproduces the ownership and final demand responsibility in critical mineral supply chain with emphasis on DRC and Guinea.",
-      "link": "https://doi.org/10.17632/mbs9mr8h37",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Reproducibility Package for Deterministic Assessment of Critical Mineral Supply Chain Risks Under Climate and Geopolitical Disruptions",
-      "authors": [
-        "Chang Chang",
-        "Masoud Ghasemi",
-        "Samia Elattar",
-        "H. Elhosiny Ali"
-      ],
-      "venue": "Figshare",
-      "date": "2026-10-15",
-      "abstract": "This reproducibility package accompanies the manuscript “Deterministic Assessment of Critical Mineral Supply Chain Risks Under Climate and Geopolitical Disruptions.” It combines the controlled deterministic scenario analysis and the empirical physical production-risk evaluation. The archive contains machine-readable…",
-      "link": "https://doi.org/10.6084/m9.figshare.34516611",
+      "venue": "Journal of Membrane Science",
+      "date": "2026-10-01",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.memsci.2026.126341",
       "source": "OpenAlex"
     },
     {
@@ -268,30 +292,6 @@
       "date": "2026-07-07",
       "abstract": "Yttrium oxide (Y 2 O 3 ) has become one of the most critical rare-earth materials recently for its essential roles in many indusial applications. With increasing demand for yttrium-containing materials, the recovery of Y 2 O 3 from used fluorescent lamps has received considerable attention. For example, rare-earth…",
       "link": "https://doi.org/10.1149/ma2026-01562711mtgabs",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Policy Recommendations for a Rare Earth Permanent Magnet Recycling Value Chain in Europe",
-      "authors": [
-        "Juliane B. Lamvik",
-        "REEPRODUCE Project"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-07-06",
-      "abstract": "Europe's industries rely heavily on rare earth elements (REEs), classified by the European Union (EU) as critical raw materials (CRMs) since 2011. Yet almost all are imported, and domestic recycling of products containing REEs remains minimal. Some REEs are key components of permanent magnets (PMs), used in…",
-      "link": "https://doi.org/10.5281/zenodo.21215247",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Bibliometric Analysis of Green Investment in Electric Vehicles",
-      "authors": [
-        "Loso Judijanto",
-        "Helda Yusita"
-      ],
-      "venue": "West Science Social and Humanities Studies",
-      "date": "2026-06-26",
-      "abstract": "The present study conducts a bibliometric review of scholarly work related to green investment for electric vehicles (EVs). The main objective of the review is to provide an insight into the knowledge base of green investment in EVs in terms of the intellectual structure, theme evolution, and international…",
-      "link": "https://doi.org/10.58812/wsshs.v4i06.2942",
       "source": "OpenAlex"
     }
   ]

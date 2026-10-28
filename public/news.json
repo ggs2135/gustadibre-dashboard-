@@ -1,52 +1,68 @@
 {
-  "generatedAt": "2026-10-27T12:56:46.837Z",
+  "generatedAt": "2026-10-28T13:47:47.539Z",
   "items": [
     {
-      "headline": "Basic Materials Roundup: Market Talk",
-      "summary": "Find insight on Sandfire Resources, gold futures, Perseus Mining and more in the latest Market Talks covering Basic Materials.",
-      "category": "economic",
-      "minerals": [],
-      "source": "WSJ — Markets",
-      "date": "2026-10-27",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-839fe107?mod=rss_markets_main"
-    },
-    {
-      "headline": "Millennial Potash eyes bigger Gabon mine with US backing",
-      "summary": "Millennial Potash (TSX-V: MLP) plans to begin building its US-backed Banio potash project in Gabon by late 2027 or early 2028, potentially at a larger scale than initially planned as interest from prospective buyers…",
+      "headline": "Deep Sea Minerals eyes US listing as leasing auction nears",
+      "summary": "Deep Sea Minerals (CSE: SEAS) says it is seeking a U.S. exchange listing public offering of American depositary shares (ADS), to raise money and advance its deep-sea mineral exploration strategy. The company is…",
       "category": "supply",
       "minerals": [],
       "source": "MINING.com",
-      "date": "2026-10-27",
-      "link": "https://www.mining.com/millennial-potash-eyes-bigger-gabon-mine-with-us-backing/"
+      "date": "2026-10-28",
+      "link": "https://www.mining.com/deep-sea-minerals-eyes-us-listing-as-leasing-auction-nears/"
     },
     {
-      "headline": "Sponsored Q&A: GRG turns to gold after San Pietro copper sale",
-      "summary": "GRG Resources (TSXV: GRG; US-OTC: GARWF), formerly Golden Arrow Resources, is preparing to test gold targets in Chile after selling the copper assets at its San Pietro project to Capstone... The post Sponsored Q&A: GRG…",
+      "headline": "Rio Tinto eyes 56% CEO pay hike amid talent crunch",
+      "summary": "Rio Tinto (ASX, LON: RIO) is seeking shareholder support for a 56% increase in chief executive Simon Trott’s target compensation to £9.8 million ($13.06 million) next year as competition for senior executives…",
       "category": "supply",
-      "minerals": [
-        "Copper"
-      ],
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-28",
+      "link": "https://www.mining.com/rio-tinto-eyes-56-ceo-pay-hike-amid-talent-crunch/"
+    },
+    {
+      "headline": "Merdeka delivers measurable fleet productivity gains with Hexagon technology",
+      "summary": "Hexagon has announced measurable productivity, cost, and sustainability gains achieved by PT Bumi Suksesindo (BSI) at Tujuh Bukit Gold Mine in East Java, Indonesia, following the adoption of Hexagon OP Pro fleet…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-28",
+      "link": "https://im-mining.com/2026/10/28/merdeka-delivers-measurable-fleet-productivity-gains-with-hexagon-technology/"
+    },
+    {
+      "headline": "Emeco’s ownership of the mobile mining asset lifecycle chain",
+      "summary": "Emeco is Australia’s leading mining equipment rental and maintenance services provider, and at IMARC 2026 in Sydney this week in a presentation from Ian Testrow, Chief Executive Officer and Managing Director, the…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-28",
+      "link": "https://im-mining.com/2026/10/28/emecos-ownership-of-the-mobile-mining-asset-lifecycle-chain/"
+    },
+    {
+      "headline": "Gold miners trade at discount after selloff: Haywood",
+      "summary": "Senior gold miners are trading almost a quarter below their five-year average valuation despite strong cash flow, as a selloff in precious metals shares extends into the fourth quarter, Haywood... The post Gold miners…",
+      "category": "economic",
+      "minerals": [],
       "source": "The Northern Miner",
       "date": "2026-10-27",
-      "link": "https://www.northernminer.com/stock-markets-investing/sponsored-qa-grg-turns-to-gold-after-san-pietro-copper-sale/1003896124/"
+      "link": "https://www.northernminer.com/news/gold-miners-trade-at-discount-after-selloff-haywood/1003896128/"
     },
     {
-      "headline": "Epiroc Surface Automation Centers – all access automation",
-      "summary": "Epiroc is already known globally in mining as one of the leading suppliers of autonomous solutions. What is less known is that in the past few years, it has put a lot of effort and investment into building new…",
-      "category": "supply",
+      "headline": "New Found Gold doubles Queensway valuation to $1.7B",
+      "summary": "New Found Gold (TSX, NYSE-A: NFGC) has more than doubled the projected value of its Queensway gold project in Newfoundland to C$1.73 […] The post New Found Gold doubles Queensway valuation to $1.7B appeared first on…",
+      "category": "economic",
       "minerals": [],
-      "source": "International Mining",
+      "source": "Canadian Mining Journal",
       "date": "2026-10-27",
-      "link": "https://im-mining.com/2026/10/27/epiroc-surface-automation-centers-all-access-automation/"
+      "link": "https://www.canadianminingjournal.com/news/new-found-gold-doubles-queensway-valuation-to-1-7b/"
     },
     {
-      "headline": "Wabtec partners with Razor Labs to bring predictive maintenance to mining fleets",
-      "summary": "Wabtec Digital Mine and Razor Labs have announced a new partnership, unveiled at IMARC 2026 . Through this partnership, Wabtec will offer Razor Labs’ DataMind AI predictive maintenance solution to its mining customers.…",
-      "category": "supply",
+      "headline": "Gold miners trade at discount after selloff: Haywood",
+      "summary": "Senior gold miners are trading almost a quarter below their five-year average valuation despite strong cash flow, as a selloff in precious metals shares extends into the fourth quarter, Haywood Securities says. The…",
+      "category": "economic",
       "minerals": [],
-      "source": "International Mining",
+      "source": "MINING.com",
       "date": "2026-10-27",
-      "link": "https://im-mining.com/2026/10/27/wabtec-partners-with-razor-labs-to-bring-predictive-maintenance-to-mining-fleets/"
+      "link": "https://www.mining.com/gold-miners-trade-at-discount-after-selloff-haywood/"
     },
     {
       "headline": "America Needs Canada’s Aluminum. Trump’s Tariff Exposed Just How Badly.",
