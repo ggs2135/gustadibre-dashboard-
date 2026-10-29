@@ -1,0 +1,63 @@
+{
+  "generatedAt": "2026-10-29T13:55:03.088Z",
+  "items": [
+    {
+      "headline": "Alamos delays Island Gold shaft as costs rise",
+      "summary": "Alamos Gold (TSX: AGI; NYSE: AGI) has pushed back its Island Gold shaft expansion by about a quarter and flagged higher construction costs, delaying a key source of production growth... The post Alamos delays Island…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-10-29",
+      "link": "https://www.northernminer.com/news/alamos-delays-island-gold-shaft-as-costs-rise/1003896239/"
+    },
+    {
+      "headline": "China border checks cut Oyu Tolgoi exports by 70%",
+      "summary": "Copper concentrate exports from Rio Tinto’s (NYSE, LSE, ASX: RIO) Oyu Tolgoi mine in Mongolia have dropped about 70% over the past two weeks because of Chinese border restrictions, the... The post China border checks…",
+      "category": "supply",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-10-29",
+      "link": "https://www.northernminer.com/news/china-border-checks-cut-oyu-tolgoi-exports-by-70/1003896235/"
+    },
+    {
+      "headline": "Two workers die after Kinross Gold accidents",
+      "summary": "Two employees of the same contractor died following separate accidents on Sept. 3 at Kinross Gold’s (TSX: K; NYSE: KGC) Bald Mountain gold mine in Nevada, according to preliminary U.S.... The post Two workers die after…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-10-29",
+      "link": "https://www.northernminer.com/news/two-workers-die-after-kinross-gold-accidents/1003896231/"
+    },
+    {
+      "headline": "US copper stockpiles conceal growing global supply crunch",
+      "summary": "A growing concentration of copper inventories in US warehouses is masking tightening supplies elsewhere, creating a fragmented global market where a surplus can coexist with shortages and elevated prices, according to…",
+      "category": "supply",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "MINING.com",
+      "date": "2026-10-29",
+      "link": "https://www.mining.com/us-copper-stockpiles-conceal-growing-global-supply-crunch/"
+    },
+    {
+      "headline": "Gold miners trade at discount after selloff: Haywood",
+      "summary": "Senior gold miners are trading almost a quarter below their five-year average valuation despite strong cash flow, as a selloff in precious metals shares extends into the fourth quarter, Haywood... The post Gold miners…",
+      "category": "economic",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-10-27",
+      "link": "https://www.northernminer.com/news/gold-miners-trade-at-discount-after-selloff-haywood/1003896128/"
+    },
+    {
+      "headline": "Gold miners trade at discount after selloff: Haywood",
+      "summary": "Senior gold miners are trading almost a quarter below their five-year average valuation despite strong cash flow, as a selloff in precious metals shares extends into the fourth quarter, Haywood Securities says. The…",
+      "category": "economic",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-27",
+      "link": "https://www.mining.com/gold-miners-trade-at-discount-after-selloff-haywood/"
+    }
+  ]
+}

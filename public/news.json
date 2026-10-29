@@ -1,41 +1,45 @@
 {
-  "generatedAt": "2026-10-28T13:47:47.539Z",
+  "generatedAt": "2026-10-29T13:55:03.088Z",
   "items": [
     {
-      "headline": "Deep Sea Minerals eyes US listing as leasing auction nears",
-      "summary": "Deep Sea Minerals (CSE: SEAS) says it is seeking a U.S. exchange listing public offering of American depositary shares (ADS), to raise money and advance its deep-sea mineral exploration strategy. The company is…",
+      "headline": "Alamos delays Island Gold shaft as costs rise",
+      "summary": "Alamos Gold (TSX: AGI; NYSE: AGI) has pushed back its Island Gold shaft expansion by about a quarter and flagged higher construction costs, delaying a key source of production growth... The post Alamos delays Island…",
       "category": "supply",
       "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-10-29",
+      "link": "https://www.northernminer.com/news/alamos-delays-island-gold-shaft-as-costs-rise/1003896239/"
+    },
+    {
+      "headline": "China border checks cut Oyu Tolgoi exports by 70%",
+      "summary": "Copper concentrate exports from Rio Tinto’s (NYSE, LSE, ASX: RIO) Oyu Tolgoi mine in Mongolia have dropped about 70% over the past two weeks because of Chinese border restrictions, the... The post China border checks…",
+      "category": "supply",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-10-29",
+      "link": "https://www.northernminer.com/news/china-border-checks-cut-oyu-tolgoi-exports-by-70/1003896235/"
+    },
+    {
+      "headline": "Two workers die after Kinross Gold accidents",
+      "summary": "Two employees of the same contractor died following separate accidents on Sept. 3 at Kinross Gold’s (TSX: K; NYSE: KGC) Bald Mountain gold mine in Nevada, according to preliminary U.S.... The post Two workers die after…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-10-29",
+      "link": "https://www.northernminer.com/news/two-workers-die-after-kinross-gold-accidents/1003896231/"
+    },
+    {
+      "headline": "US copper stockpiles conceal growing global supply crunch",
+      "summary": "A growing concentration of copper inventories in US warehouses is masking tightening supplies elsewhere, creating a fragmented global market where a surplus can coexist with shortages and elevated prices, according to…",
+      "category": "supply",
+      "minerals": [
+        "Copper"
+      ],
       "source": "MINING.com",
-      "date": "2026-10-28",
-      "link": "https://www.mining.com/deep-sea-minerals-eyes-us-listing-as-leasing-auction-nears/"
-    },
-    {
-      "headline": "Rio Tinto eyes 56% CEO pay hike amid talent crunch",
-      "summary": "Rio Tinto (ASX, LON: RIO) is seeking shareholder support for a 56% increase in chief executive Simon Trott’s target compensation to £9.8 million ($13.06 million) next year as competition for senior executives…",
-      "category": "supply",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-10-28",
-      "link": "https://www.mining.com/rio-tinto-eyes-56-ceo-pay-hike-amid-talent-crunch/"
-    },
-    {
-      "headline": "Merdeka delivers measurable fleet productivity gains with Hexagon technology",
-      "summary": "Hexagon has announced measurable productivity, cost, and sustainability gains achieved by PT Bumi Suksesindo (BSI) at Tujuh Bukit Gold Mine in East Java, Indonesia, following the adoption of Hexagon OP Pro fleet…",
-      "category": "supply",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-10-28",
-      "link": "https://im-mining.com/2026/10/28/merdeka-delivers-measurable-fleet-productivity-gains-with-hexagon-technology/"
-    },
-    {
-      "headline": "Emeco’s ownership of the mobile mining asset lifecycle chain",
-      "summary": "Emeco is Australia’s leading mining equipment rental and maintenance services provider, and at IMARC 2026 in Sydney this week in a presentation from Ian Testrow, Chief Executive Officer and Managing Director, the…",
-      "category": "supply",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-10-28",
-      "link": "https://im-mining.com/2026/10/28/emecos-ownership-of-the-mobile-mining-asset-lifecycle-chain/"
+      "date": "2026-10-29",
+      "link": "https://www.mining.com/us-copper-stockpiles-conceal-growing-global-supply-crunch/"
     },
     {
       "headline": "Gold miners trade at discount after selloff: Haywood",
@@ -47,15 +51,6 @@
       "link": "https://www.northernminer.com/news/gold-miners-trade-at-discount-after-selloff-haywood/1003896128/"
     },
     {
-      "headline": "New Found Gold doubles Queensway valuation to $1.7B",
-      "summary": "New Found Gold (TSX, NYSE-A: NFGC) has more than doubled the projected value of its Queensway gold project in Newfoundland to C$1.73 […] The post New Found Gold doubles Queensway valuation to $1.7B appeared first on…",
-      "category": "economic",
-      "minerals": [],
-      "source": "Canadian Mining Journal",
-      "date": "2026-10-27",
-      "link": "https://www.canadianminingjournal.com/news/new-found-gold-doubles-queensway-valuation-to-1-7b/"
-    },
-    {
       "headline": "Gold miners trade at discount after selloff: Haywood",
       "summary": "Senior gold miners are trading almost a quarter below their five-year average valuation despite strong cash flow, as a selloff in precious metals shares extends into the fourth quarter, Haywood Securities says. The…",
       "category": "economic",
@@ -63,24 +58,6 @@
       "source": "MINING.com",
       "date": "2026-10-27",
       "link": "https://www.mining.com/gold-miners-trade-at-discount-after-selloff-haywood/"
-    },
-    {
-      "headline": "America Needs Canada’s Aluminum. Trump’s Tariff Exposed Just How Badly.",
-      "summary": "Smelters in Quebec run on cheap hydroelectric power. The Trump administration’s 50% tariff has pushed up prices for American industry.",
-      "category": "politics",
-      "minerals": [],
-      "source": "WSJ — World News",
-      "date": "2026-10-27",
-      "link": "https://www.wsj.com/business/aluminum-tariff-canada-trump-f2555b38?mod=rss_worldnews"
-    },
-    {
-      "headline": "DryFlow Magnetics secures ARENA funding for dry magnetite upgrading demo plant",
-      "summary": "DryFlow Magnetics has secured up to A$48.4 million in grant funding from the Australian Renewable Energy Agency (ARENA) for a first-of-a-kind commercial demonstration project in South Australia. Supported under ARENA’s…",
-      "category": "funding",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-10-26",
-      "link": "https://im-mining.com/2026/10/26/dryflow-magnetics-secures-arena-funding-for-dry-magnetite-upgrading-demo-plant/"
     }
   ]
 }

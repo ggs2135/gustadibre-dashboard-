@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T13:47:51.117Z",
+  "generatedAt": "2026-10-29T13:55:05.940Z",
   "items": [
     {
       "title": "Photographer Tom Hegen’s aerial eye reveals the true scale of the critical mineral age",
@@ -13,84 +13,121 @@
       "source": "OpenAlex"
     },
     {
-      "title": "riftprospect v0.1.0: open prospectivity model for magmatic Ni-Cu-Co-PGE deposits in the Midcontinent Rift",
+      "title": "Towards precision bio(hydro)metallurgy: tailored biological systems for rare earth element recovery from dilute and secondary streams",
       "authors": [
-        "Bezali Kwame Danso",
-        "Adwoa Aduaba Aidoo",
-        "Saadatu Abdullah"
+        "Maximilian K. Lübben",
+        "Paul N. Evans",
+        "Michael Paper",
+        "Nikolaus Stellner"
       ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-27",
-      "abstract": "riftprospect is an open, tested Python package and reproducible pipeline that ranks every 200 m square of the 2025 USGS airborne magnetic and radiometric survey of the Upper Peninsula of Michigan and northern Wisconsin (39,369 km²) by its similarity to the setting of small mafic-ultramafic intrusions that host…",
-      "link": "https://doi.org/10.5281/zenodo.23697826",
+      "venue": "Frontiers in Bioengineering and Biotechnology",
+      "date": "2026-10-28",
+      "abstract": "Rare earth elements (REEs) are indispensable to technologies underpinning the energy transition, advanced manufacturing and digital infrastructure. However, their extraction and separation remain resource-intensive and are increasingly challenged by declining ore grades and the growing importance of dilute,…",
+      "link": "https://doi.org/10.3389/fbioe.2026.1920659",
       "source": "OpenAlex"
     },
     {
-      "title": "Onemolease's Economic Laws of Regenerative Economics: Formalizing Abundance Circulation as the Default State of Economic Systems",
+      "title": "Urgency, Speed, and the Governance Stress Test",
       "authors": [
-        "Jude Ahabue Onemolease"
+        "Priscilla P. Nelson"
       ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-27",
-      "abstract": "Classical economic theory is fundamentally anchored in the axiom of scarcity, positioning the laws of supply and demand as primary mechanisms for resource allocation within inherent limits. This scarcity-centric worldview has shaped centuries of economic policy and practice, often resulting in systemic extraction,…",
-      "link": "https://doi.org/10.5281/zenodo.23337060",
+      "venue": "CRC Press eBooks",
+      "date": "2026-10-28",
+      "abstract": "This chapter examines how the current critical minerals moment creates acceleration pressures that function differently in resilient versus fragile governance systems—and how urgency distributes governance capacity asymmetrically across actors and timescales. Where governance systems possess strong institutional…",
+      "link": "https://doi.org/10.1201/9781042013784-47",
       "source": "OpenAlex"
     },
     {
-      "title": "Artificial Intelligence and Satellite Remote Sensing for Mineral Exploration and Mining Site Detection: A Critical Research Review and Reproducible Framework for Gold, Rare Earth Elements, and Critical Minerals",
+      "title": "Geologic Map Database of the Wallace 1 degree x 2 degrees Area: Thompson Falls, Polson, Wallace, and Plains 30' x 60' Quadrangles, Montana and Idaho",
       "authors": [
-        "Mohammad Bahareth"
+        "Sara C Gonzalez",
+        "Micah A. Hernandez",
+        "Jeffrey L. Mauk",
+        "Jordan C Craft"
       ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-27",
-      "abstract": "Artificial intelligence (AI) and Earth observation are changing how investigators recognize surface evidence of mineral systems and monitor the footprint of mining activity. Their value is frequently overstated when a remotely sensed alteration anomaly is treated as a discovered orebody or when a site-detection…",
-      "link": "https://doi.org/10.5281/zenodo.23697932",
+      "venue": "USGS DOI Tool Production Environment",
+      "date": "2026-10-28",
+      "abstract": "The purpose of this data release is to provide Geologic Map Schema (GeMS)-compliant data for a new geologic map compilation of the previously published Harrison and others (1986) Wallace 1 degree x 2 degrees quadrangle, Montana and Idaho, which was originally mapped as part of the U.S. Geological Survey (USGS)…",
+      "link": "https://doi.org/10.5066/f7z31wt7",
       "source": "OpenAlex"
     },
     {
-      "title": "Ranked prospectivity targets for magmatic Ni-Cu-Co-PGE deposits, Upper Peninsula of Michigan and northern Wisconsin (riftprospect v0.1.0)",
+      "title": "Governance beyond Formality",
       "authors": [
-        "Bezali Kwame Danso",
-        "Adwoa Aduaba Aidoo",
-        "Saadatu Abdullah"
+        "Priscilla P. Nelson"
       ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-27",
-      "abstract": "Ranked prospectivity targets for magmatic Ni-Cu-Co-PGE sulfide deposits in the Upper Peninsula of Michigan and northern Wisconsin, produced by riftprospect v0.1.0 (doi:10.5281/zenodo.23697827). 1,629 targets (top 2% of 200 m squares more than 1 km from a survey edge) with location, area, peak and mean score, Monte…",
-      "link": "https://doi.org/10.5281/zenodo.23697828",
+      "venue": "CRC Press eBooks",
+      "date": "2026-10-28",
+      "abstract": "This chapter examines governance in artisanal and small-scale mining (ASM) contexts, where formal institutions are inaccessible, weakly enforced, or disconnected from local economic realities. The central argument is that governance does not disappear where formal institutions are thin—it reorganizes around informal…",
+      "link": "https://doi.org/10.1201/9781042013784-39",
       "source": "OpenAlex"
     },
     {
-      "title": "Critical minerals in Central Asia",
+      "title": "Atıklardan Membran Teknolojileri ile Nadir Toprak Elementlerinin Geri Kazanımı",
       "authors": [
-        "OECD"
+        "Ayşe Yüksekdağ",
+        "Börte Köse‐Mutlu",
+        "Gizem Tuncay",
+        "Tugce Akca"
       ],
       "venue": null,
+      "date": "2026-10-28",
+      "abstract": "\"Rare Earth Elements (REEs) are essential building blocks of modern high-technology products, defense industry components and green energy transition, yet they are classified as critical minerals with extremely high supply risks due to the geographical concentration of primary deposits in limited regions on a global…",
+      "link": "https://doi.org/10.53478/tuba.978-625-5055-03-3.ch14",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Relevant disruptions in critical mineral supply chain sustainability: A systematic literature review",
+      "authors": [
+        "Guilherme Luz Tortorella",
+        "Guilherme Luz Tortorella",
+        "Wen Li",
+        "José Moyano‐Fuentes"
+      ],
+      "venue": "Resources Policy",
+      "date": "2026-10-28",
+      "abstract": "Critical mineral supply chains are central to the energy transition but are increasingly exposed to disruptions that affect their economic, environmental, and social performance. Existing research has quantified the sustainability outcome, examined tier-specific research, and identified the wide range of disruption…",
+      "link": "https://doi.org/10.1016/j.resourpol.2026.106082",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Extracting secondary value from mine waste: Critical minerals, circular economy, and ESG governance for the energy transition",
+      "authors": [
+        "Michael Hitch",
+        "George Barakos",
+        "Jiajie Li",
+        "Toni Eerola"
+      ],
+      "venue": "The Extractive Industries and Society",
+      "date": "2026-10-28",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.exis.2026.102087",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Life Cycle Assessment of Recovery of Rare Earth Oxide from Magnets of Waste Hard Disk Drives via Leaching and Selective Precipitation Methods: A Vietnamese Case Study",
+      "authors": [
+        "Chun‐Yang Yin",
+        "Pham Khanh Huy",
+        "Nguyen Tien Viet",
+        "Mohanad El‐Harbawi"
+      ],
+      "venue": "Journal of Sustainable Metallurgy",
       "date": "2026-10-27",
       "abstract": "",
-      "link": "https://doi.org/10.1787/400e2d2a-en",
+      "link": "https://doi.org/10.1007/s40831-026-01728-0",
       "source": "OpenAlex"
     },
     {
-      "title": "Selective Strategic Autonomy in Critical Minerals and Devices",
+      "title": "Critical Mineral Supply Chain Dependence and Carbon Decoupling: Global Policy Implications for the Energy Transition",
       "authors": [
-        "Subash Chandra Bose Rapaka"
+        "Mojawir Ahmad Sadat",
+        "Deyi Xu"
       ],
-      "venue": "Indian Public Policy Review",
+      "venue": "Journal of Critical Infrastructure Policy",
       "date": "2026-10-27",
-      "abstract": "Viksit Bharat 2047 offers an opportunity to strengthen the materials and electronics capabilities underpinning India’s digital, industrial, space, and strategic ambitions. This paper develops a framework for selective strategic autonomy in critical materials and devices, combining domestic capability in priority…",
-      "link": "https://doi.org/10.55763/ippr.2026.07.04.002",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Balancing Mineral Extraction and Environmental Regulation: An Analysis of the Mines and Minerals (Development and Regulation) Act, 1957 and the 2023 Amendment",
-      "authors": [
-        "Arisha Aamir"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-26",
-      "abstract": "In recent past we have witnessed India's mineral sector being reshaped into a competitive commercial market, instead of its traditional image as a discretionary licensing system. The repeatedly amended Mines and Minerals (Development and Regulation) Act, 1957, with the recent amendments of 2015 and 2023, presently…",
-      "link": "https://doi.org/10.5281/zenodo.23662560",
+      "abstract": "ABSTRACT Low‐carbon technologies are central to the global energy transition, yet their deployment increasingly depends on secure and resilient critical mineral supply chains. Minerals such as lithium, cobalt, nickel, copper, graphite, and rare earth elements are essential inputs for renewable energy systems,…",
+      "link": "https://doi.org/10.1002/jci3.70053",
       "source": "OpenAlex"
     },
     {
@@ -143,50 +180,14 @@
       "source": "OpenAlex"
     },
     {
-      "title": "From Oil Embargo to Energy Realignment: The Geopolitical Evolution of Control over Oil and Power",
+      "title": "Nigeria's Minerals Deal Tests U.S. Strategic Ambitions",
       "authors": [
-        "Srishti Gupta",
-        "Roshan Soni"
+        "Segun Adeyemi"
       ],
-      "venue": "India Quarterly A Journal of International Affairs",
-      "date": "2026-10-21",
-      "abstract": "This article examines the geopolitical evolution of energy coercion, tracing its transformation from traditional oil embargoes to contemporary sanctions, financial restrictions and technological controls, illustrating a shift in strategic power from physical control over oil supplies and maritime chokepoints to…",
-      "link": "https://doi.org/10.1177/09749284261493789",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Powering Critical Mineral Extraction: Modeling Power Demand for Cobalt and Copper Extraction in the DRC",
-      "authors": [
-        "Mashaka Lubenga",
-        "Harro von Blottnitz"
-      ],
-      "venue": "Resources",
-      "date": "2026-10-21",
-      "abstract": "The global energy transition has increased demand for critical minerals like copper and cobalt, with the Democratic Republic of Congo (DRC) being a key producer. Despite rich ore deposits, severe electricity shortages challenge the energy-intensive mining sector. This study investigates the future electricity demand…",
-      "link": "https://doi.org/10.3390/resources15100137",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Pakistan’s Rare-Earth Diplomacy: Strategic Hedging and Resource Statecraft Amid U.S.–China Competition",
-      "authors": [
-        "Mohsin Mahmood",
-        "Muhammad Usman Askari"
-      ],
-      "venue": "Journal of Global Social Transformation",
-      "date": "2026-10-18",
-      "abstract": "The intensification of U.S.–China strategic competition has transformed critical-mineral supply chains into an increasingly important arena of geoeconomic competition. Rare-earth elements (REEs), particularly those used in advanced technologies, renewable-energy systems and defence applications, have acquired…",
-      "link": "https://doi.org/10.71317/jgst.2.10.2026.895",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Dataset for China's Critical Minerals Supply Vulnerability Index (CMSV), 2015–2024",
-      "authors": [
-        "chen bo"
-      ],
-      "venue": "ScienceDB",
-      "date": "2026-10-18",
-      "abstract": "This dataset supports all quantitative results of the accompanying paper \"Measuring the Bidirectional Vulnerability of China's Critical Minerals Supply Chains\". It contains: input parameters for the 2024 cross-section of 17 critical minerals; the Composite Minerals Supply Vulnerability index (CMSV) and its four…",
-      "link": "https://doi.org/10.57760/sciencedb.016g6",
+      "venue": "Knowledge Commons (Lakehead University)",
+      "date": "2026-10-23",
+      "abstract": "This article examines the September 2026 U.S.–Nigeria critical minerals agreement—Washington’s most significant bilateral resource partnership in West Africa—and assesses whether it can deliver the strategic influence its architects intend. The author argues that the agreement reflects a genuine shift in U.S. policy…",
+      "link": "https://doi.org/10.17613/jb8em-4ag84",
       "source": "OpenAlex"
     },
     {
@@ -292,6 +293,18 @@
       "date": "2026-07-07",
       "abstract": "Yttrium oxide (Y 2 O 3 ) has become one of the most critical rare-earth materials recently for its essential roles in many indusial applications. With increasing demand for yttrium-containing materials, the recovery of Y 2 O 3 from used fluorescent lamps has received considerable attention. For example, rare-earth…",
       "link": "https://doi.org/10.1149/ma2026-01562711mtgabs",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Policy Recommendations for a Rare Earth Permanent Magnet Recycling Value Chain in Europe",
+      "authors": [
+        "Juliane B. Lamvik",
+        "REEPRODUCE Project"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-07-06",
+      "abstract": "Europe's industries rely heavily on rare earth elements (REEs), classified by the European Union (EU) as critical raw materials (CRMs) since 2011. Yet almost all are imported, and domestic recycling of products containing REEs remains minimal. Some REEs are key components of permanent magnets (PMs), used in…",
+      "link": "https://doi.org/10.5281/zenodo.21215247",
       "source": "OpenAlex"
     }
   ]
