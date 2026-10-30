@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-10-29T13:55:04.273Z",
+  "generatedAt": "2026-10-30T13:47:28.537Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
-        "title": "O golpismo e o risco diplomático na fuga de Flávio Bolsonaro",
-        "date": "2026-10-29",
-        "url": "https://open.spotify.com/episode/0gfWXemWP98Dbpf9SNiEsM",
+        "title": "O lulismo no governo Lula 4",
+        "date": "2026-10-30",
+        "url": "https://open.spotify.com/episode/21weBIbptm318tKxCg5lcG",
         "isNew": true
       }
     },
     {
       "name": "Posse de Bola",
       "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
       "latestEpisode": {
         "title": "#713: Corinthians na zona de rebaixamento! Palmeiras pressiona o Flamengo?",
         "date": "2026-10-26",
         "url": "https://open.spotify.com/episode/0BuMlCdadXb8W0OtiPiKtB",
-        "isNew": true
+        "isNew": false
       }
     },
     {
@@ -28,9 +28,9 @@
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "‘AI Mode’ Is Denting Google’s Search Revenue",
-        "date": "2026-10-29",
-        "url": "https://open.spotify.com/episode/2X5w59MVy2BNMGPSwBScj5",
+        "title": "The AI Trade Gets Spooky",
+        "date": "2026-10-30",
+        "url": "https://open.spotify.com/episode/1aLceLc9SEGlydXLsYOifo",
         "isNew": true
       }
     },

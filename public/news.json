@@ -1,63 +1,94 @@
 {
-  "generatedAt": "2026-10-29T13:55:03.088Z",
+  "generatedAt": "2026-10-30T13:47:27.453Z",
   "items": [
     {
-      "headline": "Alamos delays Island Gold shaft as costs rise",
-      "summary": "Alamos Gold (TSX: AGI; NYSE: AGI) has pushed back its Island Gold shaft expansion by about a quarter and flagged higher construction costs, delaying a key source of production growth... The post Alamos delays Island…",
-      "category": "supply",
+      "headline": "Abenójar Tungsten’s London IPO breaks eight-year drought",
+      "summary": "Shares in Spain’s Abenójar Tungsten (LON: ABT) gained on their London Stock Exchange debut Friday after the company raised €170 million ($190 million) in the city’s largest mining initial public offering since 2018.…",
+      "category": "funding",
       "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-10-29",
-      "link": "https://www.northernminer.com/news/alamos-delays-island-gold-shaft-as-costs-rise/1003896239/"
+      "source": "MINING.com",
+      "date": "2026-10-30",
+      "link": "https://www.mining.com/abenojar-tungstens-london-ipo-breaks-eight-year-drought/"
     },
     {
-      "headline": "China border checks cut Oyu Tolgoi exports by 70%",
-      "summary": "Copper concentrate exports from Rio Tinto’s (NYSE, LSE, ASX: RIO) Oyu Tolgoi mine in Mongolia have dropped about 70% over the past two weeks because of Chinese border restrictions, the... The post China border checks…",
+      "headline": "Critical minerals getting harder to mine as deposits age: EY",
+      "summary": "Critical minerals are becoming harder to extract as aging deposits, declining ore grades and increasingly complex operations threaten the mining industry’s ability to maintain production, according to a new EY report.…",
       "category": "supply",
+      "minerals": [],
+      "source": "MINING.com — Battery Metals",
+      "date": "2026-10-30",
+      "link": "https://www.mining.com/critical-minerals-getting-harder-to-mine-as-deposits-age-ey/"
+    },
+    {
+      "headline": "Hitachi Construction Machinery Americas expands lineup with Bell ADTs",
+      "summary": "Hitachi Construction Machinery Americas, which will be rebranded as LANDCROS Americas in April 2027, has announced plans to expand its North American equipment lineup with three articulated dump trucks (ADTs) through a…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-30",
+      "link": "https://im-mining.com/2026/10/30/hitachi-construction-machinery-americas-expands-lineup-with-bell-adts/"
+    },
+    {
+      "headline": "Martin Engineering launches new urethane conveyor belt sealing portfolio in EMEA, India",
+      "summary": "A global leader in bulk material handling solutions, Martin Engineering, has launched its suite of polyurethane sealing systems for conveyor transfer points in three new continents. With belt sealing innovations that…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-30",
+      "link": "https://im-mining.com/2026/10/30/martin-engineering-launches-new-urethane-conveyor-belt-sealing-portfolio-in-emea-india/"
+    },
+    {
+      "headline": "Epiroc advances circularity with drill bit recycling program",
+      "summary": "Epiroc says it is advancing a more circular approach to rock drilling tools with its Drill Bit Recycling Program, enabling customers to return end-of-service life drill bits so that valuable materials can be recovered…",
+      "category": "science",
       "minerals": [
-        "Copper"
+        "Recycling"
+      ],
+      "source": "International Mining",
+      "date": "2026-10-30",
+      "link": "https://im-mining.com/2026/10/30/epiroc-advances-circularity-with-drill-bit-recycling-program/"
+    },
+    {
+      "headline": "Komatsu introduces 3D Machine Guidance Flex for non-excavators",
+      "summary": "Komatsu Europe is extending its Smart Construction 3D Machine Guidance offering to bulldozers, wheel loaders, dump trucks and other equipment with the introduction of 3D Machine Guidance Flex. The new solution provides…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-10-30",
+      "link": "https://im-mining.com/2026/10/30/komatsu-introduces-3d-machine-guidance-flex-for-non-excavators/"
+    },
+    {
+      "headline": "Chemical recycling turns silicone waste into reusable building blocks with up to 99% yield",
+      "summary": "Silicones are widely used in industry, medicine and everyday products due to their exceptional thermal and chemical stability. However, it is precisely these properties that have made recycling silicones extremely…",
+      "category": "science",
+      "minerals": [
+        "Recycling"
+      ],
+      "source": "Phys.org Chemistry",
+      "date": "2026-10-29",
+      "link": "https://phys.org/news/2026-10-chemical-recycling-silicone-reusable-blocks.html"
+    },
+    {
+      "headline": "Rio Tinto pumps $1.4 billion into lithium projects in Argentina",
+      "summary": "Rio Tinto (ASX, LON: RIO) is doubling down on Argentina’s lithium market with the opening of two projects backed by a combined $1.4-billion investment, boosting its production capacity as the mining giant pursues…",
+      "category": "funding",
+      "minerals": [
+        "Lithium"
+      ],
+      "source": "MINING.com — Battery Metals",
+      "date": "2026-10-29",
+      "link": "https://www.mining.com/rio-tinto-pumps-1-4b-into-lithium-projects-in-argentina/"
+    },
+    {
+      "headline": "Rio opens $1.4B lithium projects in Argentina",
+      "summary": "Rio Tinto (NYSE, LSE, ASX: RIO) has marked the opening of two lithium projects in Argentina backed by about $1.4 billion (C$2 billion) in combined investment, adding capacity as it... The post Rio opens $1.4B lithium…",
+      "category": "funding",
+      "minerals": [
+        "Lithium"
       ],
       "source": "The Northern Miner",
       "date": "2026-10-29",
-      "link": "https://www.northernminer.com/news/china-border-checks-cut-oyu-tolgoi-exports-by-70/1003896235/"
-    },
-    {
-      "headline": "Two workers die after Kinross Gold accidents",
-      "summary": "Two employees of the same contractor died following separate accidents on Sept. 3 at Kinross Gold’s (TSX: K; NYSE: KGC) Bald Mountain gold mine in Nevada, according to preliminary U.S.... The post Two workers die after…",
-      "category": "supply",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-10-29",
-      "link": "https://www.northernminer.com/news/two-workers-die-after-kinross-gold-accidents/1003896231/"
-    },
-    {
-      "headline": "US copper stockpiles conceal growing global supply crunch",
-      "summary": "A growing concentration of copper inventories in US warehouses is masking tightening supplies elsewhere, creating a fragmented global market where a surplus can coexist with shortages and elevated prices, according to…",
-      "category": "supply",
-      "minerals": [
-        "Copper"
-      ],
-      "source": "MINING.com",
-      "date": "2026-10-29",
-      "link": "https://www.mining.com/us-copper-stockpiles-conceal-growing-global-supply-crunch/"
-    },
-    {
-      "headline": "Gold miners trade at discount after selloff: Haywood",
-      "summary": "Senior gold miners are trading almost a quarter below their five-year average valuation despite strong cash flow, as a selloff in precious metals shares extends into the fourth quarter, Haywood... The post Gold miners…",
-      "category": "economic",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-10-27",
-      "link": "https://www.northernminer.com/news/gold-miners-trade-at-discount-after-selloff-haywood/1003896128/"
-    },
-    {
-      "headline": "Gold miners trade at discount after selloff: Haywood",
-      "summary": "Senior gold miners are trading almost a quarter below their five-year average valuation despite strong cash flow, as a selloff in precious metals shares extends into the fourth quarter, Haywood Securities says. The…",
-      "category": "economic",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-10-27",
-      "link": "https://www.mining.com/gold-miners-trade-at-discount-after-selloff-haywood/"
+      "link": "https://www.northernminer.com/news/rio-opens-1-4b-lithium-projects-in-argentina/1003896271/"
     }
   ]
 }
