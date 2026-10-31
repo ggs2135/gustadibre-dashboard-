@@ -1,79 +1,104 @@
 {
-  "generatedAt": "2026-10-30T13:47:29.693Z",
+  "generatedAt": "2026-10-31T13:16:07.396Z",
   "items": [
     {
-      "title": "Photographer Tom Hegen’s aerial eye reveals the true scale of the critical mineral age",
+      "title": "Governing interdependence: Chile’s selective hedging in a fragmented geoeconomic order",
       "authors": [
-        "Carolyn Cowan"
+        "Lorena Oyarzún Serrano",
+        "Gilberto Aranda Bustamante"
       ],
-      "venue": null,
-      "date": "2026-10-28",
-      "abstract": "",
-      "link": "https://doi.org/10.66709/news-334027",
+      "venue": "Third World Quarterly",
+      "date": "2026-10-29",
+      "abstract": "This article examines whether Chile’s external behaviour can be understood as selective hedging under conditions of great-power rivalry and geoeconomic fragmentation. It argues that the country represents a constrained Latin American form of swing-state behaviour, expressed less through military balancing than…",
+      "link": "https://doi.org/10.1080/01436597.2026.2741922",
       "source": "OpenAlex"
     },
     {
-      "title": "Towards precision bio(hydro)metallurgy: tailored biological systems for rare earth element recovery from dilute and secondary streams",
+      "title": "Assessing the Physical Feasibility of a Solar-Dominant Net-Zero Pathway in India: Electricity Demand, Land Availability and Critical Mineral Constraints",
       "authors": [
-        "Maximilian K. Lübben",
-        "Paul N. Evans",
-        "Michael Paper",
-        "Nikolaus Stellner"
+        "A. Akilesh",
+        "K. Damodaran"
       ],
-      "venue": "Frontiers in Bioengineering and Biotechnology",
-      "date": "2026-10-28",
-      "abstract": "Rare earth elements (REEs) are indispensable to technologies underpinning the energy transition, advanced manufacturing and digital infrastructure. However, their extraction and separation remain resource-intensive and are increasingly challenged by declining ore grades and the growing importance of dilute,…",
-      "link": "https://doi.org/10.3389/fbioe.2026.1920659",
+      "venue": "International Journal of Sustainable Energy Planning and Management",
+      "date": "2026-10-29",
+      "abstract": "Achieving India’s 2070 net-zero target will require rapid expansion of renewable electricity, with solar power expected to play a dominant role. However, the literature lacks an integrated framework that jointly examines electricity demand growth, land constraints, and critical mineral dependence. This study…",
+      "link": "https://doi.org/10.54337/ijsepm.11433",
       "source": "OpenAlex"
     },
     {
-      "title": "Urgency, Speed, and the Governance Stress Test",
+      "title": "Renewable Energy Transition and National Energy Security: Opportunities, Constraints, and Policy Trade-offs",
       "authors": [
-        "Priscilla P. Nelson"
+        "Bexruz Sobirov"
       ],
-      "venue": "CRC Press eBooks",
-      "date": "2026-10-28",
-      "abstract": "This chapter examines how the current critical minerals moment creates acceleration pressures that function differently in resilient versus fragile governance systems—and how urgency distributes governance capacity asymmetrically across actors and timescales. Where governance systems possess strong institutional…",
-      "link": "https://doi.org/10.1201/9781042013784-47",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-29",
+      "abstract": "The rapid global transition toward Variable Renewable Energy (VRE) represents a profound paradigm shift in macroeconomic planning and national security. While mitigating catastrophic climate change, this transition fundamentally alters the nature of energy vulnerability, shifting risks from geopolitical fossil fuel…",
+      "link": "https://doi.org/10.5281/zenodo.23758780",
       "source": "OpenAlex"
     },
     {
-      "title": "Geologic Map Database of the Wallace 1 degree x 2 degrees Area: Thompson Falls, Polson, Wallace, and Plains 30' x 60' Quadrangles, Montana and Idaho",
+      "title": "Governing Critical-Mineral Circularity Across Distance: A Telecoupled Land-System Perspective on the European Union and China",
       "authors": [
-        "Sara C Gonzalez",
-        "Micah A. Hernandez",
-        "Jeffrey L. Mauk",
-        "Jordan C Craft"
+        "Feiyu Pan",
+        "Ye Zhang"
       ],
-      "venue": "USGS DOI Tool Production Environment",
-      "date": "2026-10-28",
-      "abstract": "The purpose of this data release is to provide Geologic Map Schema (GeMS)-compliant data for a new geologic map compilation of the previously published Harrison and others (1986) Wallace 1 degree x 2 degrees quadrangle, Montana and Idaho, which was originally mapped as part of the U.S. Geological Survey (USGS)…",
-      "link": "https://doi.org/10.5066/f7z31wt7",
+      "venue": "Land",
+      "date": "2026-10-29",
+      "abstract": "Critical-mineral strategies are often promoted as circular economy policies, but circularity metrics do not reveal the locations of land disturbance, processing impacts, recovery improvements or governance authority. Here we present a telecoupled circular land governance framework to examine the differing policy…",
+      "link": "https://doi.org/10.3390/land15112060",
       "source": "OpenAlex"
     },
     {
-      "title": "Governance beyond Formality",
+      "title": "Restructuring Corporate Governance in the Critical Minerals Sector to Strengthen Indonesia's Economic Sovereignty in the Global Value Chain",
       "authors": [
-        "Priscilla P. Nelson"
+        "Erni Yoesry",
+        "Wira Paskah Withyanti",
+        "Anita Anita",
+        "I Putu Endra Wijaya Negara"
       ],
-      "venue": "CRC Press eBooks",
-      "date": "2026-10-28",
-      "abstract": "This chapter examines governance in artisanal and small-scale mining (ASM) contexts, where formal institutions are inaccessible, weakly enforced, or disconnected from local economic realities. The central argument is that governance does not disappear where formal institutions are thin—it reorganizes around informal…",
-      "link": "https://doi.org/10.1201/9781042013784-39",
+      "venue": "West Science Social and Humanities Studies",
+      "date": "2026-10-29",
+      "abstract": "Changes in the global economic structure have placed critical minerals in a strategic position because they are needed in the development of electric vehicles, batteries, energy networks, low-carbon technologies, and various strategic industries. Indonesia holds a key position in the global value chain for critical…",
+      "link": "https://doi.org/10.58812/wsshs.v4i10.3191",
       "source": "OpenAlex"
     },
     {
-      "title": "Atıklardan Membran Teknolojileri ile Nadir Toprak Elementlerinin Geri Kazanımı",
+      "title": "Andean Glaciers in Times of Planetary Crisis",
       "authors": [
-        "Ayşe Yüksekdağ",
-        "Börte Köse‐Mutlu",
-        "Gizem Tuncay",
-        "Tugce Akca"
+        "Cristián Simonetti",
+        "Javiera Barandiarán",
+        "José Ragas"
       ],
-      "venue": null,
-      "date": "2026-10-28",
-      "abstract": "\"Rare Earth Elements (REEs) are essential building blocks of modern high-technology products, defense industry components and green energy transition, yet they are classified as critical minerals with extremely high supply risks due to the geographical concentration of primary deposits in limited regions on a global…",
-      "link": "https://doi.org/10.53478/tuba.978-625-5055-03-3.ch14",
+      "venue": "Latin American Research Review",
+      "date": "2026-10-29",
+      "abstract": "Abstract This special dossier examines how understandings of Andean glaciers transform under the planetary crisis, defined by humanity’s impact on geophysical processes at a planetary scale. Once regarded as remnants of deep geological time, glaciers have become emblematic casualties of anthropogenic global warming,…",
+      "link": "https://doi.org/10.1017/lar.2026.10173",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Code, datacube and results for: Where explorers looked or where ore is? Null models, exploration-effort shortcuts and cross-country transfer in continental-scale prospectivity mapping of sediment-hosted Zn–Pb systems",
+      "authors": [
+        "Lukas Raszka",
+        "Ondřej Grycz",
+        "Šárka Vilamová"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-29",
+      "abstract": "This record contains the code, the rebuilt H3 datacube, out-of-fold predictions and result tables for the article “Where explorers looked or where ore is? Null models, exploration-effort shortcuts and cross-country transfer in continental-scale prospectivity mapping of sediment-hosted Zn–Pb systems” (submitted to…",
+      "link": "https://doi.org/10.5281/zenodo.23769713",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Fertile or Barren: an open benchmark of mineralized and barren mafic-ultramafic intrusions (v0.1.0)",
+      "authors": [
+        "Bezali Kwame Danso",
+        "Josephine Dankwa",
+        "Adwoa Aduaba Aidoo"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-29",
+      "abstract": "An open benchmark for testing geochemical fertility indices for magmatic Ni-Cu-PGE sulfide deposits. The benchmark contains 13,025 whole-rock analyses from 514 mafic-ultramafic intrusions labeled fertile, weakly mineralized, or barren, together with sample-type classifications, a reproducible scoring workflow, and a…",
+      "link": "https://doi.org/10.5281/zenodo.23777405",
       "source": "OpenAlex"
     },
     {
@@ -180,17 +205,6 @@
       "source": "OpenAlex"
     },
     {
-      "title": "Nigeria's Minerals Deal Tests U.S. Strategic Ambitions",
-      "authors": [
-        "Segun Adeyemi"
-      ],
-      "venue": "Knowledge Commons (Lakehead University)",
-      "date": "2026-10-23",
-      "abstract": "This article examines the September 2026 U.S.–Nigeria critical minerals agreement—Washington’s most significant bilateral resource partnership in West Africa—and assesses whether it can deliver the strategic influence its architects intend. The author argues that the agreement reflects a genuine shift in U.S. policy…",
-      "link": "https://doi.org/10.17613/jb8em-4ag84",
-      "source": "OpenAlex"
-    },
-    {
       "title": "Hybrid-Charge Interlayer Boosts Acid-Resistant NF Membranes for Lithium Battery Recycling",
       "authors": [
         "Pengfei Li",
@@ -293,18 +307,6 @@
       "date": "2026-07-07",
       "abstract": "Yttrium oxide (Y 2 O 3 ) has become one of the most critical rare-earth materials recently for its essential roles in many indusial applications. With increasing demand for yttrium-containing materials, the recovery of Y 2 O 3 from used fluorescent lamps has received considerable attention. For example, rare-earth…",
       "link": "https://doi.org/10.1149/ma2026-01562711mtgabs",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Policy Recommendations for a Rare Earth Permanent Magnet Recycling Value Chain in Europe",
-      "authors": [
-        "Juliane B. Lamvik",
-        "REEPRODUCE Project"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-07-06",
-      "abstract": "Europe's industries rely heavily on rare earth elements (REEs), classified by the European Union (EU) as critical raw materials (CRMs) since 2011. Yet almost all are imported, and domestic recycling of products containing REEs remains minimal. Some REEs are key components of permanent magnets (PMs), used in…",
-      "link": "https://doi.org/10.5281/zenodo.21215247",
       "source": "OpenAlex"
     }
   ]

@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2026-10-31T13:16:03.177Z",
+  "items": [
+    {
+      "headline": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
+      "summary": "The Siena Drone Photo Awards for 2026 offer breathtaking bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground. (Image credit: George Steinmetz)",
+      "category": "science",
+      "minerals": [
+        "Recycling"
+      ],
+      "source": "NPR",
+      "date": "2026-10-31",
+      "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners"
+    },
+    {
+      "headline": "Uranium shares slide even as analysts see tighter supply",
+      "summary": "Stocks of uranium companies are falling despite the strongest long-term fuel prices in more than 18 years, as investors weigh an expected tightening of supply against rising costs and the difficulty of bringing new…",
+      "category": "supply",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-30",
+      "link": "https://www.mining.com/uranium-shares-slide-even-as-analysts-see-tighter-supply/"
+    },
+    {
+      "headline": "Radical AI uses autonomous labs to accelerate alloy discovery",
+      "summary": "As the United States pushes to reduce its dependence on China for critical minerals, New York-based Radical AI is taking a different approach to securing strategic materials: using artificial intelligence to develop…",
+      "category": "supply",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-30",
+      "link": "https://www.mining.com/radical-ai-uses-autonomous-labs-to-accelerate-alloy-discovery/"
+    },
+    {
+      "headline": "Lynas locks in price floors as revenue jumps 55%",
+      "summary": "Australia’s Lynas Rare Earths (ASX: LYC; US-OTC: LYSCF, LYSDY) has secured minimum-price agreements covering more than half its production as manufacturers pay premiums for supplies outside China. Average selling…",
+      "category": "supply",
+      "minerals": [
+        "Rare earths"
+      ],
+      "source": "MINING.com — Battery Metals",
+      "date": "2026-10-30",
+      "link": "https://www.mining.com/lynas-locks-in-price-floors-as-revenue-jumps-55/"
+    },
+    {
+      "headline": "Five workers die at Implats yet injuries fall",
+      "summary": "Impala Platinum (JSE: IMP; US-OTC: IMPUY) reported five worker deaths at its South African operations in the quarter to Sept. 30 despite lower overall injury rates. Four fatal incidents occurred... The post Five…",
+      "category": "supply",
+      "minerals": [
+        "Platinum"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-10-30",
+      "link": "https://www.northernminer.com/news/five-workers-die-at-implats-yet-injuries-fall/1003896425/"
+    },
+    {
+      "headline": "Gold and Silver Futures Fall to 1-Year Lows",
+      "summary": "Precious metals futures fell as conflicts in the Middle East and Russia-Ukraine push oil prices higher, fueling concerns about inflation and higher interest rates.",
+      "category": "economic",
+      "minerals": [
+        "Silver"
+      ],
+      "source": "WSJ — Markets",
+      "date": "2026-10-30",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-declines-weighed-by-tighter-monetary-policy-expectations-2c50c549?mod=rss_markets_main"
+    },
+    {
+      "headline": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank",
+      "summary": "Gold fell to its lowest in a year on Friday and silver dropped below $50 an ounce as rising oil prices hardened bets on another Federal Reserve rate hike and a deepening rout in technology stocks forced investors to…",
+      "category": "economic",
+      "minerals": [
+        "Silver"
+      ],
+      "source": "MINING.com",
+      "date": "2026-10-30",
+      "link": "https://www.mining.com/gold-price-slumps-to-one-year-low-silver-price-breaks-50-as-mining-stocks-tank/"
+    },
+    {
+      "headline": "Abenójar Tungsten’s London IPO breaks eight-year drought",
+      "summary": "Shares in Spain’s Abenójar Tungsten (LON: ABT) gained on their London Stock Exchange debut Friday after the company raised €170 million ($190 million) in the city’s largest mining initial public offering since 2018.…",
+      "category": "funding",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-10-30",
+      "link": "https://www.mining.com/abenojar-tungstens-london-ipo-breaks-eight-year-drought/"
+    },
+    {
+      "headline": "Epiroc advances circularity with drill bit recycling program",
+      "summary": "Epiroc says it is advancing a more circular approach to rock drilling tools with its Drill Bit Recycling Program, enabling customers to return end-of-service life drill bits so that valuable materials can be recovered…",
+      "category": "science",
+      "minerals": [
+        "Recycling"
+      ],
+      "source": "International Mining",
+      "date": "2026-10-30",
+      "link": "https://im-mining.com/2026/10/30/epiroc-advances-circularity-with-drill-bit-recycling-program/"
+    },
+    {
+      "headline": "Chemical recycling turns silicone waste into reusable building blocks with up to 99% yield",
+      "summary": "Silicones are widely used in industry, medicine and everyday products due to their exceptional thermal and chemical stability. However, it is precisely these properties that have made recycling silicones extremely…",
+      "category": "science",
+      "minerals": [
+        "Recycling"
+      ],
+      "source": "Phys.org Chemistry",
+      "date": "2026-10-29",
+      "link": "https://phys.org/news/2026-10-chemical-recycling-silicone-reusable-blocks.html"
+    }
+  ]
+}

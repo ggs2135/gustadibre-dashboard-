@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T13:47:28.537Z",
+  "generatedAt": "2026-10-31T13:16:05.644Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
         "title": "O lulismo no governo Lula 4",
         "date": "2026-10-30",
@@ -17,10 +17,10 @@
       "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
       "latestEpisode": {
-        "title": "#713: Corinthians na zona de rebaixamento! Palmeiras pressiona o Flamengo?",
-        "date": "2026-10-26",
-        "url": "https://open.spotify.com/episode/0BuMlCdadXb8W0OtiPiKtB",
-        "isNew": false
+        "title": "De Carona #20: Danilo, Trajano e Tironi avaliam a convocação “mequetrefe”  e o G9 no Brasileiro",
+        "date": "2026-10-30",
+        "url": "https://open.spotify.com/episode/5UqWKbHhqTJDfUO7cK1E9D",
+        "isNew": true
       }
     },
     {
@@ -28,9 +28,9 @@
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "The AI Trade Gets Spooky",
-        "date": "2026-10-30",
-        "url": "https://open.spotify.com/episode/1aLceLc9SEGlydXLsYOifo",
+        "title": "What’s News in Markets: AI Selloff Deepens, Tech Earnings Disappoint, Binance Hack",
+        "date": "2026-10-31",
+        "url": "https://open.spotify.com/episode/0Wnkf9pbGX2prhTbVvayb6",
         "isNew": true
       }
     },
@@ -48,7 +48,7 @@
     {
       "name": "Stereo Chemistry",
       "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
       "latestEpisode": {
         "title": "Uncovered: The Capitals of Chemistry",
         "date": "2026-10-15",
