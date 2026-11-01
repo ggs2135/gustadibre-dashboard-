@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T13:16:05.644Z",
+  "generatedAt": "2026-11-01T14:00:01.605Z",
   "shows": [
     {
       "name": "Café da Manhã",
@@ -28,9 +28,9 @@
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "What’s News in Markets: AI Selloff Deepens, Tech Earnings Disappoint, Binance Hack",
-        "date": "2026-10-31",
-        "url": "https://open.spotify.com/episode/0Wnkf9pbGX2prhTbVvayb6",
+        "title": "Navigating the Midterms: From Legal Challenges to Voter Rights",
+        "date": "2026-11-01",
+        "url": "https://open.spotify.com/episode/0jHgililhHl1aPZsdU9Hjs",
         "isNew": true
       }
     },
@@ -42,7 +42,7 @@
         "title": "Better Science Through Belonging: Chemistry at Its Core, Episode 4",
         "date": "2026-10-29",
         "url": "https://open.spotify.com/episode/7ENq9G3HM7QQdT0k1FPi9x",
-        "isNew": true
+        "isNew": false
       }
     },
     {

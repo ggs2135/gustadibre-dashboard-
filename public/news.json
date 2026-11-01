@@ -1,16 +1,14 @@
 {
-  "generatedAt": "2026-10-31T13:16:03.177Z",
+  "generatedAt": "2026-11-01T13:59:58.222Z",
   "items": [
     {
-      "headline": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
-      "summary": "The Siena Drone Photo Awards for 2026 offer breathtaking bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground. (Image credit: George Steinmetz)",
-      "category": "science",
-      "minerals": [
-        "Recycling"
-      ],
-      "source": "NPR",
-      "date": "2026-10-31",
-      "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners"
+      "headline": "Cutifani warns mining sector’s failure to innovate opens door to takeovers",
+      "summary": "Former Anglo American (LON: AAL) CEO Mark Cutifani has warned that mining companies risk being acquired by outsiders unless they accelerate innovation to overcome deepening deposits, lengthy permitting delays and…",
+      "category": "supply",
+      "minerals": [],
+      "source": "MINING.com — Battery Metals",
+      "date": "2026-11-01",
+      "link": "https://www.mining.com/cutifani-warns-mining-sectors-failure-to-innovate-opens-door-to-takeovers/"
     },
     {
       "headline": "Uranium shares slide even as analysts see tighter supply",
@@ -40,17 +38,6 @@
       "source": "MINING.com — Battery Metals",
       "date": "2026-10-30",
       "link": "https://www.mining.com/lynas-locks-in-price-floors-as-revenue-jumps-55/"
-    },
-    {
-      "headline": "Five workers die at Implats yet injuries fall",
-      "summary": "Impala Platinum (JSE: IMP; US-OTC: IMPUY) reported five worker deaths at its South African operations in the quarter to Sept. 30 despite lower overall injury rates. Four fatal incidents occurred... The post Five…",
-      "category": "supply",
-      "minerals": [
-        "Platinum"
-      ],
-      "source": "The Northern Miner",
-      "date": "2026-10-30",
-      "link": "https://www.northernminer.com/news/five-workers-die-at-implats-yet-injuries-fall/1003896425/"
     },
     {
       "headline": "Gold and Silver Futures Fall to 1-Year Lows",
@@ -104,6 +91,17 @@
       "source": "Phys.org Chemistry",
       "date": "2026-10-29",
       "link": "https://phys.org/news/2026-10-chemical-recycling-silicone-reusable-blocks.html"
+    },
+    {
+      "headline": "Rio Tinto pumps $1.4 billion into lithium projects in Argentina",
+      "summary": "Rio Tinto (ASX, LON: RIO) is doubling down on Argentina’s lithium market with the opening of two projects backed by a combined $1.4-billion investment, boosting its production capacity as the mining giant pursues…",
+      "category": "funding",
+      "minerals": [
+        "Lithium"
+      ],
+      "source": "MINING.com — Battery Metals",
+      "date": "2026-10-29",
+      "link": "https://www.mining.com/rio-tinto-pumps-1-4b-into-lithium-projects-in-argentina/"
     }
   ]
 }

@@ -1,28 +1,101 @@
 {
-  "generatedAt": "2026-10-31T13:16:07.396Z",
+  "generatedAt": "2026-11-01T14:00:02.800Z",
   "items": [
     {
-      "title": "Governing interdependence: Chile’s selective hedging in a fragmented geoeconomic order",
+      "title": "Energy Geopolitics and Green Hydrogen: Strategic Cooperation Between Brazil and Germany",
       "authors": [
-        "Lorena Oyarzún Serrano",
-        "Gilberto Aranda Bustamante"
+        "Rafael Celso Pereira",
+        "Tatiana de Souza Leite Garcia"
       ],
-      "venue": "Third World Quarterly",
-      "date": "2026-10-29",
-      "abstract": "This article examines whether Chile’s external behaviour can be understood as selective hedging under conditions of great-power rivalry and geoeconomic fragmentation. It argues that the country represents a constrained Latin American form of swing-state behaviour, expressed less through military balancing than…",
-      "link": "https://doi.org/10.1080/01436597.2026.2741922",
+      "venue": "Springer eBooks",
+      "date": "2026-10-31",
+      "abstract": "",
+      "link": "https://doi.org/10.1007/978-981-92-2412-8_27-1",
       "source": "OpenAlex"
     },
     {
-      "title": "Assessing the Physical Feasibility of a Solar-Dominant Net-Zero Pathway in India: Electricity Demand, Land Availability and Critical Mineral Constraints",
+      "title": "Estimating economy-wide mineral commodity consumption using hybrid input-output modeling: a case study of fluorspar",
       "authors": [
-        "A. Akilesh",
-        "K. Damodaran"
+        "Miriam Stevens",
+        "Elisa Alonso",
+        "David Pineault",
+        "Nedal Nassar"
       ],
-      "venue": "International Journal of Sustainable Energy Planning and Management",
-      "date": "2026-10-29",
-      "abstract": "Achieving India’s 2070 net-zero target will require rapid expansion of renewable electricity, with solar power expected to play a dominant role. However, the literature lacks an integrated framework that jointly examines electricity demand growth, land constraints, and critical mineral dependence. This study…",
-      "link": "https://doi.org/10.54337/ijsepm.11433",
+      "venue": "Ecological Economics",
+      "date": "2026-10-31",
+      "abstract": "Understanding economy-wide material flows is of increasing importance as industries and governments seek to develop secure supply chains for critical minerals while mitigating negative social and environmental impacts. To advance research merging economy-wide material flow accounting with economic impact analysis, we…",
+      "link": "https://doi.org/10.1016/j.ecolecon.2026.109285",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Data and code for: Trace Element Analysis in Hypersaline Matrices: Analytical Challenges and Strategies from Oilfield Produced Water to Critical-Mineral Brines",
+      "authors": [
+        "Salah Idris",
+        "Marwa Faez Ali Mohammed"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-31",
+      "abstract": "Supporting data and code for a critical review of trace-element analysis in hypersaline matrices (oilfield produced waters, desalination concentrates and critical-mineral brines). The data workbook (Supplemental_data_workbook.xlsx) contains the compiled element-level detection limits with all conversions (Table S1),…",
+      "link": "https://doi.org/10.5281/zenodo.23832527",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "THE TOPOLOGY OF POWER: THE MATHEMATICAL EQUATION OF 21ST CENTURY HEGEMONY From Europe's Collapse to the Rise of the Afro-Arab Axis: A Geopolitical Physics Framework for Understanding How Energy, Minerals, and Demographics Rewrite the Geometry of Global Dominance",
+      "authors": [
+        "mohamed kamal arafa el-rakhawi"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-31",
+      "abstract": "The El-Rakhawi Geopolitical Topology Framework (DOI: 10.5281/zenodo.23830919) pioneers Geopolitical Physics: modeling global power as quantifiable topological mass in a multidimensional manifold. Core thesis: The Afro-Arab region constitutes the \"Exceptional Point\" of 21st-century hegemony—holding 60% of energy…",
+      "link": "https://doi.org/10.5281/zenodo.23830918",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Rare Earth Element data from Acid Mine Drainage and Refuse Piles in Shamokin, Pennsylvania",
+      "authors": [
+        "Environmental Protection Agency"
+      ],
+      "venue": "ICPSR Data Holdings",
+      "date": "2026-10-31",
+      "abstract": "These datasets include characterization results for acid mine drainage (AMD) and coal refuse samples collected around Shamokin, Pennsylvania in May 2024. These datasets report concentrations of Critical Minerals/Rare Earth Elements (CM/REE) in fourteen water samples and fourteen sediment/solid samples. Water samples…",
+      "link": "https://doi.org/10.3886/e259036",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Lithium-Ion Battery discharging using commonly available salts for application in field use.",
+      "authors": [
+        "Environmental Protection Agency"
+      ],
+      "venue": "ICPSR Data Holdings",
+      "date": "2026-10-30",
+      "abstract": "Transportation of damaged, defective, or recalled (DDR) lithium-ion batteries (LIBs) of is an important emerging issue as the use of electronic vehicles (EVs) and other LIB based items proliferate. Additionally, since these battery cathodes are made up of lithium nickel manganese cobalt oxide (NMC), lithium iron…",
+      "link": "https://doi.org/10.3886/e258216",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Merging Compost Biofilters and Nanotechnology for Sustainable, Scalable Biological Treatment of Mine Wastewater: A Synergistic Approach- Review",
+      "authors": [
+        "Onyedikachi Ubani",
+        "Veronica M Ngole-Jeme",
+        "Harrison I Atagana"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-30",
+      "abstract": "AbstractMine wastewater dominated by acid mine drainage (AMD), is among the most persistentsustainability challenges of the extractive sector, coupling extreme acidity and heavy-metaltoxicity with an escalating burden of emerging contaminants, unrecovered critical minerals,and climate-driven hydrological variability.…",
+      "link": "https://doi.org/10.5281/zenodo.23810550",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Prospectivity model for magmatic Nickel, Copper, Cobalt, and Platinum-Group Elements in the Midcontinent Rift",
+      "authors": [
+        "Bezali Kwame Danso",
+        "Adwoa Aidoo",
+        "Saadatu Abdullah"
+      ],
+      "venue": null,
+      "date": "2026-10-30",
+      "abstract": "Much of the Midcontinent Rift is concealed beneath glacial sediment, which limits direct geological observation and makes it difficult to evaluate the potential for undiscovered magmatic Ni–Cu–PGE deposits with publicly available data. The 1.1 Ga rift hosts the Eagle Ni–Cu–PGE deposit of northern Michigan, one of the…",
+      "link": "https://doi.org/10.31223/x5351f",
       "source": "OpenAlex"
     },
     {
@@ -34,71 +107,6 @@
       "date": "2026-10-29",
       "abstract": "The rapid global transition toward Variable Renewable Energy (VRE) represents a profound paradigm shift in macroeconomic planning and national security. While mitigating catastrophic climate change, this transition fundamentally alters the nature of energy vulnerability, shifting risks from geopolitical fossil fuel…",
       "link": "https://doi.org/10.5281/zenodo.23758780",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Governing Critical-Mineral Circularity Across Distance: A Telecoupled Land-System Perspective on the European Union and China",
-      "authors": [
-        "Feiyu Pan",
-        "Ye Zhang"
-      ],
-      "venue": "Land",
-      "date": "2026-10-29",
-      "abstract": "Critical-mineral strategies are often promoted as circular economy policies, but circularity metrics do not reveal the locations of land disturbance, processing impacts, recovery improvements or governance authority. Here we present a telecoupled circular land governance framework to examine the differing policy…",
-      "link": "https://doi.org/10.3390/land15112060",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Restructuring Corporate Governance in the Critical Minerals Sector to Strengthen Indonesia's Economic Sovereignty in the Global Value Chain",
-      "authors": [
-        "Erni Yoesry",
-        "Wira Paskah Withyanti",
-        "Anita Anita",
-        "I Putu Endra Wijaya Negara"
-      ],
-      "venue": "West Science Social and Humanities Studies",
-      "date": "2026-10-29",
-      "abstract": "Changes in the global economic structure have placed critical minerals in a strategic position because they are needed in the development of electric vehicles, batteries, energy networks, low-carbon technologies, and various strategic industries. Indonesia holds a key position in the global value chain for critical…",
-      "link": "https://doi.org/10.58812/wsshs.v4i10.3191",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Andean Glaciers in Times of Planetary Crisis",
-      "authors": [
-        "Cristián Simonetti",
-        "Javiera Barandiarán",
-        "José Ragas"
-      ],
-      "venue": "Latin American Research Review",
-      "date": "2026-10-29",
-      "abstract": "Abstract This special dossier examines how understandings of Andean glaciers transform under the planetary crisis, defined by humanity’s impact on geophysical processes at a planetary scale. Once regarded as remnants of deep geological time, glaciers have become emblematic casualties of anthropogenic global warming,…",
-      "link": "https://doi.org/10.1017/lar.2026.10173",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Code, datacube and results for: Where explorers looked or where ore is? Null models, exploration-effort shortcuts and cross-country transfer in continental-scale prospectivity mapping of sediment-hosted Zn–Pb systems",
-      "authors": [
-        "Lukas Raszka",
-        "Ondřej Grycz",
-        "Šárka Vilamová"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-29",
-      "abstract": "This record contains the code, the rebuilt H3 datacube, out-of-fold predictions and result tables for the article “Where explorers looked or where ore is? Null models, exploration-effort shortcuts and cross-country transfer in continental-scale prospectivity mapping of sediment-hosted Zn–Pb systems” (submitted to…",
-      "link": "https://doi.org/10.5281/zenodo.23769713",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Fertile or Barren: an open benchmark of mineralized and barren mafic-ultramafic intrusions (v0.1.0)",
-      "authors": [
-        "Bezali Kwame Danso",
-        "Josephine Dankwa",
-        "Adwoa Aduaba Aidoo"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-29",
-      "abstract": "An open benchmark for testing geochemical fertility indices for magmatic Ni-Cu-PGE sulfide deposits. The benchmark contains 13,025 whole-rock analyses from 514 mafic-ultramafic intrusions labeled fertile, weakly mineralized, or barren, together with sample-type classifications, a reproducible scoring workflow, and a…",
-      "link": "https://doi.org/10.5281/zenodo.23777405",
       "source": "OpenAlex"
     },
     {
@@ -188,20 +196,6 @@
       "date": "2026-10-23",
       "abstract": "Renewable energy has moved from the margins of the global energy system to its leading edge, reshaping how electricity is generated, traded, and valued. This review synthesises recent evidence on the economic and environmental significance of renewable energy at a global scale. On the economic side, it examines…",
       "link": "https://doi.org/10.22214/ijraset.2026.85292",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Computational Reproducibility Package for Critical Mineral Supply Chain Risk Management under Climate and Geopolitical Disruptions with Deterministic Directed Dependency and Uncertainty Assessment",
-      "authors": [
-        "Chang Chang",
-        "Masoud Ghasemi",
-        "Samia Elattar",
-        "H. Elhosiny Ali"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-23",
-      "abstract": "This repository provides the computational reproducibility materials supporting the study “Critical Mineral Supply Chain Risk Management under Climate and Geopolitical Disruptions with Deterministic Directed Dependency and Uncertainty Assessment.” The archive includes two computational components: (1) deterministic…",
-      "link": "https://doi.org/10.5281/zenodo.23604696",
       "source": "OpenAlex"
     },
     {
