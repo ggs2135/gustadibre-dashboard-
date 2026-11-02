@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-11-01T14:00:02.800Z",
+  "generatedAt": "2026-11-02T16:47:37.230Z",
   "items": [
+    {
+      "title": "Direct Lithium Extraction from GCC Produced Water: Technical Feasibility, Techno-Economic Assessment, and Strategic Pathways",
+      "authors": [
+        "Hany Gamal",
+        "Suha Saif",
+        "Ahmed Alsabaa",
+        "Mohamed Youssef"
+      ],
+      "venue": "Abu Dhabi International Petroleum Exhibition & Conference (ADIPEC)",
+      "date": "2026-11-02",
+      "abstract": "Abstract This paper investigates the technical feasibility, economic viability, and strategic implications of applying Direct Lithium Extraction (DLE) technologies to produced water streams from upstream oil and gas operations across Gulf Cooperation Council (GCC) member states. The objective of this research is to…",
+      "link": "https://doi.org/10.2118/236365-ms",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "A Novel Flowback Methodology to Evaluate the Brine Reservoir",
+      "authors": [
+        "Y. Kaipov Pham",
+        "T. Al-Hazmi",
+        "W. Denegri",
+        "R. Alnahwi A."
+      ],
+      "venue": "Abu Dhabi International Petroleum Exhibition & Conference (ADIPEC)",
+      "date": "2026-11-02",
+      "abstract": "Abstract This paper presents a case study on enabling the dynamic reservoir evaluation for the brine by continuously flowing at surface. The main challenge was associated with the dissolved toxic gas released at surface creating the safety risks for temporary water storage and large volume water sampling for critical…",
+      "link": "https://doi.org/10.2118/236543-ms",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Redox-Controlled CO2-Driven Glauconite Dissolution in Tight Dolomite: Implications for CO2 Stimulation, Critical Mineral In-Situ Leaching, and Seal Integrity",
+      "authors": [
+        "Mohamed Abdalla",
+        "Esuru Rita Okoroafor",
+        "王庆胜"
+      ],
+      "venue": "Abu Dhabi International Petroleum Exhibition & Conference (ADIPEC)",
+      "date": "2026-11-02",
+      "abstract": "Summary Carbon dioxide injection into tight carbonate reservoirs is increasingly evaluated for combined enhanced recovery and geological storage, but the interplay between CO2, formation brine, and mineral components in glauconite-rich tight carbonates remains underexplored. We quantify how CO2–brine–rock reactions…",
+      "link": "https://doi.org/10.2118/235747-ms",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Geological Controls on Lithium Extraction from Petroleum Basin Brines and Implications for Saudi Arabian Critical Mineral Assessment",
+      "authors": [
+        "Jose Davalos-Monteiro",
+        "Carlos D. Rodriguez-Hernandez",
+        "Rached Rached",
+        "T. Pensa"
+      ],
+      "venue": "Abu Dhabi International Petroleum Exhibition & Conference (ADIPEC)",
+      "date": "2026-11-02",
+      "abstract": "Abstract Formation waters co-produced with hydrocarbons are emerging as a strategically significant, low-capital-intensity source of lithium and associated critical elements for battery manufacturing and the broader energy transition. Published geochemical datasets from more than forty sedimentary basins record…",
+      "link": "https://doi.org/10.2118/236000-ms",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Stepwise separation of rubidium and cesium from refractory lithium tailings via NaOH molten salt roasting and t-BAMBP fractional extraction: Coordination mechanism and DFT insights",
+      "authors": [
+        "Shuzhen Yang",
+        "Ningdan Cui",
+        "Gengxu Lu",
+        "Zhenchao Xie"
+      ],
+      "venue": "Separation and Purification Technology",
+      "date": "2026-11-01",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.seppur.2026.140620",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Experimental Evidence of Reaction‐Driven Fracturing and Ultramafic Rock Weakening Induced by CO 2 Mineralization",
+      "authors": [
+        "Clay E. Wood",
+        "D. Nicolás Espinoza",
+        "Nicola Tisato",
+        "Estibalitz Ukar"
+      ],
+      "venue": "Geophysical Research Letters",
+      "date": "2026-11-01",
+      "abstract": "Abstract Carbon sequestration in mafic and ultramafic rocks offers a pathway to mitigate emissions, while mineralization could precondition rocks for critical mineral extraction. However, the reaction‐driven fracturing processes that increase permeability and weaken rock remain underexplored. Here, we expose…",
+      "link": "https://doi.org/10.1029/2026gl124491",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "VBLC Framework Bridging Carbon Certification and Project Bankability",
+      "authors": [
+        "Handy Farrag"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-11-01",
+      "abstract": "This working paper introduces the VBLC conceptual framework which connects industrial carbon tracking Siemens SiGREEN with bankability criteria applied by GCC sovereign institutions PIF and ICIEC It outlines how a pledgeable green certificate could support an uplift in Loan to Value from 40 percent to 80 percent for…",
+      "link": "https://doi.org/10.5281/zenodo.23862752",
+      "source": "OpenAlex"
+    },
     {
       "title": "Energy Geopolitics and Green Hydrogen: Strategic Cooperation Between Brazil and Germany",
       "authors": [
@@ -11,91 +105,6 @@
       "date": "2026-10-31",
       "abstract": "",
       "link": "https://doi.org/10.1007/978-981-92-2412-8_27-1",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Estimating economy-wide mineral commodity consumption using hybrid input-output modeling: a case study of fluorspar",
-      "authors": [
-        "Miriam Stevens",
-        "Elisa Alonso",
-        "David Pineault",
-        "Nedal Nassar"
-      ],
-      "venue": "Ecological Economics",
-      "date": "2026-10-31",
-      "abstract": "Understanding economy-wide material flows is of increasing importance as industries and governments seek to develop secure supply chains for critical minerals while mitigating negative social and environmental impacts. To advance research merging economy-wide material flow accounting with economic impact analysis, we…",
-      "link": "https://doi.org/10.1016/j.ecolecon.2026.109285",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Data and code for: Trace Element Analysis in Hypersaline Matrices: Analytical Challenges and Strategies from Oilfield Produced Water to Critical-Mineral Brines",
-      "authors": [
-        "Salah Idris",
-        "Marwa Faez Ali Mohammed"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-31",
-      "abstract": "Supporting data and code for a critical review of trace-element analysis in hypersaline matrices (oilfield produced waters, desalination concentrates and critical-mineral brines). The data workbook (Supplemental_data_workbook.xlsx) contains the compiled element-level detection limits with all conversions (Table S1),…",
-      "link": "https://doi.org/10.5281/zenodo.23832527",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "THE TOPOLOGY OF POWER: THE MATHEMATICAL EQUATION OF 21ST CENTURY HEGEMONY From Europe's Collapse to the Rise of the Afro-Arab Axis: A Geopolitical Physics Framework for Understanding How Energy, Minerals, and Demographics Rewrite the Geometry of Global Dominance",
-      "authors": [
-        "mohamed kamal arafa el-rakhawi"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-31",
-      "abstract": "The El-Rakhawi Geopolitical Topology Framework (DOI: 10.5281/zenodo.23830919) pioneers Geopolitical Physics: modeling global power as quantifiable topological mass in a multidimensional manifold. Core thesis: The Afro-Arab region constitutes the \"Exceptional Point\" of 21st-century hegemony—holding 60% of energy…",
-      "link": "https://doi.org/10.5281/zenodo.23830918",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Rare Earth Element data from Acid Mine Drainage and Refuse Piles in Shamokin, Pennsylvania",
-      "authors": [
-        "Environmental Protection Agency"
-      ],
-      "venue": "ICPSR Data Holdings",
-      "date": "2026-10-31",
-      "abstract": "These datasets include characterization results for acid mine drainage (AMD) and coal refuse samples collected around Shamokin, Pennsylvania in May 2024. These datasets report concentrations of Critical Minerals/Rare Earth Elements (CM/REE) in fourteen water samples and fourteen sediment/solid samples. Water samples…",
-      "link": "https://doi.org/10.3886/e259036",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Lithium-Ion Battery discharging using commonly available salts for application in field use.",
-      "authors": [
-        "Environmental Protection Agency"
-      ],
-      "venue": "ICPSR Data Holdings",
-      "date": "2026-10-30",
-      "abstract": "Transportation of damaged, defective, or recalled (DDR) lithium-ion batteries (LIBs) of is an important emerging issue as the use of electronic vehicles (EVs) and other LIB based items proliferate. Additionally, since these battery cathodes are made up of lithium nickel manganese cobalt oxide (NMC), lithium iron…",
-      "link": "https://doi.org/10.3886/e258216",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Merging Compost Biofilters and Nanotechnology for Sustainable, Scalable Biological Treatment of Mine Wastewater: A Synergistic Approach- Review",
-      "authors": [
-        "Onyedikachi Ubani",
-        "Veronica M Ngole-Jeme",
-        "Harrison I Atagana"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-10-30",
-      "abstract": "AbstractMine wastewater dominated by acid mine drainage (AMD), is among the most persistentsustainability challenges of the extractive sector, coupling extreme acidity and heavy-metaltoxicity with an escalating burden of emerging contaminants, unrecovered critical minerals,and climate-driven hydrological variability.…",
-      "link": "https://doi.org/10.5281/zenodo.23810550",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Prospectivity model for magmatic Nickel, Copper, Cobalt, and Platinum-Group Elements in the Midcontinent Rift",
-      "authors": [
-        "Bezali Kwame Danso",
-        "Adwoa Aidoo",
-        "Saadatu Abdullah"
-      ],
-      "venue": null,
-      "date": "2026-10-30",
-      "abstract": "Much of the Midcontinent Rift is concealed beneath glacial sediment, which limits direct geological observation and makes it difficult to evaluate the potential for undiscovered magmatic Ni–Cu–PGE deposits with publicly available data. The 1.1 Ga rift hosts the Eagle Ni–Cu–PGE deposit of northern Michigan, one of the…",
-      "link": "https://doi.org/10.31223/x5351f",
       "source": "OpenAlex"
     },
     {
@@ -112,7 +121,7 @@
     {
       "title": "Relevant disruptions in critical mineral supply chain sustainability: A systematic literature review",
       "authors": [
-        "Guilherme Luz Tortorella",
+        "Muhammad Irfan Kemal",
         "Guilherme Luz Tortorella",
         "Wen Li",
         "José Moyano‐Fuentes"
