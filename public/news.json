@@ -1,14 +1,43 @@
 {
-  "generatedAt": "2026-11-02T16:47:30.273Z",
+  "generatedAt": "2026-11-03T14:50:04.059Z",
   "items": [
     {
-      "headline": "Major Drilling expands services with Bunbury acquisition",
-      "summary": "Major Drilling Group (TSX: MDI) announced that, through its Australian subsidiary, it has acquired the Bunbury Drilling Company (BDC), a specialized mine […] The post Major Drilling expands services with Bunbury…",
+      "headline": "Seequent buys Eliis to boost subsurface software portfolio",
+      "summary": "Seequent, a subsidiary of Bentley Systems (NASDAQ: BSY), has acquired Eliis, a seismic interpretation software company, to help advance subsurface understanding. Eliis’ […] The post Seequent buys Eliis to boost…",
       "category": "supply",
       "minerals": [],
       "source": "Canadian Mining Journal",
-      "date": "2026-11-02",
-      "link": "https://www.canadianminingjournal.com/news/major-drilling-expands-services-with-bunbury-acquisition/"
+      "date": "2026-11-03",
+      "link": "https://www.canadianminingjournal.com/news/seequent-buys-eliis-to-boost-subsurface-software-portfolio/"
+    },
+    {
+      "headline": "St Barbara readies Touquoy gold restart in Nova Scotia amid review dispute",
+      "summary": "St Barbara (ASX: SBM) is scheduled to resume processing stockpiled ore at its Touquoy gold mine in Nova Scotia on Tuesday, as a federal assessment requirement raises questions over the... The post St Barbara readies…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-03",
+      "link": "https://www.northernminer.com/news/st-barbara-readies-touquoy-gold-restart-in-nova-scotia-amid-review-dispute/1003897330/"
+    },
+    {
+      "headline": "Sunshine Silver weighs doubling mill capacity",
+      "summary": "Sunshine Silver Mining & Refining (NYSE: SSMR) is designing a mill with roughly twice the capacity assumed in its initial mine plan, seeking room to expand production after a targeted... The post Sunshine Silver weighs…",
+      "category": "supply",
+      "minerals": [
+        "Silver"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-11-03",
+      "link": "https://www.northernminer.com/news/sunshine-silver-weighs-doubling-mill-capacity/1003897162/"
+    },
+    {
+      "headline": "Gruvaktiebolaget Viscaria, Orefields Mining agreed on underground development work pact",
+      "summary": "Gruvaktiebolaget Viscaria has signed a Letter of Intent (LoI) with Orefields Mining regarding underground mine development work at the Viscaria mine in Kiruna, Sweden. The LoI marks a further step in the long-standing…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-11-03",
+      "link": "https://im-mining.com/2026/11/03/gruvaktiebolaget-viscaria-orefields-mining-agreed-on-underground-development-work-pact/"
     },
     {
       "headline": "Boliden to use recycled tailings sand in backfill for Maurliden reclamation",
@@ -20,33 +49,6 @@
       "source": "International Mining",
       "date": "2026-11-02",
       "link": "https://im-mining.com/2026/11/02/boliden-to-use-recycled-tailings-sand-in-backfill-for-maurliden-reclamation/"
-    },
-    {
-      "headline": "Liebherr releases electric version of 250-tonne-class excavator",
-      "summary": "Liebherr’s new R 9300 G8-E, an electric-powered upgrade to its R 9300 G8 excavator, is now available for commercial deployment. The machine […] The post Liebherr releases electric version of 250-tonne-class excavator…",
-      "category": "supply",
-      "minerals": [],
-      "source": "Canadian Mining Journal",
-      "date": "2026-11-02",
-      "link": "https://www.canadianminingjournal.com/news/liebherr-releases-electric-version-of-250-tonne-class-excavator/"
-    },
-    {
-      "headline": "Major Drilling expands into mine dewatering with Bunbury Drilling acquisition",
-      "summary": "Major Drilling Group International Inc, through its Australian subsidiary, Major Drilling Pty Ltd, has acquired all of the issued and outstanding shares of Bunbury Drilling Company (BDC), a leading specialised mine…",
-      "category": "supply",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-11-02",
-      "link": "https://im-mining.com/2026/11/02/major-drilling-expands-into-mine-dewatering-with-bunbury-drilling-acquisition/"
-    },
-    {
-      "headline": "Endeavour halts Burkina gold underground as ramp sinks",
-      "summary": "Endeavour Mining (TSX, LSE: EDV) suspended underground mining at its Mana gold mine in Burkina Faso after part of an access road sank, adding another setback at an operation already expected to miss its annual…",
-      "category": "supply",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-11-02",
-      "link": "https://www.mining.com/endeavour-halts-burkina-gold-underground-as-ramp-sinks/"
     },
     {
       "headline": "Gold Fields clears major hurdle for Quebec’s Windfall gold mine",
@@ -67,17 +69,6 @@
       "source": "MINING.com",
       "date": "2026-11-01",
       "link": "https://www.mining.com/global-resource-squeeze-signals-market-shift-report/"
-    },
-    {
-      "headline": "Gold and Silver Futures Fall to 1-Year Lows",
-      "summary": "Precious metals futures fell as conflicts in the Middle East and Russia-Ukraine push oil prices higher, fueling concerns about inflation and higher interest rates.",
-      "category": "economic",
-      "minerals": [
-        "Silver"
-      ],
-      "source": "WSJ — Markets",
-      "date": "2026-10-30",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-declines-weighed-by-tighter-monetary-policy-expectations-2c50c549?mod=rss_markets_main"
     }
   ]
 }

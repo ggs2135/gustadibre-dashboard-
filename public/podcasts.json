@@ -1,30 +1,36 @@
 {
-  "generatedAt": "2026-11-02T16:47:35.674Z",
+  "generatedAt": "2026-11-03T14:50:05.059Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
-        "title": "O lulismo no governo Lula 4",
-        "date": "2026-10-30",
-        "url": "https://open.spotify.com/episode/21weBIbptm318tKxCg5lcG",
-        "isNew": false
+        "title": "Dá para hackear o algoritmo na política?",
+        "date": "2026-11-03",
+        "url": "https://open.spotify.com/episode/1jtTwLQreMMxNy7MMEOiqi",
+        "isNew": true
       }
     },
     {
       "name": "Posse de Bola",
       "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
-      "latestEpisode": null
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
+      "latestEpisode": {
+        "title": "#715: Palmeiras vence o Vasco com polêmica! Grêmio encaminhado na final?",
+        "date": "2026-11-02",
+        "url": "https://open.spotify.com/episode/4GxpdWekmPueOCrPbBMLbO",
+        "isNew": true
+      }
     },
     {
       "name": "WSJ What's News",
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "Democratic Dust-up Puts Must-Win Seat at Risk",
-        "date": "2026-11-02",
-        "url": "https://open.spotify.com/episode/1j7QYEkX31upYy6zUIFvju",
+        "title": "Did Trump Do Enough to Help Republicans?",
+        "date": "2026-11-03",
+        "url": "https://open.spotify.com/episode/1O9TH9ibx3wI0Lyc101xa3",
         "isNew": true
       }
     },
@@ -42,7 +48,7 @@
     {
       "name": "Stereo Chemistry",
       "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
       "latestEpisode": {
         "title": "Uncovered: The Capitals of Chemistry",
         "date": "2026-10-15",

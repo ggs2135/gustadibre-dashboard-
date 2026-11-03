@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-02T16:47:37.230Z",
+  "generatedAt": "2026-11-03T14:50:07.205Z",
   "items": [
+    {
+      "title": "Critical-Mineral Upgrading Across Project Stages: A Comparative Framework for Industrial Policy",
+      "authors": [
+        "Martin Kiselicki",
+        "Nils Hendrik Haneklaus",
+        "Saso Josimovski",
+        "Tea Josimovska"
+      ],
+      "venue": "Research Square",
+      "date": "2026-11-03",
+      "abstract": "Abstract Mineral endowments, strategic designation and prospective processing capacity are often treated as evidence of industrial upgrading. They are not equivalent to realised production or domestic value capture. This article develops the Resource Upgrading Decision Matrix (RUDM) from a country diagnostic into a…",
+      "link": "https://doi.org/10.21203/rs.3.rs-11340896/v1",
+      "source": "OpenAlex"
+    },
     {
       "title": "Direct Lithium Extraction from GCC Produced Water: Technical Feasibility, Techno-Economic Assessment, and Strategic Pathways",
       "authors": [
@@ -57,42 +71,51 @@
       "source": "OpenAlex"
     },
     {
-      "title": "Stepwise separation of rubidium and cesium from refractory lithium tailings via NaOH molten salt roasting and t-BAMBP fractional extraction: Coordination mechanism and DFT insights",
+      "title": "Resource Nationalism in Africa: Modernisation, Twin Transitions and African Agency",
       "authors": [
-        "Shuzhen Yang",
-        "Ningdan Cui",
-        "Gengxu Lu",
-        "Zhenchao Xie"
+        "Fernando Jorge Cardoso"
       ],
-      "venue": "Separation and Purification Technology",
-      "date": "2026-11-01",
+      "venue": "Springer eBooks",
+      "date": "2026-11-02",
       "abstract": "",
-      "link": "https://doi.org/10.1016/j.seppur.2026.140620",
+      "link": "https://doi.org/10.1007/978-981-92-2412-8_39-1",
       "source": "OpenAlex"
     },
     {
-      "title": "Experimental Evidence of Reaction‐Driven Fracturing and Ultramafic Rock Weakening Induced by CO 2 Mineralization",
+      "title": "Data: Pricing the Critical-Mineral Chokepoint",
       "authors": [
-        "Clay E. Wood",
-        "D. Nicolás Espinoza",
-        "Nicola Tisato",
-        "Estibalitz Ukar"
+        "Seong-Min Yoon"
       ],
-      "venue": "Geophysical Research Letters",
-      "date": "2026-11-01",
-      "abstract": "Abstract Carbon sequestration in mafic and ultramafic rocks offers a pathway to mitigate emissions, while mineralization could precondition rocks for critical mineral extraction. However, the reaction‐driven fracturing processes that increase permeability and weaken rock remain underexplored. Here, we expose…",
-      "link": "https://doi.org/10.1029/2026gl124491",
+      "venue": "Mendeley Data",
+      "date": "2026-11-02",
+      "abstract": "Dataset used for empirical analysis.",
+      "link": "https://doi.org/10.17632/tt5dyzxx6h",
       "source": "OpenAlex"
     },
     {
-      "title": "VBLC Framework Bridging Carbon Certification and Project Bankability",
+      "title": "Critical Minerals and Volatile Backward Linkages: Evidence from 22 Million VAT and Customs Records in Zambia",
       "authors": [
-        "Handy Farrag"
+        "Anja Benshaul-Tolonen",
+        "Paula Fernandez Musso"
       ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "venue": null,
+      "date": "2026-11-02",
+      "abstract": "",
+      "link": "https://doi.org/10.13140/rg.2.2.18445.91365",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Critical mineral supply chain readiness for commercial fusion energy: A framework with applications to the ARC and EU-DEMO tokamaks",
+      "authors": [
+        "Jenifer C. Shafer",
+        "A. Diallo",
+        "Macdonald Amoah",
+        "Morgan Bazilian"
+      ],
+      "venue": "Resources Policy",
       "date": "2026-11-01",
-      "abstract": "This working paper introduces the VBLC conceptual framework which connects industrial carbon tracking Siemens SiGREEN with bankability criteria applied by GCC sovereign institutions PIF and ICIEC It outlines how a pledgeable green certificate could support an uplift in Loan to Value from 40 percent to 80 percent for…",
-      "link": "https://doi.org/10.5281/zenodo.23862752",
+      "abstract": "Private fusion energy companies are targeting commercial electricity generation within the next two decades, yet the material supply chains required to build and operate these reactors have received limited systematic assessment. This paper develops and applies a Supply Chain Readiness Level (SCRL) framework to…",
+      "link": "https://doi.org/10.1016/j.resourpol.2026.106084",
       "source": "OpenAlex"
     },
     {
@@ -161,6 +184,20 @@
       "source": "OpenAlex"
     },
     {
+      "title": "Hybrid-charge interlayer boosts acid-resistant NF membranes for lithium battery recycling",
+      "authors": [
+        "Pengfei Li",
+        "Mingzheng Bao",
+        "Liming Wang",
+        "Zhencan Hou"
+      ],
+      "venue": "Journal of Membrane Science",
+      "date": "2026-10-27",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.memsci.2026.126341",
+      "source": "OpenAlex"
+    },
+    {
       "title": "Critical Mineral Supply Chain Dependence and Carbon Decoupling: Global Policy Implications for the Energy Transition",
       "authors": [
         "Mojawir Ahmad Sadat",
@@ -193,32 +230,6 @@
       "date": "2026-10-24",
       "abstract": "The Clarion-Clipperton Zone (CCZ), an abyssal plain of roughly 4.5 million square kilometres between Hawaii and Mexico, holds the largest known contiguous field of polymetallic nodules rich in manganese, nickel, copper and cobalt. At its eastern edge lies Clipperton Atoll, a tiny uninhabited coral ring whose…",
       "link": "https://doi.org/10.5281/zenodo.23617857",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "The Global Significance of Renewable Energy: Contributions to Economic Growth and Environmental Sustainability",
-      "authors": [
-        "Jyoti Prakash Myageri",
-        "Math Abhishek Gurulingayya"
-      ],
-      "venue": "International Journal for Research in Applied Science and Engineering Technology",
-      "date": "2026-10-23",
-      "abstract": "Renewable energy has moved from the margins of the global energy system to its leading edge, reshaping how electricity is generated, traded, and valued. This review synthesises recent evidence on the economic and environmental significance of renewable energy at a global scale. On the economic side, it examines…",
-      "link": "https://doi.org/10.22214/ijraset.2026.85292",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Hybrid-Charge Interlayer Boosts Acid-Resistant NF Membranes for Lithium Battery Recycling",
-      "authors": [
-        "Pengfei Li",
-        "Mingzheng Bao",
-        "Liming Wang",
-        "Zhencan Hou"
-      ],
-      "venue": "Journal of Membrane Science",
-      "date": "2026-10-01",
-      "abstract": "",
-      "link": "https://doi.org/10.1016/j.memsci.2026.126341",
       "source": "OpenAlex"
     },
     {
@@ -296,20 +307,6 @@
       "date": "2026-07-22",
       "abstract": "Rare-earth elements (REEs) are indispensable for electrification, digital technologies, and advanced manufacturing, yet end-of-life recycling remains marginal despite mature separation chemistry and decades of extractant development. Although neighboring lanthanides exhibit thermodynamic similarity that necessitates…",
       "link": "https://doi.org/10.1016/j.checir.2026.100107",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Recovery of Rare-Earth Metals from Wasted Fluorescent Lamps via Electrophoretic Phase Separation",
-      "authors": [
-        "Yi-Hsuan Tsai",
-        "ShunYu Tsai",
-        "Yueh-Tzu Ma",
-        "Pu-Wei Wu"
-      ],
-      "venue": "ECS Meeting Abstracts",
-      "date": "2026-07-07",
-      "abstract": "Yttrium oxide (Y 2 O 3 ) has become one of the most critical rare-earth materials recently for its essential roles in many indusial applications. With increasing demand for yttrium-containing materials, the recovery of Y 2 O 3 from used fluorescent lamps has received considerable attention. For example, rare-earth…",
-      "link": "https://doi.org/10.1149/ma2026-01562711mtgabs",
       "source": "OpenAlex"
     }
   ]
