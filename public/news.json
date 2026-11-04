@@ -1,65 +1,63 @@
 {
-  "generatedAt": "2026-11-03T14:50:04.059Z",
+  "generatedAt": "2026-11-04T15:02:14.293Z",
   "items": [
     {
-      "headline": "Seequent buys Eliis to boost subsurface software portfolio",
-      "summary": "Seequent, a subsidiary of Bentley Systems (NASDAQ: BSY), has acquired Eliis, a seismic interpretation software company, to help advance subsurface understanding. Eliis’ […] The post Seequent buys Eliis to boost…",
-      "category": "supply",
-      "minerals": [],
-      "source": "Canadian Mining Journal",
-      "date": "2026-11-03",
-      "link": "https://www.canadianminingjournal.com/news/seequent-buys-eliis-to-boost-subsurface-software-portfolio/"
-    },
-    {
-      "headline": "St Barbara readies Touquoy gold restart in Nova Scotia amid review dispute",
-      "summary": "St Barbara (ASX: SBM) is scheduled to resume processing stockpiled ore at its Touquoy gold mine in Nova Scotia on Tuesday, as a federal assessment requirement raises questions over the... The post St Barbara readies…",
-      "category": "supply",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-11-03",
-      "link": "https://www.northernminer.com/news/st-barbara-readies-touquoy-gold-restart-in-nova-scotia-amid-review-dispute/1003897330/"
-    },
-    {
-      "headline": "Sunshine Silver weighs doubling mill capacity",
-      "summary": "Sunshine Silver Mining & Refining (NYSE: SSMR) is designing a mill with roughly twice the capacity assumed in its initial mine plan, seeking room to expand production after a targeted... The post Sunshine Silver weighs…",
-      "category": "supply",
-      "minerals": [
-        "Silver"
-      ],
-      "source": "The Northern Miner",
-      "date": "2026-11-03",
-      "link": "https://www.northernminer.com/news/sunshine-silver-weighs-doubling-mill-capacity/1003897162/"
-    },
-    {
-      "headline": "Gruvaktiebolaget Viscaria, Orefields Mining agreed on underground development work pact",
-      "summary": "Gruvaktiebolaget Viscaria has signed a Letter of Intent (LoI) with Orefields Mining regarding underground mine development work at the Viscaria mine in Kiruna, Sweden. The LoI marks a further step in the long-standing…",
+      "headline": "Sandvik and Eldorado Gold tighten equipment support, performance improvement ties",
+      "summary": "Sandvik and Eldorado Gold have signed a joint collaboration statement to strengthen coordination of equipment support and performance improvement across Eldorado’s operations, with a focus on equipment availability,…",
       "category": "supply",
       "minerals": [],
       "source": "International Mining",
-      "date": "2026-11-03",
-      "link": "https://im-mining.com/2026/11/03/gruvaktiebolaget-viscaria-orefields-mining-agreed-on-underground-development-work-pact/"
+      "date": "2026-11-04",
+      "link": "https://im-mining.com/2026/11/04/sandvik-and-eldorado-gold-tighten-equipment-support-performance-improvement-ties/"
     },
     {
-      "headline": "Boliden to use recycled tailings sand in backfill for Maurliden reclamation",
-      "summary": "Ever since the mine in Maurliden closed in 2019, Boliden has been working on reclamation to restore and future-proof the area. In the near future, it will move to an entirely new method for backfilling the open pits,…",
+      "headline": "Interview: Cameco bets reactor builds will drive growth",
+      "summary": "Cameco (TSX: CCO; NYSE: CCJ) expects Westinghouse’s new reactor business to contribute more to its growth by 2030 than uranium mining if some of the... The post Interview: Cameco bets reactor builds will drive growth…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-04",
+      "link": "https://www.northernminer.com/news/cameco-bets-reactor-builds-will-drive-growth/1003897383/"
+    },
+    {
+      "headline": "Podcast: ‘A great opportunity’—Canaccord Genuity’s Cam Currie talks precious metals stocks",
+      "summary": "This week’s episode features Cam Currie, Senior Investment Advisor at Canaccord Genuity Wealth Management and leader of the Currie Metals & Mining Group, in conversation... The post Podcast: ‘A great…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-04",
+      "link": "https://www.northernminer.com/news/podcast-a-great-opportunity-canaccord-genuitys-cam-currie-talks-precious-metals-stocks/1003897365/"
+    },
+    {
+      "headline": "Rare Earths Norway OKs €24M Fen pilot plant",
+      "summary": "Privately held developer Rare Earths Norway approved construction of a €24-million (C$38 million) pilot plant to test processing of material from its Fen project, advancing... The post Rare Earths Norway OKs €24M Fen…",
       "category": "science",
       "minerals": [
-        "Tailings"
+        "Rare earths"
       ],
-      "source": "International Mining",
-      "date": "2026-11-02",
-      "link": "https://im-mining.com/2026/11/02/boliden-to-use-recycled-tailings-sand-in-backfill-for-maurliden-reclamation/"
+      "source": "The Northern Miner",
+      "date": "2026-11-04",
+      "link": "https://www.northernminer.com/news/rare-earths-norway-oks-e24m-fen-pilot-plant/1003897368/"
     },
     {
-      "headline": "Gold Fields clears major hurdle for Quebec’s Windfall gold mine",
-      "summary": "Quebec grants environmental approval for Windfall, advancing a high-grade project toward a 2027 investment decision. The post Gold Fields clears major hurdle for Quebec’s Windfall gold mine appeared first on Canadian…",
+      "headline": "PDAC announces recipients of 2027 PDAC Awards",
+      "summary": "The Prospectors & Developers Association of Canada (PDAC) has announced the six recipients of the 2027 PDAC Awards, recognising outstanding accomplishments in mineral exploration and development in Canada and around…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-11-04",
+      "link": "https://im-mining.com/2026/11/04/pdac-announces-recipients-of-2027-pdac-awards/"
+    },
+    {
+      "headline": "Nouveau Monde secures Quebec graphite mining lease",
+      "summary": "Nouveau Monde Graphite (TSX: NOU; NYSE: NMG) has obtained a Quebec mining lease granting extraction rights at its Matawinie graphite project, where construction is underway... The post Nouveau Monde secures Quebec…",
       "category": "funding",
       "minerals": [
-        "Grants"
+        "Graphite"
       ],
-      "source": "Canadian Mining Journal",
-      "date": "2026-11-02",
-      "link": "https://www.canadianminingjournal.com/news/gold-fields-clears-major-hurdle-for-quebecs-windfall-gold-mine/"
+      "source": "The Northern Miner",
+      "date": "2026-11-03",
+      "link": "https://www.northernminer.com/news/nouveau-monde-secures-quebec-graphite-mining-lease/1003897344/"
     },
     {
       "headline": "Global resource squeeze signals market shift: report",
