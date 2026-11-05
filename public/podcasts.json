@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-04T15:02:15.926Z",
+  "generatedAt": "2026-11-05T15:08:16.541Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
-        "title": "Os desafios (velhos e novos) de Lula na economia",
-        "date": "2026-11-04",
-        "url": "https://open.spotify.com/episode/7tedDT7BUMR0zTk7XcAEBW",
+        "title": "A derrota histórica de Trump e o futuro político dos EUA",
+        "date": "2026-11-05",
+        "url": "https://open.spotify.com/episode/1GXF8hp11Asu6JVjGMUPc5",
         "isNew": true
       }
     },
@@ -26,11 +26,11 @@
     {
       "name": "WSJ What's News",
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "A Blue Wave Just Swept Congress",
-        "date": "2026-11-04",
-        "url": "https://open.spotify.com/episode/5OSNcZubEpmBaanVYDgdRw",
+        "title": "The Cost of Living Crisis Isn’t Going Away",
+        "date": "2026-11-05",
+        "url": "https://open.spotify.com/episode/7zaqZlpzC2vLuudgsJcsTh",
         "isNew": true
       }
     },
@@ -50,10 +50,10 @@
       "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
       "latestEpisode": {
-        "title": "Uncovered: The Capitals of Chemistry",
-        "date": "2026-10-15",
-        "url": "https://open.spotify.com/episode/7yyzeExRkMXKc5rQ68Kc2a",
-        "isNew": false
+        "title": "Uncovered: Plastics Pyrolysis Under Fire",
+        "date": "2026-11-05",
+        "url": "https://open.spotify.com/episode/5u9qTRnQsLeIfg0zF2YXpS",
+        "isNew": true
       }
     }
   ]
