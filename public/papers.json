@@ -1,6 +1,212 @@
 {
-  "generatedAt": "2026-11-05T15:08:17.779Z",
+  "generatedAt": "2026-11-06T14:45:50.642Z",
   "items": [
+    {
+      "title": "Mixed Signals",
+      "authors": [
+        "Xiaoyu Pu"
+      ],
+      "venue": "Cambridge University Press eBooks",
+      "date": "2026-11-06",
+      "abstract": "China often sends mixed signals in its foreign and security policy. In maritime disputes, Beijing combines coercive pressure with diplomatic reassurance. In economic statecraft, it promises openness while tightening controls over data, critical minerals, and advanced technologies. In response to the Russia–Ukraine…",
+      "link": "https://doi.org/10.1017/9781009766555",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "A National Screening Framework for Critical Mineral Potential and Heavy-Metal Hazard in U.S. Mine Waste: Dataset and Atlas (v0.1.0)",
+      "authors": [
+        "Bezali Kwame Danso"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-11-05",
+      "abstract": "Screening dataset and interactive atlas that ranks all 1,498 mine-waste features of the USGS National Mine Waste Inventory v2.0 (October 2026; doi:10.5066/P148EEUA) for critical-mineral enrichment and heavy-metal hazard, using public USGS geochemical samples (Granitto et al., 2026; doi:10.5066/P1FXE9GK) within 2 km…",
+      "link": "https://doi.org/10.5281/zenodo.23986698",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "ALGORITHMIC EXTRACTION Data Colonialism, Compute Hegemony, and the Political Economy of Artificial Intelligence in Africa",
+      "authors": [
+        "mohamed kamal arafa el-rakhawi"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-11-05",
+      "abstract": "This monograph presents a rigorous, actionable framework for African digital sovereignty, arguing that the AI economy replicates historical extractive colonialism through data and compute hegemony. Africa supplies raw behavioral data and invisible cognitive labor while remaining dependent on foreign infrastructure.…",
+      "link": "https://doi.org/10.5281/zenodo.23969961",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Polycrisis Resilience: Clean Transition",
+      "authors": [
+        "Hunter Hughes"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-11-05",
+      "abstract": "The global clean transition is often framed as an environmental imperative, but its significance extends far beyond emissions reduction. This report examines the clean transition through the lens of Polycrisis Resilience, arguing that cleaner energy, industry, transportation, household systems, agriculture, and…",
+      "link": "https://doi.org/10.5281/zenodo.23970491",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Here for the tea",
+      "authors": [
+        "Ciara Linteau"
+      ],
+      "venue": "Emily Carr University of Art and Design Repository",
+      "date": "2026-11-05",
+      "abstract": "My thesis investigates the ecological and societal consequences of resource extraction and technological development through cobalt, a material that circulates between ceramic traditions, industrial infrastructures, and contemporary computational systems. Presented as a constellation of ceramic and digital works, the…",
+      "link": "https://doi.org/10.35010/ktdb-bh79",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Do international critical mineral prices influence energy access? Evidence from developing countries",
+      "authors": [
+        "Fabrice Ewolo Bitoto",
+        "Deepa",
+        "Tony Muhumuza",
+        "Ashish R. Kumar"
+      ],
+      "venue": "Energy Policy",
+      "date": "2026-11-05",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.enpol.2026.115685",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Unintended shift in supply bases away from well-governed jurisdictions after critical mineral export restrictions",
+      "authors": [
+        "Can Cui",
+        "Dequn Teng",
+        "Stephen Evans"
+      ],
+      "venue": "Research Square",
+      "date": "2026-11-05",
+      "abstract": "Abstract Producing countries increasingly restrict exports of minerals the energy transition needs, and de-risking policies aim to move companies that rely on these minerals towards suppliers in secure, well-governed jurisdictions. How these companies’ supply bases respond has received little study. We combine…",
+      "link": "https://doi.org/10.21203/rs.3.rs-11515392/v1",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Dismantling the “Commodity Trap”: Geopolitics, Value Chains, and Resource Nationalism in Africa and Ethiopia’s Critical Mineral Sector",
+      "authors": [
+        "Arega Hailu Teffera (PhD)"
+      ],
+      "venue": "Preprints.org",
+      "date": "2026-11-04",
+      "abstract": "This paper examines the structural architecture governing the extraction, processing, and trade of critical minerals within the contemporary global political economy. Using Dependency Theory (Frank, 1966; Amin, 1976) and the Resource Curse Paradigm (Auty, 1993; Sachs & Warner, 2001), we analyze the systemic…",
+      "link": "https://doi.org/10.20944/preprints202611.0307.v1",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Development of a FAHP decision-making support tool for value-chain based critical minerals assessments",
+      "authors": [
+        "Anvar Mammadli"
+      ],
+      "venue": "Curtin University Research Data Collection",
+      "date": "2026-11-04",
+      "abstract": "This thesis develops a transparent, value-chain-based Fuzzy AHP decision-support framework for assessing mineral criticality and strategic importance. Using 49 impact factors across economic, technical, market, geopolitical, socio-political, and environmental categories, the framework evaluates exploration, mining,…",
+      "link": "https://doi.org/10.25917/curtin.34911339",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Critical mineral supply chain readiness for commercial fusion energy: A framework with applications to the ARC and EU-DEMO tokamaks",
+      "authors": [
+        "Jenifer C. Shafer",
+        "A. Diallo",
+        "Macdonald Amoah",
+        "Morgan Bazilian"
+      ],
+      "venue": "Resources Policy",
+      "date": "2026-11-01",
+      "abstract": "Private fusion energy companies are targeting commercial electricity generation within the next two decades, yet the material supply chains required to build and operate these reactors have received limited systematic assessment. This paper develops and applies a Supply Chain Readiness Level (SCRL) framework to…",
+      "link": "https://doi.org/10.1016/j.resourpol.2026.106084",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Energy Geopolitics and Green Hydrogen: Strategic Cooperation Between Brazil and Germany",
+      "authors": [
+        "Rafael Celso Pereira",
+        "Tatiana de Souza Leite Garcia"
+      ],
+      "venue": "Springer eBooks",
+      "date": "2026-10-31",
+      "abstract": "",
+      "link": "https://doi.org/10.1007/978-981-92-2412-8_27-1",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "International Legal Ordering and the Lithium Supply Chain: Struggles over Extraction, Corporations, and the Developmental State",
+      "authors": [
+        "Caitlin Murphy"
+      ],
+      "venue": "Journal of Law and Political Economy",
+      "date": "2026-10-30",
+      "abstract": "International legal and financial organizations have recently been proposing that the acquisition of lithium and other critical minerals should be mediated through particular kinds of supply chain policy. In this article, I examine the legal practices that have shaped lithium extraction, and the modes of legal…",
+      "link": "https://doi.org/10.5070/lp6.70018",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Renewable Energy Transition and National Energy Security: Opportunities, Constraints, and Policy Trade-offs",
+      "authors": [
+        "Bexruz Sobirov"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-10-29",
+      "abstract": "The rapid global transition toward Variable Renewable Energy (VRE) represents a profound paradigm shift in macroeconomic planning and national security. While mitigating catastrophic climate change, this transition fundamentally alters the nature of energy vulnerability, shifting risks from geopolitical fossil fuel…",
+      "link": "https://doi.org/10.5281/zenodo.23758780",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Relevant disruptions in critical mineral supply chain sustainability: A systematic literature review",
+      "authors": [
+        "Muhammad Irfan Kemal",
+        "Guilherme Luz Tortorella",
+        "Wen Li",
+        "José Moyano‐Fuentes"
+      ],
+      "venue": "Resources Policy",
+      "date": "2026-10-28",
+      "abstract": "Critical mineral supply chains are central to the energy transition but are increasingly exposed to disruptions that affect their economic, environmental, and social performance. Existing research has quantified the sustainability outcome, examined tier-specific research, and identified the wide range of disruption…",
+      "link": "https://doi.org/10.1016/j.resourpol.2026.106082",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Do crises integrate or fragment energy transition metals markets? Evidence from a connectedness-based crisis typology",
+      "authors": [
+        "Abdulla Al-Haddad",
+        "Azzam Abu-Rayash"
+      ],
+      "venue": "Energy Economics",
+      "date": "2026-10-28",
+      "abstract": "This paper develops a two-dimensional crisis typology that classifies the impact of major crisis episodes on return spillover connectedness across energy transition metals (ETM) markets. Using daily data for 17 metals, spanning base metals, precious metals, battery metals, and technology metals, and the…",
+      "link": "https://doi.org/10.1016/j.eneco.2026.109671",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Extracting secondary value from mine waste: Critical minerals, circular economy, and ESG governance for the energy transition",
+      "authors": [
+        "Michael Hitch",
+        "George Barakos",
+        "Jiajie Li",
+        "Toni Eerola"
+      ],
+      "venue": "The Extractive Industries and Society",
+      "date": "2026-10-28",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.exis.2026.102087",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Life Cycle Assessment of Recovery of Rare Earth Oxide from Magnets of Waste Hard Disk Drives via Leaching and Selective Precipitation Methods: A Vietnamese Case Study",
+      "authors": [
+        "Chun‐Yang Yin",
+        "Pham Khanh Huy",
+        "Nguyen Tien Viet",
+        "Mohanad El‐Harbawi"
+      ],
+      "venue": "Journal of Sustainable Metallurgy",
+      "date": "2026-10-27",
+      "abstract": "",
+      "link": "https://doi.org/10.1007/s40831-026-01728-0",
+      "source": "OpenAlex"
+    },
     {
       "title": "Hybrid-charge interlayer boosts acid-resistant NF membranes for lithium battery recycling",
       "authors": [
@@ -16,6 +222,60 @@
       "source": "OpenAlex"
     },
     {
+      "title": "Selective extraction of rare earth elements from real NdFeB magnet leachate using TOPO-based deep eutectic solvents",
+      "authors": [
+        "Guillaume Dumet",
+        "Jean-Charles Moïse",
+        "Fabrice Mutelet"
+      ],
+      "venue": "Journal of Molecular Liquids",
+      "date": "2026-10-10",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.molliq.2026.129972",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Pyrometallurgical Recovery of Neodymium from Nd–Fe–B Magnets in End-of-Life Electric Vehicle Motors Using Non-Ferrous Smelting Slag Flux",
+      "authors": [
+        "Chang-Jeong Kim",
+        "Yeon-Jun Chung",
+        "Jei‐Pil Wang"
+      ],
+      "venue": "Metals",
+      "date": "2026-08-24",
+      "abstract": "The increasing use of electric vehicles has led to a growing demand for rare-earth elements, particularly neodymium (Nd), which is a critical component of Nd–Fe–B permanent magnets used in traction motors. End-of-life electric vehicle motors are therefore considered promising secondary resources for Nd recovery. In…",
+      "link": "https://doi.org/10.3390/met16090942",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Highly efficient and selective recovery of rare earths from NdFeB waste via water-regulated deep eutectic solvent",
+      "authors": [
+        "Jianru Li",
+        "Cunying Xu",
+        "Rui Luo",
+        "Qibo Zhang"
+      ],
+      "venue": "Journal of Cleaner Production",
+      "date": "2026-08-19",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.jclepro.2026.149218",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Subsidies, Environmental Taxes, and Rare Earth Recycling: A Game-Theoretical Analysis of Reverse Supply Chain Equilibrium",
+      "authors": [
+        "Jiawen Xiao",
+        "Xiuli Wang",
+        "稔 国岡",
+        "Zhiwei Zhang"
+      ],
+      "venue": "Sustainability",
+      "date": "2026-08-12",
+      "abstract": "Rare earths are a strategically vital mineral resource on a global scale; the security of their supply chain and their recycling face severe challenges amid dual pressures of resource scarcity and environmental protection. This study focuses on the reverse supply chain for rare earth permanent magnet…",
+      "link": "https://doi.org/10.3390/su18168281",
+      "source": "OpenAlex"
+    },
+    {
       "title": "Correction: Spatial dynamics of lithium battery recycling enterprises in China: implications for smart waste management and public health",
       "authors": [
         "Frontiers Production Office"
@@ -27,41 +287,14 @@
       "source": "OpenAlex"
     },
     {
-      "title": "Bibliometric Analysis of Green Investment in Electric Vehicles",
+      "title": "Respon Taiwan pada Kebijakan Pengurangan Ekspor Material Kritis oleh Tiongkok Tahun 2023-2025",
       "authors": [
-        "Loso Judijanto",
-        "Helda Yusita"
+        "Lois Sintikhe Br Siahaan"
       ],
-      "venue": "West Science Social and Humanities Studies",
-      "date": "2026-06-26",
-      "abstract": "The present study conducts a bibliometric review of scholarly work related to green investment for electric vehicles (EVs). The main objective of the review is to provide an insight into the knowledge base of green investment in EVs in terms of the intellectual structure, theme evolution, and international…",
-      "link": "https://doi.org/10.58812/wsshs.v4i06.2942",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Reversible self-assembly of polymeric solid electrolyte enables lithium battery recycling",
-      "authors": [
-        "Mohammad Amaan",
-        "Nicholas A. Kotov"
-      ],
-      "venue": "Nature Chemistry",
-      "date": "2026-05-28",
-      "abstract": "",
-      "link": "https://doi.org/10.1038/s41557-026-02154-1",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Fe-Cu Co-Doping Enhanced Peroxymonosulfate Activation for the Degradation of Dimethyl Carbonate in Lithium-Ion Battery Recycling Wastewater",
-      "authors": [
-        "Shaomeng Huang",
-        "Feijian Jing",
-        "Liping Wang",
-        "Yiqing Xu"
-      ],
-      "venue": "Catalysts",
-      "date": "2026-05-20",
-      "abstract": "The lithium battery recycling industry is developing rapidly, and the rapid oxidation and degradation of dimethyl carbonate (DMC) in the wastewater generated by this industry is of crucial importance. In this study, Fe and Cu dopants were controlled and the C-SiO2 framework with porous structures was constructed to…",
-      "link": "https://doi.org/10.3390/catal16050479",
+      "venue": "Demokrasi Jurnal Riset Ilmu Hukum Sosial dan Politik",
+      "date": "2026-07-31",
+      "abstract": "Semiconductors are the backbone of the digital economy, and Taiwan plays a crucial role by controlling more than 60% of global semiconductor production and over 90% of advanced chip manufacturing. However, Taiwan’s semiconductor industry remains highly dependent on critical materials, most of which are supplied by…",
+      "link": "https://doi.org/10.62383/demokrasi.v3i3.1851",
       "source": "OpenAlex"
     }
   ]

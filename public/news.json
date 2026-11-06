@@ -1,14 +1,91 @@
 {
-  "generatedAt": "2026-11-05T15:08:15.708Z",
+  "generatedAt": "2026-11-06T14:45:46.323Z",
   "items": [
     {
-      "headline": "California tests limits of federal mining support",
-      "summary": "Washington is backing California’s critical minerals push with loans, price guarantees and equity, but developers still face a hurdle federal support can’t remove: state environmental... The post California tests…",
+      "headline": "US South builds a rare earth supply chain",
+      "summary": "Rare earth developers are turning to the U.S. South’s chemical plants, ports and mineral deposits to build a supply chain that can compete with China.... The post US South builds a rare earth supply chain appeared…",
       "category": "supply",
       "minerals": [],
       "source": "The Northern Miner",
+      "date": "2026-11-06",
+      "link": "https://www.northernminer.com/news/us-south-builds-a-rare-earth-supply-chain/1003897469/"
+    },
+    {
+      "headline": "Interview: Ur-Energy eyes Wyoming expansion",
+      "summary": "Ur-Energy (TSX: URE; NYSE-A: URG) is looking to drilling, acquisitions and potentially processing for other miners to fill unused capacity after restarting its Shirley Basin... The post Interview: Ur-Energy eyes…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-06",
+      "link": "https://www.northernminer.com/news/interview-ur-energy-eyes-wyoming-expansion/1003897465/"
+    },
+    {
+      "headline": "Konkola’s Nchanga Tailings Leach Plant to be largest in Africa",
+      "summary": "In October, Zambian state controlled company ZCCM Investments Holdings (ZCCM-IH), which holds a 20.6% equity stake in Konkola Copper Mines PLC (KCM), reported that it had given its approval in September for KCM’s new…",
+      "category": "supply",
+      "minerals": [
+        "Copper",
+        "Tailings"
+      ],
+      "source": "International Mining",
+      "date": "2026-11-06",
+      "link": "https://im-mining.com/2026/11/06/konkolas-nchanga-tailings-leach-plant-to-be-largest-in-africa/"
+    },
+    {
+      "headline": "A global benchmark for mine waste management",
+      "summary": "The first greenfield mining project developed in Bulgaria in more than 40 years, Ada Tepe, ceased operation – as planned – earlier this year. Now in the rehabilitation phase, it is showcasing just how mining can create…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-11-06",
+      "link": "https://im-mining.com/2026/11/06/a-global-benchmark-for-mine-waste-management/"
+    },
+    {
+      "headline": "Ontario’s Lecce warns that Democrats offer no tariff cure",
+      "summary": "Canada shouldn’t expect the United States to lift tariffs simply because Democrats won control of Congress , Ontario Energy and Mines Minister Stephen Lecce said. Speaking two days after the U.S. midterm elections,…",
+      "category": "politics",
+      "minerals": [],
+      "source": "MINING.com",
       "date": "2026-11-05",
-      "link": "https://www.northernminer.com/news/california-tests-limits-of-federal-mining-support/1003897420/"
+      "link": "https://www.mining.com/ontarios-lecce-warns-that-democrats-offer-no-tariff-cure/"
+    },
+    {
+      "headline": "Lecce warns that Democrats offer no tariff cure",
+      "summary": "Canada shouldn’t expect the United States to lift tariffs simply because Democrats won control of Congress, Ontario Energy and Mines Minister Stephen Lecce said. Speaking... The post Lecce warns that Democrats offer no…",
+      "category": "politics",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-05",
+      "link": "https://www.northernminer.com/news/lecce-warns-that-democrats-offer-no-tariff-cure/1003897449/"
+    },
+    {
+      "headline": "Coating made from renewable plant-based materials could simplify recycling while reducing exposure to microplastics",
+      "summary": "The lining in traditional disposable coffee cups can release plastic particles and be difficult to recycle, but a new plant-based coating can eliminate these issues with your morning brew.",
+      "category": "science",
+      "minerals": [
+        "Recycling"
+      ],
+      "source": "Phys.org Chemistry",
+      "date": "2026-11-05",
+      "link": "https://phys.org/news/2026-11-coating-renewable-based-materials-recycling.html"
+    },
+    {
+      "headline": "San Francisco Bay Area dominates mining tech startup funding worldwide",
+      "summary": "The San Francisco Bay Area dominates global mining technology investment, attracting $2.1 billion, or 35% of funding tracked in a study of 170 startups across 22 countries. In this infographic, Alex Aguilar, global…",
+      "category": "funding",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-11-05",
+      "link": "https://www.mining.com/san-francisco-bay-area-dominates-mining-tech-startup-funding-worldwide/"
+    },
+    {
+      "headline": "Democrats’ win tests US mining support, lifts gold",
+      "summary": "Democrats’ capture of Congress could put U.S. mining investments under closer scrutiny and sustain demand for gold as political stalemate complicates business planning, according to... The post Democrats’ win tests US…",
+      "category": "politics",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-05",
+      "link": "https://www.northernminer.com/news/democrats-win-tests-us-mining-support-lifts-gold/1003897424/"
     },
     {
       "headline": "Federal backing advances Alaska mining projects",
@@ -18,86 +95,6 @@
       "source": "The Northern Miner",
       "date": "2026-11-05",
       "link": "https://www.northernminer.com/news/federal-backing-advances-alaska-mining-projects/1003897416/"
-    },
-    {
-      "headline": "How digital and technology including AI is transforming how BHP works",
-      "summary": "In a recent article, Mikko Tepponen, Digital Officer at BHP explored how technology is already making BHP safer, smarter and more productive, delivering significant financial value through AI, automation and data-led…",
-      "category": "supply",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-11-05",
-      "link": "https://im-mining.com/2026/11/05/how-digital-and-technology-including-ai-is-transforming-how-bhp-works/"
-    },
-    {
-      "headline": "TAKRAF strengthens DELKOR filtration portfolio with acquisition of FSI FILTRACIÓN",
-      "summary": "TAKRAF Group has completed the acquisition of FSI FILTRACIÓN SL, a Madrid-based engineering company specialising in liquid/solid separation technologies, with a particular focus on filtration. The transaction was…",
-      "category": "supply",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-11-05",
-      "link": "https://im-mining.com/2026/11/05/takraf-strengthens-delkor-filtration-portfolio-with-acquisition-of-fsi-filtracion/"
-    },
-    {
-      "headline": "Will AI Throttle the Retirement Money Machine?",
-      "summary": "Plus, Big Tech’s election silver lining.",
-      "category": "supply",
-      "minerals": [
-        "Silver"
-      ],
-      "source": "WSJ — Markets",
-      "date": "2026-11-05",
-      "link": "https://www.wsj.com/finance/investing/will-ai-throttle-the-retirement-money-machine-81d5b52d?mod=rss_markets_main"
-    },
-    {
-      "headline": "Democrats’ win puts US mining agenda under scrutiny",
-      "summary": "Democrats’ capture of Congress raises the prospect of greater scrutiny of President Donald Trump’s mining and energy agenda, even as pressure to lower electricity costs... The post Democrats’ win puts US mining agenda…",
-      "category": "politics",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-11-04",
-      "link": "https://www.northernminer.com/news/democrats-win-puts-us-mining-agenda-under-scrutiny/1003897392/"
-    },
-    {
-      "headline": "Rare Earths Norway OKs €24M Fen pilot plant",
-      "summary": "Privately held developer Rare Earths Norway approved construction of a €24-million (C$38 million) pilot plant to test processing of material from its Fen project, advancing... The post Rare Earths Norway OKs €24M Fen…",
-      "category": "science",
-      "minerals": [
-        "Rare earths"
-      ],
-      "source": "The Northern Miner",
-      "date": "2026-11-04",
-      "link": "https://www.northernminer.com/news/rare-earths-norway-oks-e24m-fen-pilot-plant/1003897368/"
-    },
-    {
-      "headline": "Rare Earths Norway OKs $27 million Fen pilot plant",
-      "summary": "Privately held developer Rare Earths Norway approved construction of a €24-million ($27 million) pilot plant to test processing of material from its Fen project, advancing efforts to turn Europe’s largest documented…",
-      "category": "science",
-      "minerals": [
-        "Rare earths"
-      ],
-      "source": "MINING.com",
-      "date": "2026-11-04",
-      "link": "https://www.mining.com/rare-earths-norway-oks-e24m-fen-pilot-plant/"
-    },
-    {
-      "headline": "Democrats’ win puts US mining agenda under scrutiny",
-      "summary": "Democrats’ capture of Congress raises the prospect of greater scrutiny of President Donald Trump’s mining and energy agenda, even as pressure to lower electricity costs could create an opening for a bipartisan…",
-      "category": "politics",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-11-04",
-      "link": "https://www.mining.com/democrats-win-puts-us-mining-agenda-under-scrutiny/"
-    },
-    {
-      "headline": "Nouveau Monde secures Quebec graphite mining lease",
-      "summary": "Nouveau Monde Graphite (TSX: NOU; NYSE: NMG) has obtained a Quebec mining lease granting extraction rights at its Matawinie graphite project, where construction is underway... The post Nouveau Monde secures Quebec…",
-      "category": "funding",
-      "minerals": [
-        "Graphite"
-      ],
-      "source": "The Northern Miner",
-      "date": "2026-11-03",
-      "link": "https://www.northernminer.com/news/nouveau-monde-secures-quebec-graphite-mining-lease/1003897344/"
     }
   ]
 }
