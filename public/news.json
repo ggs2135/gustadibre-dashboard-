@@ -1,44 +1,83 @@
 {
-  "generatedAt": "2026-11-06T14:45:46.323Z",
+  "generatedAt": "2026-11-07T13:43:04.454Z",
   "items": [
     {
-      "headline": "US South builds a rare earth supply chain",
-      "summary": "Rare earth developers are turning to the U.S. South’s chemical plants, ports and mineral deposits to build a supply chain that can compete with China.... The post US South builds a rare earth supply chain appeared…",
+      "headline": "Copper faces further slide after US vote: TD",
+      "summary": "Copper could fall further as Democratic Party gains in the United States midterm elections weaken expectations for import tariffs and raise doubts about projected demand from data centres, TD Securities says.…",
+      "category": "economic",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "MINING.com",
+      "date": "2026-11-06",
+      "link": "https://www.mining.com/copper-faces-further-slide-after-us-vote-td/"
+    },
+    {
+      "headline": "DLA commits $2 billion to acquire critical materials for National Defense Stockpile",
+      "summary": "The US Defense Logistics Agency (DLA) has committed $2 billion to acquire strategic and critical materials for the National Defense Stockpile throughout the fiscal year. The National Defense Stockpile helps reduce the…",
+      "category": "supply",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-11-06",
+      "link": "https://www.mining.com/us-dla-commits-2-billion-to-acquire-critical-materials-for-national-defense-stockpile/"
+    },
+    {
+      "headline": "Canadian Uranium eyes acquisitions as Rook II exploration takes shape",
+      "summary": "As Canada joins the race racing to secure reliable, low-carbon power as part of its first-ever national Nuclear Energy Strategy, released in June , and technology giants’ growing investment in nuclear power are…",
+      "category": "supply",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-11-06",
+      "link": "https://www.mining.com/canadian-uranium-eyes-acquisitions-as-rook-ii-exploration-takes-shape/"
+    },
+    {
+      "headline": "Budget extends tax relief but leaves explorers wanting",
+      "summary": "Ottawa’s five-year extension of mineral exploration tax credits has won praise from Canada’s prospectors association, but British Columbia’s exploration group says the budget misses a... The post Budget extends tax…",
       "category": "supply",
       "minerals": [],
       "source": "The Northern Miner",
       "date": "2026-11-06",
-      "link": "https://www.northernminer.com/news/us-south-builds-a-rare-earth-supply-chain/1003897469/"
+      "link": "https://www.northernminer.com/news/budget-extends-tax-relief-but-leaves-explorers-wanting/1003897476/"
     },
     {
-      "headline": "Interview: Ur-Energy eyes Wyoming expansion",
-      "summary": "Ur-Energy (TSX: URE; NYSE-A: URG) is looking to drilling, acquisitions and potentially processing for other miners to fill unused capacity after restarting its Shirley Basin... The post Interview: Ur-Energy eyes…",
-      "category": "supply",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-11-06",
-      "link": "https://www.northernminer.com/news/interview-ur-energy-eyes-wyoming-expansion/1003897465/"
-    },
-    {
-      "headline": "Konkola’s Nchanga Tailings Leach Plant to be largest in Africa",
-      "summary": "In October, Zambian state controlled company ZCCM Investments Holdings (ZCCM-IH), which holds a 20.6% equity stake in Konkola Copper Mines PLC (KCM), reported that it had given its approval in September for KCM’s new…",
+      "headline": "MP Materials posts surprise adjusted profit",
+      "summary": "MP Materials (NYSE: MP), America’s only rare earth miner, earned an unexpected adjusted quarterly profit as sales volumes of magnet-making rare earths nearly doubled and a specialty-material shipment boosted revenue.…",
       "category": "supply",
       "minerals": [
-        "Copper",
-        "Tailings"
+        "Rare earths"
       ],
-      "source": "International Mining",
+      "source": "MINING.com",
       "date": "2026-11-06",
-      "link": "https://im-mining.com/2026/11/06/konkolas-nchanga-tailings-leach-plant-to-be-largest-in-africa/"
+      "link": "https://www.mining.com/mp-materials-posts-surprise-adjusted-profit/"
     },
     {
-      "headline": "A global benchmark for mine waste management",
-      "summary": "The first greenfield mining project developed in Bulgaria in more than 40 years, Ada Tepe, ceased operation – as planned – earlier this year. Now in the rehabilitation phase, it is showcasing just how mining can create…",
-      "category": "supply",
-      "minerals": [],
-      "source": "International Mining",
+      "headline": "Copper faces further slide after US vote: TD",
+      "summary": "Copper could fall further as Democratic Party gains in the United States midterm elections weaken expectations for import tariffs and raise doubts about projected demand... The post Copper faces further slide after US…",
+      "category": "economic",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "The Northern Miner",
       "date": "2026-11-06",
-      "link": "https://im-mining.com/2026/11/06/a-global-benchmark-for-mine-waste-management/"
+      "link": "https://www.northernminer.com/news/copper-faces-further-slide-after-us-vote-td/1003897510/"
+    },
+    {
+      "headline": "China, Gabon elevate ties, pledge deeper mining, security cooperation",
+      "summary": "China and Gabon elevated their diplomatic ties during a state visit by the Central African nation’s president to China, and are looking to deepen cooperation in the areas of mining and security, they said in a joint…",
+      "category": "politics",
+      "minerals": [],
+      "source": "MINING.com — Battery Metals",
+      "date": "2026-11-06",
+      "link": "https://www.mining.com/web/china-gabon-elevate-ties-pledge-deeper-mining-security-cooperation/"
+    },
+    {
+      "headline": "World embraces gold while US resists shift, advisor says",
+      "summary": "Central banks outside the G7 are increasingly turning to gold to protect their economies from mounting debt and geopolitical uncertainty, while Western governments remain reluctant to challenge the US dollar’s…",
+      "category": "politics",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-11-06",
+      "link": "https://www.mining.com/world-embraces-gold-while-us-resists-shift-advisor-says/"
     },
     {
       "headline": "Ontario’s Lecce warns that Democrats offer no tariff cure",
@@ -57,44 +96,6 @@
       "source": "The Northern Miner",
       "date": "2026-11-05",
       "link": "https://www.northernminer.com/news/lecce-warns-that-democrats-offer-no-tariff-cure/1003897449/"
-    },
-    {
-      "headline": "Coating made from renewable plant-based materials could simplify recycling while reducing exposure to microplastics",
-      "summary": "The lining in traditional disposable coffee cups can release plastic particles and be difficult to recycle, but a new plant-based coating can eliminate these issues with your morning brew.",
-      "category": "science",
-      "minerals": [
-        "Recycling"
-      ],
-      "source": "Phys.org Chemistry",
-      "date": "2026-11-05",
-      "link": "https://phys.org/news/2026-11-coating-renewable-based-materials-recycling.html"
-    },
-    {
-      "headline": "San Francisco Bay Area dominates mining tech startup funding worldwide",
-      "summary": "The San Francisco Bay Area dominates global mining technology investment, attracting $2.1 billion, or 35% of funding tracked in a study of 170 startups across 22 countries. In this infographic, Alex Aguilar, global…",
-      "category": "funding",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-11-05",
-      "link": "https://www.mining.com/san-francisco-bay-area-dominates-mining-tech-startup-funding-worldwide/"
-    },
-    {
-      "headline": "Democrats’ win tests US mining support, lifts gold",
-      "summary": "Democrats’ capture of Congress could put U.S. mining investments under closer scrutiny and sustain demand for gold as political stalemate complicates business planning, according to... The post Democrats’ win tests US…",
-      "category": "politics",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-11-05",
-      "link": "https://www.northernminer.com/news/democrats-win-tests-us-mining-support-lifts-gold/1003897424/"
-    },
-    {
-      "headline": "Federal backing advances Alaska mining projects",
-      "summary": "Alaska’s mining projects are gaining federal backing as the Trump administration seeks domestic supplies of critical minerals for national defence and the energy transition. The... The post Federal backing advances…",
-      "category": "politics",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-11-05",
-      "link": "https://www.northernminer.com/news/federal-backing-advances-alaska-mining-projects/1003897416/"
     }
   ]
 }
