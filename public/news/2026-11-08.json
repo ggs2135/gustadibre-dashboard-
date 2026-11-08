@@ -1,0 +1,99 @@
+{
+  "generatedAt": "2026-11-08T14:02:18.594Z",
+  "items": [
+    {
+      "headline": "Ajuste nas contas públicas: o que está na mesa de Lula e o que está fora do radar do presidente",
+      "summary": "Presidente da República, Luiz Inácio Lula da Silva, durante 1ª Reunião do Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE), no Palácio do Planalto, Brasília - DF Ricardo Stuckert…",
+      "category": "supply",
+      "minerals": [],
+      "source": "G1 — Economia",
+      "date": "2026-11-08",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/08/ajuste-nas-contas-publicas-o-que-esta-na-mesa-de-lula-e-o-que-esta-fora-do-radar-do-presidente.ghtml"
+    },
+    {
+      "headline": "Copper faces further slide after US vote: TD",
+      "summary": "Copper could fall further as Democratic Party gains in the United States midterm elections weaken expectations for import tariffs and raise doubts about projected demand from data centres, TD Securities says.…",
+      "category": "economic",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "MINING.com",
+      "date": "2026-11-06",
+      "link": "https://www.mining.com/copper-faces-further-slide-after-us-vote-td/"
+    },
+    {
+      "headline": "DLA commits $2 billion to acquire critical materials for National Defense Stockpile",
+      "summary": "The US Defense Logistics Agency (DLA) has committed $2 billion to acquire strategic and critical materials for the National Defense Stockpile throughout the fiscal year. The National Defense Stockpile helps reduce the…",
+      "category": "supply",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-11-06",
+      "link": "https://www.mining.com/us-dla-commits-2-billion-to-acquire-critical-materials-for-national-defense-stockpile/"
+    },
+    {
+      "headline": "Canadian Uranium eyes acquisitions as Rook II exploration takes shape",
+      "summary": "As Canada joins the race racing to secure reliable, low-carbon power as part of its first-ever national Nuclear Energy Strategy, released in June , and technology giants’ growing investment in nuclear power are…",
+      "category": "supply",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-11-06",
+      "link": "https://www.mining.com/canadian-uranium-eyes-acquisitions-as-rook-ii-exploration-takes-shape/"
+    },
+    {
+      "headline": "Budget extends tax relief but leaves explorers wanting",
+      "summary": "Ottawa’s five-year extension of mineral exploration tax credits has won praise from Canada’s prospectors association, but British Columbia’s exploration group says the budget misses a... The post Budget extends tax…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-06",
+      "link": "https://www.northernminer.com/news/budget-extends-tax-relief-but-leaves-explorers-wanting/1003897476/"
+    },
+    {
+      "headline": "Copper faces further slide after US vote: TD",
+      "summary": "Copper could fall further as Democratic Party gains in the United States midterm elections weaken expectations for import tariffs and raise doubts about projected demand... The post Copper faces further slide after US…",
+      "category": "economic",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-11-06",
+      "link": "https://www.northernminer.com/news/copper-faces-further-slide-after-us-vote-td/1003897510/"
+    },
+    {
+      "headline": "China, Gabon elevate ties, pledge deeper mining, security cooperation",
+      "summary": "China and Gabon elevated their diplomatic ties during a state visit by the Central African nation’s president to China, and are looking to deepen cooperation in the areas of mining and security, they said in a joint…",
+      "category": "politics",
+      "minerals": [],
+      "source": "MINING.com — Battery Metals",
+      "date": "2026-11-06",
+      "link": "https://www.mining.com/web/china-gabon-elevate-ties-pledge-deeper-mining-security-cooperation/"
+    },
+    {
+      "headline": "World embraces gold while US resists shift, advisor says",
+      "summary": "Central banks outside the G7 are increasingly turning to gold to protect their economies from mounting debt and geopolitical uncertainty, while Western governments remain reluctant to challenge the US dollar’s…",
+      "category": "politics",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-11-06",
+      "link": "https://www.mining.com/world-embraces-gold-while-us-resists-shift-advisor-says/"
+    },
+    {
+      "headline": "Ontario’s Lecce warns that Democrats offer no tariff cure",
+      "summary": "Canada shouldn’t expect the United States to lift tariffs simply because Democrats won control of Congress , Ontario Energy and Mines Minister Stephen Lecce said. Speaking two days after the U.S. midterm elections,…",
+      "category": "politics",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-11-05",
+      "link": "https://www.mining.com/ontarios-lecce-warns-that-democrats-offer-no-tariff-cure/"
+    },
+    {
+      "headline": "Lecce warns that Democrats offer no tariff cure",
+      "summary": "Canada shouldn’t expect the United States to lift tariffs simply because Democrats won control of Congress, Ontario Energy and Mines Minister Stephen Lecce said. Speaking... The post Lecce warns that Democrats offer no…",
+      "category": "politics",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-05",
+      "link": "https://www.northernminer.com/news/lecce-warns-that-democrats-offer-no-tariff-cure/1003897449/"
+    }
+  ]
+}
