@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-11-08T14:02:19.981Z",
+  "generatedAt": "2026-11-09T17:06:39.875Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
-        "title": "O debate sobre segurança: PEC, ministério e maioridade penal",
-        "date": "2026-11-06",
-        "url": "https://open.spotify.com/episode/5smUVU9AUVcM0wGtpViMFT",
+        "title": "Data centers: o Brasil vai ser uma fazenda de IA?",
+        "date": "2026-11-09",
+        "url": "https://open.spotify.com/episode/1NokrrjaRrupmJFnFhMTTz",
         "isNew": true
       }
     },
     {
       "name": "Posse de Bola",
       "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
       "latestEpisode": {
-        "title": "#716: Palmeiras goleia e mantém perseguição ao Flamengo! Alívio no Corinthians?",
-        "date": "2026-11-06",
-        "url": "https://open.spotify.com/episode/1WMo3uysmaQsitSb3ihOHn",
+        "title": "#717: Carlos Miguel garante o Palmeiras na final! Grêmio segura o Galo e decide o título",
+        "date": "2026-11-09",
+        "url": "https://open.spotify.com/episode/7k2H6WeiqSYHo3nkXkmhmn",
         "isNew": true
       }
     },
@@ -28,9 +28,9 @@
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "Democrats Promised to Fix the Economy. Can They?",
-        "date": "2026-11-08",
-        "url": "https://open.spotify.com/episode/0mtyQ2nXKSGTxjrIkwrux3",
+        "title": "What Does Beijing Know About Nvidia’s Jensen Huang?",
+        "date": "2026-11-09",
+        "url": "https://open.spotify.com/episode/5lr4d9krcElsPunO6L8xUh",
         "isNew": true
       }
     },
@@ -48,7 +48,7 @@
     {
       "name": "Stereo Chemistry",
       "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
       "latestEpisode": {
         "title": "Uncovered: Plastics Pyrolysis Under Fire",
         "date": "2026-11-05",
