@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T17:06:41.257Z",
+  "generatedAt": "2026-11-10T15:24:00.597Z",
   "items": [
     {
       "title": "Advancing Group 13 chemistry in the context of critical minerals: recovery and functional materials",
@@ -253,6 +253,20 @@
       "source": "OpenAlex"
     },
     {
+      "title": "Recycling of Critical Rare Earth Materials for Sustainable Applications: A Circular Economy Perspective",
+      "authors": [
+        "Sabyasachi Paul",
+        "Md. Kaviul Islam",
+        "Protap Sarker",
+        "P. Shrotriya"
+      ],
+      "venue": "Clean Technology",
+      "date": "2026-10-01",
+      "abstract": "Rare earth elements (REEs) are central to the performance of a wide spectrum of clean-energy and advanced technologies, making them linchpins of the global energy transition [...]",
+      "link": "https://doi.org/10.3390/cleantechnol8050157",
+      "source": "Semantic Scholar"
+    },
+    {
       "title": "ENVIRONMENTAL AND ECONOMIC BENEFITS OF LITHIUM-ION BATTERY RECYCLING IN NIGERIA",
       "authors": [
         "L. A. Animashaun",
@@ -267,6 +281,20 @@
       "source": "OpenAlex"
     },
     {
+      "title": "The Oil Well as the Mine of the Future: Toward In-Situ Coproduction of Critical Minerals and Hydrocarbons.",
+      "authors": [
+        "Yun-Tian Teng",
+        "Clark G. Horst",
+        "Ellen G. Polites",
+        "Ke-Ju Yan"
+      ],
+      "venue": "Environmental Science and Technology",
+      "date": "2026-09-07",
+      "abstract": "The global demand for critical minerals and materials (CMM) is rapidly outpacing conventional supply chains. This Perspective presents a paradigm shift by demonstrating that mature U.S. sedimentary basins are not merely depleting fuel reservoirs but are vast, accessible repositories of mineral wealth. By integrating…",
+      "link": "https://doi.org/10.1021/acs.est.6c03519",
+      "source": "Semantic Scholar"
+    },
+    {
       "title": "Pyrometallurgical Recovery of Neodymium from Nd–Fe–B Magnets in End-of-Life Electric Vehicle Motors Using Non-Ferrous Smelting Slag Flux",
       "authors": [
         "Chang-Jeong Kim",
@@ -277,34 +305,6 @@
       "date": "2026-08-24",
       "abstract": "The increasing use of electric vehicles has led to a growing demand for rare-earth elements, particularly neodymium (Nd), which is a critical component of Nd–Fe–B permanent magnets used in traction motors. End-of-life electric vehicle motors are therefore considered promising secondary resources for Nd recovery. In…",
       "link": "https://doi.org/10.3390/met16090942",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Highly efficient and selective recovery of rare earths from NdFeB waste via water-regulated deep eutectic solvent",
-      "authors": [
-        "Jianru Li",
-        "Cunying Xu",
-        "Rui Luo",
-        "Qibo Zhang"
-      ],
-      "venue": "Journal of Cleaner Production",
-      "date": "2026-08-19",
-      "abstract": "",
-      "link": "https://doi.org/10.1016/j.jclepro.2026.149218",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Subsidies, Environmental Taxes, and Rare Earth Recycling: A Game-Theoretical Analysis of Reverse Supply Chain Equilibrium",
-      "authors": [
-        "Jiawen Xiao",
-        "Xiuli Wang",
-        "稔 国岡",
-        "Zhiwei Zhang"
-      ],
-      "venue": "Sustainability",
-      "date": "2026-08-12",
-      "abstract": "Rare earths are a strategically vital mineral resource on a global scale; the security of their supply chain and their recycling face severe challenges amid dual pressures of resource scarcity and environmental protection. This study focuses on the reverse supply chain for rare earth permanent magnet…",
-      "link": "https://doi.org/10.3390/su18168281",
       "source": "OpenAlex"
     }
   ]

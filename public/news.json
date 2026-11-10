@@ -1,14 +1,52 @@
 {
-  "generatedAt": "2026-11-09T17:06:39.061Z",
+  "generatedAt": "2026-11-10T15:23:57.877Z",
   "items": [
     {
-      "headline": "Vivox AI, beSirius partner to streamline mining compliance",
-      "summary": "In mining, compliance teams take on a wide range of work from environmental and safety regulations to anti-corruption and risk assessment. These […] The post Vivox AI, beSirius partner to streamline mining compliance…",
+      "headline": "Gunnison hits rich copper and zinc in Arizona",
+      "summary": "Gunnison Copper (TSX: GCU; NYSE-A: GUNN) has confirmed a high-grade copper-zinc zone at its Strong & Harris deposit in Arizona as it tests whether a... The post Gunnison hits rich copper and zinc in Arizona appeared…",
+      "category": "supply",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-11-10",
+      "link": "https://www.northernminer.com/news/gunnison-hits-rich-copper-and-zinc-in-arizona/1003897612/"
+    },
+    {
+      "headline": "NHL launches 240 t battery electric rigid mining truck with fixed dual gun & dynamic charging",
+      "summary": "At the recent China International Import Expo held in Shanghai, Inner Mongolia North Hauler Joint Stock Co Ltd (NHL) officially launched the 240 t class battery electric NTE240E mining truck. It says this marks a key…",
       "category": "supply",
       "minerals": [],
-      "source": "Canadian Mining Journal",
-      "date": "2026-11-09",
-      "link": "https://www.canadianminingjournal.com/news/vivox-ai-besirius-partner-to-streamline-mining-compliance/"
+      "source": "International Mining",
+      "date": "2026-11-10",
+      "link": "https://im-mining.com/2026/11/10/nhl-launches-240-t-battery-electric-rigid-mining-truck-with-fixed-dual-gun-dynamic-charging/"
+    },
+    {
+      "headline": "Discovery beats forecasts despite higher gold costs",
+      "summary": "Discovery Mining (TSX: DSV; US-OTC: DSVSF) reported stronger-than-expected third-quarter earnings as lower depreciation helped offset rising gold costs at its Porcupine operations in Ontario.Adjusted earnings... The…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-10",
+      "link": "https://www.northernminer.com/news/discovery-beats-forecasts-despite-higher-gold-costs/1003897608/"
+    },
+    {
+      "headline": "Sandvik Toro LH518iB battery-electric loader hits KPIs during Codelco El Teniente test",
+      "summary": "Sandvik’s Toro® LH518iB battery-electric loader has met the performance targets during nearly 10 months of operation at Codelco’s El Teniente mine in Chile, the OEM reports. Operating with AutoMine® on the same…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-11-10",
+      "link": "https://im-mining.com/2026/11/10/sandvik-toro-lh518ib-battery-electric-loader-hits-kpis-during-codelco-el-teniente-test/"
+    },
+    {
+      "headline": "High level international delegation visits Meiteng for coal prep innovation insights",
+      "summary": "On October 28, 2026, six members of the International Organising Committee of the Coal Preparation Congress (ICPC), representing the US, Australia, South Africa, Poland, UK and Hungary, visited Tianjin Meiteng…",
+      "category": "politics",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-11-10",
+      "link": "https://im-mining.com/2026/11/10/high-level-international-delegation-visits-meiteng-for-coal-prep-innovation-insights/"
     },
     {
       "headline": "Barrick targets November filing for North American IPO",
@@ -20,53 +58,22 @@
       "link": "https://www.northernminer.com/news/barrick-targets-november-filing-for-north-american-ipo/1003897540/"
     },
     {
-      "headline": "US reports $2B in mineral stockpile commitments",
-      "summary": "The U.S. Defense Logistics Agency (DLA) says it committed $2 billion (C$2.8 billion) to acquire strategic and critical materials for the National Defense Stockpile during... The post US reports $2B in mineral stockpile…",
-      "category": "supply",
+      "headline": "Barrick targets November filing for North American IPO",
+      "summary": "Barrick Mining (TSX: ABX; NYSE: B) said it plans to file for an initial public offering of its North American gold business […] The post Barrick targets November filing for North American IPO appeared first on Canadian…",
+      "category": "funding",
       "minerals": [],
-      "source": "The Northern Miner",
+      "source": "Canadian Mining Journal",
       "date": "2026-11-09",
-      "link": "https://www.northernminer.com/news/us-reports-2b-in-mineral-stockpile-commitments/1003897547/"
+      "link": "https://www.canadianminingjournal.com/news/barrick-targets-november-filing-for-north-american-ipo/"
     },
     {
-      "headline": "AbraSilver extends Diablillos gold zone in Argentina",
-      "summary": "AbraSilver Resource (TSX: ABRA; US-OTC: ABBRF) has extended gold mineralization beyond the planned Oculto pit at its Diablillos project in Argentina, adding growth potential ahead... The post AbraSilver extends…",
-      "category": "supply",
+      "headline": "Barrick targets November filing for North American IPO",
+      "summary": "Barrick Mining (TSX: ABX; NYSE: B) said it plans to file for an initial public offering of its North American gold business this month as it reported better-than-expected third-quarter results. The stock rose.…",
+      "category": "funding",
       "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-11-09",
-      "link": "https://www.northernminer.com/news/abrasilver-extends-diablillos-gold-zone-in-argentina/1003897544/"
-    },
-    {
-      "headline": "BME Technical Summit 2026: getting more value from every blast",
-      "summary": "Mining technology is advancing rapidly, but its value depends on measurable gains in blast performance, processing efficiency and profitability, with these challenges central to the Annual 2026 Technical Summit ,…",
-      "category": "supply",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-11-09",
-      "link": "https://im-mining.com/2026/11/09/bme-technical-summit-2026-getting-more-value-from-every-blast/"
-    },
-    {
-      "headline": "Copper faces further slide after US vote: TD",
-      "summary": "Copper could fall further as Democratic Party gains in the United States midterm elections weaken expectations for import tariffs and raise doubts about projected demand from data centres, TD Securities says.…",
-      "category": "economic",
-      "minerals": [
-        "Copper"
-      ],
       "source": "MINING.com",
-      "date": "2026-11-06",
-      "link": "https://www.mining.com/copper-faces-further-slide-after-us-vote-td/"
-    },
-    {
-      "headline": "Copper faces further slide after US vote: TD",
-      "summary": "Copper could fall further as Democratic Party gains in the United States midterm elections weaken expectations for import tariffs and raise doubts about projected demand... The post Copper faces further slide after US…",
-      "category": "economic",
-      "minerals": [
-        "Copper"
-      ],
-      "source": "The Northern Miner",
-      "date": "2026-11-06",
-      "link": "https://www.northernminer.com/news/copper-faces-further-slide-after-us-vote-td/1003897510/"
+      "date": "2026-11-09",
+      "link": "https://www.mining.com/barrick-targets-november-filing-for-north-american-ipo/"
     }
   ]
 }
