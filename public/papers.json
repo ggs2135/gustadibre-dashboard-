@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T15:24:00.597Z",
+  "generatedAt": "2026-11-11T14:53:13.657Z",
   "items": [
     {
       "title": "Advancing Group 13 chemistry in the context of critical minerals: recovery and functional materials",
@@ -13,90 +13,106 @@
       "source": "OpenAlex"
     },
     {
-      "title": "THE EL-RAKHAWI SELF-HEALING SOLID-STATE BATTERY PARADIGM A Foundational Treatise on Next-Generation Energy Storage, Nanomaterial Engineering, and the Disruption of Global Supply Chains",
+      "title": "A Dual–Mode Sorption Model for Selective Ion Partitioning in Ligand-Functionalized Polymer Membranes",
       "authors": [
-        "mohamed kamal arafa el-rakhawi"
+        "Wylie F. Kau",
+        "Michael A. Baird",
+        "Kristen Abels",
+        "Taigyu Joo"
+      ],
+      "venue": "Macromolecules",
+      "date": "2026-11-10",
+      "abstract": "Abstract Ion-selective ligand-functionalized polymer membranes (LFPMs) are promising materials for critical mineral (CM) industrial wastewater refining, but the effect of ligand identity on LFPM selectivity remains poorly described. We developed a dual–mode sorption (DMS) model for cation partitioning to…",
+      "link": "https://doi.org/10.1021/acs.macromol.6c01650",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Industrial Waste Valorization, Circular Economy, and Heavy Metal Bioremediation: A Multi-Sectoral Review",
+      "authors": [
+        "Karthik Kumar SS (PhD)"
       ],
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-11-08",
-      "abstract": "\"The El-Rakhawi Self-Healing Solid-State Battery Paradigm transcends conventional lithium-ion limitations through four revolutionary innovations. First, Dynamic Covalent Chemistry enables infinite self-healing of the solid polymer electrolyte, suppressing lithium dendrite propagation while maintaining ionic…",
-      "link": "https://doi.org/10.5281/zenodo.24057856",
+      "date": "2026-11-10",
+      "abstract": "Industrial expansion, rapid urban growth, and resource extraction across developing economies generate complex, hazardous waste streams that threaten ecological integrity, soil quality, water security, and human health. Concurrently, global imperatives toward zero-waste futures necessitate a paradigm shift from…",
+      "link": "https://doi.org/10.5281/zenodo.24090735",
       "source": "OpenAlex"
     },
     {
-      "title": "Batteries: Technical Specifications, Applications, Chemical Properties and Market Shares",
+      "title": "Mine sites in eastern provinces of the Democratic Republic of the Congo interpreted from 2024-2025 high-resolution satellite imagery",
       "authors": [
-        "Ramazan Başaran"
+        "Jessica D. DeWitt",
+        "Peter G. Chirico",
+        "Molly Elizabeth Huber",
+        "Zachary J. Clifton"
+      ],
+      "venue": "USGS DOI Tool Production Environment",
+      "date": "2026-11-10",
+      "abstract": "Mine sites were identified and mapped throughout the eastern Democratic Republic of the Congo (DRC), including the provinces of Bas-Uélé, Haut-Uélé, Ituri, Nord-Kivu, Sud-Kivu, Maniema, and Tanganyika. This dataset contains point locations representing mine sites interpreted from high-resolution satellite imagery…",
+      "link": "https://doi.org/10.5066/p1bn9m6x",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "World Minerals Outlook—Antimony, Copper, Graphite, Niobium, Potash, Silicon, Silver, and Tungsten Through 2030 [Data]",
+      "authors": [
+        "Andrew A Stewart",
+        "Loyd M. Trimmer",
+        "Jaewon Chung",
+        "Keita F. DeCarlo"
+      ],
+      "venue": "USGS DOI Tool Production Environment",
+      "date": "2026-11-10",
+      "abstract": "As demand for mineral commodities continues to increase with rapidly evolving technologies and global economic growth, information regarding current and near-term future expected supply of the mineral commodities that enable such growth becomes a necessity. This data aids the understanding and evaluation of the…",
+      "link": "https://doi.org/10.5066/p13aavls",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "How microbes can secure the critical minerals the world needs",
+      "authors": [
+        "Gerhard Schenk",
+        "Paul Evans",
+        "Torben Vedel Borchert",
+        "Alan Tordoir"
+      ],
+      "venue": "Nature",
+      "date": "2026-11-10",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/d41586-026-03629-4",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Critical Mineral Supply Risk Assessment: Open Data and Reproducible DSS Calculations for Chile, Argentina, and China",
+      "authors": [
+        "Інна Поліщук"
       ],
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-11-07",
-      "abstract": "This report is a review of rechargeable and non-rechargeable batteries, covering their chemistries, technical properties, applications, safety behavior and market structure. It is a re-researched and expanded version of a battery comparison table the author prepared five years ago. Scope: single-use cells (alkaline,…",
-      "link": "https://doi.org/10.5281/zenodo.24001792",
+      "date": "2026-11-10",
+      "abstract": "This dataset provides open statistical data, model parameters, and reproducible calculations supporting the research “An Intelligent Decision Support System for Assessing Critical Mineral Supply Risks in the Energy Transition.” The dataset demonstrates an intelligent decision support system (DSS) for assessing…",
+      "link": "https://doi.org/10.5281/zenodo.24100844",
       "source": "OpenAlex"
     },
     {
-      "title": "Governing the lithium boom in Ghana, South Africa and Zimbabwe: civil society and social accountability in critical minerals governance",
+      "title": "Alternative finance for critical minerals: Ecosystem maturity and project-finance capability",
       "authors": [
-        "Joshua Matanzima",
-        "Kathryn Sturman",
-        "Gaopalelwe Mathiba",
-        "Clement Sefa-Nyarko"
+        "Gert Zwingenberger",
+        "Mehmet Siddik Kizil",
+        "Peter F. Knights",
+        "Micah Nehring"
       ],
-      "venue": "The Extractive Industries and Society",
-      "date": "2026-11-07",
-      "abstract": "The global demand for lithium and other critical minerals has reconfigured the politics of extraction in Africa, intensifying pressures on states to deliver both development and decarbonisation. Yet the governance of this new extractive frontier increasingly depends on the interplay between multiple actors, including…",
-      "link": "https://doi.org/10.1016/j.exis.2026.102098",
+      "venue": "Resources Policy",
+      "date": "2026-11-10",
+      "abstract": "Australia has developed capital markets and experienced mining investors, yet critical minerals projects can require substantial investment before developers can demonstrate processing performance or secure long-term sales. This conceptual Perspective examines how alternative finance can become a repeatable financing…",
+      "link": "https://doi.org/10.1016/j.resourpol.2026.106095",
       "source": "OpenAlex"
     },
     {
-      "title": "Mixed Signals",
+      "title": "Rare-earth recycling efforts multiply",
       "authors": [
-        "Xiaoyu Pu"
+        "Toni Feder"
       ],
-      "venue": "Cambridge University Press eBooks",
-      "date": "2026-11-06",
-      "abstract": "China often sends mixed signals in its foreign and security policy. In maritime disputes, Beijing combines coercive pressure with diplomatic reassurance. In economic statecraft, it promises openness while tightening controls over data, critical minerals, and advanced technologies. In response to the Russia–Ukraine…",
-      "link": "https://doi.org/10.1017/9781009766555",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Thermodynamic Favorability Zones for the Selective Recovery of Critical Elements",
-      "authors": [
-        "Quinn M. Brink",
-        "Hunter J. Koltunski",
-        "Richard D. Noble",
-        "Oana R. Luca"
-      ],
-      "venue": "The Journal of Physical Chemistry B",
-      "date": "2026-11-06",
-      "abstract": "Abstract Increased use of modern technologies has triggered a need to secure the supply chain of critical minerals. This can be potentially achieved through their separation and recovery from waste and industrial streams. To begin to address this need, we adapt Lackner’s thermodynamic calculations for carbon capture…",
-      "link": "https://doi.org/10.1021/acs.jpcb.6c04324",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Bilateral asymmetric dependence and partner country trade network resilience: empirical evidence from China’s rare earth trade",
-      "authors": [
-        "Xiaotong Ma",
-        "Cuini Li",
-        "Le Fu"
-      ],
-      "venue": "Frontiers in Political Science",
-      "date": "2026-11-06",
-      "abstract": "Background Against the backdrop of intensifying competition for critical mineral security, rare earth trade has become a crucial window for observing supply chain restructuring and great power rivalry. Methods Drawing on the 2013–2024 UN Comtrade data on rare earth full-industry-chain trade, this article measures the…",
-      "link": "https://doi.org/10.3389/fpos.2026.1952240",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Regime-dependent price dynamics in critical mineral project valuation: a stochastic comparison of a CMSRI-driven threshold autoregressive framework and Geometric Brownian Motion",
-      "authors": [
-        "Arif Priyambodo",
-        "Deddy Priatmodjo Koesrindartoto",
-        "Oktofa Yudha Sudrajad"
-      ],
-      "venue": "Figshare",
-      "date": "2026-11-06",
-      "abstract": "The valuation of critical mineral projects under uncertainty remains anchored to deterministic Discounted Cash Flow and Geometric Brownian Motion frameworks, which impose constant volatility and log-normal price assumptions poorly suited to regime-dependent commodity markets. This study specifies a Critical Mineral…",
-      "link": "https://doi.org/10.6084/m9.figshare.34941712",
+      "venue": "Physics Today",
+      "date": "2026-11-09",
+      "abstract": "",
+      "link": "https://doi.org/10.1063/pt.43b1e11ef5",
       "source": "OpenAlex"
     },
     {
@@ -240,33 +256,6 @@
       "source": "OpenAlex"
     },
     {
-      "title": "Selective extraction of rare earth elements from real NdFeB magnet leachate using TOPO-based deep eutectic solvents",
-      "authors": [
-        "Guillaume Dumet",
-        "Jean-Charles Moïse",
-        "Fabrice Mutelet"
-      ],
-      "venue": "Journal of Molecular Liquids",
-      "date": "2026-10-10",
-      "abstract": "",
-      "link": "https://doi.org/10.1016/j.molliq.2026.129972",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Recycling of Critical Rare Earth Materials for Sustainable Applications: A Circular Economy Perspective",
-      "authors": [
-        "Sabyasachi Paul",
-        "Md. Kaviul Islam",
-        "Protap Sarker",
-        "P. Shrotriya"
-      ],
-      "venue": "Clean Technology",
-      "date": "2026-10-01",
-      "abstract": "Rare earth elements (REEs) are central to the performance of a wide spectrum of clean-energy and advanced technologies, making them linchpins of the global energy transition [...]",
-      "link": "https://doi.org/10.3390/cleantechnol8050157",
-      "source": "Semantic Scholar"
-    },
-    {
       "title": "ENVIRONMENTAL AND ECONOMIC BENEFITS OF LITHIUM-ION BATTERY RECYCLING IN NIGERIA",
       "authors": [
         "L. A. Animashaun",
@@ -281,20 +270,6 @@
       "source": "OpenAlex"
     },
     {
-      "title": "The Oil Well as the Mine of the Future: Toward In-Situ Coproduction of Critical Minerals and Hydrocarbons.",
-      "authors": [
-        "Yun-Tian Teng",
-        "Clark G. Horst",
-        "Ellen G. Polites",
-        "Ke-Ju Yan"
-      ],
-      "venue": "Environmental Science and Technology",
-      "date": "2026-09-07",
-      "abstract": "The global demand for critical minerals and materials (CMM) is rapidly outpacing conventional supply chains. This Perspective presents a paradigm shift by demonstrating that mature U.S. sedimentary basins are not merely depleting fuel reservoirs but are vast, accessible repositories of mineral wealth. By integrating…",
-      "link": "https://doi.org/10.1021/acs.est.6c03519",
-      "source": "Semantic Scholar"
-    },
-    {
       "title": "Pyrometallurgical Recovery of Neodymium from Nd–Fe–B Magnets in End-of-Life Electric Vehicle Motors Using Non-Ferrous Smelting Slag Flux",
       "authors": [
         "Chang-Jeong Kim",
@@ -305,6 +280,34 @@
       "date": "2026-08-24",
       "abstract": "The increasing use of electric vehicles has led to a growing demand for rare-earth elements, particularly neodymium (Nd), which is a critical component of Nd–Fe–B permanent magnets used in traction motors. End-of-life electric vehicle motors are therefore considered promising secondary resources for Nd recovery. In…",
       "link": "https://doi.org/10.3390/met16090942",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Highly efficient and selective recovery of rare earths from NdFeB waste via water-regulated deep eutectic solvent",
+      "authors": [
+        "Jianru Li",
+        "Cunying Xu",
+        "Rui Luo",
+        "Qibo Zhang"
+      ],
+      "venue": "Journal of Cleaner Production",
+      "date": "2026-08-19",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.jclepro.2026.149218",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Subsidies, Environmental Taxes, and Rare Earth Recycling: A Game-Theoretical Analysis of Reverse Supply Chain Equilibrium",
+      "authors": [
+        "Jiawen Xiao",
+        "Xiuli Wang",
+        "稔 国岡",
+        "Zhiwei Zhang"
+      ],
+      "venue": "Sustainability",
+      "date": "2026-08-12",
+      "abstract": "Rare earths are a strategically vital mineral resource on a global scale; the security of their supply chain and their recycling face severe challenges amid dual pressures of resource scarcity and environmental protection. This study focuses on the reverse supply chain for rare earth permanent magnet…",
+      "link": "https://doi.org/10.3390/su18168281",
       "source": "OpenAlex"
     }
   ]
