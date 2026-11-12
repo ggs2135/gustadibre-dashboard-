@@ -1,0 +1,101 @@
+{
+  "generatedAt": "2026-11-12T15:44:17.357Z",
+  "items": [
+    {
+      "headline": "Speedshield introduces vehicle detection for AiVA safety system",
+      "summary": "Speedshield Technologies has added vehicle detection to its existing pedestrian safety system platform. The company’s AiVA safety system uses stereoscopic 3D and […] The post Speedshield introduces vehicle detection…",
+      "category": "supply",
+      "minerals": [],
+      "source": "Canadian Mining Journal",
+      "date": "2026-11-12",
+      "link": "https://www.canadianminingjournal.com/news/speedshield-introduces-vehicle-detection-for-aiva-safety-system/"
+    },
+    {
+      "headline": "Nvidia turmoil tests metals demand boom",
+      "summary": "Jensen Huang’s departure from Nvidia has put the leadership behind the artificial intelligence boom under scrutiny, exposing a risk for miners counting on new data... The post Nvidia turmoil tests metals demand boom…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-12",
+      "link": "https://www.northernminer.com/news/nvidia-turmoil-tests-metals-demand-boom/1003897724/"
+    },
+    {
+      "headline": "Hudbay cuts cost outlook as Copper Mountain improves",
+      "summary": "Hudbay Minerals (TSX, NYSE: HBM) reduced its annual cost forecast again as Copper Mountain generated positive quarterly free cash flow for the first time since... The post Hudbay cuts cost outlook as Copper Mountain…",
+      "category": "supply",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-11-12",
+      "link": "https://www.northernminer.com/news/hudbay-cuts-cost-outlook-as-copper-mountain-improves/1003897722/"
+    },
+    {
+      "headline": "Techking contributes expertise to IEEE digital mine standard",
+      "summary": "As mining operations become increasingly connected and automated, the need for consistent data management and system integration is growing. The newly released IEEE Std 3179-2026, IEEE Recommended Practice for Digital…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-11-12",
+      "link": "https://im-mining.com/2026/11/12/techking-contributes-expertise-to-ieee-digital-mine-standard/"
+    },
+    {
+      "headline": "CASCADE project wins UK Government backing for hydrometallurgical process development",
+      "summary": "ReOre Technologies, an Altilium group company focused on recovery of critical minerals from mining waste, has announced that it will lead a new government-backed project that seeks to unlock domestic supplies of…",
+      "category": "science",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-11-12",
+      "link": "https://im-mining.com/2026/11/12/cascade-project-wins-uk-government-backing-for-hydrometallurgical-process-development/"
+    },
+    {
+      "headline": "BASF to sell leaching, flotation and SX reagents business to SNF",
+      "summary": "BASF has signed an agreement to sell its mining solutions business to SNF, a privately held, specialty chemical company based in Andrézieux-Bouthéon, France. The divestment of BASF’s mining business follows a…",
+      "category": "science",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-11-12",
+      "link": "https://im-mining.com/2026/11/12/basf-to-sell-leaching-flotation-and-sx-reagents-business-to-snf/"
+    },
+    {
+      "headline": "Barrick files for IPO with $1.25B dividend plan",
+      "summary": "Barrick Mining (TSX: ABX; NYSE: B) has filed to take its North American gold business public in New York, advancing a planned share sale that... The post Barrick files for IPO with $1.25B dividend plan appeared first…",
+      "category": "funding",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-11",
+      "link": "https://www.northernminer.com/news/barrick-files-for-ipo-with-1-25b-dividend-plan/1003897675/"
+    },
+    {
+      "headline": "Mining companies raise $2.4B in a month",
+      "summary": "Mining companies raised $2.4 billion (US$1.69 billion) in the month through Oct. 15, led by Osisko Gold Group’s debt and equity financings for its Cariboo... The post Mining companies raise $2.4B in a month appeared…",
+      "category": "funding",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-11",
+      "link": "https://www.northernminer.com/commodities-markets/mining-companies-raise-2-4b-in-a-month/1003897585/"
+    },
+    {
+      "headline": "NVRO Metals closes $35M private placement, plans Northern Territories acquisition",
+      "summary": "NVRO Metals (TSXV: NVRO) has raised $35 million (US$24.57 million) to fund the acquisition of Northern Territories Resources. The money was raised […] The post NVRO Metals closes $35M private placement, plans Northern…",
+      "category": "funding",
+      "minerals": [],
+      "source": "Canadian Mining Journal",
+      "date": "2026-11-11",
+      "link": "https://www.canadianminingjournal.com/news/nvro-metals-closes-35m-private-placement-plans-northern-territories-acquisition/"
+    },
+    {
+      "headline": "India bans export of lithium-ion battery recycled material",
+      "summary": "The Indian government on Tuesday banned the export of lithium-ion battery black mass, a recycled battery material containing metals such as lithium, cobalt, nickel and manganese, by changing its export status from…",
+      "category": "science",
+      "minerals": [
+        "Lithium",
+        "Cobalt",
+        "Nickel"
+      ],
+      "source": "MINING.com — Battery Metals",
+      "date": "2026-11-11",
+      "link": "https://www.mining.com/web/india-bans-export-of-lithium-ion-battery-recycled-material/"
+    }
+  ]
+}

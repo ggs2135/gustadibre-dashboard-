@@ -1,52 +1,70 @@
 {
-  "generatedAt": "2026-11-11T14:53:10.751Z",
+  "generatedAt": "2026-11-12T15:44:17.357Z",
   "items": [
     {
-      "headline": "Newfoundland’s Memorial plans mining master’s",
-      "summary": "ST. JOHN’S, N.L. — Memorial University is developing a master’s program in mining and mineral processing to help ease an industry skills shortage years before... The post Newfoundland’s Memorial plans mining master’s…",
+      "headline": "Speedshield introduces vehicle detection for AiVA safety system",
+      "summary": "Speedshield Technologies has added vehicle detection to its existing pedestrian safety system platform. The company’s AiVA safety system uses stereoscopic 3D and […] The post Speedshield introduces vehicle detection…",
+      "category": "supply",
+      "minerals": [],
+      "source": "Canadian Mining Journal",
+      "date": "2026-11-12",
+      "link": "https://www.canadianminingjournal.com/news/speedshield-introduces-vehicle-detection-for-aiva-safety-system/"
+    },
+    {
+      "headline": "Nvidia turmoil tests metals demand boom",
+      "summary": "Jensen Huang’s departure from Nvidia has put the leadership behind the artificial intelligence boom under scrutiny, exposing a risk for miners counting on new data... The post Nvidia turmoil tests metals demand boom…",
       "category": "supply",
       "minerals": [],
       "source": "The Northern Miner",
-      "date": "2026-11-11",
-      "link": "https://www.northernminer.com/news/newfoundlands-memorial-plans-mining-masters/1003897671/"
+      "date": "2026-11-12",
+      "link": "https://www.northernminer.com/news/nvidia-turmoil-tests-metals-demand-boom/1003897724/"
     },
     {
-      "headline": "Uzbekistan targets uranium output on Canada’s scale",
-      "summary": "Uzbekistan aims to double uranium production by 2030 to a level exceeding Canada’s entire 2024 output, as state-owned Navoiyuran develops new deposits and reduces its... The post Uzbekistan targets uranium output on…",
+      "headline": "Hudbay cuts cost outlook as Copper Mountain improves",
+      "summary": "Hudbay Minerals (TSX, NYSE: HBM) reduced its annual cost forecast again as Copper Mountain generated positive quarterly free cash flow for the first time since... The post Hudbay cuts cost outlook as Copper Mountain…",
       "category": "supply",
-      "minerals": [],
+      "minerals": [
+        "Copper"
+      ],
       "source": "The Northern Miner",
-      "date": "2026-11-11",
-      "link": "https://www.northernminer.com/news/uzbekistan-targets-uranium-output-on-canadas-scale/1003897668/"
+      "date": "2026-11-12",
+      "link": "https://www.northernminer.com/news/hudbay-cuts-cost-outlook-as-copper-mountain-improves/1003897722/"
     },
     {
-      "headline": "Global Air Cylinder Wheels receives PO from global miner for alternative OTR tyres",
-      "summary": "Global Air Cylinder Wheels®, the innovator behind the patented Air Suspension Wheel® (ASW), says it has received another significant purchase order from a global mining company. The latest order represents another…",
+      "headline": "Techking contributes expertise to IEEE digital mine standard",
+      "summary": "As mining operations become increasingly connected and automated, the need for consistent data management and system integration is growing. The newly released IEEE Std 3179-2026, IEEE Recommended Practice for Digital…",
       "category": "supply",
       "minerals": [],
       "source": "International Mining",
-      "date": "2026-11-11",
-      "link": "https://im-mining.com/2026/11/11/global-air-cylinder-wheels-receives-po-from-global-miner-for-alternative-otr-tyres/"
+      "date": "2026-11-12",
+      "link": "https://im-mining.com/2026/11/12/techking-contributes-expertise-to-ieee-digital-mine-standard/"
     },
     {
-      "headline": "EverMetal acquires UK critical metals recycler Advanced Alloys",
-      "summary": "EverMetal Holdings has acquired UK-based critical metals recycler Advanced Alloys, expanding its superalloy recycling operations into Europe as it builds a transatlantic platform serving aerospace and other…",
+      "headline": "CASCADE project wins UK Government backing for hydrometallurgical process development",
+      "summary": "ReOre Technologies, an Altilium group company focused on recovery of critical minerals from mining waste, has announced that it will lead a new government-backed project that seeks to unlock domestic supplies of…",
       "category": "science",
-      "minerals": [
-        "Recycling"
-      ],
-      "source": "MINING.com",
-      "date": "2026-11-11",
-      "link": "https://www.mining.com/evermetal-acquires-uk-critical-metals-recycler-advanced-alloys/"
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-11-12",
+      "link": "https://im-mining.com/2026/11/12/cascade-project-wins-uk-government-backing-for-hydrometallurgical-process-development/"
     },
     {
-      "headline": "Podcast: PDAC’s Jeff Killeen on what Canada’s budget means for mineral exploration",
-      "summary": "This week on The Northern Miner Podcast, host Adrian Pocobelli speaks with Jeff Killeen, PDAC’s senior director of policy and programs, about what Canada’s federal... The post Podcast: PDAC’s Jeff Killeen on what…",
-      "category": "supply",
+      "headline": "BASF to sell leaching, flotation and SX reagents business to SNF",
+      "summary": "BASF has signed an agreement to sell its mining solutions business to SNF, a privately held, specialty chemical company based in Andrézieux-Bouthéon, France. The divestment of BASF’s mining business follows a…",
+      "category": "science",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-11-12",
+      "link": "https://im-mining.com/2026/11/12/basf-to-sell-leaching-flotation-and-sx-reagents-business-to-snf/"
+    },
+    {
+      "headline": "Barrick files for IPO with $1.25B dividend plan",
+      "summary": "Barrick Mining (TSX: ABX; NYSE: B) has filed to take its North American gold business public in New York, advancing a planned share sale that... The post Barrick files for IPO with $1.25B dividend plan appeared first…",
+      "category": "funding",
       "minerals": [],
       "source": "The Northern Miner",
       "date": "2026-11-11",
-      "link": "https://www.northernminer.com/news/podcast-pdacs-jeff-killeen-on-what-canadas-budget-means-for-mineral-exploration/1003897627/"
+      "link": "https://www.northernminer.com/news/barrick-files-for-ipo-with-1-25b-dividend-plan/1003897675/"
     },
     {
       "headline": "Mining companies raise $2.4B in a month",
@@ -58,40 +76,26 @@
       "link": "https://www.northernminer.com/commodities-markets/mining-companies-raise-2-4b-in-a-month/1003897585/"
     },
     {
-      "headline": "US critical minerals funding to withstand congressional shift, advisers say",
-      "summary": "Washington has been ramping up investment in US critical minerals , mining, processing and domestic manufacturing , and the momentum will likely continue under a Democratic-controlled Congress, with previously…",
-      "category": "politics",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-11-10",
-      "link": "https://www.mining.com/us-critical-minerals-funding-to-withstand-congressional-shift-advisers-say/"
-    },
-    {
-      "headline": "Basic Materials Roundup: Market Talk",
-      "summary": "Find insight on gold futures, Barrick Mining, gold futures and more in the latest Market Talks covering Basic Materials.",
-      "category": "economic",
-      "minerals": [],
-      "source": "WSJ — Markets",
-      "date": "2026-11-10",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-eeb0108f?mod=rss_markets_main"
-    },
-    {
-      "headline": "American Barrick files for proposed IPO",
-      "summary": "Barrick Mining (NYSE:B)(TSX:ABX) announced Tuesday that its planned new publicly listed company, which will hold Barrick’s North American gold assets, will be named American Barrick Gold Corporation. The world’s…",
+      "headline": "NVRO Metals closes $35M private placement, plans Northern Territories acquisition",
+      "summary": "NVRO Metals (TSXV: NVRO) has raised $35 million (US$24.57 million) to fund the acquisition of Northern Territories Resources. The money was raised […] The post NVRO Metals closes $35M private placement, plans Northern…",
       "category": "funding",
       "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-11-10",
-      "link": "https://www.mining.com/american-barrick-files-for-proposed-ipo/"
+      "source": "Canadian Mining Journal",
+      "date": "2026-11-11",
+      "link": "https://www.canadianminingjournal.com/news/nvro-metals-closes-35m-private-placement-plans-northern-territories-acquisition/"
     },
     {
-      "headline": "High level international delegation visits Meiteng for coal prep innovation insights",
-      "summary": "On October 28, 2026, six members of the International Organising Committee of the Coal Preparation Congress (ICPC), representing the US, Australia, South Africa, Poland, UK and Hungary, visited Tianjin Meiteng…",
-      "category": "politics",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-11-10",
-      "link": "https://im-mining.com/2026/11/10/high-level-international-delegation-visits-meiteng-for-coal-prep-innovation-insights/"
+      "headline": "India bans export of lithium-ion battery recycled material",
+      "summary": "The Indian government on Tuesday banned the export of lithium-ion battery black mass, a recycled battery material containing metals such as lithium, cobalt, nickel and manganese, by changing its export status from…",
+      "category": "science",
+      "minerals": [
+        "Lithium",
+        "Cobalt",
+        "Nickel"
+      ],
+      "source": "MINING.com — Battery Metals",
+      "date": "2026-11-11",
+      "link": "https://www.mining.com/web/india-bans-export-of-lithium-ion-battery-recycled-material/"
     }
   ]
 }

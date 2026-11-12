@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T14:53:13.657Z",
+  "generatedAt": "2026-11-12T15:44:19.342Z",
   "items": [
     {
       "title": "Advancing Group 13 chemistry in the context of critical minerals: recovery and functional materials",
@@ -10,6 +10,39 @@
       "date": "2026-12-01",
       "abstract": "",
       "link": "https://pure.qub.ac.uk/en/studentTheses/80d78259-0fbf-4308-b6a6-7461910e2f96",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Competencia geoestratégica por losminerales críticos: China-T-MEC.Futuro de vehículos eléctricos",
+      "authors": [
+        "Vera Patricia Prado Maillard"
+      ],
+      "venue": "China Global Review.",
+      "date": "2026-11-11",
+      "abstract": "The global energy transition has significantly increased the strategic value of critical minerals that are essential for batteries, semiconductors, and green technologies. China dominates a substantial share of the processing and refining of these raw materials, giving it a leading position in the global electric…",
+      "link": "https://doi.org/10.53897/revchinagr.2026.08.05",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Critical Mineral Prices and U.S. Electric Vehicle Sales: Supply Chain Resilience Implications",
+      "authors": [
+        "Hamid Muili"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-11-11",
+      "abstract": "",
+      "link": "https://doi.org/10.5281/zenodo.24121668",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Extractive contracts as political settlements: reconfiguring authority in fragile African states",
+      "authors": [
+        "Augustine Sungwacha Nalianya"
+      ],
+      "venue": "Third World Quarterly",
+      "date": "2026-11-11",
+      "abstract": "Extractive governance reforms have proliferated across resource-rich but institutionally fragile African states, yet authority and benefits remain concentrated among narrow political and corporate elites. This article advances a diagnostic argument that explains this persistence by conceptualising extractive…",
+      "link": "https://doi.org/10.1080/01436597.2026.2750482",
       "source": "OpenAlex"
     },
     {
@@ -52,56 +85,14 @@
       "source": "OpenAlex"
     },
     {
-      "title": "World Minerals Outlook—Antimony, Copper, Graphite, Niobium, Potash, Silicon, Silver, and Tungsten Through 2030 [Data]",
+      "title": "The other China shock: EU critical and strategic minerals dependency in comparative-historical perspective",
       "authors": [
-        "Andrew A Stewart",
-        "Loyd M. Trimmer",
-        "Jaewon Chung",
-        "Keita F. DeCarlo"
+        "Nicholas Jepson"
       ],
-      "venue": "USGS DOI Tool Production Environment",
+      "venue": "New Political Economy",
       "date": "2026-11-10",
-      "abstract": "As demand for mineral commodities continues to increase with rapidly evolving technologies and global economic growth, information regarding current and near-term future expected supply of the mineral commodities that enable such growth becomes a necessity. This data aids the understanding and evaluation of the…",
-      "link": "https://doi.org/10.5066/p13aavls",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "How microbes can secure the critical minerals the world needs",
-      "authors": [
-        "Gerhard Schenk",
-        "Paul Evans",
-        "Torben Vedel Borchert",
-        "Alan Tordoir"
-      ],
-      "venue": "Nature",
-      "date": "2026-11-10",
-      "abstract": "",
-      "link": "https://doi.org/10.1038/d41586-026-03629-4",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Critical Mineral Supply Risk Assessment: Open Data and Reproducible DSS Calculations for Chile, Argentina, and China",
-      "authors": [
-        "Інна Поліщук"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-11-10",
-      "abstract": "This dataset provides open statistical data, model parameters, and reproducible calculations supporting the research “An Intelligent Decision Support System for Assessing Critical Mineral Supply Risks in the Energy Transition.” The dataset demonstrates an intelligent decision support system (DSS) for assessing…",
-      "link": "https://doi.org/10.5281/zenodo.24100844",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Alternative finance for critical minerals: Ecosystem maturity and project-finance capability",
-      "authors": [
-        "Gert Zwingenberger",
-        "Mehmet Siddik Kizil",
-        "Peter F. Knights",
-        "Micah Nehring"
-      ],
-      "venue": "Resources Policy",
-      "date": "2026-11-10",
-      "abstract": "Australia has developed capital markets and experienced mining investors, yet critical minerals projects can require substantial investment before developers can demonstrate processing performance or secure long-term sales. This conceptual Perspective examines how alternative finance can become a repeatable financing…",
-      "link": "https://doi.org/10.1016/j.resourpol.2026.106095",
+      "abstract": "The current geopolitical saliency of critical and strategic minerals (CSMs) in Europe is not novel, but a cyclical phenomenon which has waxed and waned through several iterations since World War I. A comparative-historical analysis of these cycles reveals both recurrent and unique features of the current resurgence.…",
+      "link": "https://doi.org/10.1080/13563467.2026.2751105",
       "source": "OpenAlex"
     },
     {
