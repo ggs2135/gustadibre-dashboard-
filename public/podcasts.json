@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T15:04:08.468Z",
+  "generatedAt": "2026-11-14T13:55:30.133Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
         "title": "A crise da Nvidia e os riscos para a indústria da IA",
         "date": "2026-11-13",
@@ -26,11 +26,11 @@
     {
       "name": "WSJ What's News",
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "Schumer Has Competition",
-        "date": "2026-11-13",
-        "url": "https://open.spotify.com/episode/39GxA7L1WpAqYQYlLLSEhe",
+        "title": "What’s News in Markets: Nvidia’s Next Chapter, Coreweave’s Bullish Backlog, Microsoft’s Global Outage",
+        "date": "2026-11-14",
+        "url": "https://open.spotify.com/episode/7JBhcUbmm0bhzMADNUMlII",
         "isNew": true
       }
     },
