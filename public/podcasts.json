@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T13:55:30.133Z",
+  "generatedAt": "2026-11-15T14:29:25.611Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
         "title": "A crise da Nvidia e os riscos para a indústria da IA",
         "date": "2026-11-13",
@@ -26,11 +26,11 @@
     {
       "name": "WSJ What's News",
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "What’s News in Markets: Nvidia’s Next Chapter, Coreweave’s Bullish Backlog, Microsoft’s Global Outage",
-        "date": "2026-11-14",
-        "url": "https://open.spotify.com/episode/7JBhcUbmm0bhzMADNUMlII",
+        "title": "Where Does Nvidia Go From Here?",
+        "date": "2026-11-15",
+        "url": "https://open.spotify.com/episode/5VG1GIjvIrLnBKLnALIiO6",
         "isNew": true
       }
     },
@@ -42,13 +42,13 @@
         "title": "[Bonus] Workplace Safety and Foundational Biochemistry: The Lives of Alice Hamilton and Marie Maynard Daly",
         "date": "2026-11-12",
         "url": "https://open.spotify.com/episode/0MxPY320TQhjkLBgqXZwfG",
-        "isNew": true
+        "isNew": false
       }
     },
     {
       "name": "Stereo Chemistry",
       "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
       "latestEpisode": {
         "title": "Uncovered: Plastics Pyrolysis Under Fire",
         "date": "2026-11-05",

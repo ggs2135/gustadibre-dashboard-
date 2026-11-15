@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T13:55:31.675Z",
+  "generatedAt": "2026-11-15T14:29:26.641Z",
   "items": [
     {
       "title": "Advancing Group 13 chemistry in the context of critical minerals: recovery and functional materials",
@@ -10,6 +10,63 @@
       "date": "2026-12-01",
       "abstract": "",
       "link": "https://pure.qub.ac.uk/en/studentTheses/80d78259-0fbf-4308-b6a6-7461910e2f96",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Visionary, Technocrat, or Trimmer: What Mining Can Teach Us About Decision-Making Under Pressure",
+      "authors": [
+        "Priscilla P. Nelson"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-11-13",
+      "abstract": "Drawing on David Brooks's essay on heroic-visionary and technocratic leadership and the neglected third figure of the Trimmer, this essay asks whether balanced decision-making is a matter of a leader's temperament or can be built into an industry's practice. Mining runs all three cultures across a project's life:…",
+      "link": "https://doi.org/10.5281/zenodo.24208807",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Research on risk propagation in the global indium-bearing ore trade network and its impact on China’s indium industrial chain",
+      "authors": [
+        "Jing Lin"
+      ],
+      "venue": "Journal of Industrial Ecology",
+      "date": "2026-11-13",
+      "abstract": "",
+      "link": "https://doi.org/10.1007/s44498-026-00208-8",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Suriname 2050 and Beyond: The Suriname Navigator",
+      "authors": [
+        "Marcel P.T. Chin-A-Lien"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-11-13",
+      "abstract": "Synthesis essay, Revision 1.0 (13 November 2026). Suriname now has a sanctioned giant oil development (GranMorgu, 50% executed, first oil 2028) and, for the first time, a national process to decide what the oil is for: the National Development Platform installed on 26 June 2026 with a one-year mandate for a roadmap…",
+      "link": "https://doi.org/10.5281/zenodo.24189393",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Measuring the Effect of Tariffs on Critical Minerals Trade in a Multidimensional Panel",
+      "authors": [
+        "Muhammad Afnan Arif"
+      ],
+      "venue": "Research Square",
+      "date": "2026-11-13",
+      "abstract": "Abstract Estimated tariff elasticities for critical minerals change several-fold as fixed effects are added and this instability is usually treated as specification sensitivity. This paper traces it to non-identification. A tariff schedule published for an importer, a product and a year takes one value for every…",
+      "link": "https://doi.org/10.21203/rs.3.rs-11503075/v1",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Mesophase-Derived Polymer Membranes with Precisely Defined Pores for Molecular and Ion Separations",
+      "authors": [
+        "Yizhou Zhang",
+        "Jack E. Granite",
+        "Chinedum O. Osuji"
+      ],
+      "venue": "Macromolecules",
+      "date": "2026-11-13",
+      "abstract": "Abstract Polymer membranes are central components in critical technologies, including energy generation and storage, water purification, and chemical separations. There are pressing needs for membranes that transport uncharged and charged molecular, or ionic species, with bespoke selectivity and high permeability in…",
+      "link": "https://doi.org/10.1021/acs.macromol.6c00920",
       "source": "OpenAlex"
     },
     {
@@ -37,17 +94,6 @@
       "source": "OpenAlex"
     },
     {
-      "title": "Critical minerals and rare earths",
-      "authors": [
-        "Mérisphère Publishing"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-11-12",
-      "abstract": "Maison d'édition indépendante — essais, sciences humaines et littératures d'Afrique et du monde. Translation of FD-11 — Minerais critiques et terres rares.",
-      "link": "https://doi.org/10.5281/zenodo.24176095",
-      "source": "OpenAlex"
-    },
-    {
       "title": "PuLPCBC code as Supplementary Material \"The Structural Shift in Optical Network Architectures: Critical Mineral Supply Chains vs. Synthetically Doped Non-Critical Waveguides\" for consideration as a Regular Paper in the Journal of Lightwave Technology.",
       "authors": [
         "Deepa Naik"
@@ -56,40 +102,6 @@
       "date": "2026-11-12",
       "abstract": "This is the he simulation code that generates all results reported in Tables II and III is provided as supplementary material accompanying the above article. The complete open-source Python script (PuLP + CBC implementation of the risk-aware two-stage stochastic MILP and the deterministic traffic-grooming model) .…",
       "link": "https://doi.org/10.21227/zr4q-k823",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Longitude Policy Brief No. 1: Coordinating Brazil's External Action at the Start of the Fourth Lula da Silva Administration",
-      "authors": [
-        "Antônio Carlos Lessa",
-        "CARLOS ROBERTO PIO DA COSTA FILHO"
-      ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-11-12",
-      "abstract": "In the weeks before Lula da Silva’s fourth administration begins on 1 January 2027, Brazil’s foreign-policy agenda is already defined by instruments in force: a US tariff under Section 301, a partnership with China framed by the 2024 joint declaration, a trade agreement with the European Union applied provisionally…",
-      "link": "https://doi.org/10.5281/zenodo.24176582",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Mining Innovation: Connecting Disciplines, Industries and Nations",
-      "authors": [
-        "Guangyao Si"
-      ],
-      "venue": null,
-      "date": "2026-11-12",
-      "abstract": "Mining is one of the oldest engineering disciplines and remains fundamental to modern civilization.Throughout history, the extraction and utilization of mineral and energy resources have underpinned industrial development, technological progress, and economic growth.Over time, mining has evolved into a highly…",
-      "link": "https://doi.org/10.26599/mi.2026.9770001",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Competencia geoestratégica por losminerales críticos: China-T-MEC.Futuro de vehículos eléctricos",
-      "authors": [
-        "Vera Patricia Prado Maillard"
-      ],
-      "venue": "China Global Review.",
-      "date": "2026-11-11",
-      "abstract": "The global energy transition has significantly increased the strategic value of critical minerals that are essential for batteries, semiconductors, and green technologies. China dominates a substantial share of the processing and refining of these raw materials, giving it a leading position in the global electric…",
-      "link": "https://doi.org/10.53897/revchinagr.2026.08.05",
       "source": "OpenAlex"
     },
     {
@@ -177,7 +189,7 @@
       ],
       "venue": "Journal of the Korean Society of Mineral and Energy Resources Engineers",
       "date": "2026-10-31",
-      "abstract": "",
+      "abstract": "Critical mineral supply chains are increasingly vulnerable to disruptions, yet relevant risk indicators are often scattered across multiple agencies, constraining timely crisis response.This study presents a prototype decision support platform that integrates publicly available data into a composite minerallevel risk…",
       "link": "https://doi.org/10.32390/ksmer.2026.63.5.602",
       "source": "OpenAlex"
     },
@@ -284,17 +296,6 @@
       "date": "2026-08-03",
       "abstract": "A Correction on: Hu F, Yang H, Zhou X, Zhao S, Qiu L, Wei S, Hu J, Chen Y, Hu H and Zhou H (2026) Spatial dynamics of lithium battery recycling enterprises in China: implications for smart waste management and public health. Front. Public Health 13:1729413. doi: 10.3389/fpubh.2025.1729413An incorrect affiliation was…",
       "link": "https://doi.org/10.3389/fpubh.2026.1945660",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Respon Taiwan pada Kebijakan Pengurangan Ekspor Material Kritis oleh Tiongkok Tahun 2023-2025",
-      "authors": [
-        "Lois Sintikhe Br Siahaan"
-      ],
-      "venue": "Demokrasi Jurnal Riset Ilmu Hukum Sosial dan Politik",
-      "date": "2026-07-31",
-      "abstract": "Semiconductors are the backbone of the digital economy, and Taiwan plays a crucial role by controlling more than 60% of global semiconductor production and over 90% of advanced chip manufacturing. However, Taiwan’s semiconductor industry remains highly dependent on critical materials, most of which are supplied by…",
-      "link": "https://doi.org/10.62383/demokrasi.v3i3.1851",
       "source": "OpenAlex"
     }
   ]
