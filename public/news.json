@@ -1,56 +1,45 @@
 {
-  "generatedAt": "2026-11-15T14:29:23.366Z",
+  "generatedAt": "2026-11-16T16:42:35.855Z",
   "items": [
     {
-      "headline": "Quais países estão na mira do Brasil para desenvolver cadeias de minerais críticos e terras raras?",
-      "summary": "Terras raras: a disputa global por uma riqueza brasileira Um dos focos do governo Lula 4 é ampliar a exploração de minerais críticos e terras raras no Brasil, que reúne algumas das maiores reservas mundiais de…",
+      "headline": "Asante eyes Bibiani savings after guidance retreat",
+      "summary": "Asante Gold (TSXV: ASE; GSE: ASG) is examining whether an expanded open pit at the Bibiani mine in Ghana could defer underground development spending, as... The post Asante eyes Bibiani savings after guidance retreat…",
       "category": "supply",
       "minerals": [],
-      "source": "G1 — Economia",
-      "date": "2026-11-15",
-      "link": "https://g1.globo.com/inovacao/noticia/2026/11/15/quais-paises-estao-na-mira-do-brasil-para-desenvolver-cadeias-de-minerais-criticos-e-terras-raras.ghtml"
+      "source": "The Northern Miner",
+      "date": "2026-11-16",
+      "link": "https://www.northernminer.com/exploration/asante-eyes-bibiani-savings-after-guidance-retreat/1003897842/"
     },
     {
-      "headline": "Heavier-than-expected electron behavior may explain slower electrical flow in alpha-gallium oxide",
-      "summary": "Power electronic devices help control the flow of electricity and convert it into forms needed by different machines, such as electric vehicles, renewable energy systems and industrial equipment. Some electrical energy…",
-      "category": "supply",
-      "minerals": [
-        "Gallium"
-      ],
-      "source": "Phys.org Chemistry",
-      "date": "2026-11-14",
-      "link": "https://phys.org/news/2026-11-heavier-electron-behavior-slower-electrical.html"
-    },
-    {
-      "headline": "Freeport strikes $77M deal for BC copper stake",
-      "summary": "Freeport-McMoRan (NYSE: FCX) has agreed to pay $77.2 million (C$110 million) for a controlling stake in TDG Gold’s (TSXV: TDG) Aurora West project in British Columbia, advancing consolidation around the neighbouring…",
+      "headline": "Rio pledges $250M to address Panguna damage",
+      "summary": "Rio Tinto (LSE: RIO; NYSE: RIO; ASX: RIO) has pledged $250 million (C$356 million) to address environmental and human-rights impacts from the former Panguna copper-gold... The post Rio pledges $250M to address Panguna…",
       "category": "supply",
       "minerals": [
         "Copper"
       ],
-      "source": "MINING.com",
-      "date": "2026-11-13",
-      "link": "https://www.mining.com/freeport-strikes-110m-deal-for-bc-copper-stake/"
+      "source": "The Northern Miner",
+      "date": "2026-11-16",
+      "link": "https://www.northernminer.com/fast-news/rio-pledges-250m-to-address-panguna-damage/1003897835/"
     },
     {
-      "headline": "Capstone cuts copper outlook as restart slips",
-      "summary": "Capstone Copper (TSX: CS; ASX: CSC) has lowered the bottom of its annual copper production forecast by 5,000 tonnes after delaying the full restart of its Pinto Valley operation in Arizona until mid-December. The…",
+      "headline": "Rock Tech extends Victory trend 10 km with new discovery",
+      "summary": "Rock Tech Lithium (TSXV: RCK) says a new spodumene-bearing pegmatite discovery at its Victory lithium project in northwestern Ontario has extended its […] The post Rock Tech extends Victory trend 10 km with new…",
       "category": "supply",
       "minerals": [
-        "Copper"
+        "Lithium"
       ],
-      "source": "MINING.com",
-      "date": "2026-11-13",
-      "link": "https://www.mining.com/capstone-cuts-copper-outlook-as-restart-slips/"
+      "source": "Canadian Mining Journal",
+      "date": "2026-11-16",
+      "link": "https://www.canadianminingjournal.com/news/rock-tech-extends-victory-trend-10-km-with-new-discovery/"
     },
     {
-      "headline": "Basic Materials Roundup: Market Talk",
-      "summary": "Find insight on gold futures, Press Metal Aluminium, Evolution Mining and more in the latest Market Talks covering basic materials.",
-      "category": "economic",
+      "headline": "Resource Review video: Industry needs workers, power, CIM says",
+      "summary": "Canada’s push to accelerate mining development risks running ahead of its workforce, with too few people available to meet demand over the next decade, Canadian... The post Resource Review video: Industry needs…",
+      "category": "supply",
       "minerals": [],
-      "source": "WSJ — Markets",
-      "date": "2026-11-13",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-b3b3c77e?mod=rss_markets_main"
+      "source": "The Northern Miner",
+      "date": "2026-11-16",
+      "link": "https://www.northernminer.com/news/resource-review-video-industry-needs-workers-power-cmi-says/1003897833/"
     },
     {
       "headline": "Modern Mining makes NYSE American debut",
@@ -62,17 +51,6 @@
       "link": "https://www.mining.com/modern-mining-makes-nyse-american-debut/"
     },
     {
-      "headline": "Gold, Silver Futures Post Weekly Losses",
-      "summary": "Gold futures held their ground in choppy trading as a below-estimate U.S. producer price reading and steadying oil prices ease inflation concerns that sank the metals the previous session.",
-      "category": "economic",
-      "minerals": [
-        "Silver"
-      ],
-      "source": "WSJ — Markets",
-      "date": "2026-11-13",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-in-technical-rebound-10e4e211?mod=rss_markets_main"
-    },
-    {
       "headline": "Minera Los Pelambres exceeds its mining tyre recycling goal by 240%",
       "summary": "Antofagasta Minerals’ Minera Los Pelambres has received a new recognition, this time for its management in the recycling and recovery of end-of-life mining tyres. The recognition, given by the Michelin NFU company,…",
       "category": "science",
@@ -82,24 +60,6 @@
       "source": "International Mining",
       "date": "2026-11-13",
       "link": "https://im-mining.com/2026/11/13/minera-los-pelambres-exceeds-its-mining-tyre-recycling-goal-by-240/"
-    },
-    {
-      "headline": "SYMX.AI raises another $6 million & looks to bring real physical AI results in mining",
-      "summary": "SYMX.AI, the developer of a full-stack industrial AI platform for mobile equipment, late last month announced US$6,000,000 of Series A financing led by Ascent Capital Partners, as well as a global technology and…",
-      "category": "funding",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-11-13",
-      "link": "https://im-mining.com/2026/11/13/symx-ai-raises-another-6-million-looks-to-bring-real-physical-ai-results-in-mining/"
-    },
-    {
-      "headline": "CASCADE project wins UK Government backing for hydrometallurgical process development",
-      "summary": "ReOre Technologies, an Altilium group company focused on recovery of critical minerals from mining waste, has announced that it will lead a new government-backed project that seeks to unlock domestic supplies of…",
-      "category": "science",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-11-12",
-      "link": "https://im-mining.com/2026/11/12/cascade-project-wins-uk-government-backing-for-hydrometallurgical-process-development/"
     }
   ]
 }
