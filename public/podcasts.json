@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-16T16:42:36.544Z",
+  "generatedAt": "2026-11-17T16:39:09.921Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
-        "title": "O (primeiro) pacote fiscal para o governo Lula 4",
-        "date": "2026-11-16",
-        "url": "https://open.spotify.com/episode/169dgQCDMcG0okUBgVbpFO",
+        "title": "O projeto que pode avançar na regulação de big techs",
+        "date": "2026-11-17",
+        "url": "https://open.spotify.com/episode/3Q3PLHoCsUCpv8alBmEOdI",
         "isNew": true
       }
     },
@@ -17,9 +17,9 @@
       "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
       "latestEpisode": {
-        "title": "#719: Ancelotti deve seguir na seleção? Palmeiras liga o alerta por Piquerez!",
+        "title": "De Carona #22: Dunga de volta à Seleção? Brasileiro, um puxadinho? Arnaldo e Tironi respondem",
         "date": "2026-11-16",
-        "url": "https://open.spotify.com/episode/61RNIhJjYSub7nvFaZdSCF",
+        "url": "https://open.spotify.com/episode/2oEBArpfS9QsRej8CXVvQl",
         "isNew": true
       }
     },
@@ -28,9 +28,9 @@
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "Sean Duffy Wants $50 Billion to Prevent More Travel Chaos",
-        "date": "2026-11-16",
-        "url": "https://open.spotify.com/episode/0ZiHkVEw4eiDRozXeiF3Eb",
+        "title": "Can Trump Keep Both China and America’s Asian Allies Happy?",
+        "date": "2026-11-17",
+        "url": "https://open.spotify.com/episode/3IUs7xLkbwl3ZVMyHGdPkZ",
         "isNew": true
       }
     },
@@ -48,7 +48,7 @@
     {
       "name": "Stereo Chemistry",
       "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
       "latestEpisode": {
         "title": "Uncovered: Plastics Pyrolysis Under Fire",
         "date": "2026-11-05",

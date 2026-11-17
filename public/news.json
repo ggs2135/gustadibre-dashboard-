@@ -1,65 +1,74 @@
 {
-  "generatedAt": "2026-11-16T16:42:35.855Z",
+  "generatedAt": "2026-11-17T16:39:09.103Z",
   "items": [
     {
-      "headline": "Asante eyes Bibiani savings after guidance retreat",
-      "summary": "Asante Gold (TSXV: ASE; GSE: ASG) is examining whether an expanded open pit at the Bibiani mine in Ghana could defer underground development spending, as... The post Asante eyes Bibiani savings after guidance retreat…",
+      "headline": "New Intelliense Strategic Advisory Board looks at where AI is delivering value in real-world mining",
+      "summary": "IntelliSense.io, a leader in Industrial Decision Intelligence for mining and minerals processing, recently detailed the mandate of its Strategic Advisory Board, first announced alongside its investment partnership with…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-11-17",
+      "link": "https://im-mining.com/2026/11/17/new-intelliense-strategic-advisory-board-looks-at-where-ai-is-delivering-value-in-real-world-mining/"
+    },
+    {
+      "headline": "Petro-Canada looks to maximise uptime, extend engine life and reduce TCO with new DURON engine oils",
+      "summary": "Petro-Canada Lubricants, an HF Sinclair brand, has unveiled its next generation of DURON heavy-duty engine oils, engineered to help fleets maximise uptime, extend engine life and reduce total operating costs. Designed…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-11-17",
+      "link": "https://im-mining.com/2026/11/17/petro-canada-looks-to-maximise-uptime-extend-engine-life-and-reduce-tco-with-new-duron-engine-oils/"
+    },
+    {
+      "headline": "Electra adds nickel to Positive Materials partnership",
+      "summary": "Electra Battery Metals (TSXV: ELBM) has amended its supply agreement with Positive Materials to include Electra’s future production of nickel sulfate and […] The post Electra adds nickel to Positive Materials…",
+      "category": "supply",
+      "minerals": [
+        "Nickel"
+      ],
+      "source": "Canadian Mining Journal",
+      "date": "2026-11-17",
+      "link": "https://www.canadianminingjournal.com/news/electra-adds-nickel-to-positive-materials-partnership/"
+    },
+    {
+      "headline": "Sponsored Resource Review video: Iron Bear pitches a 44-year iron ore mine",
+      "summary": "Iron Bear Resources Managing Director Paul Berend in conversation with The Northern Miner video host Devan Murugan. This sponsored video is PROMOTED CONTENT paid for... The post Sponsored Resource Review video: Iron…",
       "category": "supply",
       "minerals": [],
       "source": "The Northern Miner",
-      "date": "2026-11-16",
-      "link": "https://www.northernminer.com/exploration/asante-eyes-bibiani-savings-after-guidance-retreat/1003897842/"
+      "date": "2026-11-17",
+      "link": "https://www.northernminer.com/video/sponsored-resource-review-video-iron-bear-pitches-a-44-year-iron-ore-mine/1003897909/"
     },
     {
-      "headline": "Rio pledges $250M to address Panguna damage",
-      "summary": "Rio Tinto (LSE: RIO; NYSE: RIO; ASX: RIO) has pledged $250 million (C$356 million) to address environmental and human-rights impacts from the former Panguna copper-gold... The post Rio pledges $250M to address Panguna…",
-      "category": "supply",
+      "headline": "Canada widens tariff relief on Chinese metals",
+      "summary": "Canada will expand tariff relief on Chinese steel and aluminum products in short supply at home and extend existing exemptions through 2028, as Prime Minister... The post Canada widens tariff relief on Chinese metals…",
+      "category": "economic",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-17",
+      "link": "https://www.northernminer.com/news/canada-widens-tariff-relief-on-chinese-metals/1003897890/"
+    },
+    {
+      "headline": "Canadian Copper adds $9.8M for New Brunswick plan",
+      "summary": "Canadian Copper (CSE: CCI) has raised $9.8 million (US$6.8 million) through warrant exercises, lifting its treasury above $24 million as it advances a plan to... The post Canadian Copper adds $9.8M for New Brunswick…",
+      "category": "funding",
       "minerals": [
         "Copper"
       ],
       "source": "The Northern Miner",
       "date": "2026-11-16",
-      "link": "https://www.northernminer.com/fast-news/rio-pledges-250m-to-address-panguna-damage/1003897835/"
+      "link": "https://www.northernminer.com/exploration/canadian-copper-adds-9-8m-for-new-brunswick-plan/1003897863/"
     },
     {
-      "headline": "Rock Tech extends Victory trend 10 km with new discovery",
-      "summary": "Rock Tech Lithium (TSXV: RCK) says a new spodumene-bearing pegmatite discovery at its Victory lithium project in northwestern Ontario has extended its […] The post Rock Tech extends Victory trend 10 km with new…",
-      "category": "supply",
-      "minerals": [
-        "Lithium"
-      ],
-      "source": "Canadian Mining Journal",
-      "date": "2026-11-16",
-      "link": "https://www.canadianminingjournal.com/news/rock-tech-extends-victory-trend-10-km-with-new-discovery/"
-    },
-    {
-      "headline": "Resource Review video: Industry needs workers, power, CIM says",
-      "summary": "Canada’s push to accelerate mining development risks running ahead of its workforce, with too few people available to meet demand over the next decade, Canadian... The post Resource Review video: Industry needs…",
-      "category": "supply",
-      "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-11-16",
-      "link": "https://www.northernminer.com/news/resource-review-video-industry-needs-workers-power-cmi-says/1003897833/"
-    },
-    {
-      "headline": "Modern Mining makes NYSE American debut",
-      "summary": "Modern Mining shares began trading on the NYSE American Friday under the ticker symbol “MDRN,” following the successful completion of its approximately $40 million initial public offering (IPO). The company, which…",
-      "category": "funding",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-11-13",
-      "link": "https://www.mining.com/modern-mining-makes-nyse-american-debut/"
-    },
-    {
-      "headline": "Minera Los Pelambres exceeds its mining tyre recycling goal by 240%",
-      "summary": "Antofagasta Minerals’ Minera Los Pelambres has received a new recognition, this time for its management in the recycling and recovery of end-of-life mining tyres. The recognition, given by the Michelin NFU company,…",
+      "headline": "AI and experiments reveal impurities hindering waste plastic pyrolysis oil recycling",
+      "summary": "A Korean research team has identified how impurities interfere with the use of waste plastic pyrolysis oil as a petrochemical feedstock through catalytic experiments and artificial intelligence (AI)-based computational…",
       "category": "science",
       "minerals": [
         "Recycling"
       ],
-      "source": "International Mining",
-      "date": "2026-11-13",
-      "link": "https://im-mining.com/2026/11/13/minera-los-pelambres-exceeds-its-mining-tyre-recycling-goal-by-240/"
+      "source": "Phys.org Chemistry",
+      "date": "2026-11-16",
+      "link": "https://phys.org/news/2026-11-ai-reveal-impurities-hindering-plastic.html"
     }
   ]
 }
