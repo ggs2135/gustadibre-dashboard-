@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T16:16:01.865Z",
+  "generatedAt": "2026-11-20T15:53:32.785Z",
   "shows": [
     {
       "name": "Café da Manhã",
@@ -15,11 +15,11 @@
     {
       "name": "Posse de Bola",
       "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8aaf315bf52158b902adbd431b",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8aa9b2e3677a29a2e1d4ed5d08",
       "latestEpisode": {
-        "title": "De Carona #22: Dunga de volta à Seleção? Brasileiro, um puxadinho? Arnaldo e Tironi respondem",
-        "date": "2026-11-16",
-        "url": "https://open.spotify.com/episode/2oEBArpfS9QsRej8CXVvQl",
+        "title": "De Carona #23: Dinheiro público para clubes? Neri no São Paulo e a Copa que atropela o Brasileirão",
+        "date": "2026-11-19",
+        "url": "https://open.spotify.com/episode/7hf1jQujb6hRNzo8tugB81",
         "isNew": true
       }
     },
@@ -28,9 +28,9 @@
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "It’s Time for (Another) Record IPO",
-        "date": "2026-11-19",
-        "url": "https://open.spotify.com/episode/60wSPWZbRgG2Xbe5LzlWqa",
+        "title": "U.S. Floats NATO Membership for Ukraine",
+        "date": "2026-11-20",
+        "url": "https://open.spotify.com/episode/0mOmVwoGB3iVkna8vZSOtR",
         "isNew": true
       }
     },
@@ -48,7 +48,7 @@
     {
       "name": "Stereo Chemistry",
       "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
       "latestEpisode": {
         "title": "Uncovered: Plastics Pyrolysis Under Fire",
         "date": "2026-11-05",

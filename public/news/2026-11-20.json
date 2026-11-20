@@ -1,0 +1,107 @@
+{
+  "generatedAt": "2026-11-20T15:53:31.935Z",
+  "items": [
+    {
+      "headline": "Gold price hits 14-month low as miners’ costs rise near record pace",
+      "summary": "Bets on a December U.S. rate increase helped drive gold towards $3,500 an oz. Friday, testing miners’ budgets after all-in sustaining costs rose 22% year... The post Gold price hits 14-month low as miners’ costs rise…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-20",
+      "link": "https://www.northernminer.com/news/gold-price-falls-nears-3500-as-miners-costs-rise-at-record-pace/1003898076/"
+    },
+    {
+      "headline": "Endeavour’s $585M Pitarrilla plan faces silver slide",
+      "summary": "Endeavour Silver (TSX: EDR; NYSE: EXK) puts the initial cost of building its Pitarrilla project in Mexico at $585 million (C$837.5 million) — just as... The post Endeavour’s $585M Pitarrilla plan faces silver slide…",
+      "category": "supply",
+      "minerals": [
+        "Silver"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-11-20",
+      "link": "https://www.northernminer.com/news/endeavours-585m-pitarrilla-plan-faces-silver-slide/1003898072/"
+    },
+    {
+      "headline": "Sponsored: No cyanide, no gold. Atomika auctions give mines a second source",
+      "summary": "A gold mill stops without sodium cyanide, and each of the ten certified gold mines in Canada relied on a single producer […] The post Sponsored: No cyanide, no gold. Atomika auctions give mines a second source appeared…",
+      "category": "supply",
+      "minerals": [],
+      "source": "Canadian Mining Journal",
+      "date": "2026-11-20",
+      "link": "https://www.canadianminingjournal.com/news/sponsored-no-cyanide-no-gold-atomika-auctions-give-mines-a-second-source/"
+    },
+    {
+      "headline": "The U.S. Is Auctioning Off a Slice of the Pacific Ocean Floor in Push for Minerals",
+      "summary": "The Trump administration sold 31.5 million acres of seabed near American Samoa to unlock new sources of metals and minerals.",
+      "category": "politics",
+      "minerals": [],
+      "source": "WSJ — World News",
+      "date": "2026-11-20",
+      "link": "https://www.wsj.com/politics/the-u-s-is-auctioning-off-a-slice-of-the-pacific-ocean-floor-in-push-for-minerals-e6c1ecff?mod=rss_worldnews"
+    },
+    {
+      "headline": "China’s REBIO Group develops advanced crusher wear solutions for Sijiaying & Simandou mines",
+      "summary": "Weijia Jiang, Vice President of China’s REBIO Group, recently led a delegation comprising the Chief Expert of its Mining Wear Parts Division and other technical specialists to the Sijiaying Iron Ore Mine, operated by…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-11-20",
+      "link": "https://im-mining.com/2026/11/20/chinas-rebio-group-develops-advanced-crusher-wear-solutions-for-sijiaying-simandou-mines/"
+    },
+    {
+      "headline": "Friedland’s Ivanhoe Electric strikes high-grade copper",
+      "summary": "Ivanhoe Electric (NYSE American: IE; TSX: IE), backed by mining billionaire Robert Friedland, has discovered high-grade copper-gold-silver mineralization at its Gleeson project in southeastern Arizona,... The post…",
+      "category": "funding",
+      "minerals": [
+        "Copper",
+        "Silver"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-11-19",
+      "link": "https://www.northernminer.com/news/friedlands-ivanhoe-electric-strikes-high-grade-copper/1003898048/"
+    },
+    {
+      "headline": "Central banks rethink gold as global risks mount",
+      "summary": "Central banks are increasingly weighing geopolitical uncertainty alongside traditional financial risks when managing gold reserves, while new technology and retail investors reshape how the precious metal is held and…",
+      "category": "politics",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-11-19",
+      "link": "https://www.mining.com/central-banks-rethink-gold-as-global-risks-mount/"
+    },
+    {
+      "headline": "Friedland’s Ivanhoe Electric strikes high-grade copper in Arizona",
+      "summary": "Ivanhoe Electric (NYSE American: IE; TSX: IE), backed by mining billionaire Robert Friedland, has discovered high-grade copper-gold-silver mineralization at its Gleeson project in southeastern Arizona, making it the…",
+      "category": "funding",
+      "minerals": [
+        "Copper",
+        "Silver"
+      ],
+      "source": "MINING.com — Battery Metals",
+      "date": "2026-11-19",
+      "link": "https://www.mining.com/friedlands-ivanhoe-electric-strikes-high-grade-copper-in-arizona/"
+    },
+    {
+      "headline": "Lithium CEO warns of perils facing US critical minerals push",
+      "summary": "Lithium Americas Corp.’s flagship US mine has become an expensive test of the Trump administration’s push to rebuild a domestic critical minerals industry, with labor shortages, rising wages and tariffs pushing its…",
+      "category": "politics",
+      "minerals": [
+        "Lithium"
+      ],
+      "source": "MINING.com — Battery Metals",
+      "date": "2026-11-18",
+      "link": "https://www.mining.com/web/lithium-ceo-warns-of-perils-facing-us-critical-minerals-push/"
+    },
+    {
+      "headline": "Molten Industries launches first US graphite plant using natural gas",
+      "summary": "US cleantech and industrial manufacturing startup Molten Industries announced Wednesday the commissioning and commencement of operations at its demonstration plant in Oakland, California. The company said this marks…",
+      "category": "funding",
+      "minerals": [
+        "Graphite"
+      ],
+      "source": "MINING.com — Battery Metals",
+      "date": "2026-11-18",
+      "link": "https://www.mining.com/molten-industries-launches-first-us-graphite-plant-using-natural-gas/"
+    }
+  ]
+}
