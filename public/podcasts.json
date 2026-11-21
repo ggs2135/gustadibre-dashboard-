@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:53:32.785Z",
+  "generatedAt": "2026-11-21T15:03:46.123Z",
   "shows": [
     {
       "name": "Café da Manhã",
@@ -17,20 +17,20 @@
       "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8aa9b2e3677a29a2e1d4ed5d08",
       "latestEpisode": {
-        "title": "De Carona #23: Dinheiro público para clubes? Neri no São Paulo e a Copa que atropela o Brasileirão",
-        "date": "2026-11-19",
-        "url": "https://open.spotify.com/episode/7hf1jQujb6hRNzo8tugB81",
+        "title": "#720: Palmeiras X Flamengo: recado de Leila e a expectativa para o confronto no Brasileirão",
+        "date": "2026-11-20",
+        "url": "https://open.spotify.com/episode/22DctEeqXk3g37lHjVr4CW",
         "isNew": true
       }
     },
     {
       "name": "WSJ What's News",
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "U.S. Floats NATO Membership for Ukraine",
-        "date": "2026-11-20",
-        "url": "https://open.spotify.com/episode/0mOmVwoGB3iVkna8vZSOtR",
+        "title": "What’s News in Markets: Anthropic IPO, Nvidia Drama, ‘GTA VI’",
+        "date": "2026-11-21",
+        "url": "https://open.spotify.com/episode/7p9V0Id8U1Qvfprk52o8HC",
         "isNew": true
       }
     },

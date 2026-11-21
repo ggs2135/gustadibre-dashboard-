@@ -1,64 +1,18 @@
 {
-  "generatedAt": "2026-11-20T15:53:33.923Z",
+  "generatedAt": "2026-11-21T15:03:47.203Z",
   "items": [
     {
-      "title": "Concurrent Regimes for the Concept of “Common Heritage” in Seabed Mining",
+      "title": "Path-Dependent Dynamics and Potential Strategic Lock-In in Global Lithium Trade Networks: Evidence from a TERGM",
       "authors": [
-        "James Kraska",
-        "Digvijay Rewatkar"
+        "Wei Cui",
+        "Xiangmei Jin",
+        "Dongxue Wu",
+        "Haiyan Cheng"
       ],
-      "venue": "Springer eBooks",
-      "date": "2027-02-02",
-      "abstract": "",
-      "link": "https://doi.org/10.1007/978-3-032-23997-6_8",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Book Review: Critical Minerals, Sustainability, and the Energy Transition in the Global South: A Justice Perspective",
-      "authors": [
-        "Rəşad Fərzəliyev"
-      ],
-      "venue": "Insight Turkey",
-      "date": "2026-12-30",
-      "abstract": "",
-      "link": "https://doi.org/10.25253/99.2026284.br3",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Atıklardan Membran Teknolojileri ile Nadir Toprak Elementlerinin Geri Kazanımı",
-      "authors": [
-        "Ayşe Yüksekdağ",
-        "Börte Köse‐Mutlu",
-        "Gizem Tuncay",
-        "Tugce Akca"
-      ],
-      "venue": null,
-      "date": "2026-12-15",
-      "abstract": "\"Rare Earth Elements (REEs) are essential building blocks of modern high-technology products, defense industry components and green energy transition, yet they are classified as critical minerals with extremely high supply risks due to the geographical concentration of primary deposits in limited regions on a global…",
-      "link": "https://doi.org/10.53478/tuba.978-625-5055-03-3.ch14",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Munzur Üniversitesi Nadir Toprak Elementleri Operasyonel Programı ve Güncel Durum",
-      "authors": [
-        "Kenan Peker",
-        "Ceren Erüst"
-      ],
-      "venue": null,
-      "date": "2026-12-15",
-      "abstract": "\"Munzur University’s Rare Earth Elements (REE) Operational Program addresses Türkiye’s R&D, product development, education, capacity-building, and regional development objectives in the fields of strategic raw materials and advanced technology applications through a holistic approach. Within the scope of Munzur…",
-      "link": "https://doi.org/10.53478/tuba.978-625-5055-03-3.ch04",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Advancing Group 13 chemistry in the context of critical minerals: recovery and functional materials",
-      "authors": [
-        "Beth Jane Murray"
-      ],
-      "venue": "Research Portal (Queen's University Belfast)",
-      "date": "2026-12-01",
-      "abstract": "",
-      "link": "https://pure.qub.ac.uk/en/studentTheses/80d78259-0fbf-4308-b6a6-7461910e2f96",
+      "venue": "Systems",
+      "date": "2026-11-20",
+      "abstract": "As the global energy transition accelerates, lithium supply security is increasingly shaped by structural dependence and temporal persistence within interconnected trade networks. Using bilateral trade data on lithium carbonate and lithium hydroxide from 2013 to 2024, this study combines complex network analysis with…",
+      "link": "https://doi.org/10.3390/systems14111503",
       "source": "OpenAlex"
     },
     {
@@ -73,40 +27,15 @@
       "source": "OpenAlex"
     },
     {
-      "title": "The Era of Nanomaterials and Human Health: An Interdisciplinary Assessment",
-      "authors": [
-        "María E. Raygoza-L.",
-        "Gabriel Trujillo‐Hernández",
-        "Juan Ling-López",
-        "Fabian Natanael Murrieta-Rico"
-      ],
-      "venue": "IGI Global eBooks",
-      "date": "2026-11-18",
-      "abstract": "Nanotechnology is now a cross-cutting innovation infrastructure across consumer, industrial, biomedical, and energy systems. This chapter advances a nanoform–route–scenario framework prioritizing in-medium characterization (effective size, aggregation, coatings/impurities, biomolecular corona), effective dosimetry…",
-      "link": "https://doi.org/10.4018/979-8-3373-8262-3.ch009",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Cadeias globais de suprimentos e o neomonroísmo:o dilema estratégico do Brasil na América do Sul",
-      "authors": [
-        "Saulo Freire Landgraf"
-      ],
-      "venue": "Revista Opinião Filosófica",
-      "date": "2026-11-18",
-      "abstract": "The article analyzes how the reorganization of global supply chains (GSCs), accelerated by the COVID-19 pandemic and the hegemonic dispute between the United States and China, deepens productive fragmentation and the regionalization of chains, reinforcing asymmetries between command centers and peripheries. Drawing…",
-      "link": "https://doi.org/10.36592/opiniaofilosofica.2026.v17.1360",
-      "source": "OpenAlex"
-    },
-    {
       "title": "Operations research models for critical-mineral supply chains: a systematic review and an integrated stochastic programming and system dynamics framework for capacity investment",
       "authors": [
         "Denny Noviansyah",
         "Abdullah Ade Suryobuwono"
       ],
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "date": "2026-11-18",
-      "abstract": "Author contributions Conceptualization: Denny Noviansyah, Abdullah Ade Sury obuwono; Methodology: Denny Noviansyah; Formal analysis: Denny Noviansyah; In vestigation: Denny Noviansyah; Data curation: Abdullah Ade Suryobuwono; Software: Denny Noviansyah, Abdullah Ade Suryobuwono; Validation: Abdullah Ade Suryobu wono;…",
-      "link": "https://doi.org/10.5281/zenodo.24334374",
+      "venue": "Research Square",
+      "date": "2026-11-19",
+      "abstract": "Critical-mineral supply chains behave differently from the manufacturing networks for which most supply chain models were developed. Companion metals are produced as by-products of host metals, separation and refining capacity takes years to build, and secondary supply returns only when products reach the end of…",
+      "link": "https://doi.org/10.21203/rs.3.rs-11781942/v1",
       "source": "OpenAlex"
     },
     {
@@ -124,14 +53,15 @@
       "source": "OpenAlex"
     },
     {
-      "title": "Four common lithium battery recycling methods: a mini review",
+      "title": "E-Waste to Strategic Resources: India’s Emerging Leadership in Rare-Earth Recycling",
       "authors": [
-        "Yanping Wang"
+        "Sriram Mansingh",
+        "Smruti Prakash Barik"
       ],
-      "venue": "International Journal of Materials Research (formerly Zeitschrift fuer Metallkunde)",
-      "date": "2026-11-16",
-      "abstract": "The booming lithium battery industry has led to a surging accumulation of spent lithium batteries, posing a significant environmental and resource challenge. These end-of-life batteries are rich sources of valuable metals, including lithium, nickel, cobalt, and manganese. Against this backdrop, recycling lithium…",
-      "link": "https://doi.org/10.1515/ijmr-2026-0011",
+      "venue": null,
+      "date": "2026-11-15",
+      "abstract": "",
+      "link": "https://doi.org/10.67831/sci.factors.2026.1859",
       "source": "OpenAlex"
     },
     {
@@ -181,45 +111,6 @@
       "source": "OpenAlex"
     },
     {
-      "title": "Resource recovery efficiency and microbial community response in anaerobic chain elongation of discharging wastewater from spent lithium-ion batteries",
-      "authors": [
-        "Hua Feng",
-        "Dezhi Sun",
-        "Weichao Xu",
-        "Cao Hongbin"
-      ],
-      "venue": "ScienceDB",
-      "date": "2026-11-04",
-      "abstract": "：The discharging wastewater from spent lithium-ion batteries is characterized by complex composition， high salinity， and substantial organic load， making its efficient treatment and resource recovery a critical challenge in the lithium battery recycling chain. This study investigated the feasibility of applying…",
-      "link": "https://doi.org/10.57760/sciencedb.018o7",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Development of a FAHP decision-making support tool for value-chain based critical minerals assessments",
-      "authors": [
-        "Anvar Mammadli"
-      ],
-      "venue": "Curtin University Research Data Collection",
-      "date": "2026-11-04",
-      "abstract": "This thesis develops a transparent, value-chain-based Fuzzy AHP decision-support framework for assessing mineral criticality and strategic importance. Using 49 impact factors across economic, technical, market, geopolitical, socio-political, and environmental categories, the framework evaluates exploration, mining,…",
-      "link": "https://doi.org/10.25917/curtin.34911339",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Critical mineral supply chain readiness for commercial fusion energy: A framework with applications to the ARC and EU-DEMO tokamaks",
-      "authors": [
-        "Jenifer C. Shafer",
-        "A. Diallo",
-        "Macdonald Amoah",
-        "Morgan Bazilian"
-      ],
-      "venue": "Resources Policy",
-      "date": "2026-11-01",
-      "abstract": "Private fusion energy companies are targeting commercial electricity generation within the next two decades, yet the material supply chains required to build and operate these reactors have received limited systematic assessment. This paper develops and applies a Supply Chain Readiness Level (SCRL) framework to…",
-      "link": "https://doi.org/10.1016/j.resourpol.2026.106084",
-      "source": "OpenAlex"
-    },
-    {
       "title": "Life Cycle Assessment of Recovery of Rare Earth Oxide from Magnets of Waste Hard Disk Drives via Leaching and Selective Precipitation Methods: A Vietnamese Case Study",
       "authors": [
         "Chun‐Yang Yin",
@@ -234,20 +125,6 @@
       "source": "OpenAlex"
     },
     {
-      "title": "Hybrid-charge interlayer boosts acid-resistant NF membranes for lithium battery recycling",
-      "authors": [
-        "Pengfei Li",
-        "Mingzheng Bao",
-        "Liming Wang",
-        "Zhencan Hou"
-      ],
-      "venue": "Journal of Membrane Science",
-      "date": "2026-10-27",
-      "abstract": "",
-      "link": "https://doi.org/10.1016/j.memsci.2026.126341",
-      "source": "OpenAlex"
-    },
-    {
       "title": "Ultrasound-assisted acetic acid leaching of rare earth elements from spent NdFeB permanent magnets: process optimization and kinetic analysis",
       "authors": [
         "Debosmita Sharmmah",
@@ -259,20 +136,6 @@
       "date": "2026-10-07",
       "abstract": "Spent NdFeB permanent magnets (SPM) represent an important secondary resource of rare earth elements (REEs), yet the simultaneous recovery of praseodymium (Pr) and dysprosium (Dy) using environmentally benign lixiviants remains underexplored. An ultrasound-assisted acetic acid leaching (UAL) process was developed for…",
       "link": "https://doi.org/10.1039/d6ra06427b",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "ENVIRONMENTAL AND ECONOMIC BENEFITS OF LITHIUM-ION BATTERY RECYCLING IN NIGERIA",
-      "authors": [
-        "L. A. Animashaun",
-        "Adekunle Adetayo Yekinni",
-        "Olumide Francis Odeyinka",
-        "Matthew Iwada Ekum"
-      ],
-      "venue": "Uniosun Journal of Engineering and Environmental Sciences",
-      "date": "2026-09-30",
-      "abstract": "Global mobile phone use has risen sharply, with Nigeria among leading users. Indiscriminate battery disposal harms the environment and wastes valuable metals. This study investigated the benefits of lithium battery recycling in Nigeria. The study utilizes rechargeable battery data from the Nigerian Communications…",
-      "link": "https://doi.org/10.64980/ujees.v8i2.023",
       "source": "OpenAlex"
     },
     {
@@ -300,6 +163,31 @@
       "date": "2026-08-19",
       "abstract": "",
       "link": "https://doi.org/10.1016/j.jclepro.2026.149218",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Subsidies, Environmental Taxes, and Rare Earth Recycling: A Game-Theoretical Analysis of Reverse Supply Chain Equilibrium",
+      "authors": [
+        "Jiawen Xiao",
+        "Xiuli Wang",
+        "稔 国岡",
+        "Zhiwei Zhang"
+      ],
+      "venue": "Sustainability",
+      "date": "2026-08-12",
+      "abstract": "Rare earths are a strategically vital mineral resource on a global scale; the security of their supply chain and their recycling face severe challenges amid dual pressures of resource scarcity and environmental protection. This study focuses on the reverse supply chain for rare earth permanent magnet…",
+      "link": "https://doi.org/10.3390/su18168281",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Respon Taiwan pada Kebijakan Pengurangan Ekspor Material Kritis oleh Tiongkok Tahun 2023-2025",
+      "authors": [
+        "Lois Sintikhe Br Siahaan"
+      ],
+      "venue": "Demokrasi Jurnal Riset Ilmu Hukum Sosial dan Politik",
+      "date": "2026-07-31",
+      "abstract": "Semiconductors are the backbone of the digital economy, and Taiwan plays a crucial role by controlling more than 60% of global semiconductor production and over 90% of advanced chip manufacturing. However, Taiwan’s semiconductor industry remains highly dependent on critical materials, most of which are supplied by…",
+      "link": "https://doi.org/10.62383/demokrasi.v3i3.1851",
       "source": "OpenAlex"
     }
   ]

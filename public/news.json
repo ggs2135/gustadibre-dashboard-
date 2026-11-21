@@ -1,34 +1,63 @@
 {
-  "generatedAt": "2026-11-20T15:53:31.935Z",
+  "generatedAt": "2026-11-21T15:03:45.065Z",
   "items": [
     {
-      "headline": "Gold price hits 14-month low as miners’ costs rise near record pace",
-      "summary": "Bets on a December U.S. rate increase helped drive gold towards $3,500 an oz. Friday, testing miners’ budgets after all-in sustaining costs rose 22% year... The post Gold price hits 14-month low as miners’ costs rise…",
+      "headline": "Landmark Harbour survey addresses Chinese versus Western mining tech & equipment confidence gap",
+      "summary": "With bauma CHINA set to kick off next week on November 23, with IM Editorial Director Paul Moore in attendance, it is a good opportunity to consider the position of Chinese OEMs in the mining industry – and especially…",
       "category": "supply",
       "minerals": [],
-      "source": "The Northern Miner",
-      "date": "2026-11-20",
-      "link": "https://www.northernminer.com/news/gold-price-falls-nears-3500-as-miners-costs-rise-at-record-pace/1003898076/"
+      "source": "International Mining",
+      "date": "2026-11-21",
+      "link": "https://im-mining.com/2026/11/21/landmark-harbour-survey-addresses-chinese-versus-western-mining-tech-equipment-confidence-gap/"
     },
     {
-      "headline": "Endeavour’s $585M Pitarrilla plan faces silver slide",
-      "summary": "Endeavour Silver (TSX: EDR; NYSE: EXK) puts the initial cost of building its Pitarrilla project in Mexico at $585 million (C$837.5 million) — just as... The post Endeavour’s $585M Pitarrilla plan faces silver slide…",
+      "headline": "Niron Magnetics to build $1.8 billion manufacturing plant in Alabama",
+      "summary": "Magnet manufacturer Niron Magnetics said Friday it will build a $1.8 billion advanced manufacturing campus in southeast Alabama. The 1.6-million-square-foot campus at the Westgate Super Site industrial park will be…",
       "category": "supply",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-11-20",
+      "link": "https://www.mining.com/niron-magnetics-to-build-1-8-billion-manufacturing-plant-in-alabama/"
+    },
+    {
+      "headline": "Caterpillar’s R2900 XE moves into industrial minerals mining at K+S Borth",
+      "summary": "Since September 2026, a Caterpillar R2900 XE diesel electric drive LHD has been loading and hauling rock salt to tipping points at the K+S owned Borth mine. The Borth salt plant is located in Rheinberg in North…",
+      "category": "supply",
+      "minerals": [],
+      "source": "International Mining",
+      "date": "2026-11-20",
+      "link": "https://im-mining.com/2026/11/20/caterpillars-r2900-xe-moves-into-industrial-minerals-mining-at-ks-borth/"
+    },
+    {
+      "headline": "ElementUSA, Geophysx partner to advance Jamaica’s critical minerals sector",
+      "summary": "Critical mineral recovery and processing technology developer ElementUSA announced Friday that it has signed a Memorandum of Understanding (MOU) with mineral explorer Geophysx Jamaica Limited. The MOU builds on…",
+      "category": "supply",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-11-20",
+      "link": "https://www.mining.com/elementusa-geophysx-partner-to-advance-jamaicas-critical-minerals-sector/"
+    },
+    {
+      "headline": "Copper price sinks into bear market, erasing 2026 gains in worst week of the year",
+      "summary": "Copper slumped again on Friday, tipping the metal into a bear market just ten weeks after it set an all-time high, as the unwinding of bets on the artificial intelligence boom, a strong dollar and fading US tariff…",
+      "category": "economic",
       "minerals": [
-        "Silver"
+        "Copper"
+      ],
+      "source": "MINING.com",
+      "date": "2026-11-20",
+      "link": "https://www.mining.com/copper-price-sinks-into-bear-market-erasing-2026-gains-in-worst-week-of-the-year/"
+    },
+    {
+      "headline": "US copper booked for China as tariff bet unwinds",
+      "summary": "Traders have booked an estimated 30,000 to 100,000 tonnes of refined copper to ship from the West Coast of the United States to China, reversing... The post US copper booked for China as tariff bet unwinds appeared…",
+      "category": "economic",
+      "minerals": [
+        "Copper"
       ],
       "source": "The Northern Miner",
       "date": "2026-11-20",
-      "link": "https://www.northernminer.com/news/endeavours-585m-pitarrilla-plan-faces-silver-slide/1003898072/"
-    },
-    {
-      "headline": "Sponsored: No cyanide, no gold. Atomika auctions give mines a second source",
-      "summary": "A gold mill stops without sodium cyanide, and each of the ten certified gold mines in Canada relied on a single producer […] The post Sponsored: No cyanide, no gold. Atomika auctions give mines a second source appeared…",
-      "category": "supply",
-      "minerals": [],
-      "source": "Canadian Mining Journal",
-      "date": "2026-11-20",
-      "link": "https://www.canadianminingjournal.com/news/sponsored-no-cyanide-no-gold-atomika-auctions-give-mines-a-second-source/"
+      "link": "https://www.northernminer.com/news/us-copper-booked-for-china-as-tariff-bet-unwinds/1003898084/"
     },
     {
       "headline": "The U.S. Is Auctioning Off a Slice of the Pacific Ocean Floor in Push for Minerals",
@@ -40,13 +69,24 @@
       "link": "https://www.wsj.com/politics/the-u-s-is-auctioning-off-a-slice-of-the-pacific-ocean-floor-in-push-for-minerals-e6c1ecff?mod=rss_worldnews"
     },
     {
-      "headline": "China’s REBIO Group develops advanced crusher wear solutions for Sijiaying & Simandou mines",
-      "summary": "Weijia Jiang, Vice President of China’s REBIO Group, recently led a delegation comprising the Chief Expert of its Mining Wear Parts Division and other technical specialists to the Sijiaying Iron Ore Mine, operated by…",
-      "category": "supply",
-      "minerals": [],
-      "source": "International Mining",
+      "headline": "Resource Review video: N.L. prospectors look to find the next generation",
+      "summary": "Newfoundland and Labrador should put more money into prospector grants and mentoring as veteran prospectors retire, says Norm Mercer, president of the province’s prospectors association.... The post Resource Review…",
+      "category": "funding",
+      "minerals": [
+        "Grants"
+      ],
+      "source": "The Northern Miner",
       "date": "2026-11-20",
-      "link": "https://im-mining.com/2026/11/20/chinas-rebio-group-develops-advanced-crusher-wear-solutions-for-sijiaying-simandou-mines/"
+      "link": "https://www.northernminer.com/news/resource-review-video-n-l-prospectors-look-to-find-the-next-generation/1003898106/"
+    },
+    {
+      "headline": "Angola’s $180 million De Beers bid puts $1.8 billion value in play",
+      "summary": "Angola plans to pay about $180 million for a 10% stake in De Beers, implying a $1.8 billion valuation for the diamond giant as African producers seek greater control over the industry. The proposed investment would…",
+      "category": "economic",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-11-20",
+      "link": "https://www.mining.com/angolas-180-million-de-beers-bid-puts-1-8-billion-value-in-play/"
     },
     {
       "headline": "Friedland’s Ivanhoe Electric strikes high-grade copper",
@@ -59,49 +99,6 @@
       "source": "The Northern Miner",
       "date": "2026-11-19",
       "link": "https://www.northernminer.com/news/friedlands-ivanhoe-electric-strikes-high-grade-copper/1003898048/"
-    },
-    {
-      "headline": "Central banks rethink gold as global risks mount",
-      "summary": "Central banks are increasingly weighing geopolitical uncertainty alongside traditional financial risks when managing gold reserves, while new technology and retail investors reshape how the precious metal is held and…",
-      "category": "politics",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-11-19",
-      "link": "https://www.mining.com/central-banks-rethink-gold-as-global-risks-mount/"
-    },
-    {
-      "headline": "Friedland’s Ivanhoe Electric strikes high-grade copper in Arizona",
-      "summary": "Ivanhoe Electric (NYSE American: IE; TSX: IE), backed by mining billionaire Robert Friedland, has discovered high-grade copper-gold-silver mineralization at its Gleeson project in southeastern Arizona, making it the…",
-      "category": "funding",
-      "minerals": [
-        "Copper",
-        "Silver"
-      ],
-      "source": "MINING.com — Battery Metals",
-      "date": "2026-11-19",
-      "link": "https://www.mining.com/friedlands-ivanhoe-electric-strikes-high-grade-copper-in-arizona/"
-    },
-    {
-      "headline": "Lithium CEO warns of perils facing US critical minerals push",
-      "summary": "Lithium Americas Corp.’s flagship US mine has become an expensive test of the Trump administration’s push to rebuild a domestic critical minerals industry, with labor shortages, rising wages and tariffs pushing its…",
-      "category": "politics",
-      "minerals": [
-        "Lithium"
-      ],
-      "source": "MINING.com — Battery Metals",
-      "date": "2026-11-18",
-      "link": "https://www.mining.com/web/lithium-ceo-warns-of-perils-facing-us-critical-minerals-push/"
-    },
-    {
-      "headline": "Molten Industries launches first US graphite plant using natural gas",
-      "summary": "US cleantech and industrial manufacturing startup Molten Industries announced Wednesday the commissioning and commencement of operations at its demonstration plant in Oakland, California. The company said this marks…",
-      "category": "funding",
-      "minerals": [
-        "Graphite"
-      ],
-      "source": "MINING.com — Battery Metals",
-      "date": "2026-11-18",
-      "link": "https://www.mining.com/molten-industries-launches-first-us-graphite-plant-using-natural-gas/"
     }
   ]
 }
