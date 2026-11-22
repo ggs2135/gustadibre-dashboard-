@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-11-21T15:03:47.203Z",
+  "generatedAt": "2026-11-22T01:14:29.507Z",
   "items": [
+    {
+      "title": "Modernising Environmental Management in ISA: From Impact Assessment to Adoptive Governance",
+      "authors": [
+        "Raijieli L. Taga"
+      ],
+      "venue": "Springer eBooks",
+      "date": "2027-02-02",
+      "abstract": "",
+      "link": "https://doi.org/10.1007/978-3-032-23997-6_13",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Balancing Seabed Resource Development and Conservation of the Marine Environment—Is a Pause Necessary?",
+      "authors": [
+        "Rahul Sharma"
+      ],
+      "venue": "Springer eBooks",
+      "date": "2027-02-02",
+      "abstract": "Balancing the development of seabed mineral resources with environmental conservation has become a defining challenge for ocean governance. Deep-sea minerals (polymetallic nodules, polymetallic sulphides and ferromanganese crusts) hold the potential to provide critical raw materials needed for industrial growth and…",
+      "link": "https://doi.org/10.1007/978-3-032-23997-6_17",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Exploitation of Mineral Resources in the ‘Area’: Toward the Wild West or to the Multilateral Governance of the Common Heritage of (Hu)mankind?",
+      "authors": [
+        "Pedro Madureira",
+        "Eduardo Silva"
+      ],
+      "venue": "Springer eBooks",
+      "date": "2027-02-02",
+      "abstract": "",
+      "link": "https://doi.org/10.1007/978-3-032-23997-6_6",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Concurrent Regimes for the Concept of “Common Heritage” in Seabed Mining",
+      "authors": [
+        "James Kraska",
+        "Digvijay Rewatkar"
+      ],
+      "venue": "Springer eBooks",
+      "date": "2027-02-02",
+      "abstract": "",
+      "link": "https://doi.org/10.1007/978-3-032-23997-6_8",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Book Review: Critical Minerals, Sustainability, and the Energy Transition in the Global South: A Justice Perspective",
+      "authors": [
+        "Rəşad Fərzəliyev"
+      ],
+      "venue": "Insight Turkey",
+      "date": "2026-12-30",
+      "abstract": "",
+      "link": "https://doi.org/10.25253/99.2026284.br3",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Atıklardan Membran Teknolojileri ile Nadir Toprak Elementlerinin Geri Kazanımı",
+      "authors": [
+        "Ayşe Yüksekdağ",
+        "Börte Köse‐Mutlu",
+        "Gizem Tuncay",
+        "Tugce Akca"
+      ],
+      "venue": null,
+      "date": "2026-12-15",
+      "abstract": "\"Rare Earth Elements (REEs) are essential building blocks of modern high-technology products, defense industry components and green energy transition, yet they are classified as critical minerals with extremely high supply risks due to the geographical concentration of primary deposits in limited regions on a global…",
+      "link": "https://doi.org/10.53478/tuba.978-625-5055-03-3.ch14",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Munzur Üniversitesi Nadir Toprak Elementleri Operasyonel Programı ve Güncel Durum",
+      "authors": [
+        "Kenan Peker",
+        "Ceren Erüst"
+      ],
+      "venue": null,
+      "date": "2026-12-15",
+      "abstract": "\"Munzur University’s Rare Earth Elements (REE) Operational Program addresses Türkiye’s R&D, product development, education, capacity-building, and regional development objectives in the fields of strategic raw materials and advanced technology applications through a holistic approach. Within the scope of Munzur…",
+      "link": "https://doi.org/10.53478/tuba.978-625-5055-03-3.ch04",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Advancing Group 13 chemistry in the context of critical minerals: recovery and functional materials",
+      "authors": [
+        "Beth Jane Murray"
+      ],
+      "venue": "Research Portal (Queen's University Belfast)",
+      "date": "2026-12-01",
+      "abstract": "",
+      "link": "https://pure.qub.ac.uk/en/studentTheses/80d78259-0fbf-4308-b6a6-7461910e2f96",
+      "source": "OpenAlex"
+    },
     {
       "title": "Path-Dependent Dynamics and Potential Strategic Lock-In in Global Lithium Trade Networks: Evidence from a TERGM",
       "authors": [
@@ -50,6 +144,17 @@
       "date": "2026-11-17",
       "abstract": "",
       "link": "https://doi.org/10.1038/s41893-026-01945-1",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Four common lithium battery recycling methods: a mini review",
+      "authors": [
+        "Yanping Wang"
+      ],
+      "venue": "International Journal of Materials Research (formerly Zeitschrift fuer Metallkunde)",
+      "date": "2026-11-16",
+      "abstract": "The booming lithium battery industry has led to a surging accumulation of spent lithium batteries, posing a significant environmental and resource challenge. These end-of-life batteries are rich sources of valuable metals, including lithium, nickel, cobalt, and manganese. Against this backdrop, recycling lithium…",
+      "link": "https://doi.org/10.1515/ijmr-2026-0011",
       "source": "OpenAlex"
     },
     {
@@ -111,6 +216,20 @@
       "source": "OpenAlex"
     },
     {
+      "title": "Resource recovery efficiency and microbial community response in anaerobic chain elongation of discharging wastewater from spent lithium-ion batteries",
+      "authors": [
+        "Hua Feng",
+        "Dezhi Sun",
+        "Weichao Xu",
+        "Cao Hongbin"
+      ],
+      "venue": "ScienceDB",
+      "date": "2026-11-04",
+      "abstract": "：The discharging wastewater from spent lithium-ion batteries is characterized by complex composition， high salinity， and substantial organic load， making its efficient treatment and resource recovery a critical challenge in the lithium battery recycling chain. This study investigated the feasibility of applying…",
+      "link": "https://doi.org/10.57760/sciencedb.018o7",
+      "source": "OpenAlex"
+    },
+    {
       "title": "Life Cycle Assessment of Recovery of Rare Earth Oxide from Magnets of Waste Hard Disk Drives via Leaching and Selective Precipitation Methods: A Vietnamese Case Study",
       "authors": [
         "Chun‐Yang Yin",
@@ -122,6 +241,20 @@
       "date": "2026-10-27",
       "abstract": "",
       "link": "https://doi.org/10.1007/s40831-026-01728-0",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Hybrid-charge interlayer boosts acid-resistant NF membranes for lithium battery recycling",
+      "authors": [
+        "Pengfei Li",
+        "Mingzheng Bao",
+        "Liming Wang",
+        "Zhencan Hou"
+      ],
+      "venue": "Journal of Membrane Science",
+      "date": "2026-10-27",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.memsci.2026.126341",
       "source": "OpenAlex"
     },
     {
@@ -139,6 +272,20 @@
       "source": "OpenAlex"
     },
     {
+      "title": "ENVIRONMENTAL AND ECONOMIC BENEFITS OF LITHIUM-ION BATTERY RECYCLING IN NIGERIA",
+      "authors": [
+        "L. A. Animashaun",
+        "Adekunle Adetayo Yekinni",
+        "Olumide Francis Odeyinka",
+        "Matthew Iwada Ekum"
+      ],
+      "venue": "Uniosun Journal of Engineering and Environmental Sciences",
+      "date": "2026-09-30",
+      "abstract": "Global mobile phone use has risen sharply, with Nigeria among leading users. Indiscriminate battery disposal harms the environment and wastes valuable metals. This study investigated the benefits of lithium battery recycling in Nigeria. The study utilizes rechargeable battery data from the Nigerian Communications…",
+      "link": "https://doi.org/10.64980/ujees.v8i2.023",
+      "source": "OpenAlex"
+    },
+    {
       "title": "Pyrometallurgical Recovery of Neodymium from Nd–Fe–B Magnets in End-of-Life Electric Vehicle Motors Using Non-Ferrous Smelting Slag Flux",
       "authors": [
         "Chang-Jeong Kim",
@@ -149,45 +296,6 @@
       "date": "2026-08-24",
       "abstract": "The increasing use of electric vehicles has led to a growing demand for rare-earth elements, particularly neodymium (Nd), which is a critical component of Nd–Fe–B permanent magnets used in traction motors. End-of-life electric vehicle motors are therefore considered promising secondary resources for Nd recovery. In…",
       "link": "https://doi.org/10.3390/met16090942",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Highly efficient and selective recovery of rare earths from NdFeB waste via water-regulated deep eutectic solvent",
-      "authors": [
-        "Jianru Li",
-        "Cunying Xu",
-        "Rui Luo",
-        "Qibo Zhang"
-      ],
-      "venue": "Journal of Cleaner Production",
-      "date": "2026-08-19",
-      "abstract": "",
-      "link": "https://doi.org/10.1016/j.jclepro.2026.149218",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Subsidies, Environmental Taxes, and Rare Earth Recycling: A Game-Theoretical Analysis of Reverse Supply Chain Equilibrium",
-      "authors": [
-        "Jiawen Xiao",
-        "Xiuli Wang",
-        "稔 国岡",
-        "Zhiwei Zhang"
-      ],
-      "venue": "Sustainability",
-      "date": "2026-08-12",
-      "abstract": "Rare earths are a strategically vital mineral resource on a global scale; the security of their supply chain and their recycling face severe challenges amid dual pressures of resource scarcity and environmental protection. This study focuses on the reverse supply chain for rare earth permanent magnet…",
-      "link": "https://doi.org/10.3390/su18168281",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Respon Taiwan pada Kebijakan Pengurangan Ekspor Material Kritis oleh Tiongkok Tahun 2023-2025",
-      "authors": [
-        "Lois Sintikhe Br Siahaan"
-      ],
-      "venue": "Demokrasi Jurnal Riset Ilmu Hukum Sosial dan Politik",
-      "date": "2026-07-31",
-      "abstract": "Semiconductors are the backbone of the digital economy, and Taiwan plays a crucial role by controlling more than 60% of global semiconductor production and over 90% of advanced chip manufacturing. However, Taiwan’s semiconductor industry remains highly dependent on critical materials, most of which are supplied by…",
-      "link": "https://doi.org/10.62383/demokrasi.v3i3.1851",
       "source": "OpenAlex"
     }
   ]
