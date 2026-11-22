@@ -12,6 +12,8 @@ const DARK = {
   faint: "#5C6B70",
   accent: "#3FA796",
   line: "#232E33",
+  up: "#5CC08F",
+  down: "#E5816F",
 };
 
 const LIGHT = {
@@ -23,6 +25,8 @@ const LIGHT = {
   faint: "#8B979A",
   accent: "#1F8577",
   line: "#E4E1D9",
+  up: "#1E8A5A",
+  down: "#C0473A",
 };
 
 const CATEGORIES = [
@@ -66,7 +70,10 @@ const THEME_KEY = "gd-theme";
 function formatShortDate(iso) {
   if (!iso) return "";
   try {
-    return new Date(iso).toLocaleDateString(undefined, { month: "short", day: "numeric" });
+    // Bare YYYY-MM-DD parses as UTC midnight, which shows as the previous day
+    // west of Greenwich — pin it to local noon instead.
+    const d = /^\d{4}-\d{2}-\d{2}$/.test(iso) ? new Date(`${iso}T12:00:00`) : new Date(iso);
+    return d.toLocaleDateString(undefined, { month: "short", day: "numeric" });
   } catch {
     return iso;
   }
@@ -114,6 +121,199 @@ function MoonIcon({ size = 15 }) {
     <svg width={size} height={size} viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
       <path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11Z" />
     </svg>
+  );
+}
+
+// ── Metal prices ──────────────────────────────────────────────
+const PRICE_UNIT_KEY = "gd-price-unit";
+const PRICE_UNITS = [
+  { id: "market", label: "Market", title: "As quoted by the market ($/oz t, $/t)" },
+  { id: "kg", label: "$/kg", title: "US dollars per kilogram" },
+  { id: "mol", label: "$/mol", title: "US dollars per mole — handy for reagent and stoichiometry costing" },
+];
+
+function convertPrice(m, v, unit) {
+  if (unit === "kg") return v * m.toKg;
+  if (unit === "mol") return (v * m.toKg * m.molarMass) / 1000;
+  return v;
+}
+
+function unitLabel(m, unit) {
+  if (unit === "kg") return "$/kg";
+  if (unit === "mol") return "$/mol";
+  return `$/${m.unit}`;
+}
+
+// 4 significant figures, but never more than 2 decimals on big numbers.
+function formatPrice(v) {
+  if (!Number.isFinite(v)) return "—";
+  const abs = Math.abs(v);
+  const digits = abs >= 1000 ? 0 : abs >= 100 ? 1 : abs >= 1 ? 2 : abs >= 0.1 ? 3 : 4;
+  return v.toLocaleString(undefined, { minimumFractionDigits: digits, maximumFractionDigits: digits });
+}
+
+function Sparkline({ points, color, width = 96, height = 28 }) {
+  // A handful of points autoscaled to full height exaggerates tiny moves.
+  if (!points || points.length < 10) return <svg width={width} height={height} aria-hidden="true" />;
+  const vals = points.map((p) => p.close);
+  const min = Math.min(...vals);
+  const max = Math.max(...vals);
+  const span = max - min || 1;
+  const pad = 2;
+  const xy = vals.map((v, i) => [
+    pad + (i / (vals.length - 1)) * (width - pad * 2),
+    pad + (1 - (v - min) / span) * (height - pad * 2),
+  ]);
+  const line = xy.map(([x, y]) => `${x.toFixed(1)},${y.toFixed(1)}`).join(" ");
+  const area = `M${xy[0][0].toFixed(1)},${height} L${line.replace(/ /g, " L")} L${xy.at(-1)[0].toFixed(1)},${height} Z`;
+  const [lx, ly] = xy.at(-1);
+  return (
+    <svg width={width} height={height} viewBox={`0 0 ${width} ${height}`} aria-hidden="true" style={{ display: "block" }}>
+      <path d={area} fill={color} opacity="0.12" />
+      <polyline points={line} fill="none" stroke={color} strokeWidth="1.5" strokeLinejoin="round" strokeLinecap="round" />
+      <circle cx={lx} cy={ly} r="2.2" fill={color} />
+    </svg>
+  );
+}
+
+function ElementCell({ m, C }) {
+  return (
+    <div className="cm-mono" title={`${m.name} · Z = ${m.z} · M = ${m.molarMass} g/mol`} style={{
+      width: 46, height: 50, borderRadius: 6, border: `1px solid ${C.panelEdge}`,
+      background: C.bg, display: "flex", flexDirection: "column",
+      justifyContent: "space-between", padding: "3px 5px", flexShrink: 0,
+    }}>
+      <span style={{ fontSize: 9, color: C.faint, lineHeight: 1 }}>{m.z}</span>
+      <span style={{ fontSize: 18, fontWeight: 700, color: C.ink, lineHeight: 1, textAlign: "center" }}>{m.el}</span>
+      <span style={{ fontSize: 8, color: C.faint, lineHeight: 1, textAlign: "center" }}>{m.molarMass.toFixed(2)}</span>
+    </div>
+  );
+}
+
+function Delta({ label, ch, m, unit, C }) {
+  if (!ch) {
+    return (
+      <div className="cm-delta">
+        <span className="cm-delta-k">{label}</span>
+        <span style={{ color: C.faint }}>—</span>
+      </div>
+    );
+  }
+  const color = ch.pct > 0 ? C.up : ch.pct < 0 ? C.down : C.dim;
+  const arrow = ch.pct > 0 ? "▲" : ch.pct < 0 ? "▼" : "•";
+  const absConv = convertPrice(m, ch.abs, unit);
+  const title = `${label}: ${ch.abs >= 0 ? "+" : "−"}${formatPrice(Math.abs(absConv))} ${unitLabel(m, unit)} vs ${formatPrice(convertPrice(m, ch.ref, unit))} on ${formatShortDate(ch.refDate)}`;
+  return (
+    <div className="cm-delta" title={title}>
+      <span className="cm-delta-k">{label}</span>
+      <span style={{ color, fontWeight: 600 }}>
+        <span style={{ fontSize: 8, marginRight: 3, verticalAlign: 1 }}>{arrow}</span>
+        {Math.abs(ch.pct).toFixed(Math.abs(ch.pct) >= 10 ? 1 : 2)}%
+      </span>
+    </div>
+  );
+}
+
+function MetalsPanel({ metals, C }) {
+  const [unit, setUnit] = useState(() => {
+    try {
+      const saved = localStorage.getItem(PRICE_UNIT_KEY);
+      if (PRICE_UNITS.some((u) => u.id === saved)) return saved;
+    } catch { /* localStorage unavailable */ }
+    return "market";
+  });
+  useEffect(() => {
+    try { localStorage.setItem(PRICE_UNIT_KEY, unit); } catch { /* localStorage unavailable */ }
+  }, [unit]);
+
+  const asOf = metals.map((m) => m.asOf).sort().at(-1);
+  const venues = [...new Set(metals.filter((m) => m.ticker?.endsWith("=F")).map((m) => m.venue))].join("/");
+
+  return (
+    <section style={{ marginTop: 36 }}>
+      <div style={{
+        display: "flex", justifyContent: "space-between", alignItems: "center", gap: 12, flexWrap: "wrap",
+        marginBottom: 12, paddingTop: 24, borderTop: `1px solid ${C.line}`,
+      }}>
+        <div className="cm-section-label">
+          Metals <span style={{ opacity: 0.6, textTransform: "none", letterSpacing: 0 }}>· close {formatShortDate(asOf)}</span>
+        </div>
+        <div role="group" aria-label="Price unit" className="cm-mono" style={{
+          display: "flex", border: `1px solid ${C.line}`, borderRadius: 7, padding: 2, gap: 2,
+        }}>
+          {PRICE_UNITS.map((u) => (
+            <button
+              key={u.id}
+              onClick={() => setUnit(u.id)}
+              title={u.title}
+              aria-pressed={unit === u.id}
+              className="cm-unit-btn"
+              style={{
+                background: unit === u.id ? C.accent : "transparent",
+                color: unit === u.id ? C.bg : C.dim,
+                border: "none", borderRadius: 5, padding: "5px 10px",
+                fontSize: 11, cursor: "pointer", fontFamily: "inherit",
+              }}
+            >
+              {u.label}
+            </button>
+          ))}
+        </div>
+      </div>
+
+      <div style={{ background: C.panel, border: `1px solid ${C.panelEdge}`, borderRadius: 10, overflow: "hidden" }}>
+        <div className="cm-metal-row cm-metal-head cm-mono" style={{ color: C.faint, borderBottom: `1px solid ${C.line}` }}>
+          <span style={{ gridArea: "cell" }} />
+          <span style={{ gridArea: "name" }}>Metal</span>
+          <span style={{ gridArea: "price", textAlign: "right" }}>Last</span>
+          <span style={{ gridArea: "deltas", display: "grid", gridTemplateColumns: "repeat(3, 1fr)", textAlign: "right" }}>
+            <span>1D</span><span>1W</span><span>1M</span>
+          </span>
+          <span style={{ gridArea: "spark", textAlign: "right" }}>30D</span>
+        </div>
+
+        {metals.map((m, i) => {
+          const trend = m.changes?.m1?.pct ?? m.changes?.d1?.pct ?? 0;
+          const sparkColor = trend > 0 ? C.up : trend < 0 ? C.down : C.dim;
+          const cutoff = new Date(`${m.asOf}T00:00:00Z`);
+          cutoff.setUTCDate(cutoff.getUTCDate() - 30);
+          const spark = (m.history || []).filter((p) => p.date >= cutoff.toISOString().slice(0, 10));
+          return (
+            <div key={m.el} className="cm-metal-row" style={{
+              borderTop: i ? `1px solid ${C.line}` : "none",
+            }}>
+              <div style={{ gridArea: "cell" }}><ElementCell m={m} C={C} /></div>
+              <div style={{ gridArea: "name", minWidth: 0 }}>
+                <div style={{ fontSize: 14.5, fontWeight: 600 }}>{m.name}</div>
+                <div className="cm-mono" style={{ fontSize: 10, color: C.faint, marginTop: 2, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
+                  {m.sourceLabel || m.venue}{m.asOf !== asOf ? ` · ${formatShortDate(m.asOf)}` : ""}
+                </div>
+              </div>
+              <div style={{ gridArea: "price", textAlign: "right" }} className="cm-mono">
+                <div style={{ fontSize: 16.5, fontWeight: 700, fontVariantNumeric: "tabular-nums" }}>
+                  ${formatPrice(convertPrice(m, m.price, unit))}
+                </div>
+                <div style={{ fontSize: 10, color: C.faint, marginTop: 2 }}>{unitLabel(m, unit)}</div>
+              </div>
+              <div className="cm-mono cm-deltas" style={{ gridArea: "deltas" }}>
+                <Delta label="1D" ch={m.changes?.d1} m={m} unit={unit} C={C} />
+                <Delta label="1W" ch={m.changes?.w1} m={m} unit={unit} C={C} />
+                <Delta label="1M" ch={m.changes?.m1} m={m} unit={unit} C={C} />
+              </div>
+              <div style={{ gridArea: "spark", display: "flex", justifyContent: "flex-end" }}>
+                <Sparkline points={spark} color={sparkColor} />
+              </div>
+            </div>
+          );
+        })}
+      </div>
+
+      <div className="cm-mono" style={{ fontSize: 10.5, color: C.faint, marginTop: 8, lineHeight: 1.5 }}>
+        {venues} front-month futures settlements via Yahoo Finance; not physical spot or LME cash.
+        {metals.some((m) => m.el === "Rh") && " Rhodium: Johnson Matthey base price (USD/oz t)."}
+        {" "}Hover a change for the absolute move. Minor metals (Ge, Ga, In) trade OTC on Fastmarkets/Argus/SMM assessments: no free feed.
+      </div>
+    </section>
   );
 }
 
@@ -181,7 +381,7 @@ export default function GustaDibreDashboard() {
       try {
         const res = await fetch(`${PRICES_URL}?t=${Date.now()}`, { cache: "no-store" });
         const data = await res.json();
-        setMetals(Array.isArray(data.metals) ? data.metals : []);
+        setMetals(Array.isArray(data.metals) ? data.metals.filter((m) => m.el && Number.isFinite(m.price)) : []);
       } catch { /* section just won't render */ }
     })();
     (async () => {
@@ -254,6 +454,27 @@ export default function GustaDibreDashboard() {
         .cm-tile-card { scroll-snap-align: start; flex: 0 0 230px; }
         .cm-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
         .cm-stat-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 10px; }
+        .cm-metal-row {
+          display: grid; align-items: center; gap: 6px 14px; padding: 10px 14px;
+          grid-template-columns: 46px minmax(0,1fr) 116px 200px 96px;
+          grid-template-areas: "cell name price deltas spark";
+        }
+        .cm-metal-head { padding-top: 8px; padding-bottom: 8px; font-size: 9.5px; letter-spacing: 0.08em; text-transform: uppercase; }
+        .cm-deltas { display: grid; grid-template-columns: repeat(3, 1fr); font-size: 12px; font-variant-numeric: tabular-nums; }
+        .cm-delta { display: flex; flex-direction: column; align-items: flex-end; }
+        .cm-delta-k { display: none; font-size: 9px; color: ${C.faint}; letter-spacing: 0.06em; margin-bottom: 2px; }
+        @media (hover:hover) { .cm-unit-btn:hover { color: ${C.ink} !important; } }
+        @media (max-width:640px){
+          .cm-metal-row {
+            grid-template-columns: 46px minmax(0,1fr) auto;
+            grid-template-areas: "cell name price" "deltas deltas spark";
+            padding: 12px;
+          }
+          .cm-metal-head { display: none; }
+          .cm-deltas { justify-items: start; }
+          .cm-delta { align-items: flex-start; }
+          .cm-delta-k { display: block; }
+        }
         .cm-seemore { background: transparent; border: none; color: ${C.accent}; font-size: 11px; letter-spacing: 0.04em; padding: 10px 2px 0; display: block; text-align: right; width: 100%; }
         @media (max-width:640px){
           .cm-pod-card{flex-basis:168px !important;}
@@ -332,32 +553,8 @@ export default function GustaDibreDashboard() {
           </div>
         </header>
 
-        {/* Metal prices */}
-        {metals.length > 0 && (
-          <div style={{ margin: "0 0 28px" }}>
-            <div className="cm-section-label" style={{ marginBottom: 12 }}>Spot Prices (USD / troy oz)</div>
-            <div className="cm-stat-row">
-              {metals.map((m) => (
-                <div key={m.symbol} style={{
-                  background: C.panel, border: `1px solid ${C.panelEdge}`,
-                  borderRadius: 10, padding: "12px 14px",
-                }}>
-                  <div className="cm-mono" style={{ fontSize: 10.5, color: C.faint, textTransform: "uppercase", letterSpacing: "0.05em" }}>
-                    {m.name}
-                  </div>
-                  <div className="cm-mono" style={{ fontSize: 18, fontWeight: 700, color: C.ink, marginTop: 4 }}>
-                    ${m.usdPerOz.toLocaleString(undefined, { maximumFractionDigits: 2 })}
-                  </div>
-                </div>
-              ))}
-            </div>
-          </div>
-        )}
-
         {/* News */}
-        <div className="cm-section-label" style={{
-          marginTop: metals.length > 0 ? 8 : 28,
-        }}>
+        <div className="cm-section-label" style={{ marginTop: 28 }}>
           News <span style={{ opacity: 0.6, textTransform: "none", letterSpacing: 0 }}>· last {MAX_NEWS_AGE_DAYS} days</span>
         </div>
         <div style={{ display: "flex", gap: 10, flexWrap: "wrap", margin: "12px 0 28px" }}>
@@ -739,6 +936,9 @@ export default function GustaDibreDashboard() {
             </button>
           </div>
         )}
+
+        {/* Metal prices */}
+        {metals.length > 0 && <MetalsPanel metals={metals} C={C} />}
 
       </div>
     </div>
