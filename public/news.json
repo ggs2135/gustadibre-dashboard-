@@ -1,104 +1,98 @@
 {
-  "generatedAt": "2026-11-22T15:01:28.927Z",
+  "generatedAt": "2026-11-23T18:56:59.532Z",
   "items": [
     {
-      "headline": "Worley to deliver field construction services at K+S Bethune potash mine",
-      "summary": "Worley says it has been awarded a construction contract by K+S Potash Canada GP to provide field construction services for the Compaction and Power Distribution project at the Bethune potash mine in Saskatchewan,…",
+      "headline": "Comex Gold Settles 3.90% Higher at $3649.20",
+      "summary": "Gold settled 3.9% higher and silver rose 5.1%, with both metals snapping a three-session losing streak.",
       "category": "supply",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-11-22",
-      "link": "https://im-mining.com/2026/11/22/worley-to-deliver-field-construction-services-at-ks-bethune-potash-mine/"
-    },
-    {
-      "headline": "Stone Three on the role of MPC and RTO in modern milling operations",
-      "summary": "Somerset West, South Africa-headquartered Stone Three helps mining concentrators increase productivity by solving difficult real-time measurement problems through industrial AI-enabled machine vision systems. To…",
-      "category": "supply",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-11-21",
-      "link": "https://im-mining.com/2026/11/21/stone-three-on-the-role-of-mpc-and-rto-in-modern-milling-operations/"
-    },
-    {
-      "headline": "Landmark Harbour survey addresses Chinese versus Western mining tech & equipment confidence gap",
-      "summary": "With bauma CHINA set to kick off next week on November 23, with IM Editorial Director Paul Moore in attendance, it is a good opportunity to consider the position of Chinese OEMs in the mining industry – and especially…",
-      "category": "supply",
-      "minerals": [],
-      "source": "International Mining",
-      "date": "2026-11-21",
-      "link": "https://im-mining.com/2026/11/21/landmark-harbour-survey-addresses-chinese-versus-western-mining-tech-equipment-confidence-gap/"
-    },
-    {
-      "headline": "Niron Magnetics to build $1.8 billion manufacturing plant in Alabama",
-      "summary": "Magnet manufacturer Niron Magnetics said Friday it will build a $1.8 billion advanced manufacturing campus in southeast Alabama. The 1.6-million-square-foot campus at the Westgate Super Site industrial park will be…",
-      "category": "supply",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-11-20",
-      "link": "https://www.mining.com/niron-magnetics-to-build-1-8-billion-manufacturing-plant-in-alabama/"
-    },
-    {
-      "headline": "Copper price sinks into bear market, erasing 2026 gains in worst week of the year",
-      "summary": "Copper slumped again on Friday, tipping the metal into a bear market just ten weeks after it set an all-time high, as the unwinding of bets on the artificial intelligence boom, a strong dollar and fading US tariff…",
-      "category": "economic",
       "minerals": [
-        "Copper"
-      ],
-      "source": "MINING.com",
-      "date": "2026-11-20",
-      "link": "https://www.mining.com/copper-price-sinks-into-bear-market-erasing-2026-gains-in-worst-week-of-the-year/"
-    },
-    {
-      "headline": "US copper booked for China as tariff bet unwinds",
-      "summary": "Traders have booked an estimated 30,000 to 100,000 tonnes of refined copper to ship from the West Coast of the United States to China, reversing... The post US copper booked for China as tariff bet unwinds appeared…",
-      "category": "economic",
-      "minerals": [
-        "Copper"
-      ],
-      "source": "The Northern Miner",
-      "date": "2026-11-20",
-      "link": "https://www.northernminer.com/news/us-copper-booked-for-china-as-tariff-bet-unwinds/1003898084/"
-    },
-    {
-      "headline": "The U.S. Is Auctioning Off a Slice of the Pacific Ocean Floor in Push for Minerals",
-      "summary": "The Trump administration sold 31.5 million acres of seabed near American Samoa to unlock new sources of metals and minerals.",
-      "category": "politics",
-      "minerals": [],
-      "source": "WSJ — World News",
-      "date": "2026-11-20",
-      "link": "https://www.wsj.com/politics/the-u-s-is-auctioning-off-a-slice-of-the-pacific-ocean-floor-in-push-for-minerals-e6c1ecff?mod=rss_worldnews"
-    },
-    {
-      "headline": "Resource Review video: N.L. prospectors look to find the next generation",
-      "summary": "Newfoundland and Labrador should put more money into prospector grants and mentoring as veteran prospectors retire, says Norm Mercer, president of the province’s prospectors association.... The post Resource Review…",
-      "category": "funding",
-      "minerals": [
-        "Grants"
-      ],
-      "source": "The Northern Miner",
-      "date": "2026-11-20",
-      "link": "https://www.northernminer.com/news/resource-review-video-n-l-prospectors-look-to-find-the-next-generation/1003898106/"
-    },
-    {
-      "headline": "Angola’s $180 million De Beers bid puts $1.8 billion value in play",
-      "summary": "Angola plans to pay about $180 million for a 10% stake in De Beers, implying a $1.8 billion valuation for the diamond giant as African producers seek greater control over the industry. The proposed investment would…",
-      "category": "economic",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-11-20",
-      "link": "https://www.mining.com/angolas-180-million-de-beers-bid-puts-1-8-billion-value-in-play/"
-    },
-    {
-      "headline": "Friedland’s Ivanhoe Electric strikes high-grade copper",
-      "summary": "Ivanhoe Electric (NYSE American: IE; TSX: IE), backed by mining billionaire Robert Friedland, has discovered high-grade copper-gold-silver mineralization at its Gleeson project in southeastern Arizona,... The post…",
-      "category": "funding",
-      "minerals": [
-        "Copper",
         "Silver"
       ],
+      "source": "WSJ — Markets",
+      "date": "2026-11-23",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c?mod=rss_markets_main"
+    },
+    {
+      "headline": "Congo resumes cobalt export ban as prices slide",
+      "summary": "The Democratic Republic of Congo will suspend all cobalt exports from Nov. 30 as prices slide despite restrictions on shipments from the world’s top producer... The post Congo resumes cobalt export ban as prices slide…",
+      "category": "politics",
+      "minerals": [
+        "Cobalt"
+      ],
       "source": "The Northern Miner",
-      "date": "2026-11-19",
-      "link": "https://www.northernminer.com/news/friedlands-ivanhoe-electric-strikes-high-grade-copper/1003898048/"
+      "date": "2026-11-23",
+      "link": "https://www.northernminer.com/news/congo-resumes-cobalt-export-ban-as-prices-slide/1003898164/"
+    },
+    {
+      "headline": "Flexicon introduces new automated bulk bag handling configuration",
+      "summary": "Flexicon, a Pennsylvania-based bulk material-handling solutions manufacturer, has introduced its new automated bulk bag conditioning, piercing and conveying system for fast-paced process […] The post Flexicon…",
+      "category": "supply",
+      "minerals": [],
+      "source": "Canadian Mining Journal",
+      "date": "2026-11-23",
+      "link": "https://www.canadianminingjournal.com/news/flexicon-introduces-new-automated-bulk-bag-handling-configuration/"
+    },
+    {
+      "headline": "Net bullish copper bets fall to 20-month low",
+      "summary": "Speculative investors reduced their net bullish positions in copper futures by nearly 39% in the latest reporting week, according to BMO Capital Markets, as selling... The post Net bullish copper bets fall to 20-month…",
+      "category": "economic",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-11-23",
+      "link": "https://www.northernminer.com/news/net-bullish-copper-bets-fall-to-20-month-low/1003898161/"
+    },
+    {
+      "headline": "ITT expands high-pressure slurry valve lineup",
+      "summary": "ITT Engineered Valves (NYSE: ITT) has introduced its Fabri-Valve PTB High-Pressure Slurry Valve, expanding its push-through valve portfolio. The company says the […] The post ITT expands high-pressure slurry valve…",
+      "category": "supply",
+      "minerals": [],
+      "source": "Canadian Mining Journal",
+      "date": "2026-11-23",
+      "link": "https://www.canadianminingjournal.com/news/itt-expands-high-pressure-slurry-valve-lineup/"
+    },
+    {
+      "headline": "Copper rout threatens Chile’s budget recovery hopes",
+      "summary": "Chile’s copper price slump is threatening President José Antonio Kast’s efforts to rein in the country’s fiscal deficit as rising fuel subsidies and weaker-than-expected economic growth strain government finances.…",
+      "category": "economic",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "MINING.com",
+      "date": "2026-11-23",
+      "link": "https://www.mining.com/copper-rout-threatens-chiles-budget-recovery-hopes/"
+    },
+    {
+      "headline": "Canadian Copper sees expansion opportunites in New Brunswick",
+      "summary": "Canadian Copper (CSE: CCI) has reported broad copper-bearing drill intervals west of its Murray Brook deposit in New Brunswick, highlighting potential expansion opportunities as it... The post Canadian Copper sees…",
+      "category": "supply",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-11-23",
+      "link": "https://www.northernminer.com/news/canadian-copper-sees-expansion-opportunites-in-new-brunswick/1003898157/"
+    },
+    {
+      "headline": "Smoke-affected hops have greatest impact on beer when added after fermentation, study finds",
+      "summary": "Smoke-affected hops can alter a beer's taste and aroma, but their impact depends on how many are used and when the hops are added during brewing, new research from Oregon State University shows.",
+      "category": "science",
+      "minerals": [],
+      "source": "Phys.org Chemistry",
+      "date": "2026-11-23",
+      "link": "https://phys.org/news/2026-11-affected-greatest-impact-beer-added.html"
+    },
+    {
+      "headline": "BME awarded top honours for responsible used-oil management",
+      "summary": "The BME Used Oil team has been recognised as a national leader in responsible used-oil management after receiving the Gold Award for Processor of the Year at the ROSE Foundation (Recycling Oil Saves the Environment)…",
+      "category": "science",
+      "minerals": [
+        "Recycling"
+      ],
+      "source": "International Mining",
+      "date": "2026-11-23",
+      "link": "https://im-mining.com/2026/11/23/bme-awarded-top-honours-for-responsible-used-oil-management/"
     }
   ]
 }

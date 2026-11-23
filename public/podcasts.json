@@ -1,36 +1,36 @@
 {
-  "generatedAt": "2026-11-22T15:01:32.287Z",
+  "generatedAt": "2026-11-23T18:57:01.419Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
-        "title": "Voto em branco: quando teremos um presidente negro no Brasil? ",
-        "date": "2026-11-19",
-        "url": "https://open.spotify.com/episode/7F4daUQBuGYkG26lvU8NUd",
-        "isNew": false
+        "title": "Quem precisa de um kit de emergência? ",
+        "date": "2026-11-23",
+        "url": "https://open.spotify.com/episode/2Kdvtda7hmYC8x9TTI9MW1",
+        "isNew": true
       }
     },
     {
       "name": "Posse de Bola",
       "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8aa9b2e3677a29a2e1d4ed5d08",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8aa9b2e3677a29a2e1d4ed5d08",
       "latestEpisode": {
-        "title": "#721: Flamengo conquista o Brasileirão na casa do Palmeiras!",
-        "date": "2026-11-21",
-        "url": "https://open.spotify.com/episode/3nCEasRdTXoqYLRFGQHvy9",
+        "title": "#722: Flamengo campeão tem reflexões? Como fica o Palmeiras para a Libertadores?",
+        "date": "2026-11-23",
+        "url": "https://open.spotify.com/episode/4Yqu2ldzQ8I1WmJSoctoQu",
         "isNew": true
       }
     },
     {
       "name": "WSJ What's News",
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "Is ‘Grand Theft Auto VI’ Gaming’s Last Blockbuster?",
-        "date": "2026-11-22",
-        "url": "https://open.spotify.com/episode/3hhFdmBsDojmoBhQ8wVzJ5",
+        "title": "Tech Stocks Recover After U.S. Wipeout",
+        "date": "2026-11-23",
+        "url": "https://open.spotify.com/episode/3a8u9kFKFiulEwjcz8Vqfg",
         "isNew": true
       }
     },
@@ -48,7 +48,7 @@
     {
       "name": "Stereo Chemistry",
       "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
       "latestEpisode": {
         "title": "Uncovered: Plastics Pyrolysis Under Fire",
         "date": "2026-11-05",
