@@ -1,36 +1,43 @@
 {
-  "generatedAt": "2026-11-23T18:56:59.532Z",
+  "generatedAt": "2026-11-24T18:35:52.140Z",
   "items": [
     {
-      "headline": "Comex Gold Settles 3.90% Higher at $3649.20",
-      "summary": "Gold settled 3.9% higher and silver rose 5.1%, with both metals snapping a three-session losing streak.",
-      "category": "supply",
-      "minerals": [
-        "Silver"
-      ],
-      "source": "WSJ — Markets",
-      "date": "2026-11-23",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c?mod=rss_markets_main"
-    },
-    {
-      "headline": "Congo resumes cobalt export ban as prices slide",
-      "summary": "The Democratic Republic of Congo will suspend all cobalt exports from Nov. 30 as prices slide despite restrictions on shipments from the world’s top producer... The post Congo resumes cobalt export ban as prices slide…",
-      "category": "politics",
-      "minerals": [
-        "Cobalt"
-      ],
-      "source": "The Northern Miner",
-      "date": "2026-11-23",
-      "link": "https://www.northernminer.com/news/congo-resumes-cobalt-export-ban-as-prices-slide/1003898164/"
-    },
-    {
-      "headline": "Flexicon introduces new automated bulk bag handling configuration",
-      "summary": "Flexicon, a Pennsylvania-based bulk material-handling solutions manufacturer, has introduced its new automated bulk bag conditioning, piercing and conveying system for fast-paced process […] The post Flexicon…",
+      "headline": "Satellite Miner offers companies a new tool for monitoring land changes",
+      "summary": "Satellite Miner has turned its Salar in Motion into a territorial monitoring service for mining companies, investors and governments. An Argentine geospatial […] The post Satellite Miner offers companies a new tool for…",
       "category": "supply",
       "minerals": [],
       "source": "Canadian Mining Journal",
-      "date": "2026-11-23",
-      "link": "https://www.canadianminingjournal.com/news/flexicon-introduces-new-automated-bulk-bag-handling-configuration/"
+      "date": "2026-11-24",
+      "link": "https://www.canadianminingjournal.com/news/satellite-miner-offers-companies-a-new-tool-for-monitoring-land-changes/"
+    },
+    {
+      "headline": "Stratum AI model feeds Simberi’s mineral resource estimate",
+      "summary": "Stratum AI says it has reached a “significant milestone” in the adoption of artificial intelligence (AI) in mining — its model has […] The post Stratum AI model feeds Simberi’s mineral resource estimate appeared first…",
+      "category": "supply",
+      "minerals": [],
+      "source": "Canadian Mining Journal",
+      "date": "2026-11-24",
+      "link": "https://www.canadianminingjournal.com/news/stratum-ai-model-feeds-simberis-mineral-resource-estimate/"
+    },
+    {
+      "headline": "Ontario seeks to speed up mining approvals",
+      "summary": "Ontario plans to overhaul mining approvals beyond its fast-track program for four major projects, proposing to eliminate or streamline half of the key permits and... The post Ontario seeks to speed up mining approvals…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-24",
+      "link": "https://www.northernminer.com/news/ontario-seeks-to-speed-up-mining-approvals/1003898200/"
+    },
+    {
+      "headline": "Marimaca gets Sprott’s backing for Chile copper project",
+      "summary": "Developer Marimaca Copper (TSX: MARI; ASX: MC2) has secured investment committee backing from a Sprott (TSX, NYSE: SII) unit for a proposed funding package to... The post Marimaca gets Sprott’s backing for Chile copper…",
+      "category": "supply",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-11-24",
+      "link": "https://www.northernminer.com/news/marimaca-gets-sprotts-backing-for-chile-copper-project/1003898203/"
     },
     {
       "headline": "Net bullish copper bets fall to 20-month low",
@@ -44,13 +51,15 @@
       "link": "https://www.northernminer.com/news/net-bullish-copper-bets-fall-to-20-month-low/1003898161/"
     },
     {
-      "headline": "ITT expands high-pressure slurry valve lineup",
-      "summary": "ITT Engineered Valves (NYSE: ITT) has introduced its Fabri-Valve PTB High-Pressure Slurry Valve, expanding its push-through valve portfolio. The company says the […] The post ITT expands high-pressure slurry valve…",
-      "category": "supply",
-      "minerals": [],
-      "source": "Canadian Mining Journal",
+      "headline": "Congo resumes cobalt export ban as prices slide",
+      "summary": "The Democratic Republic of Congo will suspend all cobalt exports from Nov. 30 as prices slide despite restrictions on shipments from the world’s top producer... The post Congo resumes cobalt export ban as prices slide…",
+      "category": "politics",
+      "minerals": [
+        "Cobalt"
+      ],
+      "source": "The Northern Miner",
       "date": "2026-11-23",
-      "link": "https://www.canadianminingjournal.com/news/itt-expands-high-pressure-slurry-valve-lineup/"
+      "link": "https://www.northernminer.com/news/congo-resumes-cobalt-export-ban-as-prices-slide/1003898164/"
     },
     {
       "headline": "Copper rout threatens Chile’s budget recovery hopes",
@@ -62,17 +71,6 @@
       "source": "MINING.com",
       "date": "2026-11-23",
       "link": "https://www.mining.com/copper-rout-threatens-chiles-budget-recovery-hopes/"
-    },
-    {
-      "headline": "Canadian Copper sees expansion opportunites in New Brunswick",
-      "summary": "Canadian Copper (CSE: CCI) has reported broad copper-bearing drill intervals west of its Murray Brook deposit in New Brunswick, highlighting potential expansion opportunities as it... The post Canadian Copper sees…",
-      "category": "supply",
-      "minerals": [
-        "Copper"
-      ],
-      "source": "The Northern Miner",
-      "date": "2026-11-23",
-      "link": "https://www.northernminer.com/news/canadian-copper-sees-expansion-opportunites-in-new-brunswick/1003898157/"
     },
     {
       "headline": "Smoke-affected hops have greatest impact on beer when added after fermentation, study finds",
