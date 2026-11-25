@@ -1,43 +1,58 @@
 {
-  "generatedAt": "2026-11-24T18:35:52.140Z",
+  "generatedAt": "2026-11-25T17:46:13.136Z",
   "items": [
     {
-      "headline": "Satellite Miner offers companies a new tool for monitoring land changes",
-      "summary": "Satellite Miner has turned its Salar in Motion into a territorial monitoring service for mining companies, investors and governments. An Argentine geospatial […] The post Satellite Miner offers companies a new tool for…",
+      "headline": "Sulphur shortage threatens Indonesia’s nickel plans",
+      "summary": "A sulphur shortage threatens projects that would add more than 600,000 tonnes of nickel capacity in Indonesia’s battery-materials sector, Wood Mackenzie said Wednesday. Indonesia had... The post Sulphur shortage…",
       "category": "supply",
-      "minerals": [],
-      "source": "Canadian Mining Journal",
-      "date": "2026-11-24",
-      "link": "https://www.canadianminingjournal.com/news/satellite-miner-offers-companies-a-new-tool-for-monitoring-land-changes/"
-    },
-    {
-      "headline": "Stratum AI model feeds Simberi’s mineral resource estimate",
-      "summary": "Stratum AI says it has reached a “significant milestone” in the adoption of artificial intelligence (AI) in mining — its model has […] The post Stratum AI model feeds Simberi’s mineral resource estimate appeared first…",
-      "category": "supply",
-      "minerals": [],
-      "source": "Canadian Mining Journal",
-      "date": "2026-11-24",
-      "link": "https://www.canadianminingjournal.com/news/stratum-ai-model-feeds-simberis-mineral-resource-estimate/"
-    },
-    {
-      "headline": "Ontario seeks to speed up mining approvals",
-      "summary": "Ontario plans to overhaul mining approvals beyond its fast-track program for four major projects, proposing to eliminate or streamline half of the key permits and... The post Ontario seeks to speed up mining approvals…",
-      "category": "supply",
-      "minerals": [],
+      "minerals": [
+        "Nickel"
+      ],
       "source": "The Northern Miner",
-      "date": "2026-11-24",
-      "link": "https://www.northernminer.com/news/ontario-seeks-to-speed-up-mining-approvals/1003898200/"
+      "date": "2026-11-25",
+      "link": "https://www.northernminer.com/news/sulphur-shortage-threatens-indonesias-nickel-plans/1003898246/"
     },
     {
-      "headline": "Marimaca gets Sprott’s backing for Chile copper project",
-      "summary": "Developer Marimaca Copper (TSX: MARI; ASX: MC2) has secured investment committee backing from a Sprott (TSX, NYSE: SII) unit for a proposed funding package to... The post Marimaca gets Sprott’s backing for Chile copper…",
+      "headline": "Copper price sinks to 2026 low as mining stocks brace for further losses",
+      "summary": "Copper fell to its lowest level this year on Wednesday, extending a selloff that has erased about $145 billion from the market value of the world’s biggest copper miners in November. Comex copper for December delivery…",
       "category": "supply",
       "minerals": [
         "Copper"
       ],
+      "source": "MINING.com",
+      "date": "2026-11-25",
+      "link": "https://www.mining.com/copper-price-sinks-to-2026-low-as-mining-stocks-brace-for-further-losses/"
+    },
+    {
+      "headline": "Podcast: China to retain grip on Myanmar’s heavy rare earths, ft Critical Risk Team’s George McLeod",
+      "summary": "This week’s episode features George McLeod, partner at Critical Risk Team, in conversation with host Adrian Pocobelli about U.S. overtures to Myanmar and their implications... The post Podcast: China to retain grip on…",
+      "category": "supply",
+      "minerals": [
+        "Rare earths"
+      ],
       "source": "The Northern Miner",
-      "date": "2026-11-24",
-      "link": "https://www.northernminer.com/news/marimaca-gets-sprotts-backing-for-chile-copper-project/1003898203/"
+      "date": "2026-11-25",
+      "link": "https://www.northernminer.com/news/podcast-myanmars-heavy-rare-earths-will-keep-flowing-to-china-ft-critical-risk-teams-george-mcleod/1003898194/"
+    },
+    {
+      "headline": "Core Lithium ships first spodumene concentrate from Finniss",
+      "summary": "The first shipment since the mine restarted in May 2026 comes on the heels of a five-year marketing agreement with Glencore The post Core Lithium ships first spodumene concentrate from Finniss appeared first on…",
+      "category": "supply",
+      "minerals": [
+        "Lithium"
+      ],
+      "source": "Canadian Mining Journal",
+      "date": "2026-11-25",
+      "link": "https://www.canadianminingjournal.com/news/core-lithium-ships-first-spodumene-concentrate-from-finniss/"
+    },
+    {
+      "headline": "US military pause clouds Ecuador’s illegal mining fight",
+      "summary": "Ecuador’s Interior Minister John Reimberg reaffirmed the country’s security partnership with Washington following reports that the Trump administration had suspended joint military operations, raising uncertainty over…",
+      "category": "politics",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-11-25",
+      "link": "https://www.mining.com/us-military-pause-clouds-ecuadors-illegal-mining-fight/"
     },
     {
       "headline": "Net bullish copper bets fall to 20-month low",
@@ -80,17 +95,6 @@
       "source": "Phys.org Chemistry",
       "date": "2026-11-23",
       "link": "https://phys.org/news/2026-11-affected-greatest-impact-beer-added.html"
-    },
-    {
-      "headline": "BME awarded top honours for responsible used-oil management",
-      "summary": "The BME Used Oil team has been recognised as a national leader in responsible used-oil management after receiving the Gold Award for Processor of the Year at the ROSE Foundation (Recycling Oil Saves the Environment)…",
-      "category": "science",
-      "minerals": [
-        "Recycling"
-      ],
-      "source": "International Mining",
-      "date": "2026-11-23",
-      "link": "https://im-mining.com/2026/11/23/bme-awarded-top-honours-for-responsible-used-oil-management/"
     }
   ]
 }
