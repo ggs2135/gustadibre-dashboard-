@@ -1,0 +1,92 @@
+{
+  "generatedAt": "2026-11-26T17:29:47.505Z",
+  "items": [
+    {
+      "headline": "Normet expands rock breaking reach with TRS acquisition",
+      "summary": "Normet has acquired Total Rockbreaking Solutions (TRS), an Australian mining equipment and engineering business, for an undisclosed amount. The company says the […] The post Normet expands rock breaking reach with TRS…",
+      "category": "supply",
+      "minerals": [],
+      "source": "Canadian Mining Journal",
+      "date": "2026-11-26",
+      "link": "https://www.canadianminingjournal.com/news/normet-expands-rock-breaking-reach-with-trs-acquisition/"
+    },
+    {
+      "headline": "Orvana faces bond deadline as Bolivia plant ramps up",
+      "summary": "Orvana Minerals (TSX: ORV; US-OTC: ORVMF) faces a bondholders’ meeting Monday after its Bolivian unit breached financial conditions on about $25 million (C$35.5 million) in... The post Orvana faces bond deadline as…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-26",
+      "link": "https://www.northernminer.com/news/orvana-faces-bond-deadline-as-bolivia-plant-ramps-up/1003898307/"
+    },
+    {
+      "headline": "Refined Energy given green light for Golden Goose survey",
+      "summary": "Refined Energy (CSE: RUU) has received provincial approval for a high-resolution drone-based magnetic and LiDAR survey at its Golden Goose gold-antimony property […] The post Refined Energy given green light for Golden…",
+      "category": "supply",
+      "minerals": [],
+      "source": "Canadian Mining Journal",
+      "date": "2026-11-26",
+      "link": "https://www.canadianminingjournal.com/news/refined-energy-given-green-light-for-golden-goose-survey/"
+    },
+    {
+      "headline": "Op-Ed: Critical minerals face a post-construction test",
+      "summary": "Albemarle’s (NYSE: ALB) decision to idle its remaining operational lithium hydroxide processing train in Western Australia underscores the commercial challenges facing efforts to diversify critical minerals supply…",
+      "category": "supply",
+      "minerals": [
+        "Lithium"
+      ],
+      "source": "MINING.com",
+      "date": "2026-11-26",
+      "link": "https://www.mining.com/op-ed-critical-minerals-face-a-post-construction-test/"
+    },
+    {
+      "headline": "Cobalt jumps 33% ahead of Congo export ban",
+      "summary": "Cobalt prices have soared this week after the Democratic Republic of Congo announced its second export ban in less than two years, BMO Capital Markets... The post Cobalt jumps 33% ahead of Congo export ban appeared…",
+      "category": "politics",
+      "minerals": [
+        "Cobalt"
+      ],
+      "source": "The Northern Miner",
+      "date": "2026-11-26",
+      "link": "https://www.northernminer.com/news/cobalt-jumps-33-ahead-of-congo-export-ban/1003898316/"
+    },
+    {
+      "headline": "Cyclic Materials picks Germany for first European plant",
+      "summary": "The Canadian recycler aims to recover critical minerals from discarded electronics as the West seeks to curb reliance on China. The post Cyclic Materials picks Germany for first European plant appeared first on…",
+      "category": "science",
+      "minerals": [],
+      "source": "Canadian Mining Journal",
+      "date": "2026-11-26",
+      "link": "https://www.canadianminingjournal.com/news/cyclic-materials-picks-germany-for-first-european-plant/"
+    },
+    {
+      "headline": "Cyclic Materials picks Germany for first European plant",
+      "summary": "Rare earth recycler Cyclic Materials has selected a site in Germany for its first European magnet recovery facility, marking a milestone in its international expansion. The privately held company signed a land…",
+      "category": "science",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-11-26",
+      "link": "https://www.mining.com/cyclic-materials-picks-germany-for-first-european-plant/"
+    },
+    {
+      "headline": "US military pause clouds Ecuador’s illegal mining fight",
+      "summary": "Ecuador’s Interior Minister John Reimberg defended the country’s security partnership with the United States after reports that the Trump administration had suspended joint military operations, raising uncertainty over…",
+      "category": "politics",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-11-25",
+      "link": "https://www.mining.com/us-military-pause-clouds-ecuadors-illegal-mining-fight/"
+    },
+    {
+      "headline": "Copper rout threatens Chile’s budget recovery hopes",
+      "summary": "Chile’s copper price slump is threatening President José Antonio Kast’s efforts to rein in the country’s fiscal deficit as rising fuel subsidies and weaker-than-expected economic growth strain government finances.…",
+      "category": "economic",
+      "minerals": [
+        "Copper"
+      ],
+      "source": "MINING.com",
+      "date": "2026-11-23",
+      "link": "https://www.mining.com/copper-rout-threatens-chiles-budget-recovery-hopes/"
+    }
+  ]
+}

@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-11-25T17:46:13.799Z",
+  "generatedAt": "2026-11-26T17:29:48.296Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
-        "title": "Como fica a economia pós-Plano Moretti",
-        "date": "2026-11-25",
-        "url": "https://open.spotify.com/episode/17VeaidjyTARPpsJX5LXok",
+        "title": "Por que a Amazônia está queimando?",
+        "date": "2026-11-26",
+        "url": "https://open.spotify.com/episode/6pDwgjYGjes1lHEiiGario",
         "isNew": true
       }
     },
     {
       "name": "Posse de Bola",
       "showUrl": "https://open.spotify.com/show/5P157mPqe1KiFcrNX56YBz",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8aa9b2e3677a29a2e1d4ed5d08",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8aa9b2e3677a29a2e1d4ed5d08",
       "latestEpisode": {
         "title": "#722: Flamengo campeão tem reflexões? Como fica o Palmeiras para a Libertadores?",
         "date": "2026-11-23",
         "url": "https://open.spotify.com/episode/4Yqu2ldzQ8I1WmJSoctoQu",
-        "isNew": true
+        "isNew": false
       }
     },
     {
       "name": "WSJ What's News",
       "showUrl": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a2f3e2e66fb7b5b2fc66ea9e6",
       "latestEpisode": {
-        "title": "Is Medicare for All Within Reach?",
+        "title": "The Growing Cost of Caring for America’s Aging Population",
         "date": "2026-11-25",
-        "url": "https://open.spotify.com/episode/3Rk8xvu3cuF0qNB6uV2jTP",
+        "url": "https://open.spotify.com/episode/7luDn36P5clyucz7OgjZM7",
         "isNew": true
       }
     },
     {
       "name": "Chain Reaction by ACS",
       "showUrl": "https://open.spotify.com/show/7dSHR4UqvZjX3I9mZ4rBlu",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8af46957f9ffdf22624d5fc284",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8af46957f9ffdf22624d5fc284",
       "latestEpisode": {
-        "title": "[Bonus] Workplace Safety and Foundational Biochemistry: The Lives of Alice Hamilton and Marie Maynard Daly",
-        "date": "2026-11-12",
-        "url": "https://open.spotify.com/episode/0MxPY320TQhjkLBgqXZwfG",
-        "isNew": false
+        "title": "Teaser: The Fuels That Drive Us",
+        "date": "2026-11-26",
+        "url": "https://open.spotify.com/episode/328RyP7rar93lcP7DBizAy",
+        "isNew": true
       }
     },
     {
       "name": "Stereo Chemistry",
       "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
-      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
+      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
       "latestEpisode": {
         "title": "Uncovered: Plastics Pyrolysis Under Fire",
         "date": "2026-11-05",

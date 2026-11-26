@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:46:15.059Z",
+  "generatedAt": "2026-11-26T17:29:50.370Z",
   "items": [
     {
       "title": "Modernising Environmental Management in ISA: From Impact Assessment to Adoptive Governance",
@@ -96,6 +96,29 @@
       "source": "OpenAlex"
     },
     {
+      "title": "critmin-network-models: the SEAR Lab's critical-mineral network models (critmin-net)",
+      "authors": [
+        "Erick Jones"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "date": "2026-11-25",
+      "abstract": "critmin-net, the SEAR Lab's critical-minerals supply-chain network model: the lithium-ion battery supply chain to 2040 (mining, refining, precursor, anode and cathode material, cells, end uses and recycling) in five regions with trade between them, every market a calibrated supply, demand or cost curve, with US…",
+      "link": "https://doi.org/10.5281/zenodo.24540500",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Industrializing critical mineral recovery: Technologies, readiness, scale-up, and commercial deployment",
+      "authors": [
+        "Rohit Chauhan",
+        "Meenesh R. Singh"
+      ],
+      "venue": "Renewable and Sustainable Energy Reviews",
+      "date": "2026-11-25",
+      "abstract": "Critical-mineral recovery from manufacturing scrap, end-of-life products, mine wastes, industrial residues, and mineral-rich aqueous streams can diversify supply while reducing waste disposal and dependence on primary extraction. However, translating high extraction efficiencies achieved in the laboratory into…",
+      "link": "https://doi.org/10.1016/j.rser.2026.117729",
+      "source": "OpenAlex"
+    },
+    {
       "title": "A price-weighted and lifecycle-adjusted framework for critical-mineral supply-chain exposure in low-carbon energy technologies",
       "authors": [
         "Mojawir Ahmad Sadat",
@@ -167,20 +190,6 @@
       "date": "2026-11-19",
       "abstract": "Critical-mineral supply chains behave differently from the manufacturing networks for which most supply chain models were developed. Companion metals are produced as by-products of host metals, separation and refining capacity takes years to build, and secondary supply returns only when products reach the end of…",
       "link": "https://doi.org/10.21203/rs.3.rs-11781942/v1",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Accounting for the mining industry’s global water footprint",
-      "authors": [
-        "Tim T. Werner",
-        "Stephen Northey",
-        "Nadja C. Kunz",
-        "Masaharu Motoshita"
-      ],
-      "venue": "Nature Sustainability",
-      "date": "2026-11-17",
-      "abstract": "",
-      "link": "https://doi.org/10.1038/s41893-026-01945-1",
       "source": "OpenAlex"
     },
     {
@@ -285,19 +294,6 @@
       "date": "2026-09-30",
       "abstract": "Global mobile phone use has risen sharply, with Nigeria among leading users. Indiscriminate battery disposal harms the environment and wastes valuable metals. This study investigated the benefits of lithium battery recycling in Nigeria. The study utilizes rechargeable battery data from the Nigerian Communications…",
       "link": "https://doi.org/10.64980/ujees.v8i2.023",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Pyrometallurgical Recovery of Neodymium from Nd–Fe–B Magnets in End-of-Life Electric Vehicle Motors Using Non-Ferrous Smelting Slag Flux",
-      "authors": [
-        "Chang-Jeong Kim",
-        "Yeon-Jun Chung",
-        "Jei‐Pil Wang"
-      ],
-      "venue": "Metals",
-      "date": "2026-08-24",
-      "abstract": "The increasing use of electric vehicles has led to a growing demand for rare-earth elements, particularly neodymium (Nd), which is a critical component of Nd–Fe–B permanent magnets used in traction motors. End-of-life electric vehicle motors are therefore considered promising secondary resources for Nd recovery. In…",
-      "link": "https://doi.org/10.3390/met16090942",
       "source": "OpenAlex"
     }
   ]
