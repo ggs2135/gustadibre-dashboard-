@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T17:29:50.370Z",
+  "generatedAt": "2026-11-27T17:11:21.713Z",
   "items": [
     {
       "title": "Modernising Environmental Management in ISA: From Impact Assessment to Adoptive Governance",
@@ -96,6 +96,20 @@
       "source": "OpenAlex"
     },
     {
+      "title": "Effect of Phase Modifier on the Selectivity of REEs Extraction over Iron(III) Using TODGA",
+      "authors": [
+        "Chloé Capdevielle",
+        "Cécile Marie",
+        "Manuel Miguirditchian",
+        "Dominique Guillaumont"
+      ],
+      "venue": "Figshare",
+      "date": "2026-11-26",
+      "abstract": "Alcohols, notably 1-octanol, are widely used as phase modifiers in rare earth elements (REEs) extraction by diglycolamides (DGA). This work examines, in the frame of rare earth recycling from end of life magnets, the effect of alcohols on the selectivity between neodymium, praseodymium, dysprosium, iron(III) and…",
+      "link": "https://doi.org/10.6084/m9.figshare.35129344",
+      "source": "OpenAlex"
+    },
+    {
       "title": "critmin-network-models: the SEAR Lab's critical-mineral network models (critmin-net)",
       "authors": [
         "Erick Jones"
@@ -117,6 +131,18 @@
       "abstract": "Critical-mineral recovery from manufacturing scrap, end-of-life products, mine wastes, industrial residues, and mineral-rich aqueous streams can diversify supply while reducing waste disposal and dependence on primary extraction. However, translating high extraction efficiencies achieved in the laboratory into…",
       "link": "https://doi.org/10.1016/j.rser.2026.117729",
       "source": "OpenAlex"
+    },
+    {
+      "title": "Economic Security as the New Anchor of Critical Minerals Governance and Global Energy Transition",
+      "authors": [
+        "Jewellord T. Nem Singh",
+        "Hao Zhang"
+      ],
+      "venue": "Environment and Security",
+      "date": "2026-11-24",
+      "abstract": "The race for critical minerals has become inseparable from geopolitical tension and the clean energy transition. This study argues that an emerging doctrine of economic security has become the organising principle of critical minerals governance among major economies, reconfiguring the market-led multilateral…",
+      "link": "https://doi.org/10.1177/27538796261502969",
+      "source": "Semantic Scholar"
     },
     {
       "title": "A price-weighted and lifecycle-adjusted framework for critical-mineral supply-chain exposure in low-carbon energy technologies",
@@ -241,6 +267,19 @@
       "source": "OpenAlex"
     },
     {
+      "title": "Noble-Metal-Free MXene–Aptamer Biointerface for Electrochemical Recognition of Nd3+",
+      "authors": [
+        "Somya Sadaf",
+        "Jaydeep Kanungo",
+        "Chinmay Ghoroi"
+      ],
+      "venue": "Materials Chemistry and Physics",
+      "date": "2026-11-01",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.matchemphys.2026.133413",
+      "source": "OpenAlex"
+    },
+    {
       "title": "Life Cycle Assessment of Recovery of Rare Earth Oxide from Magnets of Waste Hard Disk Drives via Leaching and Selective Precipitation Methods: A Vietnamese Case Study",
       "authors": [
         "Chun‐Yang Yin",
@@ -252,48 +291,6 @@
       "date": "2026-10-27",
       "abstract": "",
       "link": "https://doi.org/10.1007/s40831-026-01728-0",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Hybrid-charge interlayer boosts acid-resistant NF membranes for lithium battery recycling",
-      "authors": [
-        "Pengfei Li",
-        "Mingzheng Bao",
-        "Liming Wang",
-        "Zhencan Hou"
-      ],
-      "venue": "Journal of Membrane Science",
-      "date": "2026-10-27",
-      "abstract": "",
-      "link": "https://doi.org/10.1016/j.memsci.2026.126341",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "Ultrasound-assisted acetic acid leaching of rare earth elements from spent NdFeB permanent magnets: process optimization and kinetic analysis",
-      "authors": [
-        "Debosmita Sharmmah",
-        "Navya Sahithi Pelimelli",
-        "Unnikrishnan Jayakrishnan",
-        "Mouna Hanabe Muddanna"
-      ],
-      "venue": "RSC Advances",
-      "date": "2026-10-07",
-      "abstract": "Spent NdFeB permanent magnets (SPM) represent an important secondary resource of rare earth elements (REEs), yet the simultaneous recovery of praseodymium (Pr) and dysprosium (Dy) using environmentally benign lixiviants remains underexplored. An ultrasound-assisted acetic acid leaching (UAL) process was developed for…",
-      "link": "https://doi.org/10.1039/d6ra06427b",
-      "source": "OpenAlex"
-    },
-    {
-      "title": "ENVIRONMENTAL AND ECONOMIC BENEFITS OF LITHIUM-ION BATTERY RECYCLING IN NIGERIA",
-      "authors": [
-        "L. A. Animashaun",
-        "Adekunle Adetayo Yekinni",
-        "Olumide Francis Odeyinka",
-        "Matthew Iwada Ekum"
-      ],
-      "venue": "Uniosun Journal of Engineering and Environmental Sciences",
-      "date": "2026-09-30",
-      "abstract": "Global mobile phone use has risen sharply, with Nigeria among leading users. Indiscriminate battery disposal harms the environment and wastes valuable metals. This study investigated the benefits of lithium battery recycling in Nigeria. The study utilizes rechargeable battery data from the Nigerian Communications…",
-      "link": "https://doi.org/10.64980/ujees.v8i2.023",
       "source": "OpenAlex"
     }
   ]

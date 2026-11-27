@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-26T17:29:48.296Z",
+  "generatedAt": "2026-11-27T17:11:20.035Z",
   "shows": [
     {
       "name": "Café da Manhã",
       "showUrl": "https://open.spotify.com/show/6WRTzGhq3uFxMrxHrHh1lo",
       "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8affeea777c80999404102c3be",
       "latestEpisode": {
-        "title": "Por que a Amazônia está queimando?",
-        "date": "2026-11-26",
-        "url": "https://open.spotify.com/episode/6pDwgjYGjes1lHEiiGario",
+        "title": "Trabuco na Fazenda de Lula 4",
+        "date": "2026-11-27",
+        "url": "https://open.spotify.com/episode/27Y0A1ssaXvjqpiV9CaUPz",
         "isNew": true
       }
     },
@@ -48,7 +48,7 @@
     {
       "name": "Stereo Chemistry",
       "showUrl": "https://open.spotify.com/show/7LuXGgxffat3bQZ5uEHL3i",
-      "coverArt": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
+      "coverArt": "https://image-cdn-fa.spotifycdn.com/image/ab6765630000ba8a955863cfcb8371ef11f4142a",
       "latestEpisode": {
         "title": "Uncovered: Plastics Pyrolysis Under Fire",
         "date": "2026-11-05",

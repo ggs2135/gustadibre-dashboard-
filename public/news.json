@@ -1,47 +1,77 @@
 {
-  "generatedAt": "2026-11-26T17:29:47.505Z",
+  "generatedAt": "2026-11-27T17:11:18.902Z",
   "items": [
     {
-      "headline": "Normet expands rock breaking reach with TRS acquisition",
-      "summary": "Normet has acquired Total Rockbreaking Solutions (TRS), an Australian mining equipment and engineering business, for an undisclosed amount. The company says the […] The post Normet expands rock breaking reach with TRS…",
-      "category": "supply",
-      "minerals": [],
-      "source": "Canadian Mining Journal",
-      "date": "2026-11-26",
-      "link": "https://www.canadianminingjournal.com/news/normet-expands-rock-breaking-reach-with-trs-acquisition/"
-    },
-    {
-      "headline": "Orvana faces bond deadline as Bolivia plant ramps up",
-      "summary": "Orvana Minerals (TSX: ORV; US-OTC: ORVMF) faces a bondholders’ meeting Monday after its Bolivian unit breached financial conditions on about $25 million (C$35.5 million) in... The post Orvana faces bond deadline as…",
+      "headline": "EIB backs African minerals with $327M facility",
+      "summary": "The European Investment Bank (EIB) and South Africa’s Industrial Development Corporation (IDC) agreed to jointly provide up to €300 million (US$327 million) to advance African... The post EIB backs African minerals…",
       "category": "supply",
       "minerals": [],
       "source": "The Northern Miner",
-      "date": "2026-11-26",
-      "link": "https://www.northernminer.com/news/orvana-faces-bond-deadline-as-bolivia-plant-ramps-up/1003898307/"
+      "date": "2026-11-27",
+      "link": "https://www.northernminer.com/news/eib-backs-african-minerals-with-327m-facility/1003898362/"
     },
     {
-      "headline": "Refined Energy given green light for Golden Goose survey",
-      "summary": "Refined Energy (CSE: RUU) has received provincial approval for a high-resolution drone-based magnetic and LiDAR survey at its Golden Goose gold-antimony property […] The post Refined Energy given green light for Golden…",
-      "category": "supply",
-      "minerals": [],
-      "source": "Canadian Mining Journal",
-      "date": "2026-11-26",
-      "link": "https://www.canadianminingjournal.com/news/refined-energy-given-green-light-for-golden-goose-survey/"
-    },
-    {
-      "headline": "Op-Ed: Critical minerals face a post-construction test",
-      "summary": "Albemarle’s (NYSE: ALB) decision to idle its remaining operational lithium hydroxide processing train in Western Australia underscores the commercial challenges facing efforts to diversify critical minerals supply…",
+      "headline": "Ero Copper halts Brazil mine after water overflows",
+      "summary": "Ero Copper (TSX, NYSE: ERO) halted mining and processing at its Tucumã operation in Brazil after heavy rains overwhelmed a water collection system and state... The post Ero Copper halts Brazil mine after water…",
       "category": "supply",
       "minerals": [
-        "Lithium"
+        "Copper",
+        "Brazil"
       ],
-      "source": "MINING.com",
-      "date": "2026-11-26",
-      "link": "https://www.mining.com/op-ed-critical-minerals-face-a-post-construction-test/"
+      "source": "The Northern Miner",
+      "date": "2026-11-27",
+      "link": "https://www.northernminer.com/news/ero-copper-halts-brazil-mine-after-water-overflows/1003898359/"
     },
     {
-      "headline": "Cobalt jumps 33% ahead of Congo export ban",
-      "summary": "Cobalt prices have soared this week after the Democratic Republic of Congo announced its second export ban in less than two years, BMO Capital Markets... The post Cobalt jumps 33% ahead of Congo export ban appeared…",
+      "headline": "Rio Tinto ships first Simandou iron ore cargo to Europe",
+      "summary": "Rio Tinto (NYSE, LSE, ASX: RIO) has shipped the first Europe-bound iron ore cargo from Guinea’s giant Simandou project, expanding its market beyond China. The... The post Rio Tinto ships first Simandou iron ore cargo…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-27",
+      "link": "https://www.northernminer.com/news/rio-tinto-ships-first-simandou-iron-ore-cargo-to-europe/1003898366/"
+    },
+    {
+      "headline": "Nyrstar halts Dutch zinc smelter over energy costs",
+      "summary": "Zinc and lead producer Nyrstar is to halt production at its Budel zinc smelter in the Netherlands on Nov. 30 as rising energy costs make... The post Nyrstar halts Dutch zinc smelter over energy costs appeared first on…",
+      "category": "supply",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-27",
+      "link": "https://www.northernminer.com/news/nyrstar-halts-dutch-zinc-smelter-over-energy-costs/1003898353/"
+    },
+    {
+      "headline": "Cyclic Materials picks Germany for first European plant",
+      "summary": "Canadian rare earth recycler Cyclic Materials has selected a German site for its first European magnet recovery plant as it expands beyond North America. The... The post Cyclic Materials picks Germany for first…",
+      "category": "science",
+      "minerals": [],
+      "source": "The Northern Miner",
+      "date": "2026-11-27",
+      "link": "https://www.northernminer.com/news/cyclic-materials-picks-germany-for-first-european-plant/1003898342/"
+    },
+    {
+      "headline": "Gold, Silver Rally as Market Sentiment Improves",
+      "summary": "Gold and silver prices rose sharply, likely supported by improving market sentiment as Asian equities and U.S. stock futures advanced.",
+      "category": "economic",
+      "minerals": [
+        "Silver"
+      ],
+      "source": "WSJ — Markets",
+      "date": "2026-11-27",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-fortunes-tied-to-stocks-in-near-term-42ce98be?mod=rss_markets_main"
+    },
+    {
+      "headline": "Op-Ed: US midterms won’t change mining policy. They’ll change who gets subpoenaed",
+      "summary": "The 2026 U.S. midterm elections are unlikely to produce sweeping statutory changes for the mining sector, as the executive branch maintains control over permitting, public land management, trade policy, tariffs, or…",
+      "category": "economic",
+      "minerals": [],
+      "source": "MINING.com",
+      "date": "2026-11-26",
+      "link": "https://www.mining.com/op-ed-us-midterms-wont-change-mining-policy-theyll-change-who-gets-subpoenaed/"
+    },
+    {
+      "headline": "Cobalt price jumps 33% ahead of Congo export ban",
+      "summary": "Cobalt prices have soared this week after the Democratic Republic of Congo announced its second export ban in less than two years, BMO Capital Markets... The post Cobalt price jumps 33% ahead of Congo export ban…",
       "category": "politics",
       "minerals": [
         "Cobalt"
@@ -51,6 +81,17 @@
       "link": "https://www.northernminer.com/news/cobalt-jumps-33-ahead-of-congo-export-ban/1003898316/"
     },
     {
+      "headline": "Cobalt jumps 33% ahead of Congo export ban",
+      "summary": "Cobalt prices have soared this week after the Democratic Republic of Congo announced its second export ban in less than two years, […] The post Cobalt jumps 33% ahead of Congo export ban appeared first on Canadian…",
+      "category": "politics",
+      "minerals": [
+        "Cobalt"
+      ],
+      "source": "Canadian Mining Journal",
+      "date": "2026-11-26",
+      "link": "https://www.canadianminingjournal.com/news/cobalt-jumps-33-ahead-of-congo-export-ban/"
+    },
+    {
       "headline": "Cyclic Materials picks Germany for first European plant",
       "summary": "The Canadian recycler aims to recover critical minerals from discarded electronics as the West seeks to curb reliance on China. The post Cyclic Materials picks Germany for first European plant appeared first on…",
       "category": "science",
@@ -58,35 +99,6 @@
       "source": "Canadian Mining Journal",
       "date": "2026-11-26",
       "link": "https://www.canadianminingjournal.com/news/cyclic-materials-picks-germany-for-first-european-plant/"
-    },
-    {
-      "headline": "Cyclic Materials picks Germany for first European plant",
-      "summary": "Rare earth recycler Cyclic Materials has selected a site in Germany for its first European magnet recovery facility, marking a milestone in its international expansion. The privately held company signed a land…",
-      "category": "science",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-11-26",
-      "link": "https://www.mining.com/cyclic-materials-picks-germany-for-first-european-plant/"
-    },
-    {
-      "headline": "US military pause clouds Ecuador’s illegal mining fight",
-      "summary": "Ecuador’s Interior Minister John Reimberg defended the country’s security partnership with the United States after reports that the Trump administration had suspended joint military operations, raising uncertainty over…",
-      "category": "politics",
-      "minerals": [],
-      "source": "MINING.com",
-      "date": "2026-11-25",
-      "link": "https://www.mining.com/us-military-pause-clouds-ecuadors-illegal-mining-fight/"
-    },
-    {
-      "headline": "Copper rout threatens Chile’s budget recovery hopes",
-      "summary": "Chile’s copper price slump is threatening President José Antonio Kast’s efforts to rein in the country’s fiscal deficit as rising fuel subsidies and weaker-than-expected economic growth strain government finances.…",
-      "category": "economic",
-      "minerals": [
-        "Copper"
-      ],
-      "source": "MINING.com",
-      "date": "2026-11-23",
-      "link": "https://www.mining.com/copper-rout-threatens-chiles-budget-recovery-hopes/"
     }
   ]
 }
